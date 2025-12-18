@@ -1,0 +1,5 @@
+sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
+"""122789db14d04b78b14c224259ab48f0489e98aa5255fd5bd6dff5c0be241b2f"""," ""win.cobalt_strike"""," ""Agentemis","cobeacon""",2025-12-18 10:25:06,CobaltStrike," """""
+"""378afc8d85ca9a0e482c422fc63c11bbdf07f20a8f0d2a93bcf13baabb021d48"""," ""win.cobalt_strike"""," ""Agentemis","cobeacon""",2025-12-18 10:25:06,CobaltStrike," """""
+"""7c66cbdaa10b3a0a0d7d200d2336d08fd18ec0b114e665bfb18f673b9469bdf8"""," ""win.cobalt_strike"""," ""Agentemis","cobeacon""",2025-12-18 10:25:05,CobaltStrike," """""
+"""aa906c2070071ecc2c906328ed0de890e5c955fef901ded3f9d314b9a9489bbf"""," ""win.lumma"""," ""LummaC2 Stealer"""," ""50""",2025-12-17 07:46:15," """""," ""j3rich0123"""
