@@ -1,4 +1,8 @@
 sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
+"""ea449662e7a8fa0777e341ea0e1b6b53b40a5bf5945a318aca9eca23c5421679"""," ""unknown_stealer"""," ""None"""," ""100""",2025-12-19 16:37:29," """""," ""0"""
+"""9bddae1f50fbeeba8541ff1c724ba64a249f4afb71400cd31ccffa8540086348"""," ""win.cybergate"""," ""Rebhip"""," ""50""",2025-12-19 13:22:26," ""2025-12-19 11:20:20"""," ""j3rich0123"""
+"""ee9912616b28d17b6a9974c167b05c293b589c286c9039caa9a1f6e5ca94d970"""," ""win.salatstealer"""," ""None"""," ""50""",2025-12-19 13:22:22," """""," ""j3rich0123"""
+"""0e1ab2890eef2d63ca248b23f71f63b0bb2654799a9147843f9a7fa197fe0818"""," ""elf.mirai"""," ""Katana"""," ""50""",2025-12-19 07:05:37," """""," ""j3rich0123"""
 """0e1963c1335c984562fb216e0fb516346eee771854f9b433c16fee4ff6e64e76"""," ""win.vidar"""," ""None"""," ""95""",2025-12-19 03:43:42," """""," ""Grim"""
 """a2a433d2a7bffe6f739ceda79931cc6fb1e8913a136b6f3e0610ad5c533e8d81"""," ""win.stealc"""," ""None"""," ""95""",2025-12-19 03:43:41," """""," ""Grim"""
 """2162988fd072a60aa21425a176fc865d989af773fa5c35b7a1fcada298b84ba1"""," ""win.asyncrat"""," ""None"""," ""95""",2025-12-19 03:43:40," """""," ""Grim"""
@@ -53,7 +57,6 @@ sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
 """4a65c27c890a97e68fbc5dd25b4d8828f834f60f307acb2a4979df3223dcba4b"""," ""win.njrat"""," ""Bladabindi"," """"",2025-12-19 03:42:47," ""NjRAT"""," ""0"""
 """2e2535caf6e0158b160eb23d74ee67d827fb8764c1bf2c6d299e08cb67750f59"""," ""win.owlproxy"""," ""None"""," ""95""",2025-12-19 03:42:46," """""," ""Grim"""
 """03224277f831034a084fcbcc5def473d113edef62842e5337db2408b6281d501"""," ""win.stealc"""," ""None"""," ""95""",2025-12-19 03:42:45," """""," ""Grim"""
-"""378afc8d85ca9a0e482c422fc63c11bbdf07f20a8f0d2a93bcf13baabb021d48"""," ""win.cobalt_strike"""," ""Agentemis","cobeacon""",2025-12-18 10:25:06,CobaltStrike," """""
 """122789db14d04b78b14c224259ab48f0489e98aa5255fd5bd6dff5c0be241b2f"""," ""win.cobalt_strike"""," ""Agentemis","cobeacon""",2025-12-18 10:25:06,CobaltStrike," """""
+"""378afc8d85ca9a0e482c422fc63c11bbdf07f20a8f0d2a93bcf13baabb021d48"""," ""win.cobalt_strike"""," ""Agentemis","cobeacon""",2025-12-18 10:25:06,CobaltStrike," """""
 """7c66cbdaa10b3a0a0d7d200d2336d08fd18ec0b114e665bfb18f673b9469bdf8"""," ""win.cobalt_strike"""," ""Agentemis","cobeacon""",2025-12-18 10:25:05,CobaltStrike," """""
-"""aa906c2070071ecc2c906328ed0de890e5c955fef901ded3f9d314b9a9489bbf"""," ""win.lumma"""," ""LummaC2 Stealer"""," ""50""",2025-12-17 07:46:15," """""," ""j3rich0123"""
