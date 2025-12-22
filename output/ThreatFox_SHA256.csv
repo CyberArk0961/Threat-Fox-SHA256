@@ -1,5 +1,1 @@
 sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
-"""ea449662e7a8fa0777e341ea0e1b6b53b40a5bf5945a318aca9eca23c5421679"""," ""unknown_stealer"""," ""None"""," ""100""",2025-12-19 16:37:29," """""," ""0"""
-"""9bddae1f50fbeeba8541ff1c724ba64a249f4afb71400cd31ccffa8540086348"""," ""win.cybergate"""," ""Rebhip"""," ""50""",2025-12-19 13:22:26," ""2025-12-19 11:20:20"""," ""j3rich0123"""
-"""ee9912616b28d17b6a9974c167b05c293b589c286c9039caa9a1f6e5ca94d970"""," ""win.salatstealer"""," ""None"""," ""50""",2025-12-19 13:22:22," """""," ""j3rich0123"""
-"""0e1ab2890eef2d63ca248b23f71f63b0bb2654799a9147843f9a7fa197fe0818"""," ""elf.mirai"""," ""Katana"""," ""50""",2025-12-19 07:05:37," """""," ""j3rich0123"""
