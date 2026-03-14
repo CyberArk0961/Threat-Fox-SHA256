@@ -1,1 +1,4 @@
 sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
+"""b73ce45f837e67b2f81565c63c8601ec0b89360101331f89fc6821e2fb60a7f6"""," ""win.xworm"""," ""None"""," ""100""",2026-03-13 06:13:57," """"",XWorm
+"""656991f4dabe0e5d989be730dac86a2cf294b6b538b08d7db7a0a72f0c6c484b"""," ""win.xworm"""," ""None"""," ""100""",2026-03-13 06:13:57," """"",steganography
+"""ecdaa31802b6a8ef94fbc3f16da5068c6f126876af0b9c964a915a556194a1f9"""," ""win.xworm"""," ""None"""," ""100""",2026-03-13 06:13:56," """"",JScript
