@@ -1,21 +1,16 @@
 sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
-"""1e3eb765015fd335cfdcb0ddd020565690b5a2f15a2a62406d750bcb21b6d77b"""," ""elf.kaiji"""," ""None"""," ""75""",2026-03-17 06:15:12," """"",elf
+"""17661A7D0C3DECA24B2EF18F48D61326FADFBF0069D045B5D51F294526280C53"""," ""unknown"""," ""None"""," ""100""",2026-03-18 18:41:11," """"","payload"""
+"""A0C4488B50FDD493A8652F2B5A89B7AFAF0F7EA09021719D257AEEB0ED53E1E2"""," ""unknown"""," ""None"""," ""100""",2026-03-18 18:39:39," """"","payload"""
+"""A53B7CC73481DC89A9876638490CE86C3ECE09D9F6454B037831AAD1326C5F07"""," ""unknown"""," ""None"""," ""100""",2026-03-18 18:38:56," """"","payload"""
+"""1454b64b74eb655db859d3c1e2c2afc13cbb45b6173dee60923357637da17386"""," ""win.socksproxygo"""," ""None"""," ""100""",2026-03-18 17:39:48," """"",Node.js
+"""510fc02f59bb4c5ee01f7d3cc3cf1fdaa668a6f2c6cb5417363f2b10b1a84979"""," ""win.babar"""," ""SNOWBALL"""," ""100""",2026-03-18 14:07:29," """"",dropper
+"""ad04d5efb6ff1bbd2641e887b7d1528d57f330d953fa4ff35103e5020e9b9a80"""," ""win.lumma"""," ""LummaC2 Stealer"""," ""100""",2026-03-18 14:07:29," """"",MSI
+"""e37d156f7247bfdc8d3a5c2ec0fca09da5fe538c446de2ff0908cfcd3a605646"""," ""win.empire_downloader"""," ""None"""," ""100""",2026-03-18 14:07:17," """"",HTA
+"""07d67c83452c82ca25467448deb0bb6a6f68513ecfd23e00aaa1f0d25d888c8b"""," ""win.empire_downloader"""," ""None"""," ""100""",2026-03-18 14:07:16," """"",PowerShell
+"""9190f3209cbb11da41e8d4abedb5736f48965a0c02059077776af399f8320ba6"""," ""win.maskgramstealer"""," ""None"""," ""100""",2026-03-18 06:34:34," """"",Kortex
+"""880100e241966ab2e6e5f27a88b46a5e1364e1c2699de08c4fe3aa5934c37579"""," ""win.maskgramstealer"""," ""None"""," ""100""",2026-03-18 06:34:34," """"",Kortex
+"""064fc244c2aaf7e602cf53b725f0355df44bc4e13719fb5bd959efa09887586a"""," ""js.clearfake"""," ""None"""," ""100""",2026-03-18 06:34:21," """"",Donut
+"""0e7d340331a78e58772a263dbb58535023d93482030f971f162780c3f6ad2382"""," ""js.clearfake"""," ""None"""," ""100""",2026-03-18 06:34:20," """"",MSI
+"""a81867afe0cbbe4636adbf4744705991f6bf3e00b71887b751101f35c3ab4289"""," ""js.clearfake"""," ""None"""," ""100""",2026-03-18 06:34:14," """"",loader
 """b02337d82c44ed46e5b186bd54cde717be39da81a29fb332090d10a5c444ccb6"""," ""win.billgates"""," ""None"""," ""75""",2026-03-17 06:15:12," """"",BillGates
-"""fdba5be3da2467e642bd8710f971e6b266b30ac15f5f413982fd719d7e0bffd9"""," ""js.glassworm"""," ""None"""," ""100""",2026-03-16 20:32:17," """"",native-addon
-"""1ed7ca5301e96e3cef201311b76ba33f842fdb34e91041177865b6e07acb7b4d"""," ""js.glassworm"""," ""None"""," ""100""",2026-03-16 20:32:17," """"",native-addon
-"""ee3e4dd5c1e073b8805f4107ccc7bc7e6e3c209fe13ea04ff3f2173c8dbe74a6"""," ""js.glassworm"""," ""None"""," ""100""",2026-03-16 20:32:17," """"",native-addon
-"""415a4f39dd93c2ad5fd02023489352b974a9a917664240299ca4c35ca9a5a362"""," ""js.glassworm"""," ""None"""," ""100""",2026-03-16 20:32:16," """"",native-addon
-"""43253a888417dfab034f781527e08fb58e929096cb4ef69456c3e13550cb4e9e"""," ""js.glassworm"""," ""None"""," ""100""",2026-03-16 20:32:16," """"",native-addon
-"""4e339dcdc3e3a8bf5271f7f76a9c4f064d3e34cbb51f8770ff4cce910fbcbce5"""," ""js.glassworm"""," ""None"""," ""100""",2026-03-16 20:32:16," """"",native-addon
-"""78ecfb7753499b69fe85c348377c2e522b275c34c1edd172f9b543da18438e4e"""," ""js.glassworm"""," ""None"""," ""100""",2026-03-16 20:32:15," """"",GlassWorm
-"""bce8c1023af5d8839e4e6e164f143472ae996dacfe2c7005a9a6afef2c8b8ff3"""," ""js.glassworm"""," ""None"""," ""100""",2026-03-16 20:32:15," """"",GlassWorm
-"""de81eacd045a88598f16680ce01bf99837b1d8170c7fc38a18747ef10e930776"""," ""js.glassworm"""," ""None"""," ""100""",2026-03-16 20:32:15," """"",native-addon
-"""9c7f93b925c86b911f4488c10709407b2c1f0695ec120cb998a9fd34d22c503a"""," ""js.glassworm"""," ""None"""," ""100""",2026-03-16 20:32:14," """"",GlassWorm
-"""e2a8ecd85261dc9b3d2a0d435721f7b8fe3c3bcd846567afeaca77fcf9de2e9e"""," ""js.glassworm"""," ""None"""," ""100""",2026-03-16 20:32:14," """"",GlassWorm
-"""626958cf09ed98577efd462d0f1b79680bbbc32c1783c9322687369ac6392312"""," ""js.glassworm"""," ""None"""," ""100""",2026-03-16 20:32:13," """"",GlassWorm
-"""d29feab76ea82367dcce29ba6010f5d0e5db71b298a31cd847f5ad6013728f3a"""," ""js.glassworm"""," ""None"""," ""100""",2026-03-16 20:32:13," """"",GlassWorm
-"""baa6d18542a5bbcfa6beec942660cf8e7988e14a727d775a5c90313ec7392a96"""," ""js.glassworm"""," ""None"""," ""100""",2026-03-16 20:32:12," """"",GlassWorm
-"""c2893502d8198f611d6ad864d31232b85316f99bce7501cd1c72232ecbe0ae72"""," ""js.iclickfix"""," ""None"""," ""75""",2026-03-16 20:32:10," ""2026-03-16 22:30:45""",HTA
-"""9ee58eb59e337c06429ff3f0afd0ee6886b0644ddd4531305b269e97ad2b8d42"""," ""win.lumma"""," ""LummaC2 Stealer"""," ""75""",2026-03-16 06:31:08," """"",Electron
-"""dc95f7c7fb98ec30d3cb03963865a11d1b7b696e34f163b8de45f828b62ec829"""," ""win.lumma"""," ""LummaC2 Stealer"""," ""75""",2026-03-16 06:31:07," """"",Electron
-"""d6eaef59c45067b0ec555d56b6cb8d1d5f987279d9bb3a996f85e222159215ac"""," ""win.meterpreter"""," ""None"""," ""100""",2026-03-16 06:30:24," """""," ""0"""
+"""1e3eb765015fd335cfdcb0ddd020565690b5a2f15a2a62406d750bcb21b6d77b"""," ""elf.kaiji"""," ""None"""," ""75""",2026-03-17 06:15:12," """"",elf
