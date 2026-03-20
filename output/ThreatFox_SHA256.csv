@@ -1,16 +1,28 @@
 sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
+"""5bd8f9cbd108abc53fb1c44b8d10239a2a0a9dd20c698fd2fb5dc1938ae7ba96"""," ""win.beast"""," ""blacklockbit"""," ""50""",2026-03-19 12:40:11," """""," ""0"""
+"""812df0efea089b956d08352ff0a7e8789d43862dc3764f4441d4e1c1d1fb7957"""," ""win.beast"""," ""blacklockbit"""," ""50""",2026-03-19 12:40:11," """""," ""0"""
+"""2ce62601491549ab91c9517e0accf3286ed29976f6ec359d31ddc060a8d99eb3"""," ""win.beast"""," ""blacklockbit"""," ""50""",2026-03-19 12:40:11," """""," ""0"""
+"""cf5c45be416d1b18dd67ffa95c6434691f1f9ba9c30754fa6fc9978c1f975750"""," ""win.beast"""," ""blacklockbit"""," ""50""",2026-03-19 12:40:11," """""," ""0"""
+"""cc0680de960f3e1b727b61a42e59f9c282bd8e41fe20146ed191c7f4bf9283a7"""," ""win.beast"""," ""blacklockbit"""," ""50""",2026-03-19 12:40:11," """""," ""0"""
+"""479d0947816467d562bf6d24b295bf50512176a2d3d955b8f4d932aea2378227"""," ""win.beast"""," ""blacklockbit"""," ""50""",2026-03-19 12:40:11," """""," ""0"""
+"""6718cb66521a678274e5672285bf208eac375827d622edcf1fe7eba7e7aa65e0"""," ""win.beast"""," ""blacklockbit"""," ""50""",2026-03-19 12:40:11," """""," ""0"""
+"""64a2609d6707a2ebfe5b40f5227d0f9b85911b752cd04f830d1bbc8aa6bec2c8"""," ""unknown"""," ""None"""," ""50""",2026-03-19 09:31:35," """""," ""0"""
+"""6e360fca0b1e3021908f8de271d80620d634600955fefc9fd0af40557cd517d7"""," ""unknown"""," ""None"""," ""50""",2026-03-19 09:31:35," """""," ""0"""
+"""00019221fb0b61b769d4168664f11c1258e4d61659bd3ffecb126eaf92dbfe2f"""," ""unknown"""," ""None"""," ""50""",2026-03-19 09:31:35," """""," ""0"""
+"""23e2a0c25c95eebe1a593b27ac1b81a73b23ddad7617b3b11c69a89c3d49812e"""," ""unknown"""," ""None"""," ""50""",2026-03-19 09:31:35," """""," ""0"""
+"""61e103db36ebb57770443d9249b5024ee0ae4c54d17fe10c1d44e87e2fc5ee99"""," ""unknown"""," ""None"""," ""50""",2026-03-19 09:31:35," """""," ""0"""
+"""eaf98b4b08982bc19385a501e3afc3ad52e711ca48f3fc5f5b63719937cf1a64"""," ""js.ether_rat"""," ""None"""," ""100""",2026-03-19 06:25:27," """"",MSI
+"""7504898b17a9ce05eb9209128bcd0fb67d675a70c8c64f6f624d08b47b2fe3af"""," ""unknown"""," ""None"""," ""50""",2026-03-19 06:25:10," ""2026-03-19 04:07:23"""," ""0"""
 """17661A7D0C3DECA24B2EF18F48D61326FADFBF0069D045B5D51F294526280C53"""," ""unknown"""," ""None"""," ""100""",2026-03-18 18:41:11," """"","payload"""
 """A0C4488B50FDD493A8652F2B5A89B7AFAF0F7EA09021719D257AEEB0ED53E1E2"""," ""unknown"""," ""None"""," ""100""",2026-03-18 18:39:39," """"","payload"""
 """A53B7CC73481DC89A9876638490CE86C3ECE09D9F6454B037831AAD1326C5F07"""," ""unknown"""," ""None"""," ""100""",2026-03-18 18:38:56," """"","payload"""
 """1454b64b74eb655db859d3c1e2c2afc13cbb45b6173dee60923357637da17386"""," ""win.socksproxygo"""," ""None"""," ""100""",2026-03-18 17:39:48," """"",Node.js
-"""510fc02f59bb4c5ee01f7d3cc3cf1fdaa668a6f2c6cb5417363f2b10b1a84979"""," ""win.babar"""," ""SNOWBALL"""," ""100""",2026-03-18 14:07:29," """"",dropper
 """ad04d5efb6ff1bbd2641e887b7d1528d57f330d953fa4ff35103e5020e9b9a80"""," ""win.lumma"""," ""LummaC2 Stealer"""," ""100""",2026-03-18 14:07:29," """"",MSI
+"""510fc02f59bb4c5ee01f7d3cc3cf1fdaa668a6f2c6cb5417363f2b10b1a84979"""," ""win.babar"""," ""SNOWBALL"""," ""100""",2026-03-18 14:07:29," """"",dropper
 """e37d156f7247bfdc8d3a5c2ec0fca09da5fe538c446de2ff0908cfcd3a605646"""," ""win.empire_downloader"""," ""None"""," ""100""",2026-03-18 14:07:17," """"",HTA
 """07d67c83452c82ca25467448deb0bb6a6f68513ecfd23e00aaa1f0d25d888c8b"""," ""win.empire_downloader"""," ""None"""," ""100""",2026-03-18 14:07:16," """"",PowerShell
-"""9190f3209cbb11da41e8d4abedb5736f48965a0c02059077776af399f8320ba6"""," ""win.maskgramstealer"""," ""None"""," ""100""",2026-03-18 06:34:34," """"",Kortex
 """880100e241966ab2e6e5f27a88b46a5e1364e1c2699de08c4fe3aa5934c37579"""," ""win.maskgramstealer"""," ""None"""," ""100""",2026-03-18 06:34:34," """"",Kortex
+"""9190f3209cbb11da41e8d4abedb5736f48965a0c02059077776af399f8320ba6"""," ""win.maskgramstealer"""," ""None"""," ""100""",2026-03-18 06:34:34," """"",Kortex
 """064fc244c2aaf7e602cf53b725f0355df44bc4e13719fb5bd959efa09887586a"""," ""js.clearfake"""," ""None"""," ""100""",2026-03-18 06:34:21," """"",Donut
 """0e7d340331a78e58772a263dbb58535023d93482030f971f162780c3f6ad2382"""," ""js.clearfake"""," ""None"""," ""100""",2026-03-18 06:34:20," """"",MSI
 """a81867afe0cbbe4636adbf4744705991f6bf3e00b71887b751101f35c3ab4289"""," ""js.clearfake"""," ""None"""," ""100""",2026-03-18 06:34:14," """"",loader
-"""b02337d82c44ed46e5b186bd54cde717be39da81a29fb332090d10a5c444ccb6"""," ""win.billgates"""," ""None"""," ""75""",2026-03-17 06:15:12," """"",BillGates
-"""1e3eb765015fd335cfdcb0ddd020565690b5a2f15a2a62406d750bcb21b6d77b"""," ""elf.kaiji"""," ""None"""," ""75""",2026-03-17 06:15:12," """"",elf
