@@ -1,4 +1,6 @@
 sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
+"""55db39b500d29cd000291a1917d8b62479c4594f6e08bfae29dd113de71b551e"""," ""win.cobalt_strike"""," ""Agentemis","cobeacon""",2026-03-21 08:34:09,CobaltStrike," ""False"""
+"""41f60f2e0085f50be5d165de73bc90affb6f89770d1127a1bb6e19e6fafaf7c6"""," ""win.cobalt_strike"""," ""Agentemis","cobeacon""",2026-03-21 08:34:04,CobaltStrike," ""False"""
 """d37879fef9f49e37efc6f28aa32df10faf2b0bc147d7914a313d7886408b524b"""," ""elf.voidlink"""," ""None"""," ""100""",2026-03-20 15:22:50," """""," ""0"""
 """0ec9d6f3852f591041f58ff090ae766249e27dfb09fabdebe55008ca913879ad"""," ""elf.voidlink"""," ""None"""," ""100""",2026-03-20 15:22:49," """""," ""0"""
 """11ad850cc312ba7255ae3e906f4ccdfca1cb1f8109d7a20f660ec3c8c5ae1d72"""," ""elf.voidlink"""," ""None"""," ""100""",2026-03-20 15:22:49," """""," ""0"""
@@ -155,17 +157,3 @@ sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
 """dfdb110e94a3570a7afd09a662c682b4d4117548450912c1fdce8e4de3e71d63"""," ""py.lunagrabber"""," ""None"""," ""100""",2026-03-20 10:04:51," """"",Java
 """79f994387f765567940cd3a23504170bbf78c7e3bbb50f79dc590a70090ab8d3"""," ""win.stealc"""," ""None"""," ""100""",2026-03-20 08:57:17," """"",stealer
 """8b880a1c7e48ea0f5535268b7afd709f4378d06c964313301357944a744cf52c"""," ""win.stealc"""," ""None"""," ""100""",2026-03-20 08:57:16," """"",stealer
-"""6718cb66521a678274e5672285bf208eac375827d622edcf1fe7eba7e7aa65e0"""," ""win.beast"""," ""blacklockbit"""," ""50""",2026-03-19 12:40:11," """""," ""0"""
-"""479d0947816467d562bf6d24b295bf50512176a2d3d955b8f4d932aea2378227"""," ""win.beast"""," ""blacklockbit"""," ""50""",2026-03-19 12:40:11," """""," ""0"""
-"""cc0680de960f3e1b727b61a42e59f9c282bd8e41fe20146ed191c7f4bf9283a7"""," ""win.beast"""," ""blacklockbit"""," ""50""",2026-03-19 12:40:11," """""," ""0"""
-"""cf5c45be416d1b18dd67ffa95c6434691f1f9ba9c30754fa6fc9978c1f975750"""," ""win.beast"""," ""blacklockbit"""," ""50""",2026-03-19 12:40:11," """""," ""0"""
-"""2ce62601491549ab91c9517e0accf3286ed29976f6ec359d31ddc060a8d99eb3"""," ""win.beast"""," ""blacklockbit"""," ""50""",2026-03-19 12:40:11," """""," ""0"""
-"""812df0efea089b956d08352ff0a7e8789d43862dc3764f4441d4e1c1d1fb7957"""," ""win.beast"""," ""blacklockbit"""," ""50""",2026-03-19 12:40:11," """""," ""0"""
-"""5bd8f9cbd108abc53fb1c44b8d10239a2a0a9dd20c698fd2fb5dc1938ae7ba96"""," ""win.beast"""," ""blacklockbit"""," ""50""",2026-03-19 12:40:11," """""," ""0"""
-"""61e103db36ebb57770443d9249b5024ee0ae4c54d17fe10c1d44e87e2fc5ee99"""," ""unknown"""," ""None"""," ""50""",2026-03-19 09:31:35," """""," ""0"""
-"""23e2a0c25c95eebe1a593b27ac1b81a73b23ddad7617b3b11c69a89c3d49812e"""," ""unknown"""," ""None"""," ""50""",2026-03-19 09:31:35," """""," ""0"""
-"""00019221fb0b61b769d4168664f11c1258e4d61659bd3ffecb126eaf92dbfe2f"""," ""unknown"""," ""None"""," ""50""",2026-03-19 09:31:35," """""," ""0"""
-"""6e360fca0b1e3021908f8de271d80620d634600955fefc9fd0af40557cd517d7"""," ""unknown"""," ""None"""," ""50""",2026-03-19 09:31:35," """""," ""0"""
-"""64a2609d6707a2ebfe5b40f5227d0f9b85911b752cd04f830d1bbc8aa6bec2c8"""," ""unknown"""," ""None"""," ""50""",2026-03-19 09:31:35," """""," ""0"""
-"""eaf98b4b08982bc19385a501e3afc3ad52e711ca48f3fc5f5b63719937cf1a64"""," ""js.ether_rat"""," ""None"""," ""100""",2026-03-19 06:25:27," """"",MSI
-"""7504898b17a9ce05eb9209128bcd0fb67d675a70c8c64f6f624d08b47b2fe3af"""," ""unknown"""," ""None"""," ""50""",2026-03-19 06:25:10," ""2026-03-19 04:07:23"""," ""0"""
