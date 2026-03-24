@@ -1,3 +1,3 @@
 sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
-"""55db39b500d29cd000291a1917d8b62479c4594f6e08bfae29dd113de71b551e"""," ""win.cobalt_strike"""," ""Agentemis","cobeacon""",2026-03-21 08:34:09,CobaltStrike," ""False"""
-"""41f60f2e0085f50be5d165de73bc90affb6f89770d1127a1bb6e19e6fafaf7c6"""," ""win.cobalt_strike"""," ""Agentemis","cobeacon""",2026-03-21 08:34:04,CobaltStrike," ""False"""
+"""b3c1d5fc273d19556b09f935b9b09b782b113b98a8a010ebcbb5de5bfce77e67"""," ""unknown"""," ""None"""," ""100""",2026-03-23 15:32:00," """""," ""0"""
+"""7ee5e113340daa420bc7e34cdfa52dbdb6569e65111110655a257f56297a0e6e"""," ""unknown"""," ""None"""," ""50""",2026-03-23 08:46:43," """""," ""0"""
