@@ -1,3 +1,6 @@
 sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
+"""889e73e46d757542ddcd03300909b596cba48c149f97e28adeef916ee917dc16"""," ""win.rugmi"""," ""Penguish"""," ""100""",2026-03-24 19:58:07," """"",DLL-sideloading
+"""ca63d44dddc1d7bf2c118bca8b874b3fc06d7e71ba7eba2af6b34e072b9af128"""," ""win.rugmi"""," ""Penguish"""," ""100""",2026-03-24 19:58:07," """"","PowerShell"""
+"""a5ed5fd044e5a8443f3af3a5e33226920d5b4d72e832a5ed83a51b7e9efa8e0d"""," ""win.rugmi"""," ""Penguish"""," ""100""",2026-03-24 19:58:07," """"",DLL-sideloading
 """b3c1d5fc273d19556b09f935b9b09b782b113b98a8a010ebcbb5de5bfce77e67"""," ""unknown"""," ""None"""," ""100""",2026-03-23 15:32:00," """""," ""0"""
 """7ee5e113340daa420bc7e34cdfa52dbdb6569e65111110655a257f56297a0e6e"""," ""unknown"""," ""None"""," ""50""",2026-03-23 08:46:43," """""," ""0"""
