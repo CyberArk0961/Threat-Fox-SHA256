@@ -1,6 +1,9 @@
 sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
+"""e53736526fb8de60e18bea982a3656c654720edb7edeab2a48045c8117f3369d"""," ""unknown_loader"""," ""None"""," ""75""",2026-03-25 15:05:28," """"",claude.hta
+"""f7966c111c9efd3c51dc32a4c173b244de78ea4bdf7bc9ff6babc9ec6363c512"""," ""unknown_loader"""," ""None"""," ""75""",2026-03-25 15:05:28," """"",manus
+"""e9fb5839785a9a7edeac01b133c1e6870565caa21de23d3cf9353ffb7b9244c6"""," ""unknown_loader"""," ""None"""," ""75""",2026-03-25 15:05:27," """"",PowerShell
+"""f360d1285dafeecee7017cf50a531623e2526145331614fc010d2f361e34a83a"""," ""win.vidar"""," ""None"""," ""100""",2026-03-25 06:41:25," """"",loader
+"""3458048c42c12cafbf778d3bec34a692b151862af456012b7e01cc50ec1a2097"""," ""win.vidar"""," ""None"""," ""100""",2026-03-25 06:41:25," """"",stealer
 """889e73e46d757542ddcd03300909b596cba48c149f97e28adeef916ee917dc16"""," ""win.rugmi"""," ""Penguish"""," ""100""",2026-03-24 19:58:07," """"",DLL-sideloading
 """ca63d44dddc1d7bf2c118bca8b874b3fc06d7e71ba7eba2af6b34e072b9af128"""," ""win.rugmi"""," ""Penguish"""," ""100""",2026-03-24 19:58:07," """"","PowerShell"""
 """a5ed5fd044e5a8443f3af3a5e33226920d5b4d72e832a5ed83a51b7e9efa8e0d"""," ""win.rugmi"""," ""Penguish"""," ""100""",2026-03-24 19:58:07," """"",DLL-sideloading
-"""b3c1d5fc273d19556b09f935b9b09b782b113b98a8a010ebcbb5de5bfce77e67"""," ""unknown"""," ""None"""," ""100""",2026-03-23 15:32:00," """""," ""0"""
-"""7ee5e113340daa420bc7e34cdfa52dbdb6569e65111110655a257f56297a0e6e"""," ""unknown"""," ""None"""," ""50""",2026-03-23 08:46:43," """""," ""0"""
