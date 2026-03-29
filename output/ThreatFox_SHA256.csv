@@ -1,4 +1,11 @@
 sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
+"""9fcd3a345bcbf24a6d33dd951dbcfe0ed52abf57c8cad0d08fac6bc3306437fa"""," ""py.pxa_stealer"""," ""PXAStealer"," """"",2026-03-28 06:44:58," ""PXA Stealer"""," ""NoodlophileVN"
+"""d159edb63f4a8c38fe3f42dbada632112ee2fd411c46934bacadf006d9e62e10"""," ""py.pxa_stealer"""," ""PXAStealer"," """"",2026-03-28 06:44:58," ""PXA Stealer"""," ""NoodlophileVN"
+"""0033c82b54b38330c2e9f0a0d907eddb992fa8f78655162d81b922dfda426dbd"""," ""unknown_loader"""," ""None"""," ""100""",2026-03-28 06:44:45," """"",InnoSetup
+"""00a15625e01f1f85c3899af7fb4350fabce5b532365b02f35464761516ad9a35"""," ""unknown_loader"""," ""None"""," ""100""",2026-03-28 06:44:44," """"",InnoMod
+"""560c5440e8bb4860aab2b95ef16668aa968a88e60c148b23be7aa472ec26cddc"""," ""unknown_loader"""," ""None"""," ""100""",2026-03-28 06:44:44," """"",InnoSetup
+"""f0aa4631224de2d6fbdca63c40afb1eb741a4e731bbf0569762eaece68cab750"""," ""win.pure_rat"""," ""PureHVNC"," """"",2026-03-28 06:44:43," ""PureRAT"""," ""KoiVM"
+"""e238e050add1afed134bdcd32c45c6982d931d172115ec824595808026d1b8ca"""," ""win.pure_rat"""," ""PureHVNC"," """"",2026-03-28 06:44:42," ""PureRAT"""," ""HVNC"
 """5eb0919a29cb127fbd394bd30efcb11d8330afb8ef485da1e7d213795f7833c4"""," ""unknown_rat"""," ""None"""," ""75""",2026-03-27 17:44:20," """"",FRP
 """4ac0ba433a543bb556cdd4f0411951326570ddd28360bd6e8f448db4b5116955"""," ""unknown_rat"""," ""None"""," ""75""",2026-03-27 17:44:20," """"",FRP
 """0874ac4128f38465b8f844e4ca3a81796f727770113c2c446b6fc7e5c1104527"""," ""unknown_rat"""," ""None"""," ""75""",2026-03-27 17:44:19," """"",FRP
@@ -8,10 +15,3 @@ sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
 """918b846b21167686b9d121e182c9dfec18e66b53fd1c33af1cdd1d0907e5fb12"""," ""osx.amos"""," ""Atomic macOS Stealer"""," ""50""",2026-03-27 07:06:52," ""2026-03-26 20:31:46""",InfinitiStealer
 """e64d33a27a6ccfe5138f2865b41dfcabc362bcc5cab96f13f95a005db3bb1039"""," ""unknown_stealer"""," ""None"""," ""100""",2026-03-27 07:06:52," """"",MaaS
 """028f1e2ce50f9911d30905bdfb4b706fc520f32d7a753b83022de1812944b976"""," ""unknown_stealer"""," ""None"""," ""100""",2026-03-27 07:06:48," """"",MaaS
-"""8f0cc4291878220e680bf0b6891f70ede20f49e5d5164d1db0765da71c658ae3"""," ""win.venom"""," ""None"""," ""100""",2026-03-26 16:31:51," """"",dotNET
-"""da55783ca9c4098e5ea47e33507bd38ae9851b6617b574d1fa294a6205cb143e"""," ""win.cobalt_strike"""," ""Agentemis","cobeacon""",2026-03-26 14:59:35,CobaltStrike," ""False"""
-"""a78b29252a7954b588392b952b970da7ddb760cec7320ac4e8a50f79a8cf8f9b"""," ""win.cobalt_strike"""," ""Agentemis","cobeacon""",2026-03-26 14:59:34,CobaltStrike," ""False"""
-"""978a54a42629e0d19ef41bd5db7e560d618e1fdcc8e77c14694642840dfad8a2"""," ""win.cobalt_strike"""," ""Agentemis","cobeacon""",2026-03-26 14:59:32,CobaltStrike," ""False"""
-"""84802194859b530dcb8e374b7970912f6a27ff5e97f2bec509e59b2dffcc6146"""," ""js.node_rat"""," ""None"""," ""100""",2026-03-26 14:58:56," """""," ""0"""
-"""b2204e8635b84670d8f18932db005dece6c5846e5cb012cf40888727bbe678c8"""," ""win.cobalt_strike"""," ""Agentemis","cobeacon""",2026-03-26 06:49:42,CobaltStrike," ""False"""
-"""737a630bff6234403fe00d74991338a2f730632766cd29477f0d4ad763c22efd"""," ""win.cobalt_strike"""," ""Agentemis","cobeacon""",2026-03-26 06:49:42,CobaltStrike," ""False"""
