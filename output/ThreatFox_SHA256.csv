@@ -1,4 +1,6 @@
 sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
+"""6de95d766775a84a6683ffb116160078ca7c5a75a552cd79b748b652d151c222"""," ""win.dcrat"""," ""DarkCrystal RAT"""," ""100""",2026-03-30 18:39:09," """"",confuserex
+"""0000000000000000000000000000000000000000000000000000000000000000"""," ""win.dcrat"""," ""DarkCrystal RAT"""," ""100""",2026-03-30 18:39:08," """""," ""0"""
 """b7ef4985662625c45955db295d949e04fd0a9fd5c8ce0c6a3bcb68e4a06c16e4"""," ""unknown"""," ""None"""," ""90""",2026-03-29 14:01:17," """"",exploit
 """fb3e6d6bb2781c8a737c38f4d31beed93a89cc2ff9b8c00e7682f04c72fd9a60"""," ""unknown_stealer"""," ""None"""," ""100""",2026-03-29 14:00:50," """"",LemonStealer
 """ab78edbfdaebc11a34625d71709113cbb3f8e10d4699bc8dbddb966ea2efff03"""," ""unknown_stealer"""," ""None"""," ""100""",2026-03-29 14:00:50," """"",LemonStealer
@@ -7,10 +9,3 @@ sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
 """563ae5a1263eaa065b1a193870343637cc7650ccf0d8f6ff75f47906f3e85c0f"""," ""unknown_stealer"""," ""None"""," ""100""",2026-03-29 14:00:48," """"",LemonStealer
 """6d140e07afb62c3fe9e60763993f1f0edf3e0c5421e693885b79a5fe5d91f14f"""," ""unknown_stealer"""," ""None"""," ""100""",2026-03-29 14:00:47," """"",LemonStealer
 """6e676252d9b29e1e9caa7b24cad834bc53a41c4d55ed466a9fdebc30a74322b3"""," ""unknown_stealer"""," ""None"""," ""100""",2026-03-29 14:00:47," """"",LemonStealer
-"""9fcd3a345bcbf24a6d33dd951dbcfe0ed52abf57c8cad0d08fac6bc3306437fa"""," ""py.pxa_stealer"""," ""PXAStealer"," """"",2026-03-28 06:44:58," ""PXA Stealer"""," ""NoodlophileVN"
-"""d159edb63f4a8c38fe3f42dbada632112ee2fd411c46934bacadf006d9e62e10"""," ""py.pxa_stealer"""," ""PXAStealer"," """"",2026-03-28 06:44:58," ""PXA Stealer"""," ""NoodlophileVN"
-"""0033c82b54b38330c2e9f0a0d907eddb992fa8f78655162d81b922dfda426dbd"""," ""unknown_loader"""," ""None"""," ""100""",2026-03-28 06:44:45," """"",InnoSetup
-"""00a15625e01f1f85c3899af7fb4350fabce5b532365b02f35464761516ad9a35"""," ""unknown_loader"""," ""None"""," ""100""",2026-03-28 06:44:44," """"",InnoMod
-"""560c5440e8bb4860aab2b95ef16668aa968a88e60c148b23be7aa472ec26cddc"""," ""unknown_loader"""," ""None"""," ""100""",2026-03-28 06:44:44," """"",InnoSetup
-"""f0aa4631224de2d6fbdca63c40afb1eb741a4e731bbf0569762eaece68cab750"""," ""win.pure_rat"""," ""PureHVNC"," """"",2026-03-28 06:44:43," ""PureRAT"""," ""KoiVM"
-"""e238e050add1afed134bdcd32c45c6982d931d172115ec824595808026d1b8ca"""," ""win.pure_rat"""," ""PureHVNC"," """"",2026-03-28 06:44:42," ""PureRAT"""," ""HVNC"
