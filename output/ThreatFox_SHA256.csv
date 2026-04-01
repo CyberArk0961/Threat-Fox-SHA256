@@ -1,11 +1,14 @@
 sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
+"""337873c8d609b7be91635bae8875859c7a6b5729ca875f01946d5d681dd70dc3"""," ""win.valley_rat"""," ""Winos"""," ""75""",2026-03-31 05:16:04," """"",DingTalk
+"""4a7ccc02e95280df9f89dabd6f62eb715163a2318409fbb887fecb16bc4e21c3"""," ""win.valley_rat"""," ""Winos"""," ""75""",2026-03-31 05:16:02," """"",DingTalk
+"""434592e3ef8b2b8f549afa71d903d8b4ddb0b7f5849ea1280cfee6d980432b14"""," ""win.valley_rat"""," ""Winos"""," ""75""",2026-03-31 05:16:01," """"",DingTalk
+"""27d8449808d99f3ef1fd3e0d1a66ae4c85f29543bb6bb13a07dba0cc266624eb"""," ""win.valley_rat"""," ""Winos"""," ""75""",2026-03-31 05:16:01," """"",DingTalk
+"""0026574a5ffe7131bdb6e8940bcf50415e3cf2ad01b84f0613c21516162618b5"""," ""win.valley_rat"""," ""Winos"""," ""75""",2026-03-31 05:15:59," """"",DingTalk
+"""a4a8dfb2c339eb26a1b41ce520fa41b9fc4ab96272ee6604dc304720fd892b98"""," ""win.valley_rat"""," ""Winos"""," ""75""",2026-03-31 05:15:58," """"",DingTalk
+"""bcdb291bbab81be66bbdae3c9a717e28c83e0db6e7125cefa4292b560b88db77"""," ""win.valley_rat"""," ""Winos"""," ""75""",2026-03-31 05:15:58," """"",DingTalk
+"""04a11791a61a8522af2817801860e6f93f487036d936f0287d28fa94b5837c53"""," ""unknown_stealer"""," ""None"""," ""90""",2026-03-31 05:15:53," """"",HVNC
+"""0da8d4281946ce2ef6765e68e99b00a37af731e73d8cedbf7486a012d0c7be5c"""," ""win.konni"""," ""None"""," ""100""",2026-03-31 05:15:51," """"","konni"""
+"""cf48286e6a82f62af6637738a0736e4bbc3eaf52620aa4493f49a5f731d251d4"""," ""win.konni"""," ""None"""," ""100""",2026-03-31 05:15:50," """"",konni
+"""a91e743f20f236e1d052c42cc40ae9383f88151974782ec400915df3063dec4c"""," ""win.konni"""," ""None"""," ""100""",2026-03-31 05:15:50," """"",jeet
 """6de95d766775a84a6683ffb116160078ca7c5a75a552cd79b748b652d151c222"""," ""win.dcrat"""," ""DarkCrystal RAT"""," ""100""",2026-03-30 18:39:09," """"",confuserex
 """0000000000000000000000000000000000000000000000000000000000000000"""," ""win.dcrat"""," ""DarkCrystal RAT"""," ""100""",2026-03-30 18:39:08," """""," ""0"""
-"""b7ef4985662625c45955db295d949e04fd0a9fd5c8ce0c6a3bcb68e4a06c16e4"""," ""unknown"""," ""None"""," ""90""",2026-03-29 14:01:17," """"",exploit
-"""fb3e6d6bb2781c8a737c38f4d31beed93a89cc2ff9b8c00e7682f04c72fd9a60"""," ""unknown_stealer"""," ""None"""," ""100""",2026-03-29 14:00:50," """"",LemonStealer
-"""ab78edbfdaebc11a34625d71709113cbb3f8e10d4699bc8dbddb966ea2efff03"""," ""unknown_stealer"""," ""None"""," ""100""",2026-03-29 14:00:50," """"",LemonStealer
-"""371d72144e3862bbb3ce66821e47232c8a08eba166f13cade5bfaad1e1a6ab7d"""," ""unknown_stealer"""," ""None"""," ""100""",2026-03-29 14:00:49," """"",LemonStealer
-"""c22d94a2652a4689a73d845e127157de986b72669aabf1c4fefc0f789646895b"""," ""unknown_stealer"""," ""None"""," ""100""",2026-03-29 14:00:48," """"",LemonStealer
-"""563ae5a1263eaa065b1a193870343637cc7650ccf0d8f6ff75f47906f3e85c0f"""," ""unknown_stealer"""," ""None"""," ""100""",2026-03-29 14:00:48," """"",LemonStealer
-"""6d140e07afb62c3fe9e60763993f1f0edf3e0c5421e693885b79a5fe5d91f14f"""," ""unknown_stealer"""," ""None"""," ""100""",2026-03-29 14:00:47," """"",LemonStealer
-"""6e676252d9b29e1e9caa7b24cad834bc53a41c4d55ed466a9fdebc30a74322b3"""," ""unknown_stealer"""," ""None"""," ""100""",2026-03-29 14:00:47," """"",LemonStealer
