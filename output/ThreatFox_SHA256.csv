@@ -1,14 +1,18 @@
 sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
+"""5577857d4b69217b12f59c8fd58b8e8ce57645ff19097c00693733bca86abb63"""," ""unknown"""," ""None"""," ""100""",2026-04-01 09:17:40," """"","Stealer"""
+"""12a8b0903c176cb6478b4f0bfcf8a621025c37faf83941125c803ccc3e0913e6"""," ""win.adaptix_c2"""," ""None"""," ""100""",2026-04-01 05:01:12," """"",Go
+"""929e28c42c72fc0de845fa3e77a9aed790b74249cf0700026ee89b1db6eabe25"""," ""win.adaptix_c2"""," ""None"""," ""100""",2026-04-01 05:01:11," """"",Go
+"""a4ccfa85bf0faf1caad12a410342ce977418f50a14094d045e2c9e861bd2f934"""," ""win.adaptix_c2"""," ""None"""," ""100""",2026-04-01 05:01:11," """"",Go
+"""abac8cd80711555a39d73e5aeab4919af37de95d057038778b737071dc35bb88"""," ""win.adaptix_c2"""," ""None"""," ""100""",2026-04-01 05:01:10," """"",Go
+"""4b467906789b3abaeeaab4483efc9a8b6b6dda044520fdd07526e71cb160b614"""," ""win.adaptix_c2"""," ""None"""," ""100""",2026-04-01 05:01:09," """"",Go
 """337873c8d609b7be91635bae8875859c7a6b5729ca875f01946d5d681dd70dc3"""," ""win.valley_rat"""," ""Winos"""," ""75""",2026-03-31 05:16:04," """"",DingTalk
 """4a7ccc02e95280df9f89dabd6f62eb715163a2318409fbb887fecb16bc4e21c3"""," ""win.valley_rat"""," ""Winos"""," ""75""",2026-03-31 05:16:02," """"",DingTalk
 """434592e3ef8b2b8f549afa71d903d8b4ddb0b7f5849ea1280cfee6d980432b14"""," ""win.valley_rat"""," ""Winos"""," ""75""",2026-03-31 05:16:01," """"",DingTalk
 """27d8449808d99f3ef1fd3e0d1a66ae4c85f29543bb6bb13a07dba0cc266624eb"""," ""win.valley_rat"""," ""Winos"""," ""75""",2026-03-31 05:16:01," """"",DingTalk
 """0026574a5ffe7131bdb6e8940bcf50415e3cf2ad01b84f0613c21516162618b5"""," ""win.valley_rat"""," ""Winos"""," ""75""",2026-03-31 05:15:59," """"",DingTalk
-"""a4a8dfb2c339eb26a1b41ce520fa41b9fc4ab96272ee6604dc304720fd892b98"""," ""win.valley_rat"""," ""Winos"""," ""75""",2026-03-31 05:15:58," """"",DingTalk
 """bcdb291bbab81be66bbdae3c9a717e28c83e0db6e7125cefa4292b560b88db77"""," ""win.valley_rat"""," ""Winos"""," ""75""",2026-03-31 05:15:58," """"",DingTalk
+"""a4a8dfb2c339eb26a1b41ce520fa41b9fc4ab96272ee6604dc304720fd892b98"""," ""win.valley_rat"""," ""Winos"""," ""75""",2026-03-31 05:15:58," """"",DingTalk
 """04a11791a61a8522af2817801860e6f93f487036d936f0287d28fa94b5837c53"""," ""unknown_stealer"""," ""None"""," ""90""",2026-03-31 05:15:53," """"",HVNC
 """0da8d4281946ce2ef6765e68e99b00a37af731e73d8cedbf7486a012d0c7be5c"""," ""win.konni"""," ""None"""," ""100""",2026-03-31 05:15:51," """"","konni"""
 """cf48286e6a82f62af6637738a0736e4bbc3eaf52620aa4493f49a5f731d251d4"""," ""win.konni"""," ""None"""," ""100""",2026-03-31 05:15:50," """"",konni
 """a91e743f20f236e1d052c42cc40ae9383f88151974782ec400915df3063dec4c"""," ""win.konni"""," ""None"""," ""100""",2026-03-31 05:15:50," """"",jeet
-"""6de95d766775a84a6683ffb116160078ca7c5a75a552cd79b748b652d151c222"""," ""win.dcrat"""," ""DarkCrystal RAT"""," ""100""",2026-03-30 18:39:09," """"",confuserex
-"""0000000000000000000000000000000000000000000000000000000000000000"""," ""win.dcrat"""," ""DarkCrystal RAT"""," ""100""",2026-03-30 18:39:08," """""," ""0"""
