@@ -1,4 +1,9 @@
 sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
+"""e062e0dcb4c27c0f87a81b4e4c954f753a53bab6b1a29f40e27f22d1f7f88359"""," ""win.stealc"""," ""None"""," ""100""",2026-04-03 12:01:53," """"",fileless
+"""671cdd8942f0adb97637d35fc277f007e8c0d901ac98415b1b6a42a54931af6b"""," ""win.stealc"""," ""None"""," ""100""",2026-04-03 12:01:52," """"",fileless
+"""1480dabe89af53f798ac93d4606d37ad8a1e6938dc054460ed4d8548f5e18d70"""," ""win.stealc"""," ""None"""," ""100""",2026-04-03 12:01:51," """"",dropper
+"""3c9be2f3981c57d9ad05be1467be4523bc419f4073f2670b5e7a8ef1f2e47e7a"""," ""win.stealc"""," ""None"""," ""100""",2026-04-03 12:01:51," """"",dropper
+"""81ddacc1d4689616b993f34465cb372e6046c035b45a4831343bd55ed37d48ee"""," ""win.vidar"""," ""None"""," ""100""",2026-04-03 12:01:51," """"",dropper
 """fff1f89c0e5a57690011c03d8bdfd32591511a0bcfe6b089d16a5897d3de60c8"""," ""elf.tsunami"""," ""Muhstik"," ""Tsunami""",2026-04-02 15:27:13,"Amnesia"""," ""None"""
 """c60ad26439ffce79808749b500c35f3a2e71bc3057156c7161964c3f13a24330"""," ""elf.tsunami"""," ""Muhstik"," ""Tsunami""",2026-04-02 15:27:11,"Amnesia"""," ""None"""
 """58401c195fe0a6204b42f5f90995ece5fab74ce7c69c67a24c61a057325af668"""," ""js.contagious_drop"""," ""None"""," ""100""",2026-04-02 06:23:31," """"",npm
@@ -8,9 +13,3 @@ sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
 """92ff08773995ebc8d55ec4b8e1a225d0d1e51efa4ef88b8849d0071230c9645a"""," ""js.contagious_drop"""," ""None"""," ""100""",2026-04-02 06:23:29," """"",npm
 """fcb81618bb15edfdedfb638b4c08a2af9cac9ecfa551af135a8402bf980375cf"""," ""js.contagious_drop"""," ""None"""," ""100""",2026-04-02 06:23:29," """"",npm
 """ed8560c1ac7ceb6983ba995124d5917dc1a00288912387a6389296637d5f815c"""," ""js.contagious_drop"""," ""None"""," ""100""",2026-04-02 06:23:28," """"",npm
-"""5577857d4b69217b12f59c8fd58b8e8ce57645ff19097c00693733bca86abb63"""," ""unknown"""," ""None"""," ""100""",2026-04-01 09:17:40," """"","Stealer"""
-"""12a8b0903c176cb6478b4f0bfcf8a621025c37faf83941125c803ccc3e0913e6"""," ""win.adaptix_c2"""," ""None"""," ""100""",2026-04-01 05:01:12," """"",Go
-"""a4ccfa85bf0faf1caad12a410342ce977418f50a14094d045e2c9e861bd2f934"""," ""win.adaptix_c2"""," ""None"""," ""100""",2026-04-01 05:01:11," """"",Go
-"""929e28c42c72fc0de845fa3e77a9aed790b74249cf0700026ee89b1db6eabe25"""," ""win.adaptix_c2"""," ""None"""," ""100""",2026-04-01 05:01:11," """"",Go
-"""abac8cd80711555a39d73e5aeab4919af37de95d057038778b737071dc35bb88"""," ""win.adaptix_c2"""," ""None"""," ""100""",2026-04-01 05:01:10," """"",Go
-"""4b467906789b3abaeeaab4483efc9a8b6b6dda044520fdd07526e71cb160b614"""," ""win.adaptix_c2"""," ""None"""," ""100""",2026-04-01 05:01:09," """"",Go
