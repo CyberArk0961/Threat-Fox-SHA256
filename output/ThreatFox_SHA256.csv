@@ -5,8 +5,3 @@ sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
 """575cb7f119c0f8a403ec0db3fff8bb7f2a651c5f2501ae51ec7b6241ecdd8a72"""," ""win.unidentified_001"""," ""None"""," ""75""",2026-04-04 07:10:53," """"",proxy
 """42533fbb40fe274c96a31c948ae6e84b6c103f9da6f27c9d1dc5c011f7b719d0"""," ""win.unidentified_001"""," ""None"""," ""75""",2026-04-04 07:10:52," """"",exploit
 """f36542b449e0b164bf0927d48bd934aa0e66bd2fab483f532cf2010f3fc9d02b"""," ""win.unidentified_001"""," ""None"""," ""75""",2026-04-04 07:10:51," """"",cve-2026-21509
-"""e062e0dcb4c27c0f87a81b4e4c954f753a53bab6b1a29f40e27f22d1f7f88359"""," ""win.stealc"""," ""None"""," ""100""",2026-04-03 12:01:53," """"",fileless
-"""671cdd8942f0adb97637d35fc277f007e8c0d901ac98415b1b6a42a54931af6b"""," ""win.stealc"""," ""None"""," ""100""",2026-04-03 12:01:52," """"",fileless
-"""1480dabe89af53f798ac93d4606d37ad8a1e6938dc054460ed4d8548f5e18d70"""," ""win.stealc"""," ""None"""," ""100""",2026-04-03 12:01:51," """"",dropper
-"""3c9be2f3981c57d9ad05be1467be4523bc419f4073f2670b5e7a8ef1f2e47e7a"""," ""win.stealc"""," ""None"""," ""100""",2026-04-03 12:01:51," """"",dropper
-"""81ddacc1d4689616b993f34465cb372e6046c035b45a4831343bd55ed37d48ee"""," ""win.vidar"""," ""None"""," ""100""",2026-04-03 12:01:51," """"",dropper
