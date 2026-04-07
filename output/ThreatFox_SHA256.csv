@@ -1,7 +1,7 @@
 sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
-"""048e374baac36d8cf68dd32e48313ef8eb517d647548b1bf5f26d2d0e2e3cdc7"""," ""elf.redtail"""," ""None"""," ""100""",2026-04-04 07:10:58," """""," ""0"""
-"""3625d068896953595e75df328676a08bc071977ac1ff95d44b745bbcb7018c6f"""," ""elf.redtail"""," ""None"""," ""100""",2026-04-04 07:10:57," """""," ""0"""
-"""9b00ce3b72371c12f93d50eba473241e0a5c8cc1050e3d9ab9fe4ec21e2f5841"""," ""win.unidentified_001"""," ""None"""," ""75""",2026-04-04 07:10:53," """"",dll
-"""575cb7f119c0f8a403ec0db3fff8bb7f2a651c5f2501ae51ec7b6241ecdd8a72"""," ""win.unidentified_001"""," ""None"""," ""75""",2026-04-04 07:10:53," """"",proxy
-"""42533fbb40fe274c96a31c948ae6e84b6c103f9da6f27c9d1dc5c011f7b719d0"""," ""win.unidentified_001"""," ""None"""," ""75""",2026-04-04 07:10:52," """"",exploit
-"""f36542b449e0b164bf0927d48bd934aa0e66bd2fab483f532cf2010f3fc9d02b"""," ""win.unidentified_001"""," ""None"""," ""75""",2026-04-04 07:10:51," """"",cve-2026-21509
+"""2d3d236f5f2a41f8e00d2c4545b501406e98ce66ba013e177c496df540d12e3b"""," ""unknown"""," ""None"""," ""100""",2026-04-06 09:30:33," """""," ""0"""
+"""cf0eed666d4a468cec802c3cd8289dce3d4b318c17233c3b40370ce2ded75ec7"""," ""unknown"""," ""None"""," ""100""",2026-04-06 09:10:12," """""," ""0"""
+"""0f95f1168d151dcea5aa2a5dc2de5721984d10fc2c5095d7e2ea8d46f0496510"""," ""js.magecart"""," ""None"""," ""100""",2026-04-06 07:57:20," """"",Magecart
+"""0ad7daf901779b5b9639c77662e21a97dc029c125dffd992fbf1419e1e38b464"""," ""js.magecart"""," ""None"""," ""100""",2026-04-06 07:57:20," """"",Magecart
+"""7e715c846f7ec6f892450fc5e6c36ce030da130defd7d6545358c291ec1145a3"""," ""js.magecart"""," ""None"""," ""100""",2026-04-06 07:57:19," """"",Magecart
+"""2ba01d4141fce7342a7f0cc330e6c08da83cfe5d4bfd1a79b69f20d2b1f4f7e5"""," ""js.glassworm"""," ""None"""," ""100""",2026-04-06 07:56:00," """"",native-addon
