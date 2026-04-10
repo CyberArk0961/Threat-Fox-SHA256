@@ -1,1 +1,6 @@
 sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
+"""9aa80f91500e7aef0123e9a10c31a4683433aacd99717b3ddd6796c06a2d16f7"""," ""js.smartapesg"""," ""HANEYMANEY"," """"",2026-04-09 05:17:47," ""SmartApeSG"""," ""Rust"
+"""8e7bea86cefb90f029aed719311b976d3f72400fcc8b4ca0eab1f9a9dbc43f52"""," ""js.smartapesg"""," ""HANEYMANEY"," """"",2026-04-09 05:17:44," ""SmartApeSG"""," ""ClickFix"
+"""59221aa9623d86c930357dba7e3f54138c7ccbd0daa9c483d766cd8ce1b6ad26"""," ""js.glassworm"""," ""None"""," ""100""",2026-04-09 05:17:43," """"",npm-supply-chain
+"""731c63cfd9a540a588737de5cf7fb8261e4fef7bc7a9b69fe32afee28932e940"""," ""js.glassworm"""," ""None"""," ""100""",2026-04-09 05:17:42," """"",code-synthesis
+"""45552a3670e52f13df24b403a8d450b592b556bea9e3343e7d38cd3e0921743d"""," ""js.glassworm"""," ""None"""," ""75""",2026-04-09 05:17:40," """"",npm-supply-chain
