@@ -661,9 +661,3 @@ sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
 """eff5ece65fb30b21a3ebc1ceb738556b774b452d13e119d5a2bfb489459b4a46"""," ""unknown"""," ""None"""," ""100""",2026-04-14 09:03:04," """""," ""0"""
 """49685018878b9a65ced16730a1842281175476ee5c475f608cadf1cdcc2d9524"""," ""unknown"""," ""None"""," ""100""",2026-04-14 09:03:04," """""," ""0"""
 """8119f2ea89079ab7394bb4e8ff221a2f369bf236f95d6aa20f83dc7a98933d9a"""," ""unknown"""," ""None"""," ""100""",2026-04-14 09:03:04," """""," ""0"""
-"""b4a7989bbe6d62951b93a33515f6690dab161e226aaae820ee6d9b086836d433"""," ""unknown_rat"""," ""None"""," ""75""",2026-04-13 12:58:21," """"",fake-game
-"""bd3997c44f1820eccc6574ee003bf5319b6a27d28e782937271c6ae190af024d"""," ""unknown_rat"""," ""None"""," ""75""",2026-04-13 12:58:21," """"",fake-game
-"""6f6ee4710884d7b9a6fe498ffe66d0833ccdaddc2a99dff529a42fce2ed32d50"""," ""unknown_rat"""," ""None"""," ""75""",2026-04-13 12:58:19," """"",fake-game
-"""9b1fbf0c11c520ae714af8aa9af12cfd48503eedecd7398d8992ee94d1b4dc37"""," ""unknown_rat"""," ""None"""," ""75""",2026-04-13 12:58:18," """"",infostealer
-"""7ae34abfc96de00ded88118f432251d114e517ccacc4bfc18e56dd1eb6ded39f"""," ""unknown_rat"""," ""None"""," ""75""",2026-04-13 12:58:17," """"",infostealer
-"""ced385f69e56db2f63bafade76c6285b4a2e058880f271d30deadc52459d419d"""," ""unknown_rat"""," ""None"""," ""75""",2026-04-13 12:58:17," """"",infostealer
