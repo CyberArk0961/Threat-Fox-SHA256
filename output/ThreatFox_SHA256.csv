@@ -1,1 +1,5 @@
 sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
+"""93791ebe5df8c415f10518f839ada39c88d6e93b1217f37b04ac96b9b112ed40"""," ""unknown"""," ""None"""," ""100""",2026-04-22 07:17:22," ""2026-04-22 16:50:35""",finger-tcp79
+"""353bd65eca3e04761f823cffdda51fd0e098e23651a953fa353b3fd15bbba28d"""," ""unknown"""," ""None"""," ""100""",2026-04-22 07:17:22," ""2026-04-22 16:50:35""",finger-tcp79
+"""60e7f9ef3d00c861fb8dbfc14b2d9a221e54fac9adb365b4c38475965be75542"""," ""unknown"""," ""None"""," ""100""",2026-04-22 07:17:21," ""2026-04-22 16:50:35""",finger-tcp79
+"""8a7697678c13bd359029829564a3068802b56eb5288464c9d2d5df56a440c738"""," ""unknown"""," ""None"""," ""85""",2026-04-22 07:17:19," """"",finger-delivery
