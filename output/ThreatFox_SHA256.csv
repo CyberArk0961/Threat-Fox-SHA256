@@ -1,4 +1,11 @@
 sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
+"""251037ceebfbacd419b663ebcf0e01ec80a2c46dbfc85f66492c8585b481fb8c"""," ""win.stealc"""," ""None"""," ""100""",2026-04-23 14:00:52," """"",nailproxy
+"""c27590c766583599eac98ed3e20c54e49c792be409f126577e7475294affac1f"""," ""win.stealc"""," ""None"""," ""100""",2026-04-23 14:00:51," """"",nailproxy
+"""155dc73761ebaab0e4f5c0e18cf09dbd5728ce61361db218a5727355ca8adc1a"""," ""win.stealc"""," ""None"""," ""90""",2026-04-23 14:00:49," """"",nailproxy
+"""5e8ad983129f6771d186f60379dca30d208374cac45bac75d5459aaf0fabc8ad"""," ""unknown"""," ""None"""," ""75""",2026-04-23 05:22:39," """"",clickfix
+"""a9c2d8abdb621875493269ce87d8805c1023017d0b94330359e08f39b182b0de"""," ""unknown"""," ""None"""," ""100""",2026-04-23 05:22:34," """"",garble
+"""a877d1f43281ccfd0b1150d18fe698b777034720f8a98c1e0b647ced4d1b2410"""," ""unknown"""," ""None"""," ""100""",2026-04-23 05:22:33," """"","stage2"""
+"""642ebd83ac8f7863f8b0d47d99c614acc42c89e134b0e332de85f60550139ca5"""," ""unknown"""," ""None"""," ""100""",2026-04-23 05:22:32," """"","stage3"""
 """93791ebe5df8c415f10518f839ada39c88d6e93b1217f37b04ac96b9b112ed40"""," ""unknown"""," ""None"""," ""100""",2026-04-22 07:17:22," ""2026-04-22 16:50:35""",finger-tcp79
 """353bd65eca3e04761f823cffdda51fd0e098e23651a953fa353b3fd15bbba28d"""," ""unknown"""," ""None"""," ""100""",2026-04-22 07:17:22," ""2026-04-22 16:50:35""",finger-tcp79
 """60e7f9ef3d00c861fb8dbfc14b2d9a221e54fac9adb365b4c38475965be75542"""," ""unknown"""," ""None"""," ""100""",2026-04-22 07:17:21," ""2026-04-22 16:50:35""",finger-tcp79
