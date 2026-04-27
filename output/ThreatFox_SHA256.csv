@@ -1,7 +1,4 @@
 sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
+"""cbd34e6a8274c62f1d0e4f183dafc17b305e0988b2e5e46cd4a94ef680e7f405"""," ""py.empyrean"""," ""None"""," ""50""",2026-04-26 18:10:58," """""," ""1"""
 """0642708ec7c25dec3168f1ab275a29bfd3cf69fe3afc3d5c6eadfa6750102883"""," ""unknown"""," ""None"""," ""100""",2026-04-25 14:40:16," """"",drawio-sideload
 """d942e9cfc0ca32a3d66ec690090ee22dca74953efed6889fb2292de36f5e39fd"""," ""unknown"""," ""None"""," ""100""",2026-04-25 14:40:16," """"",drawio-sideload
-"""b25dedf5906840ddb19f96c27fae06abb08872b4b931466cc63ac1e9436b1270"""," ""unknown"""," ""None"""," ""75""",2026-04-24 05:00:01," """"",ClearFake
-"""fb3630822b70bacb56aa4cec29b5a0e3e9acb3920809e70310a4003385a6d34a"""," ""win.havoc"""," ""Havokiz"""," ""90""",2026-04-24 04:59:48," """"",havoc
-"""6316e735a026e0421e4ee274e36594bb510afbf8798e767f6a082d827b5082a0"""," ""js.kongtuke"""," ""TAG-124"," """"",2026-04-24 04:59:48," ""KongTuke"""," ""clickfix"
-"""59e3c4cb06331b4f2d78a9a0592f3747e573bd01c5a7650c26361d1e25520712"""," ""win.havoc"""," ""Havokiz"""," ""60""",2026-04-24 04:59:47," """"","sideloading"""
