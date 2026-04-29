@@ -1,3 +1,8 @@
 sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
+"""ba6d68bbb99c6237c983d491abf42245e8a0d7a993ca3d27e59907288fd836c5"""," ""unknown"""," ""None"""," ""90""",2026-04-28 16:42:41," """"",bounceme-net
+"""fb094867dcb3f56391ca8a60016c5cd9872b529814b0fe48e1e7ea4563ce24ed"""," ""unknown"""," ""None"""," ""100""",2026-04-28 05:55:23," """"",ClickFix
+"""20bf8267c60aeaafb90c224d865e163401a016b8568f95a6f1743fc74af62d9e"""," ""unknown"""," ""None"""," ""100""",2026-04-28 05:55:22," """"",ClickFix
+"""9c1a60b1e67f071d7100ae8dfde9efb77cbf7688f8cbe6461b27319c9d7f8742"""," ""unknown"""," ""None"""," ""80""",2026-04-28 05:55:00," """"",clickfix
+"""3559ecb1e3c264bbc17b992b1d055bea42dbcb60e9397e24a33e9f09d5d307e2"""," ""unknown"""," ""None"""," ""80""",2026-04-28 05:55:00," """"",clickfix
+"""d79e2990fa848ed9038f30dad65e30d6a3b335d78542d992de895a857e08351c"""," ""unknown"""," ""None"""," ""80""",2026-04-28 05:55:00," """"",clickfix
 """08a474368a2f94f347ad9e1a0a08d4258fcf49c6b9373214f7901bb770bacca4"""," ""unknown"""," ""None"""," ""80""",2026-04-27 13:36:30," """"",fingerfix
-"""cbd34e6a8274c62f1d0e4f183dafc17b305e0988b2e5e46cd4a94ef680e7f405"""," ""py.empyrean"""," ""None"""," ""50""",2026-04-26 18:10:58," """""," ""1"""
