@@ -1,4 +1,2 @@
 sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
-"""5ed7708134d1da60c2376a3f89fe28d94c0f9db760b29ce1530e42757352c8bb"""," ""unknown"""," ""None"""," ""90""",2026-05-01 14:49:04," """"",clearfake
-"""2339fba9695ad25fcd79f232c4b635023f5621eb927a53601db84eb428b3116e"""," ""unknown"""," ""None"""," ""90""",2026-05-01 06:52:00," """"",ConnectWise
-"""d19f88dc8c825614e4898d06c7eeb28bace5156344aed4d708bcdd25a970866d"""," ""unknown"""," ""None"""," ""90""",2026-05-01 06:51:59," """"",ConnectWise
+"""0ae3916addf8682d9b571a8602b1936eb2afd095872246fa9417223edad697f8"""," ""js.smartapesg"""," ""HANEYMANEY"," """"",2026-05-03 07:33:16," ""SmartApeSG"""," ""ClickFix"
