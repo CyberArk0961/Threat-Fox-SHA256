@@ -1,2 +1,3 @@
 sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
+"""aae93e02546bea0074272d685155564cbd0a4120ddde41d5fc578dad563f22bf"""," ""win.remoteadmin"""," ""None"""," ""90""",2026-05-04 17:28:45," """"",cloudflare
 """0ae3916addf8682d9b571a8602b1936eb2afd095872246fa9417223edad697f8"""," ""js.smartapesg"""," ""HANEYMANEY"," """"",2026-05-03 07:33:16," ""SmartApeSG"""," ""ClickFix"
