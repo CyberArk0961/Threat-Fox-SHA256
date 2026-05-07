@@ -8,4 +8,3 @@ sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
 """96ed62bf3749b5b6559e733166683e2d4ef5ad5b50b0dadb7f235707a966ebaa"""," ""unknown"""," ""None"""," ""100""",2026-05-05 13:58:14," """"","fingerfix"""
 """6eaba5c0ec1c0e536d8f9701e31d46922a178c7805dcb54270f3740d0fddb81c"""," ""win.reverse_rat"""," ""None"""," ""50""",2026-05-05 10:54:14," """"",powershell
 """5bddefae5d5402344cb9e2f5ca88d6933678f1e127cea63ff4866e1ff2d08025"""," ""unknown"""," ""None"""," ""75""",2026-05-05 05:10:48," """"",msiexec
-"""aae93e02546bea0074272d685155564cbd0a4120ddde41d5fc578dad563f22bf"""," ""win.remoteadmin"""," ""None"""," ""90""",2026-05-04 17:28:45," """"",cloudflare
