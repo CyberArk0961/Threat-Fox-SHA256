@@ -1,1 +1,7 @@
 sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
+"""b95b53eff7f1dc4426ed60932910aeb66552083197048d31154f950eb32c65b8"""," ""unknown"""," ""None"""," ""90""",2026-05-08 08:00:28," """"",clickfix
+"""4aa3b4429eeaa8bf734dd6bb3527f8ee2454bd66f4649f7102ab179214d85dc4"""," ""unknown"""," ""None"""," ""90""",2026-05-08 08:00:28," """"",clickfix
+"""f93918bae376298c7db3e377796057fb35733b38c59edb4a69f771e17b48deef"""," ""unknown"""," ""None"""," ""90""",2026-05-08 08:00:12," """"",custom-implant
+"""72feb64186e4d4335512e637753ef63ec266b0c339f992c9f2ce76639d9a8a4e"""," ""unknown"""," ""None"""," ""90""",2026-05-08 08:00:09," """"",custom-implant
+"""7521203828dd16a0b4cc65f34c6ee5871f3200b43fa46917ece5f334e946885f"""," ""unknown"""," ""None"""," ""90""",2026-05-08 08:00:06," """"",clickfix
+"""7d1526c3d109fc9da176120ecb5209c4fde8b68a208584d2253cf116fd167eb6"""," ""js.smartapesg"""," ""HANEYMANEY"," """"",2026-05-08 07:59:58," ""SmartApeSG"""," ""clickfix"
