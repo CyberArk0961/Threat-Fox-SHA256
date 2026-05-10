@@ -1,6 +1,20 @@
 sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
-"""b95b53eff7f1dc4426ed60932910aeb66552083197048d31154f950eb32c65b8"""," ""unknown"""," ""None"""," ""90""",2026-05-08 08:00:28," """"",clickfix
+"""ad7b8b26efc32208989b25ee5eb281333326e7cf6ef92360e4fc21af96f14e52"""," ""win.xmrig"""," ""None"""," ""90""",2026-05-09 06:59:27," """"",charmap-hollow
+"""194cda2a1d2c7c2b151e27d20c0429c22108f39540e4036d3b5056bbbea16fff"""," ""unknown"""," ""None"""," ""75""",2026-05-09 06:59:25," """"",dbatloader-style
+"""aeac25a227301aedd78e3cd3937b73986750041e3295f178d365ae61c8ac64d9"""," ""unknown"""," ""None"""," ""75""",2026-05-09 06:59:25," """"",dbatloader-style
+"""79ede42f58b0f72e5953c4fc0cbd250012e045d99704ac0e2e1ebf554a5a2d6e"""," ""unknown"""," ""None"""," ""75""",2026-05-09 06:59:25," """"",dbatloader-style
+"""4a5d9078e6d4485a6aa89e35ca83cd743e038d74eb826bde725c5b2737e41a8a"""," ""unknown"""," ""None"""," ""75""",2026-05-09 06:59:24," """"",dbatloader-style
+"""07a1be5f57473bdde2084ad0d04f9419e674a789790652f7e8e3a8e696d49e08"""," ""unknown"""," ""None"""," ""75""",2026-05-09 06:59:23," """"",dbatloader-style
+"""1bcd3b49399526a3fb42330d89b123bf11ed8f27118a93e4187a64ad15e0a2eb"""," ""unknown"""," ""None"""," ""75""",2026-05-09 06:59:23," """"",dbatloader-style
+"""4a1dd2bf737357ff4c32df5b739cc5d8bb0003bcb35fbacc3174d36b2ef77cc0"""," ""unknown"""," ""None"""," ""75""",2026-05-09 06:59:21," """"",dbatloader-style
+"""5a2b957a011901a7e88b8f96028ff004cad590455a36c4816d0f40007323cd01"""," ""unknown"""," ""None"""," ""75""",2026-05-09 06:59:16," """"",clickfix
+"""68e81ce966ca0c016bb638d0d29b106a0da7eab2ddf70438d8182fa89baf5d78"""," ""unknown"""," ""None"""," ""75""",2026-05-09 06:59:16," """"",clickfix
+"""d4c620b8fc7aca439861ce67b6f9132b89c2869887ac3f6a1b3008099e43b976"""," ""unknown"""," ""None"""," ""75""",2026-05-09 06:59:15," """"",clickfix
+"""f488edb3c0e3e81d7a1d1a4721dc9817a04f65f1939a645172ba8197b8358b41"""," ""unknown"""," ""None"""," ""75""",2026-05-09 06:59:15," """"",clickfix
+"""2872ea2e8dcde72e2d906895d62d646961111519ffacd5832dcd2234f7f087d1"""," ""unknown"""," ""None"""," ""90""",2026-05-09 06:58:43," """"",gcleaner
+"""f417187e20bddd4706df23cd04c5e100bf07bfc8014038e19e2f38a437956691"""," ""unknown"""," ""None"""," ""85""",2026-05-09 06:58:38," """"",fsutil
 """4aa3b4429eeaa8bf734dd6bb3527f8ee2454bd66f4649f7102ab179214d85dc4"""," ""unknown"""," ""None"""," ""90""",2026-05-08 08:00:28," """"",clickfix
+"""b95b53eff7f1dc4426ed60932910aeb66552083197048d31154f950eb32c65b8"""," ""unknown"""," ""None"""," ""90""",2026-05-08 08:00:28," """"",clickfix
 """f93918bae376298c7db3e377796057fb35733b38c59edb4a69f771e17b48deef"""," ""unknown"""," ""None"""," ""90""",2026-05-08 08:00:12," """"",custom-implant
 """72feb64186e4d4335512e637753ef63ec266b0c339f992c9f2ce76639d9a8a4e"""," ""unknown"""," ""None"""," ""90""",2026-05-08 08:00:09," """"",custom-implant
 """7521203828dd16a0b4cc65f34c6ee5871f3200b43fa46917ece5f334e946885f"""," ""unknown"""," ""None"""," ""90""",2026-05-08 08:00:06," """"",clickfix
