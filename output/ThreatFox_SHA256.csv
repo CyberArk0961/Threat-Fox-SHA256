@@ -1,4 +1,5 @@
 sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
-"""7d7948005af45b2fbc59a20c266ffd70f584d0fba1a28e048bd9994ad9353bdb"""," ""win.vshell"""," ""None"""," ""90""",2026-05-10 18:39:51," """"",loader
-"""462da039980a8f166fbd27d15437fa093ab9c369ba13055d7fad90bf3b9d1627"""," ""win.nanocore"""," ""Nancrat"," """"",2026-05-10 18:39:33," ""Nanocore RAT"""," ""exe"
-"""9be2cd1308cfbb403db283c6fa1ac0aa37cdbe301e3768804170420c4a3ae38b"""," ""win.nanocore"""," ""Nancrat"," """"",2026-05-10 18:39:00," ""Nanocore RAT"""," ""eazfuscator"
+"""3941d2e13d9ed19d7f867bd266338e9ec0c8eb986ff656743c83c6d1a03555cc"""," ""win.asyncrat"""," ""None"""," ""90""",2026-05-12 14:53:02," """"",dotnet
+"""971f76da2e6af3dd892550411d2bb53208f21f114f8835c0582f8bd1f4becbcc"""," ""js.kongtuke"""," ""TAG-124"," """"",2026-05-12 14:51:23," ""KongTuke"""," ""clickfix"
+"""045479ee61a4b0035941606b5efb1d9fdd7dc8c82b8982bd6ea2228a1f2fbf27"""," ""js.smartapesg"""," ""HANEYMANEY"," """"",2026-05-12 14:48:52," ""SmartApeSG"""," ""aorta"
+"""4bc79922cb13d5ea727818222b14f28c69ae6fd161212ed4e136ff7456c4d652"""," ""js.smartapesg"""," ""HANEYMANEY"," """"",2026-05-12 14:48:51," ""SmartApeSG"""," ""aorta"
