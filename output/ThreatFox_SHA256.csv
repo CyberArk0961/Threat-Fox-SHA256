@@ -1,5 +1,47 @@
 sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
-"""3941d2e13d9ed19d7f867bd266338e9ec0c8eb986ff656743c83c6d1a03555cc"""," ""win.asyncrat"""," ""None"""," ""90""",2026-05-12 14:53:02," """"",dotnet
-"""971f76da2e6af3dd892550411d2bb53208f21f114f8835c0582f8bd1f4becbcc"""," ""js.kongtuke"""," ""TAG-124"," """"",2026-05-12 14:51:23," ""KongTuke"""," ""clickfix"
-"""045479ee61a4b0035941606b5efb1d9fdd7dc8c82b8982bd6ea2228a1f2fbf27"""," ""js.smartapesg"""," ""HANEYMANEY"," """"",2026-05-12 14:48:52," ""SmartApeSG"""," ""aorta"
-"""4bc79922cb13d5ea727818222b14f28c69ae6fd161212ed4e136ff7456c4d652"""," ""js.smartapesg"""," ""HANEYMANEY"," """"",2026-05-12 14:48:51," ""SmartApeSG"""," ""aorta"
+"""025fc0976c548fb5a880c83ea3eb21a5f23c5d53c4e51e862bb893c11adf712a"""," ""win.gentlemen"""," ""None"""," ""75""",2026-05-14 12:38:47," """"","ransomware"""
+"""1334f0189a8e6dbc48456fa4b482c5726ab7609f7fa652fcc4c1a96f2334436f"""," ""win.gentlemen"""," ""None"""," ""75""",2026-05-14 12:38:46," """"","ransomware"""
+"""1af419b36a5edefef387409e2b3248c9223f7dc49a4f7b15ea095d371c3a70b2"""," ""win.gentlemen"""," ""None"""," ""75""",2026-05-14 12:38:46," """"","ransomware"""
+"""22b38dad7da097ea03aa28d0614164cd25fafeb1383dbc15047e34c8050f6f67"""," ""win.gentlemen"""," ""None"""," ""75""",2026-05-14 12:38:45," """"","ransomware"""
+"""24ac3588fb8cfbff63b7fdfcbc7dec1f3c60e54e6f949dd69d68e89e0c89d966"""," ""win.gentlemen"""," ""None"""," ""75""",2026-05-14 12:38:44," """"","ransomware"""
+"""2ed9494e9b7b68415b4eb151c922c82c0191294d0aa443dd2cb5133e6bfe3d5d"""," ""win.gentlemen"""," ""None"""," ""75""",2026-05-14 12:38:43," """"","ransomware"""
+"""3ab9575225e00a83a4ac2b534da5a710bdcf6eb72884944c437b5fbe5c5c9235"""," ""win.gentlemen"""," ""None"""," ""75""",2026-05-14 12:38:42," """"","ransomware"""
+"""3c2182cb0bc7528829ef03f1b1745a92bcc47d917eb8870862488f21fdf1a6d6"""," ""win.gentlemen"""," ""None"""," ""75""",2026-05-14 12:38:39," """"","ransomware"""
+"""48d9b2ce4fcd6854a3164ce395d7140014e0b58b77680623f3e4ca22d3a6e7fd"""," ""win.gentlemen"""," ""None"""," ""75""",2026-05-14 12:38:39," """"","ransomware"""
+"""4a175eed927c0a477eafb8aa35a93c191748acaa78ac7aecd8ea3c4cd868887c"""," ""win.gentlemen"""," ""None"""," ""75""",2026-05-14 12:38:38," """"","ransomware"""
+"""51b9f246d6da85631131fcd1fabf0a67937d4bdde33625a44f7ee6a3a7baebd2"""," ""win.gentlemen"""," ""None"""," ""75""",2026-05-14 12:38:37," """"","ransomware"""
+"""62c2c24937d67fdeb43f2c9690ab10e8bb90713af46945048db9a94a465ffcb8"""," ""win.gentlemen"""," ""None"""," ""75""",2026-05-14 12:38:34," """"","ransomware"""
+"""6a3ab9e984a759d55af4e84487d1fc44683065cc9a1089d5aa4ad1c0e4e84a63"""," ""win.gentlemen"""," ""None"""," ""75""",2026-05-14 12:38:34," """"","ransomware"""
+"""860a6177b055a2f5aa61470d17ec3c69da24f1cdf0a782237055cba431158923"""," ""win.gentlemen"""," ""None"""," ""75""",2026-05-14 12:38:33," """"","ransomware"""
+"""8aa0cb69ca2777001e0f4ba0eaab0841592710e4cc5ccd6b0b526d78bbd8bfba"""," ""win.gentlemen"""," ""None"""," ""75""",2026-05-14 12:38:32," """"","ransomware"""
+"""87d25d0e5880b3b5cd30106853cbfc6ef1ad38966b30d9bd5b99df46098e546c"""," ""win.gentlemen"""," ""None"""," ""75""",2026-05-14 12:38:32," """"","ransomware"""
+"""8c87134c1b45e990e9568f0a3899b0076f94be16d3c40fa824ac1e6c6ee892db"""," ""win.gentlemen"""," ""None"""," ""75""",2026-05-14 12:38:31," """"","ransomware"""
+"""91415e0b9fe4e7cbe43ec0558a7adf89423de30d22b00b985c2e4b97e75076b1"""," ""win.gentlemen"""," ""None"""," ""75""",2026-05-14 12:38:30," """"","ransomware"""
+"""994d6d1edb57f945f4284cc0163ec998861c7496d85f6d45c08657c9727186e3"""," ""win.gentlemen"""," ""None"""," ""75""",2026-05-14 12:38:28," """"","ransomware"""
+"""9f61ff4deb8afced8b1ecdc8787a134c63bde632b18293fbfc94a91749e3e454"""," ""win.gentlemen"""," ""None"""," ""75""",2026-05-14 12:38:28," """"","ransomware"""
+"""a7a19cab7aab606f833fa8225bc94ec9570a6666660b02cc41a63fe39ea8b0ad"""," ""win.gentlemen"""," ""None"""," ""75""",2026-05-14 12:38:27," """"","ransomware"""
+"""b67958afc982cafbe1c3f114b444d7f4c91a88a3e7a86f89ab8795ac2110d1e6"""," ""win.gentlemen"""," ""None"""," ""75""",2026-05-14 12:38:26," """"","ransomware"""
+"""c46b5a18ab3fb5fd1c5c8288a41c75bf0170c10b5e829af89370a12c86dd10f8"""," ""win.gentlemen"""," ""None"""," ""75""",2026-05-14 12:38:25," """"","ransomware"""
+"""c7f7b5a6e7d93221344e6368c7ab4abf93e162f7567e1a7bcb8786cb8a183a73"""," ""win.gentlemen"""," ""None"""," ""75""",2026-05-14 12:38:24," """"","ransomware"""
+"""dce2e5cc00eff2493f8ced546dc51f9d5ef78c5ee56805906ec642dfa77a1c70"""," ""win.gentlemen"""," ""None"""," ""75""",2026-05-14 12:38:23," """"","ransomware"""
+"""dfe696ff713318c53fb17731bd4a6585a02c085b590149b19847990b324a0be6"""," ""win.gentlemen"""," ""None"""," ""75""",2026-05-14 12:38:22," """"","ransomware"""
+"""ec368ae0b4369b6ef0da244774995c819c63cffb7fd2132379963b9c1640ccd2"""," ""win.gentlemen"""," ""None"""," ""75""",2026-05-14 12:38:22," """"","ransomware"""
+"""efaf8e7422ffd09c7f03f1a5b4e5c2cc32b05334c18d1ccb9673667f8f43108f"""," ""win.gentlemen"""," ""None"""," ""75""",2026-05-14 12:38:21," """"","ransomware"""
+"""f736be55193c77af346dbe905e25f6a1dee3ec1aedca8989ad2088e4f6576b12"""," ""win.gentlemen"""," ""None"""," ""75""",2026-05-14 12:38:20," """"","ransomware"""
+"""fc75ed2159e0c8274076e46a37671cfb8d677af9f586224da1713df89490a958"""," ""win.gentlemen"""," ""None"""," ""75""",2026-05-14 12:38:19," """"","ransomware"""
+"""1eece1e1ba4b96e6c784729f0608ad2939cfb67bc4236dfababbe1d09268960c"""," ""win.gentlemen"""," ""None"""," ""75""",2026-05-14 12:38:18," """"","ransomware"""
+"""5dc607c8990841139768884b1b43e1403496d5a458788a1937be139594f01dca"""," ""win.gentlemen"""," ""None"""," ""75""",2026-05-14 12:38:17," """"","ransomware"""
+"""788ba200f776a188c248d6c2029f00b5d34be45d4444f7cb89ffe838c39b8b19"""," ""win.gentlemen"""," ""None"""," ""75""",2026-05-14 12:38:16," """"","ransomware"""
+"""e6c60ca4f996b209bbaf7429182d7ed76acf761bb9c1de63486fcb76635fa58c"""," ""js.magecart"""," ""None"""," ""95""",2026-05-14 12:35:32," """"",PaymentVanilla
+"""3acf0c5484f7b9a08fee20f36d76566c53423b6612ec20bb5194fbb5beecb939"""," ""win.sectop_rat"""," ""1xxbot"," """"",2026-05-14 12:35:27," ""SectopRAT"""," ""SectopRAT"""
+"""a91b1c2431bb2e6b319c700667f0f6f404826088a9ab3ace0bac9a288089adfb"""," ""unknown"""," ""None"""," ""75""",2026-05-14 12:34:44," """"",clickfix
+"""93ae001caa4bb4f9be0d180c0200d1ec0a7a6fe20aaa32e198747ca422570a07"""," ""unknown"""," ""None"""," ""75""",2026-05-14 12:34:44," """"",clickfix
+"""da787c1d0ae23b370a5b3d55ee03600d3ce78f0227f9a75b66dc89183d782d45"""," ""unknown"""," ""None"""," ""75""",2026-05-14 12:34:43," """"",clickfix
+"""bbaf69f94449b05c868e6fe69a94ce9119c8d37dea6170047cad024a4c034c9e"""," ""unknown"""," ""None"""," ""75""",2026-05-14 12:34:42," """"",clickfix
+"""74487f6f803c08427526e45fdb39189f11e0051b8a9582da99431d2dd8e00baa"""," ""unknown"""," ""None"""," ""75""",2026-05-14 12:34:41," """"",clickfix
+"""87e90afe44152688fbc4de77c3b5c2dee31741e6869c35f11b66501780085c89"""," ""unknown"""," ""None"""," ""75""",2026-05-14 12:34:41," """"",clickfix
+"""da5cdb5b4742039fb6e1cd6f9eb713fea5b33c7a1bbe657ef277e93b71a896fc"""," ""unknown"""," ""None"""," ""75""",2026-05-14 12:34:38," """"",clickfix
+"""4cf3aa44e1631fe0da3530081c00066ac3e8f8fa2a2c48d7f633fdc3fcaa723f"""," ""unknown"""," ""None"""," ""75""",2026-05-14 12:34:38," """"",clickfix
+"""b1d36af5f55f6e046bfc3f85aaa12c79a11ef319df7ea067f66827dede8e0804"""," ""unknown"""," ""None"""," ""75""",2026-05-14 12:33:23," """"",Novii
+"""22796f9c654f6331d19703a7ad86489e4bb24326cea0cb5e88d73d8959f201a5"""," ""unknown"""," ""None"""," ""75""",2026-05-14 12:33:23," """"",Novii
+"""0684e219382ad08314e4fc53e6cf3a31b94c80f95d05f971f9efee89b0529b53"""," ""unknown"""," ""None"""," ""75""",2026-05-14 12:33:21," """"",Novii
