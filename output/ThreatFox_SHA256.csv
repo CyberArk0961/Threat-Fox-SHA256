@@ -1,13 +1,8 @@
 sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
+"""f01cac66a63b3bfd7409e4bceef30973a813f6ed4e99958313657449b1c7490f"""," ""elf.xmrig"""," ""None"""," ""90""",2026-05-21 11:55:05," """"",libpam-hijack
+"""e746712a83e1a908e16c2495fd75dde22950b6e09c7ee9a8e148318d48950f5e"""," ""unknown"""," ""None"""," ""75""",2026-05-21 04:59:59," """"",fingerfix
+"""c4277ff9fed179249daf8b8d76f6be7613bea7bd5e742950cfb77c20e0e0cca5"""," ""unknown"""," ""None"""," ""75""",2026-05-21 04:59:58," """"",fingerfix
+"""3b2f273bb402523c62608495108f9d3a771cfbd10f721e8f87076fee62edd4ae"""," ""unknown"""," ""None"""," ""75""",2026-05-21 04:59:56," """"",fingerfix
 """9408dfa7ca622d0db087985ff6d4288b143e4e4a11c7a734ea4e151b73de8d00"""," ""unknown"""," ""None"""," ""90""",2026-05-20 15:39:04," """"",hollyshitstealer
 """995d9f4dc5725d1301d7e4ac9943ac36dd8da13368381950880818c72f2bba61"""," ""unknown"""," ""None"""," ""75""",2026-05-20 05:25:28," """"",eyepyramid
 """9fd30bda0edf3b10b326703303fa15995a688d200582822ef49422ebac87b7f7"""," ""win.ncctrojan"""," ""None"""," ""75""",2026-05-20 05:25:10," """"",malware
-"""766b70cb0477fbfcd6b012573f1dbc3831c6da44f372e34500e8314fd1084943"""," ""unknown"""," ""None"""," ""75""",2026-05-19 14:36:43," """"",loader
-"""4591e91432b52478c20b04fe138b6da5003710b7c74701600bbb4a39148f4783"""," ""unknown"""," ""None"""," ""75""",2026-05-19 14:36:42," """"",loader
-"""78be219b8793d648213172a6bc2c1738f4e14f7b65a01d2d875e40c858e1b484"""," ""unknown"""," ""None"""," ""75""",2026-05-19 05:16:40," """"",merlin
-"""6c974418247ab414c674fb699ee001d1703f8a6c54810b1773cdc1647cc69e52"""," ""unknown"""," ""None"""," ""75""",2026-05-19 05:16:40," """"",merlin
-"""d0c2fe58efadb86c93f9930cb8668cd40b60399f3a8db54b1c9974ee4eab4b39"""," ""unknown"""," ""None"""," ""75""",2026-05-19 05:16:39," """"",merlin
-"""b2af4e6e723b7a8074ed41a90da69c6cd1b1db4fc4cc8a2e2930daa58704443c"""," ""unknown"""," ""None"""," ""75""",2026-05-19 05:16:38," """"",merlin
-"""52461a7264164f0e8d1723ef0b76e99f394936b5290df25a5f26c8552a01369a"""," ""unknown"""," ""None"""," ""75""",2026-05-19 05:16:38," """"",merlin
-"""9a6b750766ff30309502a31bf3bacae5c60211f2257c446c114f28148d2f4fd8"""," ""unknown"""," ""None"""," ""85""",2026-05-19 05:16:37," """"",merlin
-"""e18e9309db33273762be1d78f5bdd78fa6ea41dadf5f6eef8ece4c841ea76110"""," ""js.clearfake"""," ""None"""," ""80""",2026-05-19 05:15:51," """"",midie
