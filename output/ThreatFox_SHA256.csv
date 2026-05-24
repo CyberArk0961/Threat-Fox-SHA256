@@ -1,17 +1,18 @@
 sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
+"""ef355778546bc6e044330691404b63eddf83d7fc6073047394a25dd0e98c7d7d"""," ""elf.xmrig"""," ""None"""," ""90""",2026-05-23 08:59:06," """"",linux
 """4e286cd901813a5f80411e417fb5defe25ff9af00706e68509392f6e75cc3908"""," ""win.satacom"""," ""CurlyGate"," ""Satacom""",2026-05-22 13:32:10,"RobotDropper"""," ""https://x.com/AndrewPetrus/status/2057813304727552345?s=20"""
 """f3ef4663e909e2545d25bdd0edc7ba4f88d197760921ca23e7dededf7326aa8e"""," ""win.satacom"""," ""CurlyGate"," ""Satacom""",2026-05-22 13:32:09,"RobotDropper"""," ""https://x.com/AndrewPetrus/status/2057813304727552345?s=20"""
-"""0759904c16ff6d1f25be53e218f7bb13668a13cf5bd328375bb37941c2c94ab2"""," ""unknown"""," ""None"""," ""75""",2026-05-22 08:11:59," """"",clickfix
 """d95bb7afd88d684dd99bb0c462fd7e0f81596baa2a2749263c7be4f09b4177ec"""," ""unknown"""," ""None"""," ""75""",2026-05-22 08:11:59," """"",clickfix
-"""0ae0517a518f277c67ae6959e8fb1e75a67ce3c2d1a86af084326f9a6c3c2839"""," ""unknown"""," ""None"""," ""75""",2026-05-22 08:11:58," """"",clickfix
+"""0759904c16ff6d1f25be53e218f7bb13668a13cf5bd328375bb37941c2c94ab2"""," ""unknown"""," ""None"""," ""75""",2026-05-22 08:11:59," """"",clickfix
 """d72e75830ccb3a1bb80026081be1b775b3c2b18f91034277a27957a3a4e51632"""," ""unknown"""," ""None"""," ""75""",2026-05-22 08:11:58," """"",clickfix
-"""f630d779290a050dbc415863be303b8bb78dbe0bf4ff1ebae5fcbfddeace95b2"""," ""unknown"""," ""None"""," ""75""",2026-05-22 08:11:57," """"",clickfix
+"""0ae0517a518f277c67ae6959e8fb1e75a67ce3c2d1a86af084326f9a6c3c2839"""," ""unknown"""," ""None"""," ""75""",2026-05-22 08:11:58," """"",clickfix
 """4e71f0e1b1862492562f7ffada5c1d98e4d9c83cf63cd99636fb7f932d4cb4a7"""," ""unknown"""," ""None"""," ""75""",2026-05-22 08:11:57," """"",clickfix
+"""f630d779290a050dbc415863be303b8bb78dbe0bf4ff1ebae5fcbfddeace95b2"""," ""unknown"""," ""None"""," ""75""",2026-05-22 08:11:57," """"",clickfix
 """475a074242f7c58f55fdaa7c2773b1aaf448ce826a8fc98ee76f0dc88eba72b2"""," ""unknown"""," ""None"""," ""75""",2026-05-22 08:11:56," """"",clickfix
 """d430141b6573335f2eaba7c9dad1729e182432f128c4311a962f77c12d48a82c"""," ""unknown"""," ""None"""," ""75""",2026-05-22 08:11:56," """"",clickfix
+"""d6aea182e02b91f804b3b80b9e4a754d818c25b5540bfc2f67117d15755dee00"""," ""unknown"""," ""None"""," ""75""",2026-05-22 08:11:55," """"",clickfix
 """2c14abd6082ec4929d7f375f7c264741355e4b28a402c7cf89caac37627e2739"""," ""unknown"""," ""None"""," ""75""",2026-05-22 08:11:55," """"",clickfix
 """bf1c796dbb2b7d6d3b6820fccd6a5bcd127c0296754680f3f7d067bcca56b1b4"""," ""unknown"""," ""None"""," ""75""",2026-05-22 08:11:55," """"",clickfix
-"""d6aea182e02b91f804b3b80b9e4a754d818c25b5540bfc2f67117d15755dee00"""," ""unknown"""," ""None"""," ""75""",2026-05-22 08:11:55," """"",clickfix
 """3abe2587ac04cc71fae274401e13cbc6aaa937e4cd76a2c910c2e906bf35988e"""," ""unknown"""," ""None"""," ""75""",2026-05-22 08:11:54," """"",clickfix
 """a96edc7a4d5f768974db6100febf6fc7b3628faca3a277e12b3c055ea2707fe6"""," ""unknown"""," ""None"""," ""75""",2026-05-22 08:11:53," """"",clickfix
 """b6c95e309ebef7dc253970dec65289cf207ff713594ae33381642f6ac1db27e4"""," ""unknown"""," ""None"""," ""75""",2026-05-22 08:11:52," """"",clickfix
@@ -32,10 +33,6 @@ sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
 """98a78797b8a8db6976d8510dc697babfd35892ec6c37aaf5d2b385495aa8d84f"""," ""unknown"""," ""None"""," ""50""",2026-05-22 08:11:28," """""," ""0"""
 """e70e2ca57d3ac6941b419b621cf144d4c3de70dcbaf09446bd3b7d2ead69399f"""," ""unknown"""," ""None"""," ""50""",2026-05-22 08:11:27," """""," ""0"""
 """9985205911ef112161c34c2fd949e5351375f27ee1dce33eaca6e03ef7968537"""," ""unknown"""," ""None"""," ""50""",2026-05-22 08:11:27," """""," ""0"""
-"""c21ad347e05405bc23f7efc6022f03951fab7461e7d52661d579a9c651cbf0d2"""," ""unknown"""," ""None"""," ""50""",2026-05-22 08:11:26," """""," ""0"""
 """9860b2cdf23fc044bf7c6715197068b3cf6349f7ffb5e95dfd0229f212c40e63"""," ""unknown"""," ""None"""," ""50""",2026-05-22 08:11:26," """""," ""0"""
+"""c21ad347e05405bc23f7efc6022f03951fab7461e7d52661d579a9c651cbf0d2"""," ""unknown"""," ""None"""," ""50""",2026-05-22 08:11:26," """""," ""0"""
 """23e04d32fec762b39dfadc746ee73f22ca83580f30aa8c69fec24afe79f87320"""," ""unknown"""," ""None"""," ""50""",2026-05-22 08:11:25," """""," ""0"""
-"""f01cac66a63b3bfd7409e4bceef30973a813f6ed4e99958313657449b1c7490f"""," ""elf.xmrig"""," ""None"""," ""90""",2026-05-21 11:55:05," """"",libpam-hijack
-"""e746712a83e1a908e16c2495fd75dde22950b6e09c7ee9a8e148318d48950f5e"""," ""unknown"""," ""None"""," ""75""",2026-05-21 04:59:59," """"",fingerfix
-"""c4277ff9fed179249daf8b8d76f6be7613bea7bd5e742950cfb77c20e0e0cca5"""," ""unknown"""," ""None"""," ""75""",2026-05-21 04:59:58," """"",fingerfix
-"""3b2f273bb402523c62608495108f9d3a771cfbd10f721e8f87076fee62edd4ae"""," ""unknown"""," ""None"""," ""75""",2026-05-21 04:59:56," """"",fingerfix
