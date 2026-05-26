@@ -1,4 +1,12 @@
 sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
+"""4dc1958010564d8482320890ef4bdc35e1055e2023ce6cd7588a9044a221553f"""," ""unknown"""," ""None"""," ""90""",2026-05-25 19:38:57," """"",autohotkey
+"""ee01795618295e975dca07d025f20bbcaec559ecbcefc15dd813a3437c5bd989"""," ""unknown"""," ""None"""," ""90""",2026-05-25 19:38:56," """"",autohotkey
+"""bc6e0a5693e0b6bf2997a7c93c31d2ef2c351a35fdf81a02df33ff1df7bdf784"""," ""unknown"""," ""None"""," ""90""",2026-05-25 19:38:56," """"",autohotkey
+"""e96d103b7982cf988bffe33ce6eb066d25a830fb53e58da536a847ce2139d45b"""," ""unknown"""," ""None"""," ""90""",2026-05-25 19:38:55," """"",autohotkey
+"""c6d9ba54fffc9c7638e04df63e0bdd7f99daecd6b7bdb347d05a30fe16d68c7d"""," ""unknown"""," ""None"""," ""90""",2026-05-25 19:38:55," """"",autohotkey
+"""46c1a2426b2213b770cadb674591c8998b965273cadf1bc84ccfb5901d96e337"""," ""unknown"""," ""None"""," ""90""",2026-05-25 19:38:54," """"",autohotkey
+"""316e131a04cc717d2912d371c80e016eb89cf2bb9b02eb42c2a53167422465e2"""," ""unknown"""," ""None"""," ""90""",2026-05-25 19:38:54," """"",autohotkey
+"""9bb90d779fc12b6a10036b5477613d72a9da0612a677ae88843f79944d37801b"""," ""unknown"""," ""None"""," ""90""",2026-05-25 19:38:53," """"",autohotkey
+"""88f4b2193b87a76bbf56fdb7c282438f2d07a320784b2fa663ac45776ccd8bec"""," ""unknown"""," ""None"""," ""90""",2026-05-25 19:38:52," """"",autohotkey
 """0c4c78306f1e9b1dca47a1bfe16f5d8474d6e6bb2a5f35790ce3ef822ae02e4d"""," ""unknown"""," ""None"""," ""75""",2026-05-24 15:57:21," """"",fingerfix
 """b10b14c401bb553a8c49c0a4c8bcb9e3a01c347397e666a5b683394d26ad4df2"""," ""unknown"""," ""None"""," ""75""",2026-05-24 15:57:21," """"",fingerfix
-"""ef355778546bc6e044330691404b63eddf83d7fc6073047394a25dd0e98c7d7d"""," ""elf.xmrig"""," ""None"""," ""90""",2026-05-23 08:59:06," """"",linux
