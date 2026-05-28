@@ -1,10 +1,16 @@
 sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
-"""4dc1958010564d8482320890ef4bdc35e1055e2023ce6cd7588a9044a221553f"""," ""unknown"""," ""None"""," ""90""",2026-05-25 19:38:57," """"",autohotkey
-"""ee01795618295e975dca07d025f20bbcaec559ecbcefc15dd813a3437c5bd989"""," ""unknown"""," ""None"""," ""90""",2026-05-25 19:38:56," """"",autohotkey
-"""bc6e0a5693e0b6bf2997a7c93c31d2ef2c351a35fdf81a02df33ff1df7bdf784"""," ""unknown"""," ""None"""," ""90""",2026-05-25 19:38:56," """"",autohotkey
-"""e96d103b7982cf988bffe33ce6eb066d25a830fb53e58da536a847ce2139d45b"""," ""unknown"""," ""None"""," ""90""",2026-05-25 19:38:55," """"",autohotkey
-"""c6d9ba54fffc9c7638e04df63e0bdd7f99daecd6b7bdb347d05a30fe16d68c7d"""," ""unknown"""," ""None"""," ""90""",2026-05-25 19:38:55," """"",autohotkey
-"""46c1a2426b2213b770cadb674591c8998b965273cadf1bc84ccfb5901d96e337"""," ""unknown"""," ""None"""," ""90""",2026-05-25 19:38:54," """"",autohotkey
-"""316e131a04cc717d2912d371c80e016eb89cf2bb9b02eb42c2a53167422465e2"""," ""unknown"""," ""None"""," ""90""",2026-05-25 19:38:54," """"",autohotkey
-"""9bb90d779fc12b6a10036b5477613d72a9da0612a677ae88843f79944d37801b"""," ""unknown"""," ""None"""," ""90""",2026-05-25 19:38:53," """"",autohotkey
-"""88f4b2193b87a76bbf56fdb7c282438f2d07a320784b2fa663ac45776ccd8bec"""," ""unknown"""," ""None"""," ""90""",2026-05-25 19:38:52," """"",autohotkey
+"""4eae39295458ac7a02bb837e0c82eecda3925f50dae684168bc0b203a89c53e2"""," ""js.smartapesg"""," ""HANEYMANEY"," """"",2026-05-27 18:53:29," ""SmartApeSG"""," ""aimpportable"
+"""5ff519ad6347e7df1bb14e2bc15d72f4b26290da2e642c8a65fb8d4736f23022"""," ""js.smartapesg"""," ""HANEYMANEY"," """"",2026-05-27 18:53:27," ""SmartApeSG"""," ""aimpportable"
+"""37b0e82941af3a9c12e09991411d1b037b9dc516c99a447f1929039f6648d34f"""," ""win.xworm"""," ""None"""," ""90""",2026-05-27 18:53:24," """"",double-ext
+"""eb185ca03b1309eb280e66a53545ef8e899c90ebdbd7897c05c11fa9ae3d7dd2"""," ""win.xworm"""," ""None"""," ""90""",2026-05-27 18:53:23," """"",double-ext
+"""3142ab1bd28b53bb14e4b5edd918c734a2bcdceee81e76b44444d548a93abcb6"""," ""win.xworm"""," ""None"""," ""90""",2026-05-27 18:53:22," """"",double-ext
+"""12a7502e951fa4922df01a8d69f6dd4a19bbcfa0c0b421ce92888ced54611e3f"""," ""win.xworm"""," ""None"""," ""90""",2026-05-27 18:53:21," """"",double-ext
+"""074e4567fbe1d97669b64d9fec23678ebbd27633812b37ae3b64271aa2546ba2"""," ""win.xworm"""," ""None"""," ""90""",2026-05-27 18:53:21," """"",double-ext
+"""f5f496ebc1de17421aa89f2a1160d30901b7b8cbfe475c3f5a7cb1e508d68356"""," ""unknown"""," ""None"""," ""85""",2026-05-27 07:09:27," """"",dga
+"""3b330a6ec000ea461732e484a61eb9eda1ece5b0a9b2458c222c5714ba6790ec"""," ""unknown"""," ""None"""," ""85""",2026-05-27 07:09:27," """"",dga
+"""bab74573404fc44b6e012fda3f7a8b00fe5a80565557ab78c9c1f0a8727afecf"""," ""unknown"""," ""None"""," ""85""",2026-05-27 07:09:25," """"",dga
+"""5cd46cb8ffa6092aad21337df0c10881ba012dad4d63f7ffac98eb6c8463d63d"""," ""unknown"""," ""None"""," ""85""",2026-05-27 07:09:24," """"",dga
+"""cdfae9f1d9702545972c1aee9e349cd3df4e6be8550f5d35ca3c508c6c9a7dc7"""," ""unknown"""," ""None"""," ""85""",2026-05-27 07:09:23," """"",dga
+"""D25263FC9F895ED6FBC5F07AD009B87B2FE03D691C44E220CE37CE7042FFA9D9"""," ""unknown_loader"""," ""None"""," ""75""",2026-05-27 07:09:19," """"",loader
+"""C881253DAFCF1322A771139B1A429EC1E78C507CA81A218A20DC1A4B25ABBFE7"""," ""unknown_loader"""," ""None"""," ""75""",2026-05-27 07:09:19," """"",loader
+"""A8FFAB0B134E177655DD255F9B05296BB5CA7C40C5C1A2157DB81FC68B350FFD"""," ""unknown_loader"""," ""None"""," ""75""",2026-05-27 07:09:18," """"",loader
