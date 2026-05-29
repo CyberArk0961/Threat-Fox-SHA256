@@ -1,4 +1,9 @@
 sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
+"""96010d488af15ba94dd0d3be9efc79442345a8b25798bd5dbf123f8aa6ad503f"""," ""unknown"""," ""None"""," ""75""",2026-05-28 14:40:20," """"",botd-gated
+"""ef461f4d2f04642ca42c7edaef1a8f8b76d14fcd751e62e6abad6d76c6cc89da"""," ""unknown"""," ""None"""," ""75""",2026-05-28 14:40:20," """"",phishing
+"""4e55269c94998a03c2481b2e49923208a657a2e32deecc50e8458eb3b6f55c65"""," ""unknown"""," ""None"""," ""75""",2026-05-28 14:40:19," """"",botd-gated
+"""9569cbb08a9bae8b840b0cc69af9af9d8634d4a02b6743a8c49cd35f3367c865"""," ""unknown"""," ""None"""," ""75""",2026-05-28 14:40:18," """"",botd-gated
+"""80954dbfaf4aaebe9685f8fca44334f0554b208661a167c498da17154b3a871f"""," ""unknown"""," ""None"""," ""75""",2026-05-28 14:40:17," """"",botd-gated
 """4eae39295458ac7a02bb837e0c82eecda3925f50dae684168bc0b203a89c53e2"""," ""js.smartapesg"""," ""HANEYMANEY"," """"",2026-05-27 18:53:29," ""SmartApeSG"""," ""aimpportable"
 """5ff519ad6347e7df1bb14e2bc15d72f4b26290da2e642c8a65fb8d4736f23022"""," ""js.smartapesg"""," ""HANEYMANEY"," """"",2026-05-27 18:53:27," ""SmartApeSG"""," ""aimpportable"
 """37b0e82941af3a9c12e09991411d1b037b9dc516c99a447f1929039f6648d34f"""," ""win.xworm"""," ""None"""," ""90""",2026-05-27 18:53:24," """"",double-ext
@@ -11,6 +16,5 @@ sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
 """bab74573404fc44b6e012fda3f7a8b00fe5a80565557ab78c9c1f0a8727afecf"""," ""unknown"""," ""None"""," ""85""",2026-05-27 07:09:25," """"",dga
 """5cd46cb8ffa6092aad21337df0c10881ba012dad4d63f7ffac98eb6c8463d63d"""," ""unknown"""," ""None"""," ""85""",2026-05-27 07:09:24," """"",dga
 """cdfae9f1d9702545972c1aee9e349cd3df4e6be8550f5d35ca3c508c6c9a7dc7"""," ""unknown"""," ""None"""," ""85""",2026-05-27 07:09:23," """"",dga
-"""D25263FC9F895ED6FBC5F07AD009B87B2FE03D691C44E220CE37CE7042FFA9D9"""," ""unknown_loader"""," ""None"""," ""75""",2026-05-27 07:09:19," """"",loader
 """C881253DAFCF1322A771139B1A429EC1E78C507CA81A218A20DC1A4B25ABBFE7"""," ""unknown_loader"""," ""None"""," ""75""",2026-05-27 07:09:19," """"",loader
-"""A8FFAB0B134E177655DD255F9B05296BB5CA7C40C5C1A2157DB81FC68B350FFD"""," ""unknown_loader"""," ""None"""," ""75""",2026-05-27 07:09:18," """"",loader
+"""D25263FC9F895ED6FBC5F07AD009B87B2FE03D691C44E220CE37CE7042FFA9D9"""," ""unknown_loader"""," ""None"""," ""75""",2026-05-27 07:09:19," """"",loader
