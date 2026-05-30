@@ -1,20 +1,18 @@
 sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
-"""96010d488af15ba94dd0d3be9efc79442345a8b25798bd5dbf123f8aa6ad503f"""," ""unknown"""," ""None"""," ""75""",2026-05-28 14:40:20," """"",botd-gated
+"""e9e5b46bf9ca7c4c02747db607a65f1922b524d2a7d059cb70135c8b86bbebcc"""," ""unknown"""," ""None"""," ""75""",2026-05-29 14:33:53," """"",connectwise
+"""f928aa91a1c90273fe9a9705987f0a3bf7b0cc4abbc0357f6ccf7111e543f536"""," ""unknown"""," ""None"""," ""75""",2026-05-29 13:23:55," """"",cred-phish
+"""e20b8e1d8337cec11d40db7580f42460abbc2b60ce0938bf2c746a32e0747421"""," ""elf.xmrig"""," ""None"""," ""90""",2026-05-29 09:48:32," """"",linux
+"""a437ad7a5250390bce355a1957a3584a68df7efc3006e2f2bcf052845bc32ae8"""," ""elf.xmrig"""," ""None"""," ""90""",2026-05-29 09:48:31," """"",linux
+"""ada3a2598dc763b860c98236f6ff09f8be2890da1c5fb53539a6d19b065d9620"""," ""win.asyncrat"""," ""None"""," ""50""",2026-05-29 06:26:11," """""," ""0"""
+"""014e3b0450e294c7917c7986d3b19c2aaaac9d13609d6fbe230bd83168ae4437"""," ""unknown"""," ""None"""," ""75""",2026-05-29 06:25:53," """"",cred-phish
+"""20d25e6bc246c9fb401e41ae8ab09e7976b92317ef97532ff07c163af6c823dd"""," ""unknown"""," ""None"""," ""75""",2026-05-29 06:25:52," """"",cred-phish
+"""30e720476e4eb57742d1c61b8127e29e3bd2dedb884e3595aba41888cf15b106"""," ""unknown"""," ""None"""," ""75""",2026-05-29 06:25:52," """"",cred-phish
+"""6a9249a2019e415f0e13a185fcb411f7f8816d477de5c2e94e5ab61fb06a7aa3"""," ""unknown"""," ""None"""," ""75""",2026-05-29 06:25:51," """"",cred-phish
+"""b8cfbeda4565712da8ffe1cfb365c1701ab85239e5d43822f83fbc962b205409"""," ""unknown"""," ""None"""," ""75""",2026-05-29 06:25:51," """"",cred-phish
+"""a502120e5056f6cb4cf5aacb143e1f7c7468a82fea9714e9675ad32f106857a0"""," ""unknown"""," ""None"""," ""75""",2026-05-29 06:25:48," """"",clickfix-promoted
+"""8562a87f3096711e06456205f15fc62009398fc97315d1ce82389475c306d4f6"""," ""unknown"""," ""None"""," ""75""",2026-05-29 06:25:47," """"",clickfix-promoted
 """ef461f4d2f04642ca42c7edaef1a8f8b76d14fcd751e62e6abad6d76c6cc89da"""," ""unknown"""," ""None"""," ""75""",2026-05-28 14:40:20," """"",phishing
+"""96010d488af15ba94dd0d3be9efc79442345a8b25798bd5dbf123f8aa6ad503f"""," ""unknown"""," ""None"""," ""75""",2026-05-28 14:40:20," """"",botd-gated
 """4e55269c94998a03c2481b2e49923208a657a2e32deecc50e8458eb3b6f55c65"""," ""unknown"""," ""None"""," ""75""",2026-05-28 14:40:19," """"",botd-gated
 """9569cbb08a9bae8b840b0cc69af9af9d8634d4a02b6743a8c49cd35f3367c865"""," ""unknown"""," ""None"""," ""75""",2026-05-28 14:40:18," """"",botd-gated
 """80954dbfaf4aaebe9685f8fca44334f0554b208661a167c498da17154b3a871f"""," ""unknown"""," ""None"""," ""75""",2026-05-28 14:40:17," """"",botd-gated
-"""4eae39295458ac7a02bb837e0c82eecda3925f50dae684168bc0b203a89c53e2"""," ""js.smartapesg"""," ""HANEYMANEY"," """"",2026-05-27 18:53:29," ""SmartApeSG"""," ""aimpportable"
-"""5ff519ad6347e7df1bb14e2bc15d72f4b26290da2e642c8a65fb8d4736f23022"""," ""js.smartapesg"""," ""HANEYMANEY"," """"",2026-05-27 18:53:27," ""SmartApeSG"""," ""aimpportable"
-"""37b0e82941af3a9c12e09991411d1b037b9dc516c99a447f1929039f6648d34f"""," ""win.xworm"""," ""None"""," ""90""",2026-05-27 18:53:24," """"",double-ext
-"""eb185ca03b1309eb280e66a53545ef8e899c90ebdbd7897c05c11fa9ae3d7dd2"""," ""win.xworm"""," ""None"""," ""90""",2026-05-27 18:53:23," """"",double-ext
-"""3142ab1bd28b53bb14e4b5edd918c734a2bcdceee81e76b44444d548a93abcb6"""," ""win.xworm"""," ""None"""," ""90""",2026-05-27 18:53:22," """"",double-ext
-"""12a7502e951fa4922df01a8d69f6dd4a19bbcfa0c0b421ce92888ced54611e3f"""," ""win.xworm"""," ""None"""," ""90""",2026-05-27 18:53:21," """"",double-ext
-"""074e4567fbe1d97669b64d9fec23678ebbd27633812b37ae3b64271aa2546ba2"""," ""win.xworm"""," ""None"""," ""90""",2026-05-27 18:53:21," """"",double-ext
-"""f5f496ebc1de17421aa89f2a1160d30901b7b8cbfe475c3f5a7cb1e508d68356"""," ""unknown"""," ""None"""," ""85""",2026-05-27 07:09:27," """"",dga
-"""3b330a6ec000ea461732e484a61eb9eda1ece5b0a9b2458c222c5714ba6790ec"""," ""unknown"""," ""None"""," ""85""",2026-05-27 07:09:27," """"",dga
-"""bab74573404fc44b6e012fda3f7a8b00fe5a80565557ab78c9c1f0a8727afecf"""," ""unknown"""," ""None"""," ""85""",2026-05-27 07:09:25," """"",dga
-"""5cd46cb8ffa6092aad21337df0c10881ba012dad4d63f7ffac98eb6c8463d63d"""," ""unknown"""," ""None"""," ""85""",2026-05-27 07:09:24," """"",dga
-"""cdfae9f1d9702545972c1aee9e349cd3df4e6be8550f5d35ca3c508c6c9a7dc7"""," ""unknown"""," ""None"""," ""85""",2026-05-27 07:09:23," """"",dga
-"""C881253DAFCF1322A771139B1A429EC1E78C507CA81A218A20DC1A4B25ABBFE7"""," ""unknown_loader"""," ""None"""," ""75""",2026-05-27 07:09:19," """"",loader
-"""D25263FC9F895ED6FBC5F07AD009B87B2FE03D691C44E220CE37CE7042FFA9D9"""," ""unknown_loader"""," ""None"""," ""75""",2026-05-27 07:09:19," """"",loader
