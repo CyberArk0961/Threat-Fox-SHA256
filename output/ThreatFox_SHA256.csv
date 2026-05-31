@@ -1,4 +1,5 @@
 sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
+"""262ce2aa04ea6d8e311edef8128ffd2ddcae4c231f01a8d09f8aeb0a7ea09fcf"""," ""unknown"""," ""None"""," ""100""",2026-05-30 15:52:04," """"","stealer"""
 """e9e5b46bf9ca7c4c02747db607a65f1922b524d2a7d059cb70135c8b86bbebcc"""," ""unknown"""," ""None"""," ""75""",2026-05-29 14:33:53," """"",connectwise
 """f928aa91a1c90273fe9a9705987f0a3bf7b0cc4abbc0357f6ccf7111e543f536"""," ""unknown"""," ""None"""," ""75""",2026-05-29 13:23:55," """"",cred-phish
 """e20b8e1d8337cec11d40db7580f42460abbc2b60ce0938bf2c746a32e0747421"""," ""elf.xmrig"""," ""None"""," ""90""",2026-05-29 09:48:32," """"",linux
@@ -11,8 +12,3 @@ sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
 """b8cfbeda4565712da8ffe1cfb365c1701ab85239e5d43822f83fbc962b205409"""," ""unknown"""," ""None"""," ""75""",2026-05-29 06:25:51," """"",cred-phish
 """a502120e5056f6cb4cf5aacb143e1f7c7468a82fea9714e9675ad32f106857a0"""," ""unknown"""," ""None"""," ""75""",2026-05-29 06:25:48," """"",clickfix-promoted
 """8562a87f3096711e06456205f15fc62009398fc97315d1ce82389475c306d4f6"""," ""unknown"""," ""None"""," ""75""",2026-05-29 06:25:47," """"",clickfix-promoted
-"""ef461f4d2f04642ca42c7edaef1a8f8b76d14fcd751e62e6abad6d76c6cc89da"""," ""unknown"""," ""None"""," ""75""",2026-05-28 14:40:20," """"",phishing
-"""96010d488af15ba94dd0d3be9efc79442345a8b25798bd5dbf123f8aa6ad503f"""," ""unknown"""," ""None"""," ""75""",2026-05-28 14:40:20," """"",botd-gated
-"""4e55269c94998a03c2481b2e49923208a657a2e32deecc50e8458eb3b6f55c65"""," ""unknown"""," ""None"""," ""75""",2026-05-28 14:40:19," """"",botd-gated
-"""9569cbb08a9bae8b840b0cc69af9af9d8634d4a02b6743a8c49cd35f3367c865"""," ""unknown"""," ""None"""," ""75""",2026-05-28 14:40:18," """"",botd-gated
-"""80954dbfaf4aaebe9685f8fca44334f0554b208661a167c498da17154b3a871f"""," ""unknown"""," ""None"""," ""75""",2026-05-28 14:40:17," """"",botd-gated
