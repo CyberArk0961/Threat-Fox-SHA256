@@ -1,14 +1,3 @@
 sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
+"""c3921fef70e1895559fe0caea0ea678e8df4e4d3b65dcde33103379b4dbdf99a"""," ""js.beavertail"""," ""None"""," ""100""",2026-05-31 06:48:12," """""," ""0"""
 """262ce2aa04ea6d8e311edef8128ffd2ddcae4c231f01a8d09f8aeb0a7ea09fcf"""," ""unknown"""," ""None"""," ""100""",2026-05-30 15:52:04," """"","stealer"""
-"""e9e5b46bf9ca7c4c02747db607a65f1922b524d2a7d059cb70135c8b86bbebcc"""," ""unknown"""," ""None"""," ""75""",2026-05-29 14:33:53," """"",connectwise
-"""f928aa91a1c90273fe9a9705987f0a3bf7b0cc4abbc0357f6ccf7111e543f536"""," ""unknown"""," ""None"""," ""75""",2026-05-29 13:23:55," """"",cred-phish
-"""e20b8e1d8337cec11d40db7580f42460abbc2b60ce0938bf2c746a32e0747421"""," ""elf.xmrig"""," ""None"""," ""90""",2026-05-29 09:48:32," """"",linux
-"""a437ad7a5250390bce355a1957a3584a68df7efc3006e2f2bcf052845bc32ae8"""," ""elf.xmrig"""," ""None"""," ""90""",2026-05-29 09:48:31," """"",linux
-"""ada3a2598dc763b860c98236f6ff09f8be2890da1c5fb53539a6d19b065d9620"""," ""win.asyncrat"""," ""None"""," ""50""",2026-05-29 06:26:11," """""," ""0"""
-"""014e3b0450e294c7917c7986d3b19c2aaaac9d13609d6fbe230bd83168ae4437"""," ""unknown"""," ""None"""," ""75""",2026-05-29 06:25:53," """"",cred-phish
-"""20d25e6bc246c9fb401e41ae8ab09e7976b92317ef97532ff07c163af6c823dd"""," ""unknown"""," ""None"""," ""75""",2026-05-29 06:25:52," """"",cred-phish
-"""30e720476e4eb57742d1c61b8127e29e3bd2dedb884e3595aba41888cf15b106"""," ""unknown"""," ""None"""," ""75""",2026-05-29 06:25:52," """"",cred-phish
-"""6a9249a2019e415f0e13a185fcb411f7f8816d477de5c2e94e5ab61fb06a7aa3"""," ""unknown"""," ""None"""," ""75""",2026-05-29 06:25:51," """"",cred-phish
-"""b8cfbeda4565712da8ffe1cfb365c1701ab85239e5d43822f83fbc962b205409"""," ""unknown"""," ""None"""," ""75""",2026-05-29 06:25:51," """"",cred-phish
-"""a502120e5056f6cb4cf5aacb143e1f7c7468a82fea9714e9675ad32f106857a0"""," ""unknown"""," ""None"""," ""75""",2026-05-29 06:25:48," """"",clickfix-promoted
-"""8562a87f3096711e06456205f15fc62009398fc97315d1ce82389475c306d4f6"""," ""unknown"""," ""None"""," ""75""",2026-05-29 06:25:47," """"",clickfix-promoted
