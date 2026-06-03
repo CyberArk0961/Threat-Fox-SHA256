@@ -1,9 +1,9 @@
 sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
+"""adfa14deed04a850938bf48ef190b1f30b93d1bebe07ad2e7d0b48d8a03bdabc"""," ""elf.xmrig"""," ""None"""," ""90""",2026-06-02 13:48:43," """"",cryptojacking
 """86d162d2e4ae90daad260faa7df25be2e28bc70a97d0d0548d80a670177a2739"""," ""elf.mirai"""," ""Katana"""," ""85""",2026-06-01 20:49:21," """"",c2c-agent
 """5bf67d64e94a8ed6b81a0855fee52626eb0f4caf1772518fc2404883030451c2"""," ""elf.mirai"""," ""Katana"""," ""85""",2026-06-01 20:49:19," """"",ARM
 """59c29436755b0778e968d49feeae20ed65f5fa5e35f9f7965b8ed93420db91e5"""," ""elf.redtail"""," ""None"""," ""85""",2026-06-01 20:49:19," """"",miner
 """dbb7ebb960dc0d5a480f97ddde3a227a2d83fcaca7d37ae672e6a0a6785631e9"""," ""elf.redtail"""," ""None"""," ""85""",2026-06-01 20:49:19," """"",arm8
-"""c3921fef70e1895559fe0caea0ea678e8df4e4d3b65dcde33103379b4dbdf99a"""," ""js.beavertail"""," ""None"""," ""100""",2026-05-31 06:48:12," """""," ""0"""
 """ef355778546bc6e044330691404b63eddf83d7fc6073047394a25dd0e98c7d7d"""," ""elf.xmrig"""," ""None"""," ""90""",2026-05-23 08:59:06," ""2026-06-01 17:21:18""",linux
 """048e374baac36d8cf68dd32e48313ef8eb517d647548b1bf5f26d2d0e2e3cdc7"""," ""elf.redtail"""," ""None"""," ""100""",2026-04-04 07:10:58," ""2026-06-01 17:21:16"""," ""0"""
 """3625d068896953595e75df328676a08bc071977ac1ff95d44b745bbcb7018c6f"""," ""elf.redtail"""," ""None"""," ""100""",2026-04-04 07:10:57," ""2026-06-01 17:21:13"""," ""0"""
