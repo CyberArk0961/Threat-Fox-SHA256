@@ -1,17 +1,19 @@
 sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
+"""b0e1ae6d73d656b203514f498b59cbcf29f067edf6fbd3803a3de7d21960848d"""," ""elf.xmrig"""," ""None"""," ""80""",2026-06-05 05:19:11," """"",docker-api
+"""f38504f53f6a25c405cfa272572eb0ededbbb4b9399b8aec1706d5e2b990f1c9"""," ""elf.xmrig"""," ""None"""," ""80""",2026-06-05 05:19:10," """"",docker-api
 """213d841404449d68dd9f50c18f7259074c43df2fd5221f0bbd34d2e89b611b73"""," ""unknown"""," ""None"""," ""75""",2026-06-04 17:59:01," """""," ""0"""
 """e0af88c9b1278d91a30f651ba3a0e77419c010de662dd6b5b86c1d8415093bc4"""," ""unknown"""," ""None"""," ""75""",2026-06-04 17:59:01," """""," ""0"""
 """85dfef0c1b65ee9eb213ea830e0a78d471872e947e1924e90365d29cdeb64c10"""," ""unknown"""," ""None"""," ""75""",2026-06-04 17:59:00," """""," ""0"""
 """7e160f885fe15d7f5b67e3d321c1bd8240a63bb80c8156f604829f0cbadba313"""," ""unknown"""," ""None"""," ""75""",2026-06-04 17:59:00," """""," ""0"""
-"""33e78a25233a88b3ac6fd6fbe4b42b0e047a89736fd9b089628ab60b29c4dd9a"""," ""unknown"""," ""None"""," ""75""",2026-06-04 17:58:59," """""," ""0"""
 """bed1028badee2ade8a8a8edd25aa4c3e70a6beefafbdffd6426e5e467f24eb01"""," ""unknown"""," ""None"""," ""75""",2026-06-04 17:58:59," """""," ""0"""
+"""33e78a25233a88b3ac6fd6fbe4b42b0e047a89736fd9b089628ab60b29c4dd9a"""," ""unknown"""," ""None"""," ""75""",2026-06-04 17:58:59," """""," ""0"""
 """0d81cab9f7ca5ac7c201c4917dfc7beee2ea6ea5fd9f0b23e7b088f084cda92c"""," ""unknown"""," ""None"""," ""75""",2026-06-04 17:58:58," """""," ""0"""
-"""f22a7dd6e64dafabcbc35cb9d56abc38392e228d7beef8ed2e71727099c31a80"""," ""unknown"""," ""None"""," ""75""",2026-06-04 17:58:57," """""," ""0"""
 """3922ac9a1588e0d9d5946e71d95d065cc3cf64e776d792b105981e23220d096f"""," ""unknown"""," ""None"""," ""75""",2026-06-04 17:58:57," """""," ""0"""
+"""f22a7dd6e64dafabcbc35cb9d56abc38392e228d7beef8ed2e71727099c31a80"""," ""unknown"""," ""None"""," ""75""",2026-06-04 17:58:57," """""," ""0"""
 """2c1118dd50e8501345eb3d04cd1e07eda41668e7f4379d9958405d3be6bfc45d"""," ""unknown"""," ""None"""," ""75""",2026-06-04 17:58:56," """"","WSHRAT"""
 """150e66931f7218cc66418cd5f80b412343574a7f8c63ecf20e6eab3efaaee1d1"""," ""unknown"""," ""None"""," ""75""",2026-06-04 17:58:55," """"","WSHRAT"""
-"""2cd017872d8b04b1b36e832f88cc1976492ccf5e8acea19d82af69b2c3cbe47f"""," ""unknown"""," ""None"""," ""75""",2026-06-04 17:58:54," """"","WSHRAT"""
 """ddc089db76d5e0419e1f7d3777d2227df3a5cc4b55ea33f9616863cccad3c89f"""," ""unknown"""," ""None"""," ""75""",2026-06-04 17:58:54," """"","WSHRAT"""
+"""2cd017872d8b04b1b36e832f88cc1976492ccf5e8acea19d82af69b2c3cbe47f"""," ""unknown"""," ""None"""," ""75""",2026-06-04 17:58:54," """"","WSHRAT"""
 """7f5291e4b0b175d29df2221e56185abf4f8fefc839b8cd71792b4e7b20b529e4"""," ""unknown"""," ""None"""," ""75""",2026-06-04 17:58:53," """"","WSHRAT"""
 """274d7502c60c6f91a4e4c083cbdf03df21a7f25079c3f92b9587740a1a274de0"""," ""unknown"""," ""None"""," ""75""",2026-06-04 17:58:53," """"","WSHRAT"""
 """28472632ef7c1673383da89b54fb15ac46cb36ca0664f2affc7df4d5449ea590"""," ""unknown"""," ""None"""," ""75""",2026-06-04 17:58:52," """"","WSHRAT"""
@@ -26,25 +28,20 @@ sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
 """73b1bd6d589d5b4c752e380a5c9439d06d53d2b8a192fb20a9464662633b7b09"""," ""unknown"""," ""None"""," ""75""",2026-06-04 17:58:48," """"","WSHRAT"""
 """15cad7d81512892146c840e74150f311907f99d2758eaf3977400b9092255c53"""," ""unknown"""," ""None"""," ""75""",2026-06-04 17:58:48," """"","WSHRAT"""
 """381fcd4c4eef057ea509fa27a645fb7138a92317c3b21f5c5425c4cbdca122b8"""," ""unknown"""," ""None"""," ""75""",2026-06-04 17:58:47," """"","WSHRAT"""
-"""556d7e26039a275f61e29165700b53574f04ca451db415d8c2b5ec1533d2094d"""," ""win.sectop_rat"""," ""1xxbot"," """"",2026-06-04 13:04:03," ""SectopRAT"""," ""ArechClient2"
 """CDC1823F8B7B595960CCA2E4DADB1B47C0FF20F1C0563FAF9DE4F9AFCFD6A419"""," ""win.sectop_rat"""," ""1xxbot"," """"",2026-06-04 13:04:03," ""SectopRAT"""," ""ArechClient2"
+"""556d7e26039a275f61e29165700b53574f04ca451db415d8c2b5ec1533d2094d"""," ""win.sectop_rat"""," ""1xxbot"," """"",2026-06-04 13:04:03," ""SectopRAT"""," ""ArechClient2"
 """9df80a9ef89d8a52c2104c4e00bd68908bda06c1cf29fa096337426e6f290580"""," ""win.sectop_rat"""," ""1xxbot"," """"",2026-06-04 13:04:02," ""SectopRAT"""," ""ArechClient2"
 """421bb7ec91d3ed0f18114dab6dc2eb21fc8caac060c98f6e126c3a5589467c38"""," ""win.sectop_rat"""," ""1xxbot"," """"",2026-06-04 13:04:02," ""SectopRAT"""," ""ArechClient2"
 """a9b029504e5ad5f36d8e66b2db5b67d35582908f0474e8a2f0de4a2b0d704420"""," ""win.sectop_rat"""," ""1xxbot"," """"",2026-06-04 13:04:02," ""SectopRAT"""," ""ArechClient2"
 """f5cb9194e3e34f10171be656d9a55a70ca96ed1258ffe371630f1086637a8d76"""," ""win.sectop_rat"""," ""1xxbot"," """"",2026-06-04 13:04:01," ""SectopRAT"""," ""ArechClient2"
 """d8219ff7bb309b660a61008793f8250aeff1133be9be3a7747fba28500b0362c"""," ""win.sectop_rat"""," ""1xxbot"," """"",2026-06-04 13:04:00," ""SectopRAT"""," ""ArechClient2"
 """e30a11906aadffc1682a1b07934301c6b68b854c9979bc64fd65152a349ed59f"""," ""unknown"""," ""None"""," ""75""",2026-06-04 05:17:43," """"","loader"""
-"""601f4ae850e192bc76300f3851f4b421ba2e05313cb3f1ace0a0c98301e237bb"""," ""unknown"""," ""None"""," ""75""",2026-06-04 05:17:29," """"",fakeupdate
 """bf5eea26587860faa25bbff99fb0a02e434d561a28a9675c29494653ade366b0"""," ""unknown"""," ""None"""," ""75""",2026-06-04 05:17:29," """"",fakeupdate
+"""601f4ae850e192bc76300f3851f4b421ba2e05313cb3f1ace0a0c98301e237bb"""," ""unknown"""," ""None"""," ""75""",2026-06-04 05:17:29," """"",fakeupdate
 """4af29f1dc5cacc56d2e84ba3538cb54983b71d4fe27af44c8c00dddcbd45be49"""," ""unknown"""," ""None"""," ""75""",2026-06-04 05:17:27," """"",fakeupdate
 """dabb2cfc1da018ac3b4fd5f60f9c5e2ca096319cb67dd904ed7df7392f3d6d00"""," ""unknown"""," ""None"""," ""100""",2026-06-04 05:17:23," """"",garble
 """049409e0f3b42355a44d1e3071da71526bae92dad9e0d70b5f3b91680f08275b"""," ""unknown"""," ""None"""," ""75""",2026-06-04 05:17:07," """"",fakeputty
-"""966266fa8645650be30a6f2f38a40426251f3930a0ccbc4fd307d09cf31de736"""," ""unknown"""," ""None"""," ""75""",2026-06-04 05:17:06," """"",fakeputty
 """18e4b37eb34c38d7d5a0a1cdec0074f14bfc189b0493c4bc18c287fc09d0e1c3"""," ""unknown"""," ""None"""," ""75""",2026-06-04 05:17:06," """"",fakeputty
+"""966266fa8645650be30a6f2f38a40426251f3930a0ccbc4fd307d09cf31de736"""," ""unknown"""," ""None"""," ""75""",2026-06-04 05:17:06," """"",fakeputty
 """fdbcff609beb437cc8c944c88e101b85a6ec0d592a9afe1c4dc6ef040e7518bd"""," ""unknown"""," ""None"""," ""75""",2026-06-04 05:16:36," """"","loader"""
 """06e395ff22a7d11297168375628f446b8e11b7cf8ab5ee2a82ab8de1bc6faf5a"""," ""unknown"""," ""None"""," ""75""",2026-06-04 05:16:35," """"","loader"""
-"""00443779c72fffed7cc6d40a6e38f32bd5559dc7382177d0866cdaa6a4fe496a"""," ""unknown"""," ""None"""," ""75""",2026-06-03 05:54:54," ""2026-06-03 13:20:15""","polydrop"""
-"""39fbfcccf13ab9d65d90c38b37febef37a89ad7341900ab60eee3896123ed2d1"""," ""unknown"""," ""None"""," ""75""",2026-06-03 05:54:54," ""2026-06-03 13:20:15""","polydrop"""
-"""e3455fb41ba8dce83b27931bacdd6596fd8b925305bedb5bdc00640a0e6a1839"""," ""unknown"""," ""None"""," ""75""",2026-06-03 05:54:54," ""2026-06-03 13:20:15""","polydrop"""
-"""ff7a32719f16ac930510f2ab8b9131fb3ae3680338d085fc182ff05ebf97de14"""," ""unknown"""," ""None"""," ""75""",2026-06-03 05:54:53," ""2026-06-03 13:20:15""","polydrop"""
-"""005161b1d1b1065b7e1621306aaa5f48fc2196f0af4b12cf7d313018101ceb7d"""," ""unknown"""," ""None"""," ""75""",2026-06-03 05:54:53," ""2026-06-03 13:20:15""","polydrop"""
