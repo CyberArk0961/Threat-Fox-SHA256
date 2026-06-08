@@ -1,6 +1,9 @@
 sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
+"""4bc74592e63eddfbf8d60991f1987369fd94983cbe1aea350f31f50bad2e2ccb"""," ""unknown"""," ""None"""," ""75""",2026-06-07 15:22:27," """"",mcjit-loader
+"""c8828efba8e167e85a1d7f4a86aa743f1bba9c19e467a4e7e50e7970d51b28a9"""," ""unknown"""," ""None"""," ""100""",2026-06-07 07:23:14," """""," ""0"""
+"""f2d3905ee38b2b5c0b724d582f14eb1db7621ffb8f3826df686a20784341614c"""," ""unknown"""," ""None"""," ""100""",2026-06-07 07:23:14," """""," ""0"""
+"""3eebbad99104a48977441a791829a7a442e745ee27b7ab1be7e7418b7ca3e8d9"""," ""unknown"""," ""None"""," ""100""",2026-06-07 07:23:12," """""," ""0"""
+"""df9e38ea510a595071a3263a83a15753fc1b51c29655eaa9579efc8d1dff6f29"""," ""unknown"""," ""None"""," ""100""",2026-06-07 07:23:12," """""," ""0"""
 """a4225ad00fbe2123e27d25bca0988586164e2467762d2d1db304300b2d24d04b"""," ""unknown"""," ""None"""," ""75""",2026-06-06 06:00:15," """"",llvm-mcjit-loader
 """ea2bb5ebd6482e87f25949e792c976dfeaddc1bcb36e2c62476854e4aa22d3a7"""," ""unknown"""," ""None"""," ""75""",2026-06-06 06:00:13," """"",llvm-mcjit-loader
 """7340167a765d3d005af93fd10dbd6af48abfd50055fd6b8fca987b7c1363e5d4"""," ""unknown"""," ""None"""," ""75""",2026-06-06 06:00:13," """"",llvm-mcjit-loader
-"""b0e1ae6d73d656b203514f498b59cbcf29f067edf6fbd3803a3de7d21960848d"""," ""elf.xmrig"""," ""None"""," ""80""",2026-06-05 05:19:11," """"",docker-api
-"""f38504f53f6a25c405cfa272572eb0ededbbb4b9399b8aec1706d5e2b990f1c9"""," ""elf.xmrig"""," ""None"""," ""80""",2026-06-05 05:19:10," """"",docker-api
