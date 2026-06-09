@@ -1,9 +1,10 @@
 sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
+"""e3300ce9dce0d41690e711b8ee3bb5498ccf25c68d4bafe35416a77a2d88cbd2"""," ""win.cobalt_strike"""," ""Agentemis","cobeacon""",2026-06-08 17:18:36,CobaltStrike," ""True"""
+"""83a85d92277f0c762414e97f26538e4657f28a1cebe3e4f5d5d32e5ecf7b458a"""," ""win.cobalt_strike"""," ""Agentemis","cobeacon""",2026-06-08 17:18:36,CobaltStrike," ""True"""
+"""007c16460b4b540cdbdb2488eb9be57baed53a31f2544bda86e3d21fb5e019ff"""," ""unknown_rat"""," ""None"""," ""50""",2026-06-08 12:05:52," """""," ""0"""
+"""ac2248d66cadf6597f428cde47f98c1adbb382da0473cceca632dec08ecf3e06"""," ""unknown_rat"""," ""None"""," ""50""",2026-06-08 12:05:52," """""," ""0"""
 """4bc74592e63eddfbf8d60991f1987369fd94983cbe1aea350f31f50bad2e2ccb"""," ""unknown"""," ""None"""," ""75""",2026-06-07 15:22:27," """"",mcjit-loader
 """c8828efba8e167e85a1d7f4a86aa743f1bba9c19e467a4e7e50e7970d51b28a9"""," ""unknown"""," ""None"""," ""100""",2026-06-07 07:23:14," """""," ""0"""
 """f2d3905ee38b2b5c0b724d582f14eb1db7621ffb8f3826df686a20784341614c"""," ""unknown"""," ""None"""," ""100""",2026-06-07 07:23:14," """""," ""0"""
 """3eebbad99104a48977441a791829a7a442e745ee27b7ab1be7e7418b7ca3e8d9"""," ""unknown"""," ""None"""," ""100""",2026-06-07 07:23:12," """""," ""0"""
 """df9e38ea510a595071a3263a83a15753fc1b51c29655eaa9579efc8d1dff6f29"""," ""unknown"""," ""None"""," ""100""",2026-06-07 07:23:12," """""," ""0"""
-"""a4225ad00fbe2123e27d25bca0988586164e2467762d2d1db304300b2d24d04b"""," ""unknown"""," ""None"""," ""75""",2026-06-06 06:00:15," """"",llvm-mcjit-loader
-"""ea2bb5ebd6482e87f25949e792c976dfeaddc1bcb36e2c62476854e4aa22d3a7"""," ""unknown"""," ""None"""," ""75""",2026-06-06 06:00:13," """"",llvm-mcjit-loader
-"""7340167a765d3d005af93fd10dbd6af48abfd50055fd6b8fca987b7c1363e5d4"""," ""unknown"""," ""None"""," ""75""",2026-06-06 06:00:13," """"",llvm-mcjit-loader
