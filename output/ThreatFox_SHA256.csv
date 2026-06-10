@@ -1,10 +1,16 @@
 sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
+"""3cea9df086d111a71c24822aa626380105347dd6d458ae7971557684bf12e097"""," ""win.xtinyloader"""," ""None"""," ""100""",2026-06-09 18:45:12," """"",loader
+"""34f0612b6ceff640754500f6c0f4d70e385db4cbe1807fa6974808e9b66cbb96"""," ""win.nanocore"""," ""Nancrat"," """"",2026-06-09 18:45:11," ""Nanocore RAT"""," ""Amadey"
+"""90fe8c831a681c8c1dc77a271bb417fd52479fe6fc79d6cb9b7ffaf13f801f93"""," ""js.kongtuke"""," ""TAG-124"," """"",2026-06-09 18:18:03," ""KongTuke"""," ""ClickFix"
+"""6af715b5105d6d16e02ee6d1de14410a8a0fd2fb3d7b752bb24be25105fac0b2"""," ""js.kongtuke"""," ""TAG-124"," """"",2026-06-09 18:18:03," ""KongTuke"""," ""ClickFix"
+"""b8e9bbde0e8ce2781c5c829919461ee232b82b81e3be3a6a386cf10ed6f35a21"""," ""unknown"""," ""None"""," ""100""",2026-06-09 16:39:53," """"",daam-demo
+"""0b45d1520d0a48bcdac3ce16a3b5000dffd954abbdb1723d9215b35c554f48bb"""," ""unknown"""," ""None"""," ""100""",2026-06-09 16:39:53," """"",daam-demo
+"""48f2a3bfb7a70b97875e56d932ada0d975cd5ee154a99caf7d93550275a1548a"""," ""unknown"""," ""None"""," ""100""",2026-06-09 16:39:52," """"",daam-demo
+"""c7a24e1fc68b7233e1c93c02409e9429a1ea5cf0662eb4cd03364373df7d7044"""," ""unknown"""," ""None"""," ""100""",2026-06-09 16:39:52," """"",daam-demo
+"""51e1f3a97629e8db50ca1f9a0b68c019e74c07ce5209d5eefd4a2e3f4fe62869"""," ""unknown"""," ""None"""," ""100""",2026-06-09 16:39:51," """"",daam-demo
+"""068505fab1dc1b784ddc845c9eeeba8e04da512383ecd55a7a3d076879656393"""," ""unknown"""," ""None"""," ""100""",2026-06-09 16:39:51," """"",daam-demo
+"""19678a2d474affb5164942a842488275dafc988bab2e5918e38422f152ecc66b"""," ""js.clearfake"""," ""None"""," ""75""",2026-06-09 05:11:00," """"",ClickFix
 """e3300ce9dce0d41690e711b8ee3bb5498ccf25c68d4bafe35416a77a2d88cbd2"""," ""win.cobalt_strike"""," ""Agentemis","cobeacon""",2026-06-08 17:18:36,CobaltStrike," ""True"""
 """83a85d92277f0c762414e97f26538e4657f28a1cebe3e4f5d5d32e5ecf7b458a"""," ""win.cobalt_strike"""," ""Agentemis","cobeacon""",2026-06-08 17:18:36,CobaltStrike," ""True"""
 """007c16460b4b540cdbdb2488eb9be57baed53a31f2544bda86e3d21fb5e019ff"""," ""unknown_rat"""," ""None"""," ""50""",2026-06-08 12:05:52," """""," ""0"""
 """ac2248d66cadf6597f428cde47f98c1adbb382da0473cceca632dec08ecf3e06"""," ""unknown_rat"""," ""None"""," ""50""",2026-06-08 12:05:52," """""," ""0"""
-"""4bc74592e63eddfbf8d60991f1987369fd94983cbe1aea350f31f50bad2e2ccb"""," ""unknown"""," ""None"""," ""75""",2026-06-07 15:22:27," """"",mcjit-loader
-"""c8828efba8e167e85a1d7f4a86aa743f1bba9c19e467a4e7e50e7970d51b28a9"""," ""unknown"""," ""None"""," ""100""",2026-06-07 07:23:14," """""," ""0"""
-"""f2d3905ee38b2b5c0b724d582f14eb1db7621ffb8f3826df686a20784341614c"""," ""unknown"""," ""None"""," ""100""",2026-06-07 07:23:14," """""," ""0"""
-"""3eebbad99104a48977441a791829a7a442e745ee27b7ab1be7e7418b7ca3e8d9"""," ""unknown"""," ""None"""," ""100""",2026-06-07 07:23:12," """""," ""0"""
-"""df9e38ea510a595071a3263a83a15753fc1b51c29655eaa9579efc8d1dff6f29"""," ""unknown"""," ""None"""," ""100""",2026-06-07 07:23:12," """""," ""0"""
