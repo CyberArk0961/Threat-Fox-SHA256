@@ -1,4 +1,39 @@
 sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
+"""b48c97d1dadc4cb7e0c3303d556a1217cccdd8839fe739d71a7c5f977b4810bd"""," ""win.valley_rat"""," ""Winos"""," ""95""",2026-06-14 22:30:17," ""2026-06-15 00:55:14"""," ""0"""
+"""3dc1a7ac46a1616fe180f42e26d25ea9638f90c73073542b49a8575e2f110174"""," ""win.ghostnet"""," ""Remosh"""," ""95""",2026-06-14 22:30:16," ""2026-06-15 00:55:13"""," ""0"""
+"""2b35aa9c70ef66197abfb9bc409952897f9f70818633ab43da85b3825b256307"""," ""win.azorult"""," ""PuffStealer"," ""2026-06-15 00:55:12""",2026-06-14 22:30:16," ""Azorult"""," ""None"""
+"""c1d77b03a2d57f4ef9670a7569a77b662196cb10c74e303a04626afc49fcfb0d"""," ""win.valley_rat"""," ""Winos"""," ""95""",2026-06-14 22:30:15," ""2026-06-15 00:55:11"""," ""0"""
+"""4dd2a916d6767a36f1b289339555b1993471952acf4f3ed4813644bf232a68f9"""," ""win.coinminer"""," ""None"""," ""95""",2026-06-14 22:30:14," ""2026-06-15 00:55:10"""," ""0"""
+"""4c16f19a06d210add2c21f0fa59b8a969ef0bc134f233c24dca0737ed8fa5485"""," ""win.cobalt_strike"""," ""Agentemis","cobeacon""",2026-06-14 11:30:35,CobaltStrike," ""False"""
+"""eb45868316c1e4b7a2d3c61b032033b52be7f6a058322c6cea1ba9b0e2ffb549"""," ""win.cobalt_strike"""," ""Agentemis","cobeacon""",2026-06-14 11:30:34,CobaltStrike," ""False"""
+"""84bca7da50ea5f963ed069eca729bc073c67b72899f5640e18bbc3c5c625d634"""," ""win.cobalt_strike"""," ""Agentemis","cobeacon""",2026-06-14 11:30:34,CobaltStrike," ""False"""
+"""3740b88b9f3e65389c5c4e685166389bb1b22ce432633c5c87fd938b043952dc"""," ""win.cobalt_strike"""," ""Agentemis","cobeacon""",2026-06-14 11:30:34,CobaltStrike," ""False"""
+"""6f018848fe17c63af6b62486a64a17d6a37192fa10dec02060efb3c570c10585"""," ""win.cobalt_strike"""," ""Agentemis","cobeacon""",2026-06-14 11:30:33,CobaltStrike," ""False"""
+"""b0de65b3bf5919910086f7fd1d2130570a2caee15580c95364c4341f89086f46"""," ""win.cobalt_strike"""," ""Agentemis","cobeacon""",2026-06-14 11:30:33,CobaltStrike," ""False"""
+"""f5f3503cdf5425428441858ea485672e360cf79c9b6c26e23337ddc883edb2cf"""," ""win.cobalt_strike"""," ""Agentemis","cobeacon""",2026-06-14 11:30:33,CobaltStrike," ""False"""
+"""3c5343c9854a94002f821455fb8c869a61d5c77beab213a754733fc3a0a55b59"""," ""win.cobalt_strike"""," ""Agentemis","cobeacon""",2026-06-14 11:30:32,CobaltStrike," ""False"""
+"""e50150ca6d2aeb0ed4b14917521301391d75c4b11bf5a8bcec2ee863a8e5b258"""," ""win.cobalt_strike"""," ""Agentemis","cobeacon""",2026-06-14 11:30:32,CobaltStrike," ""False"""
+"""1f3e35e1e9df7f1428de5ca3cc4a9c21864a0144603d627f75f3d0778bba0d60"""," ""win.cobalt_strike"""," ""Agentemis","cobeacon""",2026-06-14 11:30:32,CobaltStrike," ""False"""
+"""e35d10d019fdb04bdb9212235e580b141fc72a7432388c0f9509f2893d605898"""," ""win.cobalt_strike"""," ""Agentemis","cobeacon""",2026-06-14 11:30:32,CobaltStrike," ""False"""
+"""b492f711efc73334225174fb338b042964405f8b7d53b2555ec02779b371649d"""," ""win.cobalt_strike"""," ""Agentemis","cobeacon""",2026-06-14 11:30:31,CobaltStrike," ""False"""
+"""b2e5b81c5b461d024259fb214ffed3a16e97848b6236902a14dcddbf1dc2309a"""," ""win.cobalt_strike"""," ""Agentemis","cobeacon""",2026-06-14 11:30:30,CobaltStrike," ""False"""
+"""f97fdd1525fd9658352b793dc2e1a9b5ddac9ea24e95f8fc7d1780ef39d0960e"""," ""win.cobalt_strike"""," ""Agentemis","cobeacon""",2026-06-14 11:30:30,CobaltStrike," ""False"""
+"""b1d6927521122e8cf9ffbdbb4014b55eafec3b408a0bd6b544b22a27530bfae2"""," ""win.cobalt_strike"""," ""Agentemis","cobeacon""",2026-06-14 11:30:30,CobaltStrike," ""False"""
+"""59f699db1c6b84d00cdcc47b782c99577df3816748b77d61a2e771e5ec928a7b"""," ""win.cobalt_strike"""," ""Agentemis","cobeacon""",2026-06-14 11:30:29,CobaltStrike," ""False"""
+"""3f5b518d90c7d63f4cd6ac68fa63bc23ef7b56638477bf9b3cdbab9655fb5715"""," ""win.cobalt_strike"""," ""Agentemis","cobeacon""",2026-06-14 11:30:29,CobaltStrike," ""False"""
+"""89b76ff76638fee10d34c534e1ad1df0e607ccd16a72f69a3b80d5f1f5a3dd3a"""," ""win.cobalt_strike"""," ""Agentemis","cobeacon""",2026-06-14 11:30:28,CobaltStrike," ""False"""
+"""ed3b63439398c9d64148bf827ac713126232ba192295ea4e66a6d4556da5d71f"""," ""win.cobalt_strike"""," ""Agentemis","cobeacon""",2026-06-14 11:30:27,CobaltStrike," ""False"""
+"""e7fc1caf9d8d4c24b9ddbbeacebb1666d5acc16a4bc776229e1006b1eb02b959"""," ""win.cobalt_strike"""," ""Agentemis","cobeacon""",2026-06-14 11:30:27,CobaltStrike," ""False"""
+"""14a25cae9f3e4343b26925021763639068b9ed6531ce23c26053f0831a9c9be2"""," ""win.cobalt_strike"""," ""Agentemis","cobeacon""",2026-06-14 11:30:26,CobaltStrike," ""False"""
+"""1c3d3a4f074ec97bbda5550d4246555b883d5dd2d3666d9f98cd9062d08c1c9a"""," ""win.cobalt_strike"""," ""Agentemis","cobeacon""",2026-06-14 11:30:26,CobaltStrike," ""False"""
+"""fb1853cedbf31d3e0205c46b09f973df0ce2252b2224868ea78381154ddca718"""," ""win.cobalt_strike"""," ""Agentemis","cobeacon""",2026-06-14 11:30:26,CobaltStrike," ""False"""
+"""38fead1469cca1192eedb9dd2fc305ddbb15760771223891d8e7db1a7a8fe2ea"""," ""unknown_stealer"""," ""None"""," ""100""",2026-06-14 10:42:14," """""," ""0"""
+"""16d3440fcc067823afc44dcbccea9fbbc2f8c68ae53b7aea45f9adff4c127086"""," ""elf.xmrig"""," ""None"""," ""85""",2026-06-14 10:39:37," ""2026-06-14 06:30:04""",ssh
+"""01baaef04cf032d418dcd85f047d129aa54b0eeabde2fed7287046c0604c3f1b"""," ""elf.xmrig"""," ""None"""," ""85""",2026-06-14 10:39:37," """"",miner
+"""8a68d1c08ea31250063f70b1ccb5051db1f7ab6e17d46e9dd3cc292b9849878b"""," ""elf.xmrig"""," ""None"""," ""85""",2026-06-14 10:39:36," ""2026-06-14 06:30:03""",miner
+"""7c8e7619c5398d3b857e6f72cf791e2c2e27762ddd8521eb8971c893cdb8b1fc"""," ""elf.redtail"""," ""None"""," ""85""",2026-06-14 10:39:36," """"",dropper
+"""a8460f446be540410004b1a8db4083773fa46f7fe76fa84219c93daa1669f8f2"""," ""elf.xmrig"""," ""None"""," ""85""",2026-06-14 10:39:35," """"",malkey
+"""783adb7ad6b16fe9818f3e6d48b937c3ca1994ef24e50865282eeedeab7e0d59"""," ""elf.xmrig"""," ""None"""," ""85""",2026-06-14 10:39:31," """"",mdrfckr
 """b90911b23eee913a11dc19e983910497c3822f2c0f12722672cb790cadf3f4fa"""," ""win.troystealer"""," ""None"""," ""95""",2026-06-14 03:28:33," """""," ""0"""
 """9555123bcc8f0720640dc56fa9e17452a3f2224038f2385e292f64df7c70fa8d"""," ""win.phemedrone_stealer"""," ""Ov3r_Stealer"""," ""95""",2026-06-14 03:28:32," """""," ""0"""
 """7d33c40bde71d7b366335c81ce63e834d6295db5a5b9aaaa179c0a1f782714ce"""," ""win.troystealer"""," ""None"""," ""95""",2026-06-14 03:28:31," """""," ""0"""
@@ -20,6 +55,3 @@ sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
 """e913c5f78dbe49989518ee50ee56cdb581a16a16b5ebb2ff567d526b238a0fc2"""," ""win.nanocore"""," ""Nancrat"," """"",2026-06-13 04:31:11," ""Nanocore RAT"""," ""None"""
 """24efe51c32a2017f5ad0aab43a2eb099eaf4379846f1b4e8a62093338ddae517"""," ""win.nanocore"""," ""Nancrat"," """"",2026-06-13 04:31:10," ""Nanocore RAT"""," ""None"""
 """f2cbfb04c06d7a29349769b1c9b2c5c6b9b34f1d9f827d89b444016069f36656"""," ""win.lokipws"""," ""Burkina","LokiPWS""",2026-06-13 04:31:09,LokiBot," ""False"""
-"""ef9a91a7f3423d779353baebed34aa1f3b6104e7e4730c77fe8457b42a576ac5"""," ""elf.tsunami"""," ""Muhstik"," ""Tsunami""",2026-06-12 08:53:54,"Amnesia"""," ""https://twitter.com/NullBlue67"""
-"""f32b209d33c4194f37dbbf2a677c4faf78cf6b24cf2474bf1c14aed17af40b2e"""," ""elf.tsunami"""," ""Muhstik"," ""Tsunami""",2026-06-12 08:53:53,"Amnesia"""," ""https://twitter.com/NullBlue67"""
-"""e9c924c170332d42cae71bb9113ed9556cf91d5c50257b316eb433be9a211fb7"""," ""elf.tsunami"""," ""Muhstik"," ""Tsunami""",2026-06-12 08:53:53,"Amnesia"""," ""https://twitter.com/NullBlue67"""
