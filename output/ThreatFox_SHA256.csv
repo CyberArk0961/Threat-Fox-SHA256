@@ -1,4 +1,22 @@
 sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
+"""12013662c71da69de977c04cd7021f13a70cf7bed4ca6c82acbc100464d4b0ef"""," ""elf.mozi"""," ""None"""," ""80""",2026-06-19 06:49:25," """"",iot
+"""f6c97b1e2ed02578ca1066c8235ba4f991e645f89012406c639dbccc6582eec8"""," ""elf.mozi"""," ""None"""," ""80""",2026-06-19 06:49:25," """"",iot
+"""f253a4f1afdd89847bbe27defbc46043d73391d1d624752d457505489b5e3f05"""," ""elf.mirai"""," ""Katana"""," ""80""",2026-06-19 06:33:31," """"","iot"""
+"""24adb118a6f7a8d717bb3d3329c33f6b0eb39046a8fb7f2b3a1fff21436bf7d2"""," ""unknown"""," ""None"""," ""75""",2026-06-19 05:57:08," """""," ""0"""
+"""b7d6869b427a2e714744c73ade17f1b47fae43bb2ee1a6d7ee9f4c93943406d2"""," ""unknown"""," ""None"""," ""75""",2026-06-19 05:57:07," """""," ""0"""
+"""f5952a6947e65dc0165e27ec100eaee09aa65790ca34c517c28d6d9ea4afb319"""," ""unknown"""," ""None"""," ""75""",2026-06-19 05:57:07," """""," ""0"""
+"""6844800e8a8defda07b2829c02e76517ca98fedcbbf717328517bef28b279724"""," ""unknown"""," ""None"""," ""75""",2026-06-19 05:57:06," """""," ""0"""
+"""a9773c53a9611c737dc6a08622b3240e38430ceb0a3960f81391606cd1f02a86"""," ""unknown"""," ""None"""," ""75""",2026-06-19 05:57:06," """""," ""0"""
+"""bb4e08d8d96ace12a659a07d0ede31546e121176321b1d0f8cd15fe0f62127c0"""," ""unknown"""," ""None"""," ""75""",2026-06-19 05:57:05," """""," ""0"""
+"""3c098a687947938e36ab34b9f09a11ebd82d50089cbfe6e237d810faa729f8ff"""," ""win.crosslock"""," ""None"""," ""100""",2026-06-19 05:57:03," """"",CrowDoor
+"""711d9427ee43bc2186b9124f31cba2db5f54ec9a0d56dc2948e1a4377bada289"""," ""win.crosslock"""," ""None"""," ""100""",2026-06-19 05:57:03," """"",CrowDoor
+"""a5e413456ce9fc60bb44d442b72546e9e4118a61894fbe4b5c56e4dfad6055e3"""," ""win.crosslock"""," ""None"""," ""100""",2026-06-19 05:57:02," """"",CrowDoor
+"""f36913607356a32ea106103387105c635fa923f8ed98ad0194b66ec79e379a02"""," ""win.crosslock"""," ""None"""," ""100""",2026-06-19 05:57:02," """"",CrowDoor
+"""1f5635a512a923e98a90cdc1b2fb988a2da78706e07e419dae9e1a54dd4d682b"""," ""win.crosslock"""," ""None"""," ""100""",2026-06-19 05:57:01," """"",CrowDoor
+"""075b20a21ea6a0d2201a12a049f332ecc61348fc0ad3cfee038c6ad6aa44e744"""," ""win.crosslock"""," ""None"""," ""100""",2026-06-19 05:57:01," """"",CrowDoor
+"""2d2ca7d21310b14f5f5641bbf4a9ff4c3e566b1fbbd370034c6844cedc8f0538"""," ""win.crosslock"""," ""None"""," ""100""",2026-06-19 05:57:00," """"",CrowDoor
+"""3ee8a9e1c4e61b215998e8cb23521e2b3417abbfa196ee2215a04ec788ccd114"""," ""win.dcrat"""," ""DarkCrystal RAT"""," ""100""",2026-06-19 05:56:46," """""," ""0"""
+"""a1548a5dae03edf08e6c7d7e25645d2dd5b4d5008867edbc5b1048394e6b1d09"""," ""win.dcrat"""," ""DarkCrystal RAT"""," ""100""",2026-06-19 05:56:45," """""," ""0"""
 """9f844a78cc2cd8d8a426f050a3efe319930f723eb10be231de1c1f1600e82127"""," ""jar.crossrat"""," ""Trupto"""," ""95""",2026-06-18 16:49:19," """""," ""0"""
 """b19285bcdf3fed2f9bda055d9f61118a616664ee0a6b594f9731ce20cb67daf5"""," ""win.wannacryptor"""," ""Wana Decrypt0r","Wcry""",2026-06-18 16:49:18,WannaCrypt," ""False"""
 """da7acbc71a87dcd173d1dfc3a82f40ab784d5896756938afbc1dee2cc5dc7dbe"""," ""win.luca_stealer"""," ""None"""," ""95""",2026-06-18 16:49:17," ""2026-06-18 18:09:03"""," ""0"""
@@ -11,27 +29,4 @@ sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
 """c263ac4338a05f8a8eac1a2eafb0ea4fac59c5c012a59b927c77dd41fd3536bb"""," ""win.phantom_stealer"""," ""None"""," ""95""",2026-06-18 16:49:10," ""2026-06-18 18:08:57"""," ""0"""
 """3d1d192e9879d33a954ea6e5eb0199cd3cb03622d88f2aebd50074eade956f61"""," ""unknown"""," ""None"""," ""75""",2026-06-18 07:22:14," """"",kongtuke
 """a8fe7ea23ff20fb3ab2bcd122650e0fd0c6f9d384c11570a37290126f5cbef32"""," ""unknown"""," ""None"""," ""75""",2026-06-18 07:22:13," """"",kongtuke
-"""ff0d872eb0f0474a24273ff2506b9c1e5e7c7ba5fa8d364cea94e0c7405d032c"""," ""win.tinymet"""," ""TiniMet"""," ""95""",2026-06-17 17:32:49," """""," ""0"""
-"""e6085af9fdabb1a5cec731cf03a1da9cf8aa01163baf414cf03cc174616e1c09"""," ""py.creal_stealer"""," ""None"""," ""95""",2026-06-17 17:32:48," """""," ""0"""
-"""1da002b8fdbb45b2b95125e88c0a4421e55c9ec3df08572a28a09a66b71450fc"""," ""win.phantom_stealer"""," ""None"""," ""95""",2026-06-17 17:32:47," """""," ""0"""
-"""40c9663ae7ffad4448bef4976cc1458253420eddc8b816ea38dbe3df30795301"""," ""win.njrat"""," ""Bladabindi"," """"",2026-06-17 17:32:46," ""NjRAT"""," ""None"""
-"""08ccc97bfba93caf89566888a138d473a4699838f726c22c836495d6c9efd22e"""," ""win.wannacryptor"""," ""Wana Decrypt0r","Wcry""",2026-06-17 17:32:45,WannaCrypt," ""False"""
-"""994360679da88dedbdcc0563919e2b9c7c717aa1acc1620e8bc489a2daa97ac9"""," ""win.poscardstealer"""," ""None"""," ""95""",2026-06-17 17:32:43," """""," ""0"""
-"""1dfe9be049f6bcad3caa8504dae4aad5e7e66d6e5ed8388478c7adb3de8d791a"""," ""win.asyncrat"""," ""None"""," ""95""",2026-06-17 17:32:42," """""," ""0"""
-"""07a018c6af370b03e0daa84a1dc214ab516fe9f6ce180e64248bc2682d550d9c"""," ""win.agent_tesla"""," ""AgenTesla"," ""Agent Tesla""",2026-06-17 17:32:41,"Negasteal"""," ""None"""
-"""a951afc09aa3e8be61204a027c2cc0c141a64792a2022b8d6ebdf8e0e54a2279"""," ""win.asyncrat"""," ""None"""," ""95""",2026-06-17 17:32:40," """""," ""0"""
-"""f678afbaa4b0fe4537c05f4f811b9d852e40f3739f1e1a16f46b66e93c7c6f8c"""," ""win.luca_stealer"""," ""None"""," ""95""",2026-06-17 17:32:39," """""," ""0"""
-"""037e5fe028a60604523b840794d06c8f70a9c523a832a97ecaaccd9f419e364a"""," ""win.zynor_rat"""," ""None"""," ""95""",2026-06-17 17:32:38," """""," ""0"""
-"""7e27deea413f5c390fd790423de9dc552a1e393187607485394044c4ddc85fdf"""," ""win.valley_rat"""," ""Winos"""," ""95""",2026-06-17 17:32:37," """""," ""0"""
-"""9ab135ec9d97c65caacdc2cd1ac166b7f491d8ad0635b3bd595a244ca6af9795"""," ""win.valley_rat"""," ""Winos"""," ""95""",2026-06-17 17:32:36," """""," ""0"""
-"""068725e40de440d38d02f71aea88ec2d28276a98e62b2f5b2659d981c1c11798"""," ""win.nanocore"""," ""Nancrat"," """"",2026-06-17 17:32:34," ""Nanocore RAT"""," ""None"""
-"""2e2544644c43e065078d1e9419123c1433aa418a1b5539804374c41f5d99433e"""," ""py.venus_stealer"""," ""None"""," ""95""",2026-06-17 17:32:33," """""," ""0"""
-"""d942110faacaa112adf64b854daa1381da74a91f4f5790ca710c9e082fc98151"""," ""win.njrat"""," ""Bladabindi"," """"",2026-06-17 17:32:32," ""NjRAT"""," ""None"""
-"""f42c90e9b4b33d7a778a6d53841a5ab7ed4b79ac22e056b3939ffbab6d5d39a9"""," ""win.attor"""," ""None"""," ""95""",2026-06-17 17:32:31," """""," ""0"""
-"""c211109b368eebe5fadfc58540b8ae6c7a33d820a6e5ebf99bdf09fc7ed98d05"""," ""win.nanocore"""," ""Nancrat"," """"",2026-06-17 17:32:30," ""Nanocore RAT"""," ""None"""
-"""5b7146ddfce30ff5d5c8215ba0ba68544726a03da31bf3074c4086587fda1370"""," ""win.agent_tesla"""," ""AgenTesla"," ""Agent Tesla""",2026-06-17 17:32:29,"Negasteal"""," ""None"""
-"""75b337e70eed4a266c7a925c1e484c86ee9f09c56bb7bb9a4e0ebc386f3f4a15"""," ""win.netwire"""," ""NetWeird"," ""NetWire RC""",2026-06-17 17:32:28,"Recam"""," ""None"""
-"""997a09b5cbbebd7e07fad4185d82ca28e8d259ffb93519f563313535e268ddf6"""," ""win.netwire"""," ""NetWeird"," ""NetWire RC""",2026-06-17 17:32:27,"Recam"""," ""None"""
-"""0db2674d46ce0843b2881ee27f9c93e358f205facdf834ac794d594920cee0df"""," ""unknown_rat"""," ""None"""," ""75""",2026-06-17 15:58:59," """"","SheetRat"""
-"""9e4235c530fc10df9225e9ab98095d7a19d35f9e4ebf50a74dcb4b1e7bf86170"""," ""unknown"""," ""None"""," ""75""",2026-06-17 05:45:37," """"",KongTuke
-"""725162f784b4438559ad5c434a0cb6f634a2a09f2aba1e4d5e5047f6e37f15a0"""," ""unknown"""," ""None"""," ""75""",2026-06-17 05:45:35," """"",fake-document
+"""4293c1d8574dc87c58360d6bac3daa182f64f7785c9d41da5e0741d2b1817fc7"""," ""elf.mozi"""," ""None"""," ""100""",2025-08-25 05:39:17," ""2026-06-19 06:40:27"""," ""0"""
