@@ -1,51 +1,308 @@
 sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
+"""ecf36149156698c531615c8d553d6588dc48b2befe47ca1a7339f194daebfe08"""," ""win.meterpreter"""," ""None"""," ""95""",2026-06-21 16:40:53," """""," ""0"""
+"""7fe76ccceaec33d07e90e96ac144be83ed622c8af8b134d7429020e476cf4716"""," ""win.meterpreter"""," ""None"""," ""95""",2026-06-21 16:40:52," """""," ""0"""
+"""ff7ef7b89256ee681d76c7369f4619003e0e77f5e32fa0e18a09ae45a8e98843"""," ""win.netwire"""," ""NetWeird"," ""NetWire RC""",2026-06-21 16:40:46,"Recam"""," ""None"""
+"""a1bebf922ec25ea218d165605716c37a5536b2b046fef5462b057594297db2ff"""," ""win.valley_rat"""," ""Winos"""," ""95""",2026-06-21 16:40:22," """""," ""0"""
+"""1ce931d621b70d14bdc90b5dcb8dc8cfce60e027f60eb2ff895c60efeb8ffbe7"""," ""py.stealler"""," ""None"""," ""95""",2026-06-21 16:40:21," """""," ""0"""
+"""ce00a84a546cf51d9428350aa1929c8999a4c48de5d7e53372f4faca22cbaf2e"""," ""win.stealc"""," ""None"""," ""95""",2026-06-21 16:40:21," """""," ""0"""
+"""526ae427fececcdfb7d231d95a3a4f3ffa83c130ed5d58192daad06510f4ee69"""," ""py.venus_stealer"""," ""None"""," ""95""",2026-06-21 16:40:20," """""," ""0"""
+"""0e6902640affe9ac58c39d52046a073741b8e77a6ad29137bdeb6f8cf8222964"""," ""py.venus_stealer"""," ""None"""," ""95""",2026-06-21 16:40:19," """""," ""0"""
+"""c06c3002302f47202884762c57982d86718ba4500699e9ef37d5cd513c6e8bf8"""," ""py.stealler"""," ""None"""," ""95""",2026-06-21 16:40:18," """""," ""0"""
+"""a78dfed1650aef00f19f9b86d529d42500cb2202923169692a789bb7f3bb402b"""," ""win.vidar"""," ""None"""," ""95""",2026-06-21 16:40:17," """""," ""0"""
+"""c9eadf5f3be0996c41ad4c42f7bf530b74d8682ac630cea018dd0edefa07d4ea"""," ""win.asyncrat"""," ""None"""," ""95""",2026-06-21 16:40:16," """""," ""0"""
+"""52764c8c74bc2ec19138f7bbaaeb30fc24f5384709409e756f3edb03848c67bb"""," ""win.coinminer"""," ""None"""," ""95""",2026-06-21 16:40:15," """""," ""0"""
+"""40345a358400cb771088c33a9cf194946da95c2bb2d979e7be5e1c8c37facf33"""," ""win.coinminer"""," ""None"""," ""95""",2026-06-21 16:40:14," """""," ""0"""
+"""5122b2cc1fc99c60330b863c94e09e82553eff28cbfba8496f30bea88465b77d"""," ""win.coinminer"""," ""None"""," ""95""",2026-06-21 16:40:13," """""," ""0"""
+"""eb2cca230b99d059355c3d4d2c35e9585aedd030c7477535b86bbc950d7ea2a9"""," ""win.coinminer"""," ""None"""," ""95""",2026-06-21 16:40:12," """""," ""0"""
+"""a9303e3948a212476179499bf5e7aaf5df89fc490bf28c8ec15005bf8b023ee5"""," ""win.coinminer"""," ""None"""," ""95""",2026-06-21 16:40:11," """""," ""0"""
+"""ff771fcecd52f9051afca243d97c785b4bec00bb87ef2392ed6a74c91c443fa7"""," ""win.vidar"""," ""None"""," ""95""",2026-06-21 16:40:10," """""," ""0"""
+"""ff79eaaff344de14717cf301e0501b62407bc7a4836ade5b4c2c92b9ea2cc32d"""," ""win.cryptomix"""," ""Azer"," """"",2026-06-21 16:40:10," ""CryptoMix"""," ""None"""
+"""41c710a185e6a5e81c76f71d078c377bc3852381d712cbb1d409e9ab8647569e"""," ""win.wannacryptor"""," ""Wana Decrypt0r","Wcry""",2026-06-21 16:40:09,WannaCrypt," ""False"""
+"""cb28fdfae1fd9f5e60bb24d077a3fc414f3b44415508d92fca77555ae00b0703"""," ""win.vidar"""," ""None"""," ""95""",2026-06-21 16:40:08," """""," ""0"""
+"""fb7565d2611a76bd796aa438e907da5b8b59b5acc754b6031f56998468445be1"""," ""py.venus_stealer"""," ""None"""," ""95""",2026-06-21 16:40:07," """""," ""0"""
+"""d3746f04ba8114641b6faeb20106bbbf61633652f14d8871cb1f1ed10f5c0765"""," ""win.vidar"""," ""None"""," ""95""",2026-06-21 16:40:05," """""," ""0"""
+"""38710fa6b5218e34f90935ea70f138136123aaabbcdab215d7337b2994c8d222"""," ""win.vidar"""," ""None"""," ""95""",2026-06-21 16:40:04," """""," ""0"""
+"""96ada74774413c01c0e7d4707d9837bb30dba9132cc3519178e890596f2b5dbd"""," ""win.phorpiex"""," ""Tldr","phorphiex""",2026-06-21 16:40:03,TwizT," ""False"""
+"""063697f8cbaedc2a31af56896c9c2f2ef23c1bc5f8d839aa2c304daf8f809926"""," ""win.nanocore"""," ""Nancrat"," """"",2026-06-21 16:40:01," ""Nanocore RAT"""," ""None"""
+"""2a97e8ffb5cfbbccd8e2c812fb6f86769ec014692f9bd598ad446c096630d577"""," ""win.valley_rat"""," ""Winos"""," ""95""",2026-06-21 16:40:00," """""," ""0"""
+"""43ee2409e135916fab34e910035ff437eb1eaa670000c4f0948ba33f11a7083b"""," ""jar.crossrat"""," ""Trupto"""," ""95""",2026-06-21 16:39:59," """""," ""0"""
+"""ea5bf6fd34986ea7ce7e9f9207742a2dad04700f23e25d2e3a861315503f8a2a"""," ""win.njrat"""," ""Bladabindi"," """"",2026-06-21 16:39:58," ""NjRAT"""," ""None"""
+"""2dcdb89527b240984a85645a4a41e4fed7ed33891fd91da07e1f8b62180f2c33"""," ""jar.crossrat"""," ""Trupto"""," ""95""",2026-06-21 16:39:58," """""," ""0"""
+"""894d32df224ee6fad68f8fa19e50042819e7834edfc985be3369783d63ce95b2"""," ""win.netwire"""," ""NetWeird"," ""NetWire RC""",2026-06-21 16:39:57,"Recam"""," ""None"""
+"""077bfdd22b49adeeb86e80050de6bbf2ca9616279c426e21847f476761cba27d"""," ""win.netwire"""," ""NetWeird"," ""NetWire RC""",2026-06-21 16:39:56,"Recam"""," ""None"""
+"""9d7ecd3a4aeefa449a7313e98a6afab0ea28eb1f693380f2ef5a4c9fe612c5dd"""," ""win.netwire"""," ""NetWeird"," ""NetWire RC""",2026-06-21 16:39:55,"Recam"""," ""None"""
+"""abe7da6b5be41348ce74be00a5158c0fe7dc138051a84f41b1ebc5f9c49b35d6"""," ""win.netwire"""," ""NetWeird"," ""NetWire RC""",2026-06-21 16:39:54,"Recam"""," ""None"""
+"""5b5434cc8bb3556075c6967d2ffee5a6b33793de07b9d4701bc63d369de63861"""," ""win.hades"""," ""None"""," ""95""",2026-06-21 16:39:53," """""," ""0"""
+"""e5ca4586785728938cb9de0e964a35bd36dfa534bd7bf47f2438af4a4c2103c2"""," ""win.vidar"""," ""None"""," ""95""",2026-06-21 16:39:52," """""," ""0"""
+"""0b3581ab2acd2099ec8d7de4f77608a0e9a1b7b4810009c7eb1cc4007d30d487"""," ""win.tinymet"""," ""TiniMet"""," ""95""",2026-06-21 16:39:51," """""," ""0"""
+"""6aa08b6fdb70023bdd14805657a5d4e36b5733b8b4c372c95ce2ec17668a0f11"""," ""win.asyncrat"""," ""None"""," ""95""",2026-06-21 16:39:50," """""," ""0"""
+"""2011c98d44911abf78217ecc29dadb6c1dcb28506ac4970a1937eee54ccc31af"""," ""win.nanocore"""," ""Nancrat"," """"",2026-06-21 16:39:49," ""Nanocore RAT"""," ""None"""
+"""f5c6be4753d6613c97f1b10c4d93a5d97a8f4fb21eb13da0ed04b23a8a61c2f6"""," ""js.beavertail"""," ""None"""," ""100""",2026-06-21 06:47:45," """""," ""0"""
+"""7520924e8d680263216a8eae31e6e2fc4424024ab61d7eb1503b663cb82811d2"""," ""js.beavertail"""," ""None"""," ""100""",2026-06-21 06:47:45," """""," ""0"""
+"""c2bf4f7f74b80ed3d57473ba9e897fe5b8991e38a99343a46e0f8032e53a4ba7"""," ""js.beavertail"""," ""None"""," ""100""",2026-06-21 06:47:45," """""," ""0"""
 """d0da8e7c8c47561a8b9f78b38e31e02964dcf4ae1d10cc01a99e409d20ad73ef"""," ""win.vidar"""," ""None"""," ""95""",2026-06-20 23:57:13," """""," ""0"""
-"""0aa7360574fed7f19d3c1b9c12e0e3e90f0b415eab4d0901559fbe7703dfe939"""," ""osx.xloader"""," ""Formbook"""," ""95""",2026-06-20 23:57:12," """""," ""0"""
 """2af09010211b22731abbc733c648be84f75ac947f919ac895374dd28719c32f6"""," ""win.vidar"""," ""None"""," ""95""",2026-06-20 23:57:12," """""," ""0"""
+"""0aa7360574fed7f19d3c1b9c12e0e3e90f0b415eab4d0901559fbe7703dfe939"""," ""osx.xloader"""," ""Formbook"""," ""95""",2026-06-20 23:57:12," """""," ""0"""
 """0c620497c06028c783050d81daf378edc7c0cfba3977f0137ebc3ffdd8765a56"""," ""osx.xloader"""," ""Formbook"""," ""95""",2026-06-20 23:57:11," """""," ""0"""
 """aadc96fe85cb6f7089b51457c2bd30ff443262ccd53fbb3ca4529289c70a595f"""," ""win.netwire"""," ""NetWeird"," ""NetWire RC""",2026-06-20 23:57:10,"Recam"""," ""None"""
 """3c4e06fe06b26cb70c0dabc743b728db50c87151606c421cb809e19b29876fbe"""," ""win.netwire"""," ""NetWeird"," ""NetWire RC""",2026-06-20 23:57:09,"Recam"""," ""None"""
 """da6dec4baeadb44b654d21d14c27530851ed1c57e71d50c39c16ff3fb730af86"""," ""win.netwire"""," ""NetWeird"," ""NetWire RC""",2026-06-20 23:57:08,"Recam"""," ""None"""
 """e35d943f539f6d61e0d9e5d39f5cc78180accb01a7a42fe7287b2000dadfaf4a"""," ""win.netwire"""," ""NetWeird"," ""NetWire RC""",2026-06-20 23:57:07,"Recam"""," ""None"""
 """2f14862545773c034e41f1ece62bc0618cb1396eacfd2bbe2aec9c958689e002"""," ""win.netwire"""," ""NetWeird"," ""NetWire RC""",2026-06-20 23:57:06,"Recam"""," ""None"""
+"""1e6d5898bea2ebf6b249707ea4235e17e009eda510f2476ce885b97fcd8c26a2"""," ""win.meterpreter"""," ""None"""," ""95""",2026-06-20 23:57:04," ""2026-06-21 16:40:54"""," ""0"""
 """2fe27cfc680a6fb118a023caa55bfa39a55d4aecf9e540f65b531874066fec16"""," ""win.netwire"""," ""NetWeird"," ""NetWire RC""",2026-06-20 23:57:04,"Recam"""," ""None"""
-"""1e6d5898bea2ebf6b249707ea4235e17e009eda510f2476ce885b97fcd8c26a2"""," ""win.meterpreter"""," ""None"""," ""95""",2026-06-20 23:57:04," """""," ""0"""
 """9c48fc643b569e7b37d851c8e3c3a19d1469427a99d405b7f9fdefaa0b40f9b4"""," ""win.netwire"""," ""NetWeird"," ""NetWire RC""",2026-06-20 23:57:03,"Recam"""," ""None"""
 """691c74f56d546998e51af78a4a55a0b13744b3d4a882b0247da05b59e1e1d6c6"""," ""win.netwire"""," ""NetWeird"," ""NetWire RC""",2026-06-20 23:57:01,"Recam"""," ""None"""
-"""2f8b6ff170d5c231fc25d0ecc9b907448a5cdea6513bef52a10856fd1b814479"""," ""win.blackshades"""," ""None"""," ""95""",2026-06-20 23:57:00," """""," ""0"""
-"""ee50115e22710719e3fc70e61fa09ce101e409d0acb6d9b9a1b4f32c96917c06"""," ""win.blackshades"""," ""None"""," ""95""",2026-06-20 23:56:59," """""," ""0"""
-"""29352f59456553b5f5484561ad72727866119f00dfa50626b152ec47d68369a9"""," ""win.amadey"""," ""None"""," ""95""",2026-06-20 23:56:58," """""," ""0"""
+"""2f8b6ff170d5c231fc25d0ecc9b907448a5cdea6513bef52a10856fd1b814479"""," ""win.blackshades"""," ""None"""," ""95""",2026-06-20 23:57:00," ""2026-06-21 16:40:50"""," ""0"""
+"""ee50115e22710719e3fc70e61fa09ce101e409d0acb6d9b9a1b4f32c96917c06"""," ""win.blackshades"""," ""None"""," ""95""",2026-06-20 23:56:59," ""2026-06-21 16:40:49"""," ""0"""
+"""29352f59456553b5f5484561ad72727866119f00dfa50626b152ec47d68369a9"""," ""win.amadey"""," ""None"""," ""95""",2026-06-20 23:56:58," ""2026-06-21 16:40:48"""," ""0"""
 """e681fb538d6b064f2bb81ffc552784b264d3888eb18df2ae50fd133b35feb95a"""," ""win.netwire"""," ""NetWeird"," ""NetWire RC""",2026-06-20 23:56:57,"Recam"""," ""None"""
 """6bc5bbef79cd96c26cee4702a22eec2b7d49adc7c67b0a76efcc852df2252214"""," ""win.netwire"""," ""NetWeird"," ""NetWire RC""",2026-06-20 23:56:56,"Recam"""," ""None"""
 """2ee10a4e204a3adbf2102913c95c3cad56199bd75e1c6e194f239a7cf4837e36"""," ""win.netwire"""," ""NetWeird"," ""NetWire RC""",2026-06-20 23:56:55,"Recam"""," ""None"""
 """e176972714a4fd0fe9b299ae8598487c92d9da508de42d042d1ddccb8548a3b5"""," ""win.netwire"""," ""NetWeird"," ""NetWire RC""",2026-06-20 23:56:54,"Recam"""," ""None"""
-"""0dcbe5afb17831300599e9cdc3c8a655c1380c86a1562db04fec664677a50e20"""," ""win.vidar"""," ""None"""," ""95""",2026-06-20 23:56:53," """""," ""0"""
-"""afa807cee34e8b931688ccf2be76b7ea5337af3d64714a348bead839c756643a"""," ""win.luca_stealer"""," ""None"""," ""95""",2026-06-20 23:56:52," """""," ""0"""
-"""89a9dfb74bf31b40951bac672cd108db9c7c4cbdcf282d1f29e8049d3b4b47d7"""," ""win.salatstealer"""," ""None"""," ""95""",2026-06-20 23:56:51," """""," ""0"""
-"""7ffea08c03e9c49def06aab41881b65596e26bba26ca30f2cc26640e892d38ee"""," ""win.salatstealer"""," ""None"""," ""95""",2026-06-20 23:56:50," """""," ""0"""
-"""ed32368823c139fa2e2f0771e6716f93c7db856aa24bbc81c0eea653ac3618f8"""," ""win.salatstealer"""," ""None"""," ""95""",2026-06-20 23:56:49," """""," ""0"""
-"""93de66680b277c94cf8925ea36b9e396e6a57096f018f493edf64df898034dd0"""," ""win.salatstealer"""," ""None"""," ""95""",2026-06-20 23:56:48," """""," ""0"""
-"""b9f2ba742e2e227a55912746acf22992d2dfc416d3877665b83abf0bc3e3f093"""," ""win.salatstealer"""," ""None"""," ""95""",2026-06-20 23:56:47," """""," ""0"""
-"""0932c80cd89391d69281f4938676d354d5982379f52381794a31f8e20fc74f17"""," ""win.salatstealer"""," ""None"""," ""95""",2026-06-20 23:56:47," """""," ""0"""
-"""77ef08194ab04f99824d79503fe719c893f3bf180faf94ba5b1afbcc418d872b"""," ""win.salatstealer"""," ""None"""," ""95""",2026-06-20 23:56:46," """""," ""0"""
-"""47167ee6a2eedbb6a361b502516be53365b4399ca8c05a51c21b0dea8980e33f"""," ""win.coinminer"""," ""None"""," ""95""",2026-06-20 23:56:45," """""," ""0"""
-"""59c31b45f7e3a04bfc35651d087d063e95f7e31d1246018eed1150a177410125"""," ""win.coinminer"""," ""None"""," ""95""",2026-06-20 23:56:44," """""," ""0"""
-"""d3189d197237dcaafd3e04413bda0ad055dfe236679f4a004732af2954416f93"""," ""win.salatstealer"""," ""None"""," ""95""",2026-06-20 23:56:43," """""," ""0"""
-"""c9a93549b2b5999337eb51e916a489456466b0fbaf6d3aa27bb45cb28ca614a6"""," ""win.coinminer"""," ""None"""," ""95""",2026-06-20 23:56:42," """""," ""0"""
-"""aefc4db306e46c7b1baf4542dcd7ab3e0324f92fc5e5734be180b90c0546205b"""," ""win.salatstealer"""," ""None"""," ""95""",2026-06-20 23:56:41," """""," ""0"""
+"""0dcbe5afb17831300599e9cdc3c8a655c1380c86a1562db04fec664677a50e20"""," ""win.vidar"""," ""None"""," ""95""",2026-06-20 23:56:53," ""2026-06-21 16:40:43"""," ""0"""
+"""afa807cee34e8b931688ccf2be76b7ea5337af3d64714a348bead839c756643a"""," ""win.luca_stealer"""," ""None"""," ""95""",2026-06-20 23:56:52," ""2026-06-21 16:40:42"""," ""0"""
+"""89a9dfb74bf31b40951bac672cd108db9c7c4cbdcf282d1f29e8049d3b4b47d7"""," ""win.salatstealer"""," ""None"""," ""95""",2026-06-20 23:56:51," ""2026-06-21 16:40:41"""," ""0"""
+"""7ffea08c03e9c49def06aab41881b65596e26bba26ca30f2cc26640e892d38ee"""," ""win.salatstealer"""," ""None"""," ""95""",2026-06-20 23:56:50," ""2026-06-21 16:40:40"""," ""0"""
+"""ed32368823c139fa2e2f0771e6716f93c7db856aa24bbc81c0eea653ac3618f8"""," ""win.salatstealer"""," ""None"""," ""95""",2026-06-20 23:56:49," ""2026-06-21 16:40:40"""," ""0"""
+"""93de66680b277c94cf8925ea36b9e396e6a57096f018f493edf64df898034dd0"""," ""win.salatstealer"""," ""None"""," ""95""",2026-06-20 23:56:48," ""2026-06-21 16:40:39"""," ""0"""
+"""0932c80cd89391d69281f4938676d354d5982379f52381794a31f8e20fc74f17"""," ""win.salatstealer"""," ""None"""," ""95""",2026-06-20 23:56:47," ""2026-06-21 16:40:37"""," ""0"""
+"""b9f2ba742e2e227a55912746acf22992d2dfc416d3877665b83abf0bc3e3f093"""," ""win.salatstealer"""," ""None"""," ""95""",2026-06-20 23:56:47," ""2026-06-21 16:40:38"""," ""0"""
+"""77ef08194ab04f99824d79503fe719c893f3bf180faf94ba5b1afbcc418d872b"""," ""win.salatstealer"""," ""None"""," ""95""",2026-06-20 23:56:46," ""2026-06-21 16:40:37"""," ""0"""
+"""47167ee6a2eedbb6a361b502516be53365b4399ca8c05a51c21b0dea8980e33f"""," ""win.coinminer"""," ""None"""," ""95""",2026-06-20 23:56:45," ""2026-06-21 16:40:36"""," ""0"""
+"""59c31b45f7e3a04bfc35651d087d063e95f7e31d1246018eed1150a177410125"""," ""win.coinminer"""," ""None"""," ""95""",2026-06-20 23:56:44," ""2026-06-21 16:40:35"""," ""0"""
+"""d3189d197237dcaafd3e04413bda0ad055dfe236679f4a004732af2954416f93"""," ""win.salatstealer"""," ""None"""," ""95""",2026-06-20 23:56:43," ""2026-06-21 16:40:34"""," ""0"""
+"""c9a93549b2b5999337eb51e916a489456466b0fbaf6d3aa27bb45cb28ca614a6"""," ""win.coinminer"""," ""None"""," ""95""",2026-06-20 23:56:42," ""2026-06-21 16:40:34"""," ""0"""
+"""aefc4db306e46c7b1baf4542dcd7ab3e0324f92fc5e5734be180b90c0546205b"""," ""win.salatstealer"""," ""None"""," ""95""",2026-06-20 23:56:41," ""2026-06-21 16:40:33"""," ""0"""
 """1de74088c8dc5abbb6f5c8d708d0fa4c396f5474e27eb56a8c5e961464b89c3e"""," ""win.netwire"""," ""NetWeird"," ""NetWire RC""",2026-06-20 23:56:40,"Recam"""," ""None"""
 """5d08aed3131bd6ea086a72aca7084f54ad16cc23f05ed8eded1006cece746270"""," ""win.netwire"""," ""NetWeird"," ""NetWire RC""",2026-06-20 23:56:39,"Recam"""," ""None"""
-"""e8c84a21131672927104f8a91d1062a71351e97e3052dd1d3ca04b7b73b6e37e"""," ""win.njrat"""," ""Bladabindi"," """"",2026-06-20 23:56:38," ""NjRAT"""," ""None"""
-"""aff0e85a8e066750e4380b756c2a12b9c9b4bdf7460eff4dba462422e572fe81"""," ""win.sliver"""," ""None"""," ""95""",2026-06-20 23:56:37," """""," ""0"""
-"""88a2c9db752d0474d3acae63d3a5c7059051460c588142ee8d0769d9765ddc18"""," ""win.njrat"""," ""Bladabindi"," """"",2026-06-20 23:56:36," ""NjRAT"""," ""None"""
-"""13dd71dc712256f0bf365439e1b814f17347f5fa797577801afd5bc334349532"""," ""win.njrat"""," ""Bladabindi"," """"",2026-06-20 23:56:35," ""NjRAT"""," ""None"""
-"""e7a53970dbc5a570d4d98e963902f37641fc6e526ef9af1e7117806436b7a394"""," ""win.salatstealer"""," ""None"""," ""95""",2026-06-20 23:56:35," """""," ""0"""
-"""3368d54f30631c9e305f6df3464e08b6b4f24eebdb605240c44b144deed717fa"""," ""win.luca_stealer"""," ""None"""," ""95""",2026-06-20 23:56:34," """""," ""0"""
-"""16f121c04202eb4a7cc68ecafdc85e66a114801e2edbcf5f2561437993bbd278"""," ""py.stealler"""," ""None"""," ""95""",2026-06-20 23:56:33," """""," ""0"""
-"""7348ea4bd90ba897c35d9cdcc1da7470d8ad00db072538e21686db797e3b1a69"""," ""win.salatstealer"""," ""None"""," ""95""",2026-06-20 23:56:32," """""," ""0"""
-"""6696a32df2f9598926cda34e6a239e24c66e417fe40617ad5853b2cb339481a4"""," ""win.salatstealer"""," ""None"""," ""95""",2026-06-20 23:56:30," """""," ""0"""
-"""ef3b3ab549f0abd21112eaa6b2d92cc43268960cc784241dc0512b38db090923"""," ""win.remotex"""," ""None"""," ""95""",2026-06-20 23:56:30," """""," ""0"""
-"""0ecd4eed4e6933a51dbedfb4927b330135e0df7957e4e1eb6c6cee939a5bdec4"""," ""win.valley_rat"""," ""Winos"""," ""95""",2026-06-20 23:56:29," """""," ""0"""
+"""e8c84a21131672927104f8a91d1062a71351e97e3052dd1d3ca04b7b73b6e37e"""," ""win.njrat"""," ""Bladabindi"," ""2026-06-21 16:40:30""",2026-06-20 23:56:38," ""NjRAT"""," ""None"""
+"""aff0e85a8e066750e4380b756c2a12b9c9b4bdf7460eff4dba462422e572fe81"""," ""win.sliver"""," ""None"""," ""95""",2026-06-20 23:56:37," ""2026-06-21 16:40:30"""," ""0"""
+"""88a2c9db752d0474d3acae63d3a5c7059051460c588142ee8d0769d9765ddc18"""," ""win.njrat"""," ""Bladabindi"," ""2026-06-21 16:40:29""",2026-06-20 23:56:36," ""NjRAT"""," ""None"""
+"""e7a53970dbc5a570d4d98e963902f37641fc6e526ef9af1e7117806436b7a394"""," ""win.salatstealer"""," ""None"""," ""95""",2026-06-20 23:56:35," ""2026-06-21 16:40:28"""," ""0"""
+"""13dd71dc712256f0bf365439e1b814f17347f5fa797577801afd5bc334349532"""," ""win.njrat"""," ""Bladabindi"," ""2026-06-21 16:40:28""",2026-06-20 23:56:35," ""NjRAT"""," ""None"""
+"""3368d54f30631c9e305f6df3464e08b6b4f24eebdb605240c44b144deed717fa"""," ""win.luca_stealer"""," ""None"""," ""95""",2026-06-20 23:56:34," ""2026-06-21 16:40:27"""," ""0"""
+"""16f121c04202eb4a7cc68ecafdc85e66a114801e2edbcf5f2561437993bbd278"""," ""py.stealler"""," ""None"""," ""95""",2026-06-20 23:56:33," ""2026-06-21 16:40:26"""," ""0"""
+"""7348ea4bd90ba897c35d9cdcc1da7470d8ad00db072538e21686db797e3b1a69"""," ""win.salatstealer"""," ""None"""," ""95""",2026-06-20 23:56:32," ""2026-06-21 16:40:25"""," ""0"""
+"""ef3b3ab549f0abd21112eaa6b2d92cc43268960cc784241dc0512b38db090923"""," ""win.remotex"""," ""None"""," ""95""",2026-06-20 23:56:30," ""2026-06-21 16:40:24"""," ""0"""
+"""6696a32df2f9598926cda34e6a239e24c66e417fe40617ad5853b2cb339481a4"""," ""win.salatstealer"""," ""None"""," ""95""",2026-06-20 23:56:30," ""2026-06-21 16:40:24"""," ""0"""
+"""0ecd4eed4e6933a51dbedfb4927b330135e0df7957e4e1eb6c6cee939a5bdec4"""," ""win.valley_rat"""," ""Winos"""," ""95""",2026-06-20 23:56:29," ""2026-06-21 16:40:23"""," ""0"""
+"""76b7d33401d60a564d8761c3b31a061ad3e8c64579cdcfb81cce92b55f491c3c"""," ""elf.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:05:20," """"",elf
+"""5f72bdb14e138f10c1658248fdaf10db2fd1e812240966e009bbcf8d463e099c"""," ""elf.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:05:20," """"",elf
+"""b5dfd4fb5e17d304c15d42a1d2404ff7a578b618f996f5cb6b2762cd9a6d0c53"""," ""elf.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:05:19," """"",elf
+"""4b7779b386a7efee91f70008f7d7f773e9b787a374c8c974fd450ce3cb642398"""," ""elf.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:05:19," """"",elf
+"""f7010e50cc72851a99f686370ac0b5bf75c81cc00e809b4e7937a8d6e60114db"""," ""elf.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:05:19," """"",elf
+"""acfe720d95e1adfedc4869e89930644cbd17635c121b43698bf66ff1d14e5746"""," ""elf.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:05:19," """"",elf
+"""7454191be1a95519697a68bdce4a90fec5aadcfe0871d8537135e2af5de8de8c"""," ""elf.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:05:19," """"",elf
+"""722360b213bc17885dcd6894a07d9a8be342b240d7d41e0490e50964f63aa239"""," ""elf.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:05:19," """"",elf
+"""718d6f185fdc2d9fd206914c2b05f85e3c50b53c705071c09cebdf44cff34768"""," ""elf.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:05:19," """"",elf
+"""1bc4c339b1c0773a649234d4b85dd1929c0b5d2d0cd9836c7ad1d7491372f9ec"""," ""elf.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:05:19," """"",elf
+"""300bc2769c6d62ba9d228cc45e126cd458e1a23fd23092da258053afd82f2755"""," ""elf.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:05:19," """"",elf
+"""6a5e547756ef1256f1eb9df0249245c35461affd009be8f046559bc007cafcf2"""," ""elf.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:05:19," """"",elf
+"""3dc7d4023c7380ed740ac5ac7d82a4ba6f587f430b2b7b66f1d34a44f89c39cb"""," ""elf.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:05:19," """"",elf
+"""3999a25f8f0fd8252aa9250fa9bd70aae202f181812cc6c230c8ea2842340f18"""," ""elf.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:05:19," """"",elf
+"""f25b7f11e9f34ee5d91b3e07ba22925022e8b8b05c3ddf6672ae86e5144481cf"""," ""elf.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:05:19," """"",elf
+"""36131ab94a019b67a88fa167f8e8e48d2ac20a27f2cef6a7c49ce2b102c8cf66"""," ""elf.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:05:18," """"",elf
+"""e3744b3c8520e462e419b1d63b6474a0c45ae5eb561e66c1d924b00503336533"""," ""elf.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:05:18," """"",elf
+"""a6ee7327cc2efe51abd32ac04d601bec931c4dbb91236755882aed715656fb3d"""," ""elf.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:05:18," """"",elf
+"""9c8b81f82d5870e12062c9c2b31391f79d51dacbb15b15178d6759cbf6b4cadb"""," ""elf.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:05:18," """"",elf
+"""7d408096bc0b679103c8a9c7d2460d5bebf13a8630e2fdbd5a4953f78c26874a"""," ""elf.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:05:18," """"",elf
+"""b534ab6313858e92a929eaf85a255382b894e8d2bc01c470994ad88ef915ca12"""," ""elf.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:05:18," """"",elf
+"""ef41ea6b089e5a12ce4ae339a5c131349fd89509ce595c781b7c94baf91731ab"""," ""elf.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:05:18," """"",elf
+"""81c36830ea8e0df4de2e4e7040c551a8b7aeac4dc847268d144adcb2ead49ec1"""," ""elf.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:05:18," """"",elf
+"""fc7a155c2a563ef21beedb7c1ac1bf2f0488b80b337f986229e126b0a312a5da"""," ""elf.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:05:18," """"",elf
+"""2e0b923cbbf6f655fbac594d100421787f03c39bea97c702b1ddf91c19b3e1c7"""," ""elf.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:05:18," """"",elf
+"""8b5a2462019b8faa9dfc06b21d10706718480b9488dbebf12d021980e0c646fe"""," ""elf.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:05:18," """"",elf
+"""8248b493de0c1c6415afecb34bb344b21dc467b026a6381687ad82a2a8938f2e"""," ""elf.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:05:18," """"",elf
+"""9f97d8732ccafdfd352d4da4501d4ce9e6e10c3112f3d10c437543c3ef578fd2"""," ""elf.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:05:18," """"",elf
+"""a091fb15074d114bcc16a3575c6053535356c3e8576e50e147b7cf3876d33267"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:04:00," """"","ransomware"""
+"""b9c1e8700e39c6768be9d6bcb092cd6abe80d4244fc437566b58721cdc7d61ff"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:04:00," """"","ransomware"""
+"""0fd6097b0b306b736249f108b9b51e1574a11c8de23d03b7d615a48ebb0f5139"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:04:00," """"","ransomware"""
+"""6775f96c27672c6a44696e3472d42ed8584828b3e5ec15da3a866534a344cc54"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:04:00," """"","ransomware"""
+"""3bfe215b14e16e37ac60a6708de8e422590404e2724f90cc16a772366e9afcf9"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:04:00," """"","ransomware"""
+"""56f1014eb2d145c957f9bc0843f4e506735d7821e16355bcfbb6150b1b5f39db"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:04:00," """"","ransomware"""
+"""db39502dde5980ff3f36c39fe540b49053d1baf46a393bc0f05fc9b0ccf47951"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:04:00," """"","ransomware"""
+"""78f9d62c6ad2d449d640d3f1400c0587779261a7050e6a6af1393c151d3e53c6"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:04:00," """"","ransomware"""
+"""6abc0e6ef8d728a6269f8bd16881b7617dae01e032d38d583fbbbf5fcb6cac73"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:04:00," """"","ransomware"""
+"""2e714c3cd379fe7e862db59f0b507692a3f6f7280db5bf066c8b6fd5dfbdb39b"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:04:00," """"","ransomware"""
+"""8738ba49fcd520789569aea7bf7af890741a745c79ae2bef49b93fb46c076c2b"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:04:00," """"","ransomware"""
+"""77068c6cfaf8b107443522757149d75400248c598f72a2dba35b1dac4639f043"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:04:00," """"","ransomware"""
+"""a07e8c676820fa8d0ab78d86071380ecd0e2c1c39857daba2f730748b9f347e4"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:04:00," """"","ransomware"""
+"""105198b40b332d4c3c2bfb7bd4069258c083160bfd305d3ec7036ea02b9bcb90"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:59," """"","ransomware"""
+"""156541afe21c9f60150b1376e76e09d3b9b6e1b6ec17340b47efe6479eb2489f"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:59," """"","ransomware"""
+"""db2cbcf7d50b8d7dd77d01f0ee9c7576e2a97c869754f8fb27d712212e7f8fe2"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:59," """"","ransomware"""
+"""b11f81c26acfcc5e7ea8504ea84d48134d84331eacb89c793a9714fc56a05883"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:59," """"","ransomware"""
+"""613a67af3ca2af098cb854c45ed37b0aeecf0874b90bdafcb2750f4e2ed60016"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:59," """"","ransomware"""
+"""26841db9c5f0aa186c07462709984a15ff7d867e7cb635d270442cfef3868354"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:59," """"","ransomware"""
+"""e8c7ceb1a023c5f69b3ad9146c1a674088b7471cdcfb936fd5afba4f45aabac1"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:59," """"","ransomware"""
+"""392bbfa9a1526428e2db1c5bd6fda098ee0303a8ebf2831e66fd68d54f5977ed"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:59," """"","ransomware"""
+"""e6a67dedaaefb6edec079a3071b30b771ae1c38d7b17b6da5c32bdea5a448a6f"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:59," """"","ransomware"""
+"""eb6dc793918d46556ea79531e49d5e12bb237802218abd8cdaa115752431b07a"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:59," """"","ransomware"""
+"""e74f3881764f0469ac6d67379fbcc837ddbc753d019a0ba35ce97abe550453ad"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:59," """"","ransomware"""
+"""5c62626731856fb5e669473b39ac3deb0052b32981863f8cf697ae01c80512e5"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:59," """"","ransomware"""
+"""a3dd850d5c543003baaa5422ef084adff7e3b1691a11eed8c91235ba12be13bc"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:59," """"","ransomware"""
+"""4f16317dba9b983bf494892dcd227c0795f3809303e3b2787bf0a2193a318e0c"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:59," """"","ransomware"""
+"""0358e06e72e92d95dbaff4f113018f6bf6fd0fb064108adc349b80d016b207eb"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:59," """"","ransomware"""
+"""39e8cc7d47b69341908afda35046dbcccf118271918e69c4012dd35923b55c9f"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:59," """"","ransomware"""
+"""f60912a40674eb272021438937a29a81d02903810e8d694525d4d47ebf238675"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:58," """"","ransomware"""
+"""088c4dd3fbf7eaab222070cb573c2baab2a5ccf94d078290b64a905de8c4363f"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:58," """"","ransomware"""
+"""6b9af9686fb0979ae5b9a8c65323106f5ea20939ba674c57fb0680e67a72db6f"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:58," """"","ransomware"""
+"""2128a68f2140e72e8cf42fae54a66f8eb228a5393744237cf2a04c72d0310188"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:58," """"","ransomware"""
+"""7952174eac06c1378e48e48b2d0cba5b1963d0755639721b14a24cfc57ff4798"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:58," """"","ransomware"""
+"""a65edb1500bf5cd249f38d142f9a10215b0722968a1cc2751f796e7c4b80ebd0"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:58," """"","ransomware"""
+"""470a883c7a88f9469f3b5b4c0a4599fd53539d2d8e3e3cfc333a7b80cd0411cf"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:58," """"","ransomware"""
+"""4aecacb55f9ba28712c20ea5bdc4fd7354412829e887d287232a85dabeb696ad"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:58," """"","ransomware"""
+"""7004fec9a7015c5d7d60c988e767d60013748b1a4a37b24c154f99b8cd8e4bbb"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:58," """"","ransomware"""
+"""7854cd8e3a652e6007d4aeb930197792a373d469d296b821197d348d31551cdc"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:58," """"","ransomware"""
+"""18c6981b03dc2b828de36ec90dddae8b38e7964dc7b67975bbf7e387c5e48f36"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:58," """"","ransomware"""
+"""de2b583b84d6c1bcdf75456cf9a30972a15278959dd096ef71ac5da1e5ba4fed"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:58," """"","ransomware"""
+"""12de41a24e92382769c75721766bfbf6d8ab0ef3a3915956639833889c72fefa"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:58," """"","ransomware"""
+"""598a67522f79712e4acb52ba57fddcaf4b1cb65e0df388115b5abd36b33ecc2a"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:58," """"","ransomware"""
+"""ccca807c491c31c7f36c97b5b2db227f89a3a7875a68e144e38589afac468cba"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:58," """"","ransomware"""
+"""a342b8b6541487fc77ecc93d06b320ac84dd294085a0ab2d255e535c80836d66"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:58," """"","ransomware"""
+"""4759d6fb32ea08bdb2a960b9b58a5db9e4d086af1d2bfb9af1d025513fac23b6"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:58," """"","ransomware"""
+"""123a75ee679937b4d4f034a960aca82552f5f6d2a51b3911d758a6643ae94fb8"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:57," """"","ransomware"""
+"""4ea7bccc299aff0b1218651762913debbf94d3da29ea6590a28f510454f0cc33"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:57," """"","ransomware"""
+"""a59244547b115d491ef67f1080c31b134f64492c3a501781e8f384a65afe976c"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:57," """"","ransomware"""
+"""aa8f864d8047ac73d40fd96cdcf30f327ec66935fe3768502b19c4003186e200"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:57," """"","ransomware"""
+"""fbbd105403b99ff5d2a31f82c5937ba5f3eb5812feb383c087242258b873a947"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:57," """"","ransomware"""
+"""9e3a279a34064af8494fecdb79aa511869255e3ebcce848cf04b98ab1643371c"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:57," """"","ransomware"""
+"""7489b95edc756576a81ad16c124d4a6bb66a283171b913b699bdf8d33a21d9ef"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:57," """"","ransomware"""
+"""835b5213337c47b10e2ec2c295d9d7b103dc694b78a75dfc4ff22804fd7bcc00"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:57," """"","ransomware"""
+"""893d3e530eb673aad3000011f7e6fc307db099f05a047de1804a82d54f115a9b"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:57," """"","ransomware"""
+"""4391dd816e99cec4240ea8d8cdcc4149e4a4cb974959af078e76868a8983393c"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:57," """"","ransomware"""
+"""98ab43eaa8b58683cee189cf2e2fb90d7517942658821486613ee3f6b9fbb07b"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:57," """"","ransomware"""
+"""41986e9951f61b91609b7242e63e8caa534737d7a44036458fc2c11cdf2e936d"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:57," """"","ransomware"""
+"""f28eff7bb5e7d57228e969bc8fa4229ed94b9b38449ac65251a535a00f9f2d43"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:57," """"","ransomware"""
+"""33d9c131bf1b0e3bd016a5155d3b16f3dcc2961d2332f8119d7a19c981eef83e"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:57," """"","ransomware"""
+"""c7da440df85d7415ae9fa4001fbae675353606504055a9a2b30a9f3950dabc82"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:57," """"","ransomware"""
+"""d815864feee209ce574e62c39f49714ae50ae9625e122138b9688fa23e0ac0b6"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:56," """"","ransomware"""
+"""de730d969854c3697fd0e0803826b4222f3a14efe47e4c60ed749fff6edce19d"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:56," """"","ransomware"""
+"""d351f8af7e2e74313e5783dca8d01fc73401aae597bb92f47abdd8abc817fe82"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:56," """"","ransomware"""
+"""00d72c8a0a892f0c13e77cc2c36b60c1e200be05dd009f35874ae5a7c4f41195"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:56," """"","ransomware"""
+"""908df2284fdd8708825ab62d180455f9e891d7d650db060c7600b2f9de727748"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:56," """"","ransomware"""
+"""69e258b9da870faee72e9350ea1770d3525c050396d4e890af017e96bc53bc94"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:56," """"","ransomware"""
+"""a1d14b84a3b82cd8731eb0e43b51c1c426c1444ac1f4282134ef0f4539aa3716"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:56," """"","ransomware"""
+"""6c45d2ec9cc7641ba42add1f7068e220a1f336844823dfdfc661e27e35efef69"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:56," """"","ransomware"""
+"""ccfcc2c8527a7ba34990968f0fcf722bea6412b20ba1e2dbb416e8cc250d172f"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:56," """"","ransomware"""
+"""7f4b899e9cd384f8e8842541d4728ff21041d8fddacaf6671c2ab60fbe1f4847"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:56," """"","ransomware"""
+"""a21433f67bd7b089ecde124415271402a3bf496cfffc4a3961609395ea894952"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:56," """"","ransomware"""
+"""0a26b3ee7dcd5a21129118cbcf9eb5c3dffabf650b22a42678e6df4258acc142"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:56," """"","ransomware"""
+"""6703690584069b9709c069c8a4eccc08479d0da255dd71313354cc6ed5f16dce"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:56," """"","ransomware"""
+"""f1b3978089f22f9f1e620042235c6ceab133d75be4ba9c5830d25ef09aa306d7"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:56," """"","ransomware"""
+"""cfbc9569b3fa04653fb0f2b7ba9af32ac9b43edad5c32159f1f69253f76acca8"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:56," """"","ransomware"""
+"""94737a470b6d8baa52b9794a200e4677255b40cb3c70570e608696683d6ae456"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:55," """"","ransomware"""
+"""a649c28970440f4a3b58bab037c418f9930e286a4c57436e278a6b7d996c949d"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:55," """"","ransomware"""
+"""453982e39c4318e2ef81fbe3cb67c77e11837eec07d24a358252ab62a10f21cf"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:55," """"","ransomware"""
+"""8cf136767a6e0a75d05df220da10a187c24245ecf56b1b619a1f226c6bca76ad"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:55," """"","ransomware"""
+"""236c5938f204e51b5d3485a2d9bfdb75c66f2a7a6da0a4d2b82c276e43569c66"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:55," """"","ransomware"""
+"""76f474b4cc1c06e8bb614cc61b898703648a3f89687c2caf469ecb71803b00df"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:55," """"","ransomware"""
+"""0518f05b7d77b4dbdd62f70e87f72ff7debc39377376b30ddec189f5e07e29a0"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:55," """"","ransomware"""
+"""cf5ac04a33fb5c4b40b0f68728ba3f7bbdce65655324a981c340c555db62aed9"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:55," """"","ransomware"""
+"""9c8795c8cf23dd52d7678a235e1b717a7792ef23aead6dd839fb7da531b07411"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:55," """"","ransomware"""
+"""8f842daae18d7bbeeeef1cf76f5195037fc90b56cf2430c814b4801b971e0864"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:55," """"","ransomware"""
+"""a93fcad70380433828f053826848a482611d9e8760601bc6d8e45f6aaed178ed"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:55," """"","ransomware"""
+"""b7d008366983164fbd1c8e28165972ae1d7ff3893109659fc0b2dfb67b80c8af"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:55," """"","ransomware"""
+"""635f8e19b199652ba6aca8d5b24e6f30b6d3c74b8ff7af423f979adf2dc7d58c"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:55," """"","ransomware"""
+"""f319d89302849adf31a5cf8d91b7b0b3e44d4ba5e54addb3cd0987bcf49aee9c"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:55," """"","ransomware"""
+"""31e6b65f9261c2fefcd769282f03de73af72f86c8ebb25c7fb99bd87c6cd14af"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:55," """"","ransomware"""
+"""39d4984521a8088c0a0c9e4a3ffa8436ef123063344a2f260c36f551e9f2724d"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:54," """"","ransomware"""
+"""17c17bce513ecfe10ebbf4844bc673115481a9c47154e5db29321bf3defb4778"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:54," """"","ransomware"""
+"""52a9bd1f5985dc06b068c0b3d1993628a1d5fa463b208d6eb2e5268b01507b10"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:54," """"","ransomware"""
+"""04ad5cb7b9aea4f38d890edb46116c21a719a676843829294bedadc1bec21d18"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:54," """"","ransomware"""
+"""a530b2d65710a0a8053600174dc786c52035f1eb44a1a7148838066b7397496c"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:54," """"","ransomware"""
+"""ab220f6fbcbdebe306a6b529ea66068daafe81a292564ad823c8c1eba4b30646"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:54," """"","ransomware"""
+"""b7a45b3b17de08f895a7dfd252280abda18e12041666359389bb2bb32572e578"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:54," """"","ransomware"""
+"""79491d8d34831c12dc72cf99c1e6287680272d224125c98a1d45a7904a151812"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:54," """"","ransomware"""
+"""6ee52aec01487816def0cbdac9471d6ec9d59b01a57650685baaa0ac4b740ad4"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:54," """"","ransomware"""
+"""18846cb94d097dcbd0bcb04ace4cf32d76fd935bdfe43f611b63a6c1c23ff390"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:54," """"","ransomware"""
+"""4cd235661936f47f1623c5f3641a9ae8b5a1bb4581f04cafdbf4499e778fbb26"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:54," """"","ransomware"""
+"""cc5d38a04a6e632eefc79e27e0c061135188a730c2c181fdeb55bb779ede1f2a"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:54," """"","ransomware"""
+"""cc4207bb68ce88d7d769a3d3c858c4ad4c0edae10dd5925135db05ca0613c902"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:54," """"","ransomware"""
+"""2ce52e57bb2ca339160933777ea3492c314cbf5ddad63133f9f73350a0d7067d"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:54," """"","ransomware"""
+"""5ce962907621dd4ac2455b2f921b5f56c035899cd81da9ec6eb646a8a7e985c8"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:53," """"","ransomware"""
+"""310db4ae1c7dc6f3da03565b8338830428d293fa5511738e21280f18e02aca19"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:03:53," """"","ransomware"""
+"""4b4315270185349dbbaf2245d14b5f9779035ce28f42cd6eac7bc2930827a033"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:32," """"",note
+"""1b7362a43c58330a9bcb1127ef8d1e049960e4dc1ce128dbffc30916ae03e979"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:32," """"",note
+"""23d2d0e180a8d1e673d378cb6fe4da8af173b2fac30bbc09150f49382b4ec83e"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:32," """"",note
+"""ba9d4c8652d0876379a5ad0e64d3456184f3fda250453078cedf128ae16cd1b0"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:32," """"",note
+"""2900d59f25d7a44eec889705c5466c387314e130831986a9ce471c73a30eaa7e"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:32," """"",note
+"""c3631de2c86e9347eb1ba74d2d8aad47c8dbb00ac79bdcae2b29551c936327b7"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:31," """"",note
+"""29be8bcff1035e5629e2e2f48b01a261bf42461cc5dd6c32a14d3421fd05ec8b"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:31," """"",note
+"""528cc55c23469158120e76655979e038a3317d864360bb61f668d6bf74fc0dfa"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:31," """"",note
+"""f0c65e69102860395ac7b6d45ccf52a5e6eff8ea14dc79ca1f678cef08815d2e"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:31," """"",note
+"""d47df6063c4c4274c09afe4043ce11ecf71fc9fb9729238528c590ad11702b50"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:31," """"",note
+"""f63188ba0b2ece396f32d389d062fde19e000d7286e72da8fd616cee80173538"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:31," """"",note
+"""de92a982372f5a9b6c8dd73a6777bccc1e21094b6566659a540f837fcd6b1290"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:31," """"",note
+"""efc2353f18ac2d57436afa5a544e921849ee98bf3138c08bfdafca85b7470b22"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:31," """"",note
+"""4ae328b9c180d8451c313001c7af0f384f43cad07e6504b32a23c002919cdd40"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:31," """"",note
+"""4605148d9453d5ad0487cc1a06a014451c48e3c03af49abcdf341207518ce1c7"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:31," """"",note
+"""6faa325bc14f737261a64bdf07d7ed7ebedd5f20edb26e67696170282bf79dfa"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:31," """"",note
+"""06449365e4cb6b92692c82f8e60d6e7ec781e85e3883e35067f25f27d68b2bf3"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:31," """"",note
+"""b47a0e404db57b2c194028787cac817b4c99dff2803f2dda3dc42eb718832ac7"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:30," """"",note
+"""7d8cf6648ab9c3b84fabad7846d82effaf91e09bfeb3fbf3c434e1a68c57e5c2"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:30," """"",note
+"""98053cb9d6f44fe19674e808ebfcb3c99cbbdbd9e7730a96482c48a232692db4"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:30," """"",note
+"""74157056776afdd7875c23a5daf8e14d836101d887cbfb42174361c0e3aaac7c"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:30," """"",note
+"""d82cbb5cb6f84b421d9c21148926599614b973466bc90cdaafcf63be0d334a1e"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:30," """"",note
+"""d10e606b96b13872dcd4c88bfc46c53927c7753afdfe09f0c168988a5105053f"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:30," """"",note
+"""6cbc9b8347026c9564df80dcfcd3694d1b63fbdbb642e80318a73b93bf9e9a48"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:30," """"",note
+"""6a98c669a7d413058f1f57037f95459e8485ec0dbda01509f7a5b4065a82a6c8"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:30," """"",note
+"""c062d6d46d54dea65cc6dcd6b9f6530bbec04083045e2990e25ab857150ad330"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:30," """"",note
+"""d1943d2546876bdf572e50972bc20f352fcf962043de223275055e9b03010535"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:30," """"",note
+"""f03b00913b35c006a8709060c9be4b8e28946abecc0bb14df0e2df4bc2c45a94"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:29," """"",note
+"""69eeb97e5272fe54c3b1624862e88342b08fb3cf6cd7bb7ec66521bab3de4da8"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:29," """"",note
+"""6ef5997c96a79c41c8f2cfb2c3f56d33dfec8dd76057ec40835589d9d3d3c591"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:29," """"",note
+"""5a3c18ecff4ce4ec144c50a1c84c12266b8f259da39e14840ce555735e11d18c"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:29," """"",note
+"""7d55c1e2bd8380517a3a5d34abec7c47c675cece61232026a36deea99263cd84"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:29," """"",note
+"""40d38247350ba9eb25832e33b548e6da520c71b0fe021c5c318324e4baf8f897"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:29," """"",note
+"""ea08b01733c4aebcdf8aba6bbbc3d9b6a4a9d611c938b23a6a5e56d3a09b74cb"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:29," """"",note
+"""ebda0be6e08f473e3127f7cd870f8c75283473af83205c6914df9b1b0657c714"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:29," """"",note
+"""ce73822504f2166bb884c5ff5717c282e35257196b60a9d382c9eb40140e8535"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:29," """"",note
+"""3f95b93c2a63b2edfbdf656a76100bdd91d1805cfeda369e3817e29289f0721a"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:29," """"",note
+"""a55cc627387c95cace97a5357cdbff178814a3a7e7f7007b527add07c163b6a6"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:29," """"",note
+"""1ef2b63e5983da066b6634e7722b04535d146889b90e51f18fb06cfe796e009e"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:29," """"",note
+"""140471e87d9c698e285db693971d7deb2c4e32662237237d89a338c20ff6bdf9"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:28," """"",note
+"""1feee87449f929e84e88eedf442fd36303cc7b885b4e3ed07a9f1b4780929f50"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:28," """"",note
+"""81f06e74f63da97046acdc3ddf030b1a724b90e5b82114ce872c7febe7daef74"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:28," """"",note
+"""65f9ca9ec8933209d7deb0e9e2d2ff2ca9359efd2f0d15e7d73f76ee6cd7e7b2"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:28," """"",note
+"""de746e47ba5d8ec56ec0e787258b42b128378069655b4f4a91c1f0b3a42a6e34"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:28," """"",note
+"""13d15dafaa15e713e53d150f558e903616797c5dec6adc588ece5d2abbf85e45"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:28," """"",note
+"""ec88ed2999570f1d3d55ca161a9a2fe5effbd69668a6c04b6f72694179d3795e"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:28," """"",note
+"""9fbf25131fd47c7a0ef72b3ffa7887be4ccf7b8cb0190460492e0991c21f1d22"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:28," """"",note
+"""f86e9cb02b7d6d21bbcb1f6409c8f20efc3840c1ce6d20669f7b841df7f1a4be"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:28," """"",note
+"""cd2e56122c741187e5ba6303dd3f8b3b67e5312575023e62386c273e5ee57202"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:28," """"",note
+"""e03c0db578f415721513dd70a60019fff4fe0b0a39c688b8fc249e2908c4e9cb"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:28," """"",note
+"""68d36736f8b77205962d5b812a93ed741da26da3492f57de8c91826278b9d997"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:28," """"",note
+"""f4159bdee293286b234393f09974fcd6dab878f538208295c46d79cab2bd0e82"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:28," """"",note
+"""6a7ab094e534b9637458909ca8da421ced59540ede6de4587c166444219f532b"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:28," """"",note
+"""9a7b93f77dd09503f0ead9fa739176d7879b4bb0a8b8adc90f8ed10e1174b239"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:27," """"",note
+"""759305a8012dbf56252b7b02c0554e6c3739b3c06e065011a30c79a3f9e8be6e"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:27," """"",note
+"""142c5302ae8e2254796103f92499fa4467db9c1349b04e1c3496c3c84d7694bf"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:27," """"",note
+"""8d18d616ba59259f741c84e3bcae7f0116eb6e5a71f0396e3986b767c46518a5"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:27," """"",note
+"""eb9894b4a6eeb29a321f62d0b0981647dee58c9c261f1da59d140a144ad28731"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:27," """"",note
+"""2fcc402a01269b951d19f574969f82b44082e14c112b4e451523c592d6db4d48"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:27," """"",note
+"""8f08a5515ffc9fd24222ac562c9eb58cd5ad7a859e4449040e0dc55a6a7dfc28"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:27," """"",note
+"""4bcaab305fab4feec2e5b250083a4f95da373dcb39ef02c5b726e3fdc3a83367"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:27," """"",note
+"""e43ce71e18abf6850d886e55a9966e5b517bf9656c8a31a8c022f64fcf7f8d03"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:27," """"",note
+"""4d7a6316b532cd29060d2f6d086cd932cb90880899c3fc4f6e29c1fa5918c163"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:27," """"",note
+"""c8418f60d313b1f854a6fc6c3c0cd63f351b2993f44e3ad56bb96eb992ae840f"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:27," """"",note
+"""9e1ddf491227a781f3914d8657769c7ec35394dbcfdddc87f54c40e2db1636b3"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:27," """"",note
+"""3c07c8d01b67e870393eb03e5fd70f4730a9789976a47deae4c30386906c7922"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:26," """"",note
+"""d9775fff49ee094e32608ff1fa17214cb4314237516f550c4e1cc97ba059f05f"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:26," """"",note
+"""89fc51502d3de74f1354b1e9d104fc04f2498c58f8c38dbe575f0363f4d8e1f4"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:26," """"",note
+"""bc209326df8a240397db8081318b04a4152aff023fe0f3e7e4dafc2296ca7601"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:26," """"",note
+"""614ac476bac559fc8ad177e5e74988da7d12db94e91906abc71155fdc706b120"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:26," """"",note
+"""162a2db401025a6ba181af6c372ca29bff172000422e7699e58ca019172834db"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:26," """"",note
+"""8531c673cc8412f891f3fa70cd5ea00b5485ccf42a567a2fb1106e7e5304e165"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:26," """"",note
+"""1a61b370663be4124a4cbcacfd358e5a583a54aa49474174333aeb43d7360d1d"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:26," """"",note
+"""bc304ca3edb92e8dd93cf6cdb572894973d1e036f06375996317fb84c2801403"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:26," """"",note
+"""ffbe3bbbd5671b7bf840c0911a78ee01dcc2f0741677e74ee434873c5e9bcc43"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:26," """"",note
+"""d30488c4266693070d2db135203513b4e5430bfff4e4c414afba797ab3de14a2"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:26," """"",note
+"""83babb4948e67eaeae8d199019777bce14aa574d53fa8eee147a0b2147e4bebd"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:26," """"",note
+"""2e7287a9a44bad7dc30e80c1e28449be8fe5d64f00abcbbf7c1d6bc9f2516389"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:26," """"",note
+"""7de36ce97ba0da128ce80fd2f2bb279dc8d116766cd2303ae914ed22f5643f69"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:25," """"",note
+"""de8cbfe0366a0c2a1921aed25f0110cc7c800c04dfff985c1de27dc047bf715e"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:25," """"",note
+"""9928da49334113c458714bd518941cf3dfe0052f2021ec0ee8368beed6a5eb3b"""," ""win.akira"""," ""REDBIKE"""," ""100""",2026-06-20 16:02:25," """"",note
 """c343f53916747c5b8a60aed844b1882863f432af65867297edf1913f167c4f68"""," ""unknown"""," ""None"""," ""75""",2026-06-20 05:49:38," """"",crypter
 """e8ee3e3e25e9deef039131b7e66855a2e614d36f395b582f9b7e6365ffd61484"""," ""unknown"""," ""None"""," ""75""",2026-06-20 05:49:37," """"",crypter
 """13420d64ce091f6dc0505d5a2ca5858f6080f3d91580459c2284bd68fdcb1979"""," ""unknown"""," ""None"""," ""75""",2026-06-20 05:49:31," """"",hta-polyglot
@@ -60,25 +317,6 @@ sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
 """798138899fae930a2eb5d70aafd8ba622fd1674fec571e282e9c9589b39cffef"""," ""win.nanocore"""," ""Nancrat"," """"",2026-06-20 03:39:33," ""Nanocore RAT"""," ""None"""
 """8d347ecef1e388d150a55d84f0397dc39be24d22c456681eb57ca23580f4083f"""," ""win.wannacryptor"""," ""Wana Decrypt0r","Wcry""",2026-06-20 03:39:31,WannaCrypt," ""False"""
 """aa40a70d1dbf91af1d2bfc5209417fadb3b4ad2192a4ea4cbf802e2b10d5b0ce"""," ""win.wannacryptor"""," ""Wana Decrypt0r","Wcry""",2026-06-20 03:39:30,WannaCrypt," ""False"""
-"""12013662c71da69de977c04cd7021f13a70cf7bed4ca6c82acbc100464d4b0ef"""," ""elf.mozi"""," ""None"""," ""80""",2026-06-19 06:49:25," """"",iot
-"""f6c97b1e2ed02578ca1066c8235ba4f991e645f89012406c639dbccc6582eec8"""," ""elf.mozi"""," ""None"""," ""80""",2026-06-19 06:49:25," """"",iot
-"""f253a4f1afdd89847bbe27defbc46043d73391d1d624752d457505489b5e3f05"""," ""elf.mirai"""," ""Katana"""," ""80""",2026-06-19 06:33:31," """"","iot"""
-"""24adb118a6f7a8d717bb3d3329c33f6b0eb39046a8fb7f2b3a1fff21436bf7d2"""," ""unknown"""," ""None"""," ""75""",2026-06-19 05:57:08," """""," ""0"""
-"""f5952a6947e65dc0165e27ec100eaee09aa65790ca34c517c28d6d9ea4afb319"""," ""unknown"""," ""None"""," ""75""",2026-06-19 05:57:07," """""," ""0"""
-"""b7d6869b427a2e714744c73ade17f1b47fae43bb2ee1a6d7ee9f4c93943406d2"""," ""unknown"""," ""None"""," ""75""",2026-06-19 05:57:07," """""," ""0"""
-"""a9773c53a9611c737dc6a08622b3240e38430ceb0a3960f81391606cd1f02a86"""," ""unknown"""," ""None"""," ""75""",2026-06-19 05:57:06," """""," ""0"""
-"""6844800e8a8defda07b2829c02e76517ca98fedcbbf717328517bef28b279724"""," ""unknown"""," ""None"""," ""75""",2026-06-19 05:57:06," """""," ""0"""
-"""bb4e08d8d96ace12a659a07d0ede31546e121176321b1d0f8cd15fe0f62127c0"""," ""unknown"""," ""None"""," ""75""",2026-06-19 05:57:05," """""," ""0"""
-"""711d9427ee43bc2186b9124f31cba2db5f54ec9a0d56dc2948e1a4377bada289"""," ""win.crosslock"""," ""None"""," ""100""",2026-06-19 05:57:03," """"",CrowDoor
-"""3c098a687947938e36ab34b9f09a11ebd82d50089cbfe6e237d810faa729f8ff"""," ""win.crosslock"""," ""None"""," ""100""",2026-06-19 05:57:03," """"",CrowDoor
-"""f36913607356a32ea106103387105c635fa923f8ed98ad0194b66ec79e379a02"""," ""win.crosslock"""," ""None"""," ""100""",2026-06-19 05:57:02," """"",CrowDoor
-"""a5e413456ce9fc60bb44d442b72546e9e4118a61894fbe4b5c56e4dfad6055e3"""," ""win.crosslock"""," ""None"""," ""100""",2026-06-19 05:57:02," """"",CrowDoor
-"""075b20a21ea6a0d2201a12a049f332ecc61348fc0ad3cfee038c6ad6aa44e744"""," ""win.crosslock"""," ""None"""," ""100""",2026-06-19 05:57:01," """"",CrowDoor
-"""1f5635a512a923e98a90cdc1b2fb988a2da78706e07e419dae9e1a54dd4d682b"""," ""win.crosslock"""," ""None"""," ""100""",2026-06-19 05:57:01," """"",CrowDoor
-"""2d2ca7d21310b14f5f5641bbf4a9ff4c3e566b1fbbd370034c6844cedc8f0538"""," ""win.crosslock"""," ""None"""," ""100""",2026-06-19 05:57:00," """"",CrowDoor
-"""3ee8a9e1c4e61b215998e8cb23521e2b3417abbfa196ee2215a04ec788ccd114"""," ""win.dcrat"""," ""DarkCrystal RAT"""," ""100""",2026-06-19 05:56:46," """""," ""0"""
-"""a1548a5dae03edf08e6c7d7e25645d2dd5b4d5008867edbc5b1048394e6b1d09"""," ""win.dcrat"""," ""DarkCrystal RAT"""," ""100""",2026-06-19 05:56:45," """""," ""0"""
-"""4293c1d8574dc87c58360d6bac3daa182f64f7785c9d41da5e0741d2b1817fc7"""," ""elf.mozi"""," ""None"""," ""100""",2025-08-25 05:39:17," ""2026-06-19 06:40:27"""," ""0"""
 """bfdb075aa514cb43b711bab06e775c081671863bc89c8e84763864e0aa35dd2c"""," ""win.akira"""," ""REDBIKE"""," ""95""",2025-05-21 04:11:14," ""2026-06-20 16:03:59"""," ""0"""
 """5c6cce76a28898a242265b4eb3a3b14558dfb9a67319cfe0ac0bd175addb5b9a"""," ""win.akira"""," ""REDBIKE"""," ""95""",2025-05-21 04:11:13," ""2026-06-20 16:03:59"""," ""0"""
 """34c843387845479329052ec7a71f6445c7530b6fee2eabb458da2338d1af41e4"""," ""win.akira"""," ""REDBIKE"""," ""95""",2025-05-21 04:11:11," ""2026-06-20 16:03:59"""," ""0"""
