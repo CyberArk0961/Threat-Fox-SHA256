@@ -1,4 +1,503 @@
 sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
+"""ffe98374173d7c2084a1a6953b308c13a8b9493294af831c23542b0d88654036"""," ""win.valley_rat"""," ""Winos"""," ""95""",2026-06-29 19:10:45," """""," ""0"""
+"""d6ca3c85df784f0b7751f67bc0b23f44f173b7be7f6344d02f26c8e28e0abad8"""," ""win.valley_rat"""," ""Winos"""," ""95""",2026-06-29 19:10:44," """""," ""0"""
+"""3f076a3e4a0733c630d58f790dc8b6422c5ee6344695f88987b14a060d721d4f"""," ""win.coinminer"""," ""None"""," ""95""",2026-06-29 19:10:43," """""," ""0"""
+"""1d805377c6dc2c4321897789d82add4d2e83e947c5fe2a182061484db840d7bb"""," ""win.nanocore"""," ""Nancrat"," """"",2026-06-29 19:10:42," ""Nanocore RAT"""," ""None"""
+"""cfa1674a075c651c7bf0278f5fffc2ed2d268f4317eb41faf1d1eb03c14bdb04"""," ""win.nanocore"""," ""Nancrat"," """"",2026-06-29 19:10:41," ""Nanocore RAT"""," ""None"""
+"""af154a4bb20730e0d8f7e88179b1797d8e67b23302ee2a0fa152dbd23a39a9dd"""," ""win.nanocore"""," ""Nancrat"," """"",2026-06-29 19:10:40," ""Nanocore RAT"""," ""None"""
+"""604a502f34aa28773356a131d2ce537866cdd973e464a7144b0d626fd65f5937"""," ""win.nanocore"""," ""Nancrat"," """"",2026-06-29 19:10:39," ""Nanocore RAT"""," ""None"""
+"""f59b521321526c8e255c6e5a9ed71d063349cab55a4a0b7207c6aa0039fb32be"""," ""win.salatstealer"""," ""None"""," ""95""",2026-06-29 19:10:38," """""," ""0"""
+"""a834cec6b236453ee671c23326b60763880a47c93ccc595d6e566ec5f81ade88"""," ""win.njrat"""," ""Bladabindi"," """"",2026-06-29 19:10:38," ""NjRAT"""," ""None"""
+"""9977df7ffd04173d38e0aefe3d028052e164aaa69c1facfe63af55b473dd9e24"""," ""win.salatstealer"""," ""None"""," ""95""",2026-06-29 19:10:37," """""," ""0"""
+"""1086e2ec8e9274e1639f14084f27d3b47e606c37ccc2a1e4976db6633ef797d5"""," ""win.njrat"""," ""Bladabindi"," """"",2026-06-29 19:10:36," ""NjRAT"""," ""None"""
+"""31c37ff61aa322192236c9672f09e3d97b6e6e09c5019077df7d0567d4c0b48b"""," ""win.njrat"""," ""Bladabindi"," """"",2026-06-29 19:10:35," ""NjRAT"""," ""None"""
+"""0911748a95f6a362d1ed8d6fcd1a7889167520cdd506522658d84a69c9a088ab"""," ""win.ave_maria"""," ""AVE_MARIA",WarzoneRAT,2026-06-29 19:10:34,Warzone RAT," ""95"""
+"""83a2d5361b91b0ac26ff7c5f161dd3008de6922c5df7f8c0af80b1dea105480d"""," ""win.ave_maria"""," ""AVE_MARIA",WarzoneRAT,2026-06-29 19:10:33,Warzone RAT," ""95"""
+"""ab168b5a63520e7cabe5d2d3917e1b9b1b388db0b3f27354bc7cd075e63cc7dd"""," ""win.valley_rat"""," ""Winos"""," ""95""",2026-06-29 19:10:32," """""," ""0"""
+"""16aa5e9cd33302fb4bba5f5fe61b9dcef4e6e1a777098985eca17e5a6f075234"""," ""win.raton_rat"""," ""None"""," ""95""",2026-06-29 19:10:31," """""," ""0"""
+"""e2becd3fbfd8a2bc16f517ddf3702bc03ce25718495e7e67ef8517d2d91be6f9"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 16:02:16," """"",ClickFix
+"""1a22a2b2b0118fbd8e607a1fd303e69fb61b95837372e57d508908de1a446195"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 16:02:15," """"",ClickFix
+"""e1f8ac8514b45b51abc91b135e4964290a8e6bb5fb4893535fce8da974a8da5b"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 16:02:14," """"",ClickFix
+"""2b3681feecfb6e9a9f762fbf0e0421d69f6bd66f925f4d79be39cde5616256d6"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 16:02:12," """"",ClickFix
+"""65822e4396d854529e895ce37a87c11f660b0f5fd826660a97e9d62b24e57082"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 16:02:11," """"",ClickFix
+"""8765c89afc71a53077f2221ddf68625d971f41e8446b4c2b2f8c0835910d7306"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 16:02:10," """"",ClickFix
+"""8a712dc3e7b657d198b7532dd8c7f117c882ed0ec3acc4fb5bcb62ccae9e450c"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 16:02:08," """"",ClickFix
+"""76bf6dc77dd65a17f8525db19ed152117272bf777cd49d0284dbb398f90d945c"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 16:02:05," """"",ClickFix
+"""e3b293066d3fc76c2fb149af1492afce98e4bba9a699713b0d5e8ef2c558ac92"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 16:02:03," """"",ClickFix
+"""80049a2ef7ebc587d0a1b68cb51f79f710950670fc693f7f666233b2bb8c11a9"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 16:01:44," """"",ClickFix
+"""67af4ba680d2acadbc7c96852a296c515da5eb93095056b8028f5d16dc8271a0"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 16:01:42," """"",ClickFix
+"""e127aef41aaa4e0c28becb09df8415df35f7ca23724e07e2dbab0abb5f72fb85"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 16:01:40," """"",ClickFix
+"""54b57a524cb975f381dbc1dacccd77924d7ce331fe6b156c5b62419d86e7d18a"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 16:01:39," """"",ClickFix
+"""aa14e0739cc231f5bbc34d22440d1600c72cfed1f1c1be6f7bef6f57a8deb05f"""," ""unknown"""," ""None"""," ""75""",2026-06-29 14:02:07," """"",DLL-sideload
+"""7cf705c6a891860f44ec7f8f6a1fa8b461be9fdae040c729720cfffc85cdffd9"""," ""unknown"""," ""None"""," ""75""",2026-06-29 14:02:06," """"",DLL-sideload
+"""72e532597a0255c83c41ea5d3b239027827ec9c24e4e6620dc49da6484f18b4a"""," ""unknown"""," ""None"""," ""75""",2026-06-29 14:02:06," """"",DLL-sideload
+"""d656d9afc72bb96781f831f619a88ccc7713cad6ea8e73572e07b9a2e8c4a16f"""," ""unknown"""," ""None"""," ""75""",2026-06-29 14:02:06," """"",DLL-sideload
+"""8eb65c7e227d022ab55a5fcd0df2108cf63fcd1b0f223dae807fd91f4c07da63"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:51:24," """"",ClickFix
+"""57383f826f13db899c12e257b8b4fb331cb67665427ab89bfa512ff94b136a38"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:51:22," """"",ClickFix
+"""878b1280993dfd05177c1ddcb1db0d5dfaaeab3688ac008fae08dcbbdc9c6165"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:51:20," """"",ClickFix
+"""81b432422313fee435ad45d1d56fc2b82092b87a216930ff376711fae1c5c589"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:51:18," """"",ClickFix
+"""f0210f448c8f446a0553ebc96217b69204635ab9c8afd3dbad4551cd15b04ed6"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:51:17," """"",ClickFix
+"""124943f53d7e25e6b0d5fc5f0166887bd455928c197a83d7912ca836842b7a49"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:51:15," """"",ClickFix
+"""081ff763229d78c25ee98ad187721c67f90f7c21c179316ac15294bd306a9bf8"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:51:13," """"",ClickFix
+"""f2b25a2b02c06cfd322ab35e46aa996e093f60c6d4533ff1c9488a4fd4731bc2"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:51:11," """"",ClickFix
+"""4ab0c6d772182dd989d5f486b3786d9652e096f3a7de2fe9318ba91160a29e54"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:51:10," """"",ClickFix
+"""99dae889c2513af1184536be9113f9090156e005ec8f4e7d70fe85a2385d6b40"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:51:08," """"",ClickFix
+"""2b7a158ba21d29ff705f007404100f4be18f57c8add18be4367274313a525702"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:51:04," """"",ClickFix
+"""dab38d21b56589329253f3945077257015c38f0a3be8d4b23dbec6614df4cd6b"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:51:02," """"",ClickFix
+"""a7c115fa0d7e766e8cca83357f820fbc30bacf87eb8e034e626745fbcbedf4dd"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:51:00," """"",ClickFix
+"""5ddcc0e2b411639e9f0b956207a0f79220a5d63a91f989a33dfdb5e84d054375"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:50:58," """"",ClickFix
+"""cbec366f46e2ada3a4ba03110a6bf07cd773758f9647d6177aa2b3a824725a40"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:50:57," """"",ClickFix
+"""cda3bad36970a93cf320e99fa8f79ebef44a9d363984caa8d3ade57302d685d8"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:50:55," """"",ClickFix
+"""c29c5524132d533b368fdb4ebf25005b8ba16c87f47ff43cc8ffcf3afd951ef0"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:50:53," """"",ClickFix
+"""d9521891b05f22fb738d33a351630174ce3612472585616b5a0d0339f5ef7bc9"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:50:51," """"",ClickFix
+"""cf5875da311ed8b387c1c2e1980ae092b8c626983b052f8209b3cfd7092f37f5"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:50:49," """"",ClickFix
+"""477d0034cb086f7f243a7d5dfa9cd3bc4b4897bbdbbf3579e57696b4a0367eea"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:50:48," """"",ClickFix
+"""1f8714501e5a305f0ac811fe072adab863121a505c58ba8f2063b80cc4c53fde"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:50:46," """"",ClickFix
+"""cb6136edadf2e978a6a7a824a04c4868c3d5388e5a6348af138ccf0ad65281cb"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:50:44," """"",ClickFix
+"""b4e82c910ee8b571485fed72ab6bcc2fac4bc56165486fe0da3548372c061722"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:50:43," """"",ClickFix
+"""7aba322a380e1677dd6d330776f68ee1c9fcd03bc95d441848ff24dfe9c6d724"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:50:41," """"",ClickFix
+"""81eb6e18c2b2ccdf7b0eca605398a98628627a9a97ac27a2868dd2b8cb930386"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:50:37," """"",ClickFix
+"""889e30fe3f83f5760f2ff19a077d59efaa07e9cf01cfe46dc94ce009f14d9eb0"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:50:36," """"",ClickFix
+"""b67a31e76c3574f6703a4113083de1a2f7fa3162ca7873510e7df4da1f78156f"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:50:34," """"",ClickFix
+"""5fda909ff3cef21c73af1756533f0a5a1fda0f0169b538dc9b8d34889ad926ed"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:50:32," """"",ClickFix
+"""a8e53406599d6e8c59847e3bc3170202c52eae122053d2fbb9c4233ab7f0d3ba"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:50:30," """"",ClickFix
+"""426ddfb1bb7b5f84c6676b9c796093585a9c0ad52d72cba56eae4cf47b10b742"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:50:29," """"",ClickFix
+"""b197a5e6403eea1910b4f50719ecdf58945e3a1c727dd81f3fc57a85ceb6f620"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:50:27," """"",ClickFix
+"""31a3401c2f9bfe8a85849d08036cc52458c8bce4e68655b981878017780e3bbf"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:50:25," """"",ClickFix
+"""9ffef12b7a1aa5844659994c2c3a83c9ab432e03f965ec8a19638516ed7e15e3"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:50:23," """"",ClickFix
+"""f9325158ffb4030c5afbc19c113fee7e6ce8b269a5a33abcf571c04887048e57"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:50:22," """"",ClickFix
+"""d4e920866a336e9210499e9f0a4c7e8d26deb886c1dba1cd6ae4614084d181ae"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:50:20," """"",ClickFix
+"""b3a3f1ee7ba473939b8c1d308e3b051a393c282a5ed4c2427cae3835c3f90f3a"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:50:18," """"",ClickFix
+"""a082217a6db8177fb320a99750f4540a671fe33f1b08d21cdd9e918f41bba8ac"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:50:16," """"",ClickFix
+"""92f9ed3459ca697bc70ecf6e9ed5432f508ff194c67a9a723d3f9791453b1c5b"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:50:15," """"",ClickFix
+"""5a724c4ec2981e29380eba58bf5aacda7dd7326117537759ed28779e326f7ea6"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:50:13," """"",ClickFix
+"""6bf6d1965b3a4ef77868cea0e1fa9a74454a5907e753bcfe67f7d7939f04febe"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:50:11," """"",ClickFix
+"""d8da9785a0e4843c2e4e0dc187392d4ad4ddf7a2f65ba88daf60bee76e416a07"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:50:07," """"",ClickFix
+"""fe72b8995c8837aef8e7e4302fe630f72f93748a7bf37838b7d261ab2cea6f03"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:50:06," """"",ClickFix
+"""791a41337602eecb913c8ebb0725f2f4f3dd2bad52bdd39c44a799ab3f6ae556"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:50:02," """"",ClickFix
+"""4347c748a3fe26288b92f165b5f1f8b62f42053db896331512916d1b813cf30a"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:50:00," """"",ClickFix
+"""42deaf9d9680d818a640958fbc33ce6ed2c75bea7293495e121a2287f3c16470"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:49:58," """"",ClickFix
+"""a11a262fa4c433630376c7bd6172482a37b87e2f9fefdd1c219acc9775195db7"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:49:57," """"",ClickFix
+"""09af99cc0116a5e64ccff2cf62e00423baca98b6a61ec4f5ffbf357ace24cdaa"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:49:55," """"",ClickFix
+"""efc89c8ce4a47037d02203cec9f63cfcb55a85ea6ec724ac39a614a78c74e280"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:49:51," """"",ClickFix
+"""eea4226faa5385e43944513bc6c5e0aba5c5fe2233ab9ddc4db89dbed87139c3"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:49:50," """"",ClickFix
+"""d5184af6a18beba8da3c5679cb97627150e2289119a0813e5f038cea69d76aff"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:49:48," """"",ClickFix
+"""f2e1a2e8fd3895de2116b985ee9e42adb083da7dcbe5618f3b94b9bdbdbc783c"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:49:44," """"",ClickFix
+"""520e384b23a7fdf452b5134da72dd74b7c7ea6bcb9099aae631f6b12930c85dc"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:49:41," """"",ClickFix
+"""a75ac0799920ebf7491b9268c702dca5d9747796a89cf351ad66d10a2d5b27a7"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:49:39," """"",ClickFix
+"""fa1238f691e56bcc0022608721faa7153c3d99b8b117701599d21fa42eed59fa"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:49:37," """"",ClickFix
+"""fae06d3527460702a36bf3f503c942a35cabd04ba78d144ad0347de1a06adedc"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:49:34," """"",ClickFix
+"""add88dcfc5ef426a51c348b69e2a7b7416499ed91f5a2344006e3fd537767fd7"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:49:32," """"",ClickFix
+"""cd2a2ee649f83c5e3c897edaa9827d0e2aa64ceacac65f4b1cc72fbe9062696a"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:49:30," """"",ClickFix
+"""05ce12e867f403ca55729c8c511fa0f8b881bb4700a2bda45b63ebb452592fed"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:49:29," """"",ClickFix
+"""f6a79304d223a2df752e32e51c8099e56d6867bbc092baaf8da823cf660e0870"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:49:27," """"",ClickFix
+"""a2df2915aa26a1e32aa60d9d2e38d9bc292e0c256c67521f5ab4917b5d7ad941"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:49:25," """"",ClickFix
+"""16fff1a5fc06424acc5a5b9e9cc07ed0321f48c4254ff367925c7f5de14e5d62"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:49:23," """"",ClickFix
+"""13bdaf4471806639e3fc8d650b8039f52e59de138e482a506b2ba8b9b39901b3"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:49:22," """"",ClickFix
+"""226e7b5c5172d05784cfa2ae145aed749d08ad2c76ccc2152f286fdb86698809"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:49:20," """"",ClickFix
+"""bd5b89ca5457fcb0e67821d8b9a97c86cfdeb9af22d15d694b946bbdf52a5070"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:49:16," """"",ClickFix
+"""e4755a251e140ffb3a7405ff6d744b968fac98fd6b163b3575c17224275e9e76"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:49:14," """"",ClickFix
+"""014ae4a90dc0d2c605f82e928004ef5921eb3c8793d477011889730225c1527d"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:49:13," """"",ClickFix
+"""31f1300cd96515097d540e513e28ac2c581754a743301199f3d5e4a1231c1fa0"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:49:11," """"",ClickFix
+"""71eca2a2a4427c3dc110f3516d2e99e4a4af9f5e5394d3d52debd707110b1094"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:49:09," """"",ClickFix
+"""2435a4e8428a82a301a87197866ddfac9d2100d8f920f187a823c88ce806675e"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:49:07," """"",ClickFix
+"""c959e7a155d1da4bf450cfda3bd0f84bf8028bc5e14b60cb9a1753b9d8efe16d"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:49:06," """"",ClickFix
+"""96276d59f865049ec4c5cca4801a65fb85e233fe6625975625ab9a2fd41e8100"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:49:04," """"",ClickFix
+"""f17cab00a92cda8acdcc84847508a54585bc054a77bf7dee0b89598359a585ef"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:49:02," """"",ClickFix
+"""ace4dcfc2795a6ae19e927f9ef1a00d6780d517c1f0ef82ac11797eacf0ab185"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:48:59," """"",ClickFix
+"""a86e693136de83b7a64e00c29a487b23e30c4fcdacf676fe1a338c0b307807b0"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:48:58," """"",ClickFix
+"""05bd30504df9f0d7b523cb34a3edf6374a4642eb0531500950f0191e0c7df852"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:48:56," """"",ClickFix
+"""fc0893d0b60b943cd327acd6037538318d87208ba7626a2f42a05da7a7a218bf"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:48:53," """"",ClickFix
+"""c9181856c3fed45a7bb1808c3a2dfedc8345e306fb22ef106d202e706f643fb0"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:48:49," """"",ClickFix
+"""310d42379ca3c51699740fa991473eebefe7aa5ceba515899bc7f0466e88e685"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:48:46," """"",ClickFix
+"""f0dd6c57946342bb6fc8827153e0895dba4b7922e842597afe009943067cf196"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:48:42," """"",ClickFix
+"""9c549c9f571c14f56d0fd2476060cc7c148a50c5da418c7faa9081b522621d83"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:48:40," """"",ClickFix
+"""6a949b52db2fb8d659a783b1e7c6d7c46b8664f5e5af76784f5dcda0c6e45832"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:48:38," """"",ClickFix
+"""f396b4c20c493feb3843abeb2b347ae7e320ee0f7ea03522fff1742f7437d8df"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:48:37," """"",ClickFix
+"""19cec3279b4819bd518fef23cb1a2af9ebce9247531611148f5ef0d106562939"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:48:35," """"",ClickFix
+"""44317aaf2ac9a743b22b069690ea33d8e067b3277050d72448db7e465ab52bf7"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:48:31," """"",ClickFix
+"""611f175b6573a9d44f895dcef94bd9252aa332ebaf36e1ac5eb0ff179b997d74"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:48:30," """"",ClickFix
+"""e132bc63f9768a85ca4472e7b27280f26f387e8d2a7f0302555c34c8386cab8a"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:48:28," """"",ClickFix
+"""79246207c4dc41f58e28e6c5b104b4c644d2780d6fca5a6df9d2eeaa78a590f1"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:48:26," """"",ClickFix
+"""515933678082aff2b0196c0601f04473585b418c285e8b9e7040eb724b4f9aed"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:48:24," """"",ClickFix
+"""d5f73374aa77a2f99385d6cd68da2521b80d8c48e013aa63d6418b8ccb818120"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:48:23," """"",ClickFix
+"""315643e6029ae7a70b9a173526a184ffc8a66dcc111f3ffcebd5fd473026fc6e"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:48:21," """"",ClickFix
+"""412888487a94f8b94d87fd5fdc8932f6fde85f4157c53806a888a8b510f85c4b"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:48:19," """"",ClickFix
+"""57b5ef46bdb6bc7cae68b719503e2de2cb9173712dc8f978850801fa6eca4ff0"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:48:15," """"",ClickFix
+"""d6f3516dd5b9c909a05ae87f7f7834d2d5db5e6d7e153974a8e1f1f725017e53"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:48:14," """"",ClickFix
+"""232fd2611fc1f46ad1b5a280c33f0fc306ff9b6d35e95260930bb27ec051e788"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:48:12," """"",ClickFix
+"""38b2e12d1560279206a17395fa9a1b38ef937e3383233f72b35dbaa8c06a46f3"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:48:10," """"",ClickFix
+"""3d4e22b0dc83b1888baaef20ba791e3174bd61acd88efac3c92e77c8269e9653"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:48:08," """"",ClickFix
+"""0692c83afd512df18332b22dbe14679de671d4c08d46a513a877b40873fe436c"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:48:07," """"",ClickFix
+"""96b8c4b86d79991b8f8a539bbbb3055181f7235f473e9074d01389da38b7207d"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:48:05," """"",ClickFix
+"""b2030c42ae9a930705cf98062ae00d5bd2e06db3b5fb7bbb0c0285fe248cfadb"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:48:02," """"",ClickFix
+"""1b04c028b90b247f783357a822c1aa63ff4a9ac12692fe483711fb5a06787e14"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:48:00," """"",ClickFix
+"""6d35efea5fac72d6ee3433add8827f953dca37e1309e36ed46d0682e7a09c434"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:47:57," """"",ClickFix
+"""9fd0961f180a2a6c0dcc447f89c97ea581debed2ea33c9ad56b5446690454df6"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:47:53," """"",ClickFix
+"""298ece3b3060cbae13808d96c74ac49bd844623e4a211bac9f4362a6502d2863"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:47:50," """"",ClickFix
+"""733cbd9fd76b7842be57912ceb2f77b55ef32fffb79d320c765dfdf2e0ab5184"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:47:48," """"",ClickFix
+"""64f5c1cdd6d6761faa86e205043d1f8d9200b9bc31b782fc3089797ebbb1df6b"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:47:46," """"",ClickFix
+"""113bac6449e7c49c736e8e8240771a0d76793e4cc52c1a37fdab1608c374ce19"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:47:45," """"",ClickFix
+"""f78ac0dab61c5f45a351be05cf728cfa0703798323c52879a7a4bc15406c54cb"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:47:41," """"",ClickFix
+"""f5c7f49eb7a2dc7acc76a941b058aac5a307cf6130c18e9ab20589aa1933f4ee"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:47:38," """"",ClickFix
+"""3cec1d52d95d9fb728928132fb4608ab469a3e71c497da1769325135caf0269c"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:47:36," """"",ClickFix
+"""9838f78d5ef2b226912f0c72a38d5863637f843d062f4a4d0acc2569ac40ebdc"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:47:34," """"",ClickFix
+"""9fb07537a7e16acb1ef4241240ee3f80aab3e2cd1f1cae9570d659f42ffc0cc9"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:47:32," """"",ClickFix
+"""cc80852da3ced9c67c0be54a3a06a991873e48a6443b6d2c482505ce81ad17e3"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:47:31," """"",ClickFix
+"""c712cb217003bcdc3d4087c350d28c66ecf90af49f5ad8e7203daba8a7e8e7b4"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:47:29," """"",ClickFix
+"""46f8f5a30da314d478e265e28da4419d5ef19adc670ccb7deb57d15bae9f21ab"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:47:27," """"",ClickFix
+"""4b4102a2e28805d12b572323bc37f5a05e6d36fc731a33a9f165350a6717d040"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:47:23," """"",ClickFix
+"""b9e4ad9faee52e8866ad1f38a425c1314fdc6f44c6f4665010f7dbe303da1ca8"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:47:22," """"",ClickFix
+"""f1409a92e6aa3b890f6372414d34e7e93e8120d9da83b5b0b58030b98729dd3d"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:47:20," """"",ClickFix
+"""1fdcdc0733dc0616ba21f2cf4a56fbde588d989cf71e26925dda48931c551f6c"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:47:18," """"",ClickFix
+"""50a171ac23bb575bb12840446683b7cc39400047875ad318aecb9d40036eea9e"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:47:17," """"",ClickFix
+"""a4b2e6b19516b1ff469e093656629cac8d0a47922a14e0e50a0cd6584ad76504"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:47:15," """"",ClickFix
+"""e9f3c930335311d0fe8e726b372fcf06e2538942a6fc6d88da9edc3faa59b7c9"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:47:13," """"",ClickFix
+"""5b0b45fea76ccd6900de05d162076b9c48b78f3297668ad65d3e3e92bda6c6fc"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:47:11," """"",ClickFix
+"""a6bc6bb72b3ed7e241031aac6f8130b68bf4702be130760a8c39c266b9fbdc52"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:47:10," """"",ClickFix
+"""ffa65efae452cbf4baa955789735895353f3268c87873f1334d764605a4cc499"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:47:08," """"",ClickFix
+"""bdf46c4dbe512fa0ae26bebe27a68bc933f511f9bd918cd7efcaf441821f155c"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:47:06," """"",ClickFix
+"""005d23162e74aaa950fa609b1eb8cc37d3f28396540182604730b930e61f914c"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:47:04," """"",ClickFix
+"""b4e4603cfb751ac2c595f129b0e28287a87889938f55fc94e0c297b0a4a005ed"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:47:01," """"",ClickFix
+"""19c80a7da57c32c9dcaae13c7f2a082b9722ecfe230fb152e10ea0537bd30567"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:46:59," """"",ClickFix
+"""a9e01df4d1039b5ecbb26149f7d331d3bf95aca4d7977ef0a9390aee3906b687"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:46:58," """"",ClickFix
+"""6ab6757326c4cf67c5488eb1c7e90b34002030a1968e06f5d0a8f942c52fcbc2"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:46:54," """"",ClickFix
+"""24b584844e5c1fa20bf0a68517420e7162d3f7462833d6bd0a296750917dd507"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:46:52," """"",ClickFix
+"""1ae8f2f2fed85d8e68479f04cb0b9209e855792f87002b523651eadcd467ef23"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:46:50," """"",ClickFix
+"""1ab28c7288a670a34392f3652280e4167bff3bf5e316e5e355e5906a481b3c17"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:46:49," """"",ClickFix
+"""c0c575a5275d27a2fa47bc5f8ca081ed689dcd0b9a84f619a504ec682a990643"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:46:47," """"",ClickFix
+"""04fea1d0c45f6bcc408fbb7275cbe918ea498c1de7341ed0e79993c6ae51b0e3"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:46:45," """"",ClickFix
+"""4be1501792cb564f615240a1b4a649367e710fd78f494709a401b067ebec4fca"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:46:43," """"",ClickFix
+"""298f14d3cd6cc0fbe90e846e870391aa376ece9d212a969d6c702827185d08fd"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:46:41," """"",ClickFix
+"""ad0ea952e3c6a81a5471ef73eef47ae84accfacfda9868bcd4304f25d929f92e"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:46:39," """"",ClickFix
+"""9ccdaa742177212ebb29eb4ed68a901ecb35cfb24836dda942bbb59ef825bc1a"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:46:38," """"",ClickFix
+"""690e7b24e0a9e110f34d848ef0fdea286145e19e709e77b5eeda50d50ace8408"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:46:34," """"",ClickFix
+"""347d0adf9d9085952c435e0014aa603c828bf1864d17038e1790fb0731b7c008"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:46:33," """"",ClickFix
+"""224d47f45d43fab7e1247f2ec457bd8cd5ecc9c9fd192c6fbfca2ac34141a40e"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:46:31," """"",ClickFix
+"""10f0eefe55ed04c78b95e36e4b83e49d19ef431d8fa27f7e9c62751e3767bda6"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:46:29," """"",ClickFix
+"""f1c1e4912ba8cba7cbbab68e2ea2d5bdbdcfd769a19ed420427d5187905b9312"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:46:27," """"",ClickFix
+"""29c1b45b863aecf87178805b62399f99629b8bc398b0cf2be4f245b9a15ecce8"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:46:26," """"",ClickFix
+"""49cb71bf1e8cf8a7bec155b3c60897edd1cc74860a4ff955290aaaa56a30585a"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:46:22," """"",ClickFix
+"""ae29e79b641e6ad1a204d275d1233553bf7cf7ffacc5705b7779dfeff86da18b"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:46:20," """"",ClickFix
+"""8eec96aa05f75e86a6508e349ec2979c7ee4bcd55afaf2fa52b3e0175f385d79"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:46:19," """"",ClickFix
+"""8b603a8efac1630470cb8313b47289bd472e249a8f77b057c7ce4dec9787b14a"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:46:17," """"",ClickFix
+"""af8312bcc2d968c24ae8942be15d43421363aa326685370852468d7cd9a5a39b"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:46:15," """"",ClickFix
+"""2157a11050dd3813771aa70d090e16b02733f659b9d6d5ddce3ec2fe2b59c7e9"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:46:13," """"",ClickFix
+"""d226eb2de39a752bb8184350301b90b8f8ca992eca59fe29ebb3361c7084a05e"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:46:12," """"",ClickFix
+"""6f70383fce624b1d23bbc2faacaa107f9ddb791a9636b9b552dc1fbafed1c588"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:46:08," """"",ClickFix
+"""37075e36950eaec07d207870fdb8e89ba6635222769f298d6a324de341cd0ccf"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:46:06," """"",ClickFix
+"""7edf28fd45f03213328265875e3d2c52b96e3a11c0e794b4d4c6d10f21be1249"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:46:05," """"",ClickFix
+"""603836c3723118b10c98962a2a1f2ffe2591dd50d0c6ddbf0109a70765c367a5"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:46:02," """"",ClickFix
+"""73cc918e200d1816f0fb0437f3d7c68c8d09296e942e3eab29c775b19c8667e6"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:46:00," """"",ClickFix
+"""5be4a77129c44dd8db0b12ce5ce97423a9420b85ecdeb1afb005a999aa8049a1"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:45:58," """"",ClickFix
+"""79ae4c51a7dc322598a9bdc428b04b0e649e82a5530308ca22fe920955227824"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:45:56," """"",ClickFix
+"""b187458423a6bcfb33ff615b47cabe42c2fd1408f77d4d70efef9eb936ecc72a"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:45:54," """"",ClickFix
+"""be5bf9fae90a88dcbc764ffddecb34bf0cbdfc9a90ab08f8666473b7f2214cba"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:45:53," """"",ClickFix
+"""2dc79e549f60bc02c43210823741ca69a9efb71b5a44243768f4f2452b669a68"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:45:51," """"",ClickFix
+"""bb9a388134d418a2e362f1cbe11fbe5545e17af925c43a2cf69779950cb6031b"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:45:49," """"",ClickFix
+"""2a7fb245ffdd65a62b4c29a5af8eb0e7df37b3fd1f39097905f863a237b296fe"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:45:47," """"",ClickFix
+"""2c42c449a84a7b23d3d91a5f7e382b1718ecb39d0d84cc8407b22d2464f67e2c"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:45:46," """"",ClickFix
+"""323d5ae5950450365e8d908e190d7d4ae4f08e9a420683fcaaa54fe50465c4cc"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:45:44," """"",ClickFix
+"""58a5edafe9913698b4deae999ad59df1b6191d6a622b7f3844a08fb537868101"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:45:42," """"",ClickFix
+"""c733f78c80d027d037c8ebc6f21117df63acab83897d2342a9c305f986d78aca"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:45:40," """"",ClickFix
+"""192d2ce20ca06398b5de1df16f94af68a27d89595c58e749c53c6dcadf63662c"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:45:39," """"",ClickFix
+"""86a28961d0301706c09ec74ccf9d4c15404a3adc9235306333577c147edb3afa"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:45:37," """"",ClickFix
+"""2fffe49dc379b3d525b69b792dabdced5d95a133da59c2e5d9db605c5f1e1cd8"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:45:35," """"",ClickFix
+"""ac56862ba982309ae1e4b46df7af4cb16364c55d2e2485a106631f1888aa5840"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:45:33," """"",ClickFix
+"""7e5ba27700f835afed4b04390f935e15bc9b7eef1979e28ba1e2118614132e34"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:45:32," """"",ClickFix
+"""98c084f01044b8174d6ace1f512da6a06933c4fdc6f858d32ce9b07279dc82a7"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:45:30," """"",ClickFix
+"""4d256667bb0ecaad1d2c6704598570301b8eb7694612487bd9ddc7f635f8b1b6"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:45:28," """"",ClickFix
+"""66e15854ca2d96814302477e2d596d96285c43de93514467e1c0e04b942844d7"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:45:26," """"",ClickFix
+"""342609843717ec79a3eb53a381ab0743c57c70e4e86a1ae20ec85008f6a5554b"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:45:25," """"",ClickFix
+"""e4bd493473fb2f71a83674b3d44865740657438ab22510f37121583f83225c5b"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:45:23," """"",ClickFix
+"""a55657bee94a9748f0c21e859e7371ed6e46aef296cd0e3d89f90ff8c79d553f"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:45:21," """"",ClickFix
+"""329a446d1cacfa1615f000937907d600ae4dff63e60d2b0f5b4809f0d56a9b7e"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:45:19," """"",ClickFix
+"""925d2ab18be0e8b3e85bb9968e5c999c32dbfeaec8faf617ccf2e619088ce63c"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:45:17," """"",ClickFix
+"""c1dc31974713b63ad513f65dcebf049333d280930493ee663181570b2182c7e5"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:45:16," """"",ClickFix
+"""2c5554fc01f652daad55bc308d077b8d49eccbdb9f0d4c2a0061ca1e08f96771"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:45:14," """"",ClickFix
+"""0e5d483b1173972ea86da6384547d600d7bae9e9204007b683fb45703f2ba9cb"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:45:12," """"",ClickFix
+"""8a51e06878717602cb4cc3982cb983922c2acd9f7b869125bf0e5dbe8c6b92d0"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:45:10," """"",ClickFix
+"""3b7756cdad3fc20f3d5273f5f4cec4404ab7f2c134252c2619cbf485c65a7dcc"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:45:08," """"",ClickFix
+"""e78ae391dbcc509d67031b8eacc8809027776c049a005d9d4a0ca6ae31f878f1"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:45:07," """"",ClickFix
+"""93fb152bb0c07db4463c881b4daf17bd5c007e2fe097f096297499253efa18f0"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:45:05," """"",ClickFix
+"""e79b655671ec492d625e66f1537dceb45a4ef7d2517c58af2e16ad3b224d099e"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:45:02," """"",ClickFix
+"""095aeb362e5b8fe2c095b47cedfeab7fbea9bb866dc759aa5bcb44bc9123b49a"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:45:00," """"",ClickFix
+"""0bcf5f10b1d7a7db764b3b562bad683e2d5e6e863e63a6766b62569a3e4d16bf"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:44:58," """"",ClickFix
+"""84a62ab8aa23344c15ed50c3e6d78886f54dc1c4ab001374963ad6f92f02ed0b"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:44:56," """"",ClickFix
+"""1de1be23bb05a54e155a141e898a0c8aaf09cbc1285c5e6a71c10b058ac3acf6"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:44:54," """"",ClickFix
+"""08de7eacd549a59b6d3d7afbe40064ad981cfedf192fb850178570c945b6f238"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:44:53," """"",ClickFix
+"""bd8ec086cc4df4a53fbd41c4490656f962cf4b41d88a4a54539cb166fd06a625"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:44:51," """"",ClickFix
+"""0c6478d0fd592b465f98d1887a671b80fcaad145357d1bc698b827424bd2ccae"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:44:49," """"",ClickFix
+"""b0ae4e445adc5c3a1e3c987dba4948bc4651efd45b517f9fbdc8a9f65dbd1522"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:44:47," """"",ClickFix
+"""685828afaffa37efe8aabb8f09222c33a5325d73d8ba8e1ceb4761e94dfce105"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:44:46," """"",ClickFix
+"""1281bbddcebead31850b639a69496a410c6fe32aa3a3de73ba4c7a4ff87013db"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:44:44," """"",ClickFix
+"""3aa3df054514f530fee7bb78a012ce6a02c2bef45e988424fba534b9408c8d05"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:44:42," """"",ClickFix
+"""790f77de5c970f22a373fc1fc3a9c492229fc9ede18225d0dbc4740643b2864f"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:44:40," """"",ClickFix
+"""cc7eb9c8d37e29497ae2c4faff7ac9ac2f0a491ea5499bd0d3eac675de529ab5"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:44:37," """"",ClickFix
+"""28b9b79d18af17fc53d21c0c58bf41bd6697f044d7c0dcf806e00a19ae7d7da2"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:44:35," """"",ClickFix
+"""0afce4a5acf139726bf479dcc41877b4fcd4138b9f395bdc70b219ba81983311"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:44:33," """"",ClickFix
+"""445dd498114c523c0b6a1d69f9860ea64a0a01f381e6935d071e1088609e8c30"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:44:32," """"",ClickFix
+"""41af7b9c1d3b467cda30cb48c6a37cf6805894aa18ec30b5f80000e1b8f9714c"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:44:30," """"",ClickFix
+"""14f689c52602325c71ec5d13eaf29a890f4f1cf86a95eb8fec0cae1af91d5e2e"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:44:28," """"",ClickFix
+"""226abb00d0d942c40b12022d86b1f73b81756fd9f9588b436ac5a87b428211df"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:44:26," """"",ClickFix
+"""08f440ee1659991acee984e6a266d53cfc56a409d030bf99b58ea54b268fb8e3"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:44:25," """"",ClickFix
+"""34061315cdb26d64d2eb58b85adbf72ebc535fe217739738af27f5bddb612483"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:44:23," """"",ClickFix
+"""ffbd3d22a61a837418d3065686d401f439f31a00a5d57b24cf9de86c3b44caf2"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:44:21," """"",ClickFix
+"""a3ef4bb67f92383fd6573d950c0da828992ae081ffe78d15b978575aab3b59e8"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:44:19," """"",ClickFix
+"""3fcee4743da0b69f5d036a545cbe2f89bf5666949b9ad667ffe29dc48a0e3d9e"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:44:18," """"",ClickFix
+"""da4944e4384d42da5fe60a527d530380248f0a64e3f13d185e262a130e08ee9a"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:44:16," """"",ClickFix
+"""119819df010ab85678ee4b98e6e072d2d89bc1694ce6a44da05ac8a263ba8242"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:44:14," """"",ClickFix
+"""7f549f9ced4340acd00c91af78f5ad8f18a31a401bc3605705468aabb5830389"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:44:12," """"",ClickFix
+"""b47d96527c1a0093553b19e86689c4d00d016dfb745e8a6bf473c4a6d2c142f9"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:44:11," """"",ClickFix
+"""318334eb727c1e2dc3b55e375a02c3dab34623b00da0599a3fec5a23d33d1eb7"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:44:09," """"",ClickFix
+"""34599e347fe26274530c72837dde3e0863f4580183c810ede147451c2ce09296"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:44:07," """"",ClickFix
+"""5bf1e723ddb4b40a06f219c54744e320203470552d3dff10faf5cad5b5bd0594"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:44:05," """"",ClickFix
+"""b5ec3792db03894b0d53b5b622d65b240f91e9719be10e26e2ae54e4787c7b35"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:44:04," """"",ClickFix
+"""e6eb81ceffe4d2da7f5abb14935949a8a8fb532d728bde9a0619d4844c1379df"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:44:01," """"",ClickFix
+"""af407cdca6cca6f89eb724570043c397e7e80f571bae1a9ffdcafb96581bf184"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:43:59," """"",ClickFix
+"""841fa9387b613794a777a69ca981a68cc7e6759e75413d39b0efae1650bfd765"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:43:58," """"",ClickFix
+"""4daff2f890ba8ee9f81acb6990cc8176eaf13c9837dc19ca91022e8d2b0430d9"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:43:56," """"",ClickFix
+"""4df6389bca569490a69b1767f6fea270aa75f5fd228c3df57c5671709957f61c"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:43:54," """"",ClickFix
+"""f1fdd609cd195d741589de152285f3e0d8ff3ae2e8a3b347613816f3972fce5e"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:43:52," """"",ClickFix
+"""809600841a77234d48f4673c3d1483e71181ca6211e28d74d000204830753b9f"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:43:50," """"",ClickFix
+"""5b109aed6bd06b368dc575b29d5521bbcb32da942677ba4454704a941dc362fa"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:43:49," """"",ClickFix
+"""6e9a1942ff912a8d8a01b498f5365e06d1e64379d900b0f6f0a5a589ece76746"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:43:47," """"",ClickFix
+"""68436ac984740ab03ff5f0c198d3622150fec050989c54df036190a7a4349d05"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:43:43," """"",ClickFix
+"""b0e405b7969d79c95e85cdbf48ec8db4bfe5222b3d6ef116777c14d0524bbc76"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:43:42," """"",ClickFix
+"""26e27313a713e26b71566d81e8b506831bb35cdf6901a7884b1078daaaad256e"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:43:38," """"",ClickFix
+"""90be7b9a7efaee3ee835fa37fcc7e26cecf316a0f0d03cf5f96cd85c6b81530d"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:43:36," """"",ClickFix
+"""60b0adc84b36b5370ca63eb7101bd2d342b1dfada35903ca1efc563d9640afa5"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:43:34," """"",ClickFix
+"""12a625b3b98a1ae59b3fa7dddbcd2fdb489dd5f1876f21bb69642f13cd1c6d19"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:43:33," """"",ClickFix
+"""027c4491da7279ef0c28f0e7b5bf4c103a2df1a3eab895ab3f46617fe2d7f396"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:43:31," """"",ClickFix
+"""6d31d8c7017bc3fc7b8589e03e90effcd5a9b64950a2ea6c2eaebdfcbc5087bb"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:43:29," """"",ClickFix
+"""31784b99a423d7d1c292bb673ff136f62125f030ad1887127ed06a0080b69eac"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:43:27," """"",ClickFix
+"""c00335daffc6d8dda56d6dafe6551d1f7ca26afa8f929c24db9d0431b81218a6"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:43:26," """"",ClickFix
+"""af8127cc83b6b7da5ae28ad3eea96174200edfcc5aa45b2ab7925187dac2d36a"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:43:24," """"",ClickFix
+"""d43205e1ca5f39e2d38d02ba0b222a0d20411626fee0590459a346c67c119dd7"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:43:22," """"",ClickFix
+"""8de1757b00b31e1c26229768be740f3e9493145261245b057ee98229970faa75"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:43:20," """"",ClickFix
+"""b07d7eaef7316e9866faa602c360c46c6cfdc3cbee145de77fbcacd63f640214"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:43:19," """"",ClickFix
+"""42e4659714519f1f7a12695b5f7df203440bb08954f5f6f84bb1491cdf74e4f9"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:43:17," """"",ClickFix
+"""a5fb0f40715d9c4524d9c1c334719e36668ac48bb9ad8be8f503e1a6f1f04d7c"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:43:15," """"",ClickFix
+"""9c4e285c0e35294e5f1336cdf48104e505b960bcf99532992cb54f8f5ca2c5f9"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:43:13," """"",ClickFix
+"""48ca7d574ff68e03deea2a4858dd7b1ca66779fdca1f454054efcd31787f7937"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:43:12," """"",ClickFix
+"""b6bc8273370510fffea71ae09b9f560de201c6aeb28c4ed654ddc3757795f5fe"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:43:10," """"",ClickFix
+"""f4d64d73113d5ec2bbacaa6e2c0ccd8ede0a1ff7edf82724b654d367d7c32695"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:43:08," """"",ClickFix
+"""8f0bb1285c7e74d5cf735ea3e1b81f19af7bb66ce0fbc20ef0ee3d0cc2af81eb"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:43:06," """"",ClickFix
+"""b24acb0323702ab6211d419f31461b439ee26bdc0e30f25ccda2c8fd0f9b0d77"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:43:05," """"",ClickFix
+"""8c9c44d251459cdd066bea683a01af4633eec6c86e719172045e72dd2614fe02"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:43:02," """"",ClickFix
+"""bbf309009e1fb66866589176949d9e6a3c6ba13d6e6727f91c255730bcd1f7cb"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:43:00," """"",ClickFix
+"""2b639ad209bc9363dbce8cd57dd6270c65740ca44375a8571b91de09e165a765"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:42:58," """"",ClickFix
+"""3247c537d03122555bd73b70ef56fd898064a87231ae5f9a3abb8dd83984225d"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:42:56," """"",ClickFix
+"""de3ad35d58bce028653189234464f208af3eab813c00d2239dbd3e4aaee04823"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:42:55," """"",ClickFix
+"""c04f175ff36ec2876115428b24a12163c6a217dcabb53b5323cc8c02b7f0782e"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:42:53," """"",ClickFix
+"""fe3278cc70a425a9828203206901d669263714b22bce0c64462a044b2426ed7b"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:42:51," """"",ClickFix
+"""61ac3e1e2c1a0454b798ed0fbc828b546423a8dc9fbc8237de82372b5381da5a"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:42:49," """"",ClickFix
+"""0ca79a99e57a7e4a45d489d679cc36e5e8771eb5a5af52fb1353b827ffc224c4"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:42:48," """"",ClickFix
+"""1d092d05264c92d0a9b1eae7150c074ff71fe3a463476efcfa1c60276829865e"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:42:46," """"",ClickFix
+"""4e3cc984819d56ad857cc4f93d86057a639f812aa20d48451c31c0b6894eb62b"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:42:44," """"",ClickFix
+"""95970cdc48e9404ecb9b3a0368b1f31e047bb586b31086d8e45baeccd84febca"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:42:42," """"",ClickFix
+"""78b97b069a00375c63a70cb9954578c3cf9bc3f6f139094bb45054a350392d73"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:42:41," """"",ClickFix
+"""0a47701df259fdd10cfc0135819223158ce2b69f8e96c168576067fa2bff6448"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:42:39," """"",ClickFix
+"""fab3dfd516c69911e1695772c47a4affd6c199a9de8755ecf58f4cd268853e0f"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:42:37," """"",ClickFix
+"""a70a678ea4e494560339a21c449334fbb66860de6edd144bc4901b44b1bf4b4c"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:42:35," """"",ClickFix
+"""37d2aba18a98d7fb8b871286632d5ed14df199ff5a9aa8f1fb0494060c41cd45"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:42:34," """"",ClickFix
+"""1d5f9df365648f47db3db692f3bceb69abf534da058d88dbf7108d7ad45f12a5"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:42:32," """"",ClickFix
+"""8f4aaee9a0badd34cfde16ccbb6c31ef7bef714ddb8867e620e760f721b7e2a9"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:42:30," """"",ClickFix
+"""4c77c9f363c981a01a4f158b734bd4b7a0f560e1fefbaf79b9118ded34cc85ff"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:42:28," """"",ClickFix
+"""838e73a12345f9238ed8028213ed1a066e66a44518f76629bfbd47cf62047dab"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:42:26," """"",ClickFix
+"""f3cf50681b9a2c9c52aa149e0f4a8480c51f55e1a33894e3197b8f97b68b9eb7"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:42:25," """"",ClickFix
+"""66406130c77059a3ec991a0d4589a9a012647441f960393709d8f5b4e713d504"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:42:23," """"",ClickFix
+"""bee512e41ca7059ea138ccfd935821c50268dd46dd068fbdb43d9391149d2010"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:42:21," """"",ClickFix
+"""1f1e9e894034cc42e5763302c29651009b60b6fc6264ed3417164d70b8f001ca"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:42:19," """"",ClickFix
+"""fb8d0e1a1cff22efe0bf453262120ca73fc163e1e7e0b00b29f8c8b2da66799a"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:42:17," """"",ClickFix
+"""71a699c8f9baf9f3edc0552449ef67e75d24945c7f927d9e4160daaad5e3e2d1"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:42:16," """"",ClickFix
+"""6115e0c365f3cc55930a66072e94652288d9b7ea1e43058dcd9d59c154fe070c"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:42:14," """"",ClickFix
+"""baea8fc383ea6a60053c5f3e818c8b2cebfca06620c50f77395aff119606163d"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:42:12," """"",ClickFix
+"""f995250dae5d395a2773c89f45811438a7ddeef81bfc507cc27efd9b2f9747cc"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:42:10," """"",ClickFix
+"""25ff351860f87bc46f51b057cc477e5c9b3ccffffe580722503c31d909a0928d"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:42:09," """"",ClickFix
+"""fcbca46952dfcaa8e2168c9af88c63868485e0fcb1268eba50ca525a60a324f6"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:42:07," """"",ClickFix
+"""5689cf5549ee44dd64ff1a5cb5ec991f5969faf9da3e296071e888963d1bfa61"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:42:05," """"",ClickFix
+"""b1fc61b373e74d936f76dc0094b6be9b8acb25bbf4e44a9beadbd730d237c703"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:42:02," """"",ClickFix
+"""70e3b0ee50ef4c2fd7fa66e7ec4804d675f160066e252c9aeafc65815aedb222"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:42:00," """"",ClickFix
+"""00714edd01306c6528d6d31e9aaf3b9ae0e7ef23102d99e892c705d49da260ea"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:41:58," """"",ClickFix
+"""a51f8c071270354e6aee544de2ad3dd8dcc3fc4424226d5599e00916ad81be99"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:41:57," """"",ClickFix
+"""6d8bfcffcb19e21cefda5f1a79fa332e4273cb0282f7741e69707c809b8396de"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:41:55," """"",ClickFix
+"""324d7d52c708c0b6b1f45a19b4c1a42d6e6affb79053c8ab9470454ee3ad4296"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:41:53," """"",ClickFix
+"""e947300b142e4a3ad1a4a9879a4b835277bce783ca3176e9b42b0cd46a035557"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:41:52," """"",ClickFix
+"""65c64c33f378b0e81a073cf918b1b72a3e6259f811aec8d5cd007171a15ccf78"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:41:50," """"",ClickFix
+"""6264a5ea18a9e322091f97896f45f3da6d5ca8a788e01d3c74d12ef524361744"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:41:48," """"",ClickFix
+"""da180ca961b9acc2dccbfccb68f0bd5acddd2658fb77bd1495b826c71a5a12df"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:41:46," """"",ClickFix
+"""8186041eef61d4e4fe4816aec2176399ed26242bd171c9792ef009f2f3a19460"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:41:45," """"",ClickFix
+"""9e1a0efff2255bc8f7935374b962147c30b2ceffb25ec7211886ac375778e872"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:41:43," """"",ClickFix
+"""7ac1baedbfedac58a53fa8f0797fa5fda1569dfa3ac892076d53ced667ec0006"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:41:41," """"",ClickFix
+"""78d0a38af1400fe5420e13b7a19bf1fc4e8e89f81a786b339132cdd10780676e"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:41:39," """"",ClickFix
+"""34f190408932922582014839d495222b25a96c54bbf761429ee2dfbd96f7884b"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:41:38," """"",ClickFix
+"""b4d92af2eaf8e863909cb1224048987406ebb850f88b9db1d19e2ab2ec63bd36"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:41:36," """"",ClickFix
+"""7388844112b97c2915f15a2b52ea169fce9d42dfa9b77235060328a6bf9aff65"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:41:34," """"",ClickFix
+"""42f3770fe595e84b5c5ef2ae07fd1ca822678d1fe65c2cae6cb345ba8db86b48"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:41:32," """"",ClickFix
+"""cc429884cb3742aae383942530592ef8a4964e484f51d9467f7b8ec8352ab4f4"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:41:31," """"",ClickFix
+"""0116d85f1d356ede1353a834d543b0b72bdadc557e475292cc146b4b2dc1ba75"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:41:29," """"",ClickFix
+"""2a6528347432f410bf4a961fbb50571b65f5998e6390ee38eaa8960830fc6f82"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:41:27," """"",ClickFix
+"""e7d14cfd4f8b45cad80901f57d582c2841df729847cb794ea465e6ba34efe999"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:41:25," """"",ClickFix
+"""13f925f0219f5309f49dc851ec39c26565f89b5405fda42c2ee142b0f1048d4b"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:41:24," """"",ClickFix
+"""48eb97efd3e3e211b425292e939e99a1d06d142cb9a53b13065641ff92431118"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:41:22," """"",ClickFix
+"""8343e254b3a9e9d7f64eab23fc5ba9def80702993e00de22c34df6efa2f4763e"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:41:20," """"",ClickFix
+"""724b129fa7ff06e95349d7d63b9b5bf109d1ac30d457dd53c1408becf20f4e29"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:41:18," """"",ClickFix
+"""671bd644e938f22c30ba8a90a244f0d2169b3e6d88d3ecc5f1f6631d0fc720a1"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:41:16," """"",ClickFix
+"""4c7a76f7163dda816593eecfff94da7074eaffd617d06a6d96d63c01aa5f04dc"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:41:15," """"",ClickFix
+"""667e19d7c08f44ab9f3a80916120d153a8a0bbc32b187e547b8eff3d7236c639"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:41:13," """"",ClickFix
+"""ddfefdfd08832a727ed070b3edd3d688787fac6396ec31c99215b4a41f166fa7"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:41:11," """"",ClickFix
+"""8c825cbe0e7ed81c4b03a88c5dff945bcd6e13a03f8f53a40410c5b6fa269b86"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:41:09," """"",ClickFix
+"""86c6f49546cc30759ee2e8d61aab50fb4224dc6ed95a4ae57ad21e36610dfb48"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:41:08," """"",ClickFix
+"""b3c918289700c93eb750019d8be29bec1d37b7b81fb1ef07a519024d8b0f09e1"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:41:06," """"",ClickFix
+"""79df00e83284bb595b4cac69469a13eb0bca11fc372d922ec4ae4bf71b984fd9"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:41:01," """"",ClickFix
+"""813ec0783de84f38dd7068da62fa4447c70ae0a06f4635adcffe22e3b76a3b8c"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:40:59," """"",ClickFix
+"""245563c4bb30f6c72616fa4c72d3d81375a1414443e8c6eb534dcad52161aae7"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:40:58," """"",ClickFix
+"""5625f657d305c8447f4a7f672ac93aa505ced15d64a7e59db75798f85d37603b"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:40:56," """"",ClickFix
+"""44dc5e00cc396fbbc96f6a806c086c17aa053ad68fcc78cb0e9927ea77be5362"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:40:54," """"",ClickFix
+"""10d07eba8bc5f480f10cbc3760be001f99310905be8ce570b949d50d49f20368"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:40:52," """"",ClickFix
+"""3394b6df051021f4dfe524b79e6f9dc89f3af1cae34ba05c865239238bcae9a4"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:40:51," """"",ClickFix
+"""cc4a10d8c63e14b84e159db36c46f19f26a75bb3aee7ef753e0aa3e090d1039a"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:40:49," """"",ClickFix
+"""fce543be52c93a9dcf579ecaa762e6cbaa441294689b6030b693c23478b5f793"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:40:47," """"",ClickFix
+"""be655712b59af79f0f654eeaef22e66fa30da6ee635fcf5627caf5caf3a9eae4"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:40:45," """"",ClickFix
+"""6e3653a3e9a72753b8945a8f735fc04502703b05967a407846908863576681e9"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:40:44," """"",ClickFix
+"""a1e3eb31cbb58f41a30293286b0393d7b24deacea24881248c8acfe615e22278"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:40:40," """"",ClickFix
+"""6fd543bd45878c56418593990fd798629098f9fbe277214875445e5ed9129b65"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:40:15," """"",ClickFix
+"""83264e9216fb747d9e0048c6559d66dfca05cf50a1d415ecf212c879d08741ce"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:39:36," """"",ClickFix
+"""0150605913e5cc05dbe79ed8f488d58140ac7c2853ca7853a7a78e9885628b9a"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:37:47," """"",ClickFix
+"""18ac4062d773325076eaea0844bebb295b18100bbb669c351b02ed79354da157"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:37:31," """"",ClickFix
+"""6bfb75b0f69099db4778abbdad7bb65f3661d2d23cba6552cced9002f1440ae7"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:36:28," """"",ClickFix
+"""650ded564d3297b2c4dd55fb9e85e67355a43923c17767788fa6f441a59391c4"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:36:19," """"",ClickFix
+"""ae77b39f852383ae85c438497d7b528b9e60d082e9c6abc80962d914736f8174"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:36:14," """"",ClickFix
+"""890193eca05d38dffc646205959a67d0dd6e9b4d0a537f68d515b69646caf17c"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:36:14," """"",ClickFix
+"""435774098eaebc446f24f977b26cfc432a8b04d4bc9c10c96f802214707d32bd"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:36:12," """"",ClickFix
+"""deae4e644e8025371cee37a3562975c46de03ab742aa3b74c026812a747efcf9"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:36:10," """"",ClickFix
+"""4162dfc409dd2855deb33cdc2828e9aa866985d187b1463550feb359f3cbd954"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:36:08," """"",ClickFix
+"""e5be3d8543f00a59e9694d68bd1ea3b085b654a24a6113444bbc0ef8640343e5"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:36:06," """"",ClickFix
+"""50482c70750d30c2d8ad24c5f6ee46ecb6cd28162de7a6d2d23876ca17d4ed89"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:36:05," """"",ClickFix
+"""994a5f1d261229dcb3b89233d540b9edb5015c62780171ad1fcf40646d206f61"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:36:02," """"",ClickFix
+"""f6468f29494501aaaee6df60e848aca18774611c9fa3a76e659e686c8c25954b"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:35:59," """"",ClickFix
+"""ad63118ec4e540d2f4c0419d4d6f253fc378611aa82c78677a9eabe3489cbc7e"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:35:57," """"",ClickFix
+"""d6c7108abcfa11e5e20e5c80d6bbf6fbeaf0695f5e13d25ef3c16779e38118f3"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:35:56," """"",ClickFix
+"""ec59831e37a33f9206c1545125d4ccfd64da2ccc52f0962bbcc6a4fa1af7ea65"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:35:54," """"",ClickFix
+"""71f413c994c2440f30bf04dc27c5267c5bb033d38ad1fd0f25d32de4f27e95da"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:35:52," """"",ClickFix
+"""bc56317243189038f87628f895aa739b1fd5fede6b3ea98e02dbbe634e0bd7e4"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:35:50," """"",ClickFix
+"""aa89ad65c2434a64ad5482dfccf0d9b2a799e077141be3f9daf573793d96d528"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:35:49," """"",ClickFix
+"""ed257c6c25bf11eeb7c43db19686f5d846dc082013bc152b3694d819d64c7e5a"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:35:47," """"",ClickFix
+"""7b73d35a97658a13599a8233ae1c2d9dbf25f5b672865b32a80f98e22671dd94"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:35:45," """"",ClickFix
+"""8aa06f1bb5a4aa843d803bcf0a646f9ab094b8afc9dfa4cf639ea3118e6c6bb9"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:35:44," """"",ClickFix
+"""d78d9fb3655e9a82462b84bb1da4a167d2c7fb43a334e2575e3c3d5a9cf1355b"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:35:43," """"",ClickFix
+"""409c84781854d26a3b4a0e61b7873dca642dd0f848f1bcc75d95beacf3f0ad9a"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:35:42," """"",ClickFix
+"""55b45570bae5a8268fe1cbf943f3cd2615c80234ffde342569d0e44ad58b2dad"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:35:40," """"",ClickFix
+"""59466a6f6e4471e68ca42a85e3bda70794d023c541013fa2df357b8e4d238e61"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:35:38," """"",ClickFix
+"""1dcaf8ff52269dca2c224e2f6d868576155cdd9d2ceab2f206d0c37b59ed38db"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:35:36," """"",ClickFix
+"""0ab2fe60e6a9c59a3c2a645653883151b80883079d78099179d4a256c10c554b"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:35:35," """"",ClickFix
+"""b830f043076a12748b6a2dc0810ece85439ee77434d991ae7d84201b09ead756"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:35:33," """"",ClickFix
+"""454850749d874755a8e1e43e5a128a9fa39ffe49f5ffdbe9f264b5997ccb039c"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:35:29," """"",ClickFix
+"""acc38d4b54fbcfd60d86551b4a06771f4b29f1ac7dc4392d86ddeded18b110d5"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:35:28," """"",ClickFix
+"""4039f4b7894969cd03b96e0e004b2da18445e24eb6dbfdec09a1a0de685e4215"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:35:21," """"",ClickFix
+"""3ddd8f09dc777f42558989e0e32631982ecdb93300dfbd7f9bbfb8f462c14022"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:35:16," """"",ClickFix
+"""1e2e4e41198b8497b8e8a2853645fc10f763b0e4e299a68f614b8a22b3e30022"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:35:14," """"",ClickFix
+"""b6912c23cccc4b0964d55608916297f6978f0b38c80a4beac472004a786fcef7"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:35:10," """"",ClickFix
+"""f7ae66c8b93850663c6c20d6a405189e4fdef2c9de46dee7c283de24bf0c2137"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:35:06," """"",ClickFix
+"""0741ef664b10674534eba0e77c162b901d1efdb2863e2f8046ed4adc2ac6865f"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:35:05," """"",ClickFix
+"""df15eaf4f30afa77031861ce664291dc880977506b09e747a065edf41a6faf3b"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:35:05," """"",ClickFix
+"""9e6b554e7a442878b6d5f60bd82ca28cb22ef29e41f2bd13e8fcb05dd81d4562"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:35:03," """"",ClickFix
+"""fa868603841380979823c72d0eb9c18fdf4bc877f0f8f0982bb647151fad9906"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:35:02," """"",ClickFix
+"""4dc8daeb8563b9fe0eec40ce0d32d9987d1280cb69a588dd4f6ea41b6fefc218"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:35:01," """"",ClickFix
+"""f609202eaeec428706aec08f32c50978bc49515fe11e9146afa03e8e472a8883"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:34:58," """"",ClickFix
+"""b4d18f3e85c518921941aff9cbc10d92c48087fb013fec78b41907223662163c"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:34:56," """"",ClickFix
+"""41c6a9b7cc368a6f5e4d63ec7dc407eb66b1ccdb2dc727f2520b894c87b0ae3d"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:34:55," """"",ClickFix
+"""924138f5d487abd853e2d6bd792736112054504b7c8e324556f5ee01f54d2fbc"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:34:54," """"",ClickFix
+"""fcd3b80ec4b61eebdec2785ea74fefffdf1e5b580f329a1717972225c78b8133"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:34:52," """"",ClickFix
+"""fd7a3cdd0fa8481dab663c5d58d63667011e8dc3fba310f83e59b26c74521fe4"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:34:50," """"",ClickFix
+"""2b977fcbd6f3587d1f680d26eeed21981a9029bd57874a0d526f3f4d0d122da1"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:34:49," """"",ClickFix
+"""b751b3e82e1fe57e8c32fef2373694ff889bfe4336124ec9ec61d22920e26d23"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:34:49," """"",ClickFix
+"""2d3200584452bf1e11a3f00373ee82fdd419cc0ec455d720ebf6d1c414e46275"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:34:45," """"",ClickFix
+"""0f7a4ed93500ae446ab6cb923125c4bd220b9bae4ab0ad418599aceec324d04e"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:34:44," """"",ClickFix
+"""514a4732ccf9faf6f43478e0424a3f8803e261fea97ffd428cb8329a61226659"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:34:42," """"",ClickFix
+"""09120c6637578e163ebad21e650c77bf0a23d8b48aaf887d72fb971a17e0327c"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:30:39," """"",ClickFix
+"""caea180952b57ccf9ce66b81578fa3096bc877ec6a6a7a1ac8352eba3100edd6"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:30:34," """"",ClickFix
+"""0b1f3390d9fc8cba8725e19adcf30bd6fef8651fb85c5cb919775eb14286d599"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:30:32," """"",ClickFix
+"""d7396fd0f9509212d99d653cc91bc99d64281447af4aa7db66a7c049a3b75b67"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:27:17," """"",ClickFix
+"""c23bf7fd69a2cd8c3d5eb8bd1e7dac371a207e95b77ce05047193764cbc0a897"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:25:08," """"",ClickFix
+"""5f1b5a914ec38e997b077a93a9c7d174165756b8b5f8dd731dc2f98f14f06cde"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:24:34," """"",ClickFix
+"""fc76860e01af5e28fa484927559f9a5138d64d8dcea4c23bf1e361f046e2e156"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:24:30," """"",ClickFix
+"""50868954dbd4daa70e117c58ae8426cb9f5c13ed96d0f60d764590517e95e7cc"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:24:28," """"",ClickFix
+"""08e8efef3bd0fbb1ec1e098ec83563314dddbf28d8801b1ab3c77cb86c1b3838"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:24:25," """"",ClickFix
+"""2362ed8f4009e137a598ae749dacee4612560fdee4b2cc8b71d712fe0c7d1dcc"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:24:23," """"",ClickFix
+"""b9befdb3bd01faf9dc6cdc1f6f5ec5931a4f4560f2917c1e6ce97208c0504747"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:24:21," """"",ClickFix
+"""1d4dab0bc6e3d654d4f7cd3be4a2153d1b4821199765d77cb0de48a0d533f122"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:24:15," """"",ClickFix
+"""881be71c4df6c699d18688b98e554d9c63374b1409ecd8ac63d3562288dac53c"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:24:13," """"",ClickFix
+"""91359861a6912d074603eaba0cbe61dd2a5e6800df9db4b8942ddaf50ef042bc"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:24:11," """"",ClickFix
+"""cd8b89cac64af045e8720d959016027bbe3f4a6e893fc0611a934fe7f0b1eddd"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:24:10," """"",ClickFix
+"""b421e8f0903263e37fe4d9830e67afec9f69d7c80d76c1a5f446944715d6f8db"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 13:24:04," """"",ClickFix
+"""be32773534e3d4cd7618194949f7628882992f3dfb048c37f4c960505a005b1c"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:14," ""2026-06-29 13:40:23""",ClearFake
+"""ada4690c212b7b983e65986c2528c9bdf7cff75589b043ee223a021465c43920"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:14," ""2026-06-29 13:40:25""",ClearFake
+"""833e888570c0873e3ce1f026bf6fe7d5abdc0efdd9e55399084ec6fabe9df21b"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:14," ""2026-06-29 13:40:26""",ClearFake
+"""0c86f5737476c1efc6dffed41e548e75ef9aa4b3dd36b59a30edd320bd65a429"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:14," ""2026-06-29 13:40:28""",ClearFake
+"""c6d22ebf9dce5fef2d5f1d87b3007457ef3c6d0193f121305b3d14e85441b43f"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:14," ""2026-06-29 13:40:30""",ClearFake
+"""5239a198297149ff5440bda18c94ce9c8cc2a2212bd95b3c4bedc197c1b9fb1c"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:14," ""2026-06-29 13:40:33""",ClearFake
+"""550fe153238e6a8c2cc6cf6a882bdc853fa4bb00721ebf5e7eae863124fd316b"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:14," ""2026-06-29 13:40:35""",ClearFake
+"""35f619453b4ab2c491b29d880c6bee8f3ae16700b293bbf31deeae975caa71c3"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:14," ""2026-06-29 13:40:36""",ClearFake
+"""c2ee091e95cdc4b4d677e55dc361d76867367a771b540dade1c698a05a2d5f0d"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:14," ""2026-06-29 13:40:38""",ClearFake
+"""ab101c1996f424300c3eddd06c10575585eeca9d2f7c892f3c45c50e9719c690"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:13," ""2026-06-29 13:40:04""",ClearFake
+"""acf4462915e81d81deac3f8e34de6b8cee64cc30dd9f57945794ba0f6dd0a0a8"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:13," ""2026-06-29 13:40:08""",ClearFake
+"""46a8a3d6131259e53ec07ac725c12dcf5a07d677ac35583982038ad397c19ad3"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:13," ""2026-06-29 13:40:10""",ClearFake
+"""42624224dfce7a43fcb9d806db2082c30227a815478b1feb74e8cf8cb64f71d2"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:13," ""2026-06-29 13:40:11""",ClearFake
+"""fa6e5f8bb72cc6b04bafe95f01d664b21c1654381b74154897c3efe32e01104b"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:13," ""2026-06-29 13:40:13""",ClearFake
+"""2d32bf0acaaf5ab032313ec4476774390ebc084d9b8459afd284223fcfb6021d"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:13," ""2026-06-29 13:40:16""",ClearFake
+"""3f6b065ed2f63b461f23880aee569b9522dd136c20c65bea450f305e9c93f22c"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:13," ""2026-06-29 13:40:18""",ClearFake
+"""0c964ea5e7a7809b665aa2517d078d50020ddc3b0868f11dc77e625ceb9e9712"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:13," ""2026-06-29 13:40:20""",ClearFake
+"""d18d2f76bc553fdecc640c00a548602979c0fcc281b5a626d394937951896822"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:13," ""2026-06-29 13:40:21""",ClearFake
+"""1fd793fc4db29dd42133cb20ea217f29b036d6d0a18d1753ebe56f4544537c32"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:12," ""2026-06-29 13:36:28""",ClearFake
+"""d92133d8434307a99c4c5bbbc905e65c330b38fe991fdcb5b14bd26f70333df9"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:12," ""2026-06-29 13:36:32""",ClearFake
+"""5071b6b49624a35b28f6cc66537be58e76daf2fa3de33a1b106bbd1c7c07561d"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:12," ""2026-06-29 13:36:33""",ClearFake
+"""b481fa88ec61057add0348646d4c703bf7ee3cfc3c98c8547371e6f3cd2ad0b9"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:12," ""2026-06-29 13:36:35""",ClearFake
+"""d0ab588b2b93e141b7dc39722f92711dd2de0ae5ad0e764f957ba01f92155820"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:12," ""2026-06-29 13:36:37""",ClearFake
+"""cd94f3a58d58d6c3e5c317fae03cc845d2368c42dba736386c1699c4c157d7f3"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:12," ""2026-06-29 13:39:57""",ClearFake
+"""9623feb7944da035d38aa653477951b809b4a1c2f6500cd20dd0492889b776f8"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:12," ""2026-06-29 13:39:59""",ClearFake
+"""8aaed4d47ae246059967342ee86a0420793c5751dcf86730e8800f31e26ec866"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:12," ""2026-06-29 13:40:00""",ClearFake
+"""c43c3397154a1f2d89b34cc4122842c2abbfeab139486e55e1e2b71b978959cf"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:12," ""2026-06-29 13:40:02""",ClearFake
+"""9afbc96639fa400657630e2a3cf4e021a0ab685215b18a03b808e9f27f19fac7"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:11," ""2026-06-29 13:36:15""",ClearFake
+"""55abd984d38cf05764b4c7ac4d636dfb827a379be7c975aae6d0a88d545fdf25"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:11," ""2026-06-29 13:36:17""",ClearFake
+"""7448dccda7b3a82c715869498870f0d0216b31f015fc1324aadf73636a9f0af1"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:11," ""2026-06-29 13:36:19""",ClearFake
+"""876f875e31e95dfc8b592594f17e6da1a271293de61fade030ea679b815ca817"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:11," ""2026-06-29 13:36:22""",ClearFake
+"""f95432faa54a492129454056a396b4b31b5211899d0f9611bee7189661ca3188"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:11," ""2026-06-29 13:36:23""",ClearFake
+"""3ed8020622796f70bdf3c16de772b8b45bb542f0af0d9fb639b1513c5c722b53"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:11," ""2026-06-29 13:36:25""",ClearFake
+"""3e2820527d8eb9a5396cc533f976a929ceb016168a5bce6150fc3ba061e04218"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:11," ""2026-06-29 13:36:27""",ClearFake
+"""4d24fab4342c0b19a2ea0d0ca36392f4053331ce57deeb7115eb34aeb35313ca"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:10," ""2026-06-29 13:35:58""",ClearFake
+"""6b3f8442d21103d11bb232c3dfb1dcbac8c576f3e4094c0542baed6b3e4fb657"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:10," ""2026-06-29 13:35:59""",ClearFake
+"""75c3961a5e1e88b1d8599111df547fe8bec37388eede78f121568417de635ffb"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:10," ""2026-06-29 13:36:01""",ClearFake
+"""8bfc5d83dd86d69937a22a091d8aacafbbf0fa7f0c7faa34674fccb1e5b6b657"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:10," ""2026-06-29 13:36:04""",ClearFake
+"""4004d3a14a3c7810c44b363927adea33cd55f4a28f6f0baacd937021fc8ed563"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:10," ""2026-06-29 13:36:07""",ClearFake
+"""6103c24bf10fa4e282d27d63c38934d66bf999b81eb880b9e5761da6496dd575"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:10," ""2026-06-29 13:36:08""",ClearFake
+"""efa24e6d66c558ef12539fbf615c8a607181e676b4da98e96203910fb9cc0e61"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:10," ""2026-06-29 13:36:10""",ClearFake
+"""af387603dc23f60d2bcd1269e6a1b18f4dceb90575f44b15b36e9c04170f14c8"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:10," ""2026-06-29 13:36:12""",ClearFake
+"""02e0fb035d480b199f0f2173ed4a8a7b8d6b8340bda05a2af7a20b166a716fe0"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:09," ""2026-06-29 13:35:41""",ClearFake
+"""18338778e3114e19b28f64e4c1bf9d4ccf0cfc4b2783b46b86862fb6bab12a80"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:09," ""2026-06-29 13:35:43""",ClearFake
+"""201c5e3d0a94d4ebe356e8280f430f87bdf6d04d8116aac59e04d7ee3951bae5"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:09," ""2026-06-29 13:35:46""",ClearFake
+"""627867b7897597d74d64f2f722771b87df1796f8a7e7bbff2e0941d25da96a87"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:09," ""2026-06-29 13:35:48""",ClearFake
+"""a2009f634a5dec6911655bb282d95487bf53100a72c70a62e56044a31594aefd"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:09," ""2026-06-29 13:35:49""",ClearFake
+"""425607e394b6da612043b6d91e485c3c4b12910af1c27c1df41397b59d832096"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:09," ""2026-06-29 13:35:51""",ClearFake
+"""e021ef11104505f017fad54273c00d29bf87f537dd102c6fc2f519f8bc6e3f64"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:09," ""2026-06-29 13:35:53""",ClearFake
+"""7c8f07dabe3eedee00f7de27fabc5689b699ea7c932c9c29bde9f5c3e59f9fd7"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:09," ""2026-06-29 13:35:54""",ClearFake
+"""cdc845c61341126fa2a784dfc27a11eef47d05cc323530be7b7a4515d202d838"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:08," ""2026-06-29 13:35:25""",ClearFake
+"""f62af451ebc1e8ef181d022bdcd25af8d152fa0fc8e408eb610d4075efa1e02f"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:08," ""2026-06-29 13:35:26""",ClearFake
+"""d246a63fcffa767c9407a4090489db5986233c63c79f79292ae6e0715673ddad"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:08," ""2026-06-29 13:35:30""",ClearFake
+"""039d75c7bfe0c3917aba98362c636198eafea3f93e4760796abbcd84c2c7e3d1"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:08," ""2026-06-29 13:35:31""",ClearFake
+"""e1287b14eaa142e26a4bb988d8e3431c80d0ffc4401810c07b0d954960738e0f"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:08," ""2026-06-29 13:35:33""",ClearFake
+"""3f18be9db505a0ee69a528269e8bbe2f85cf2116ca465d8f618946013f4bedee"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:08," ""2026-06-29 13:35:35""",ClearFake
+"""80d4451d914a701e293e643ed33ec53c47b0692793c4d7e1a00368170c5cd739"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:08," ""2026-06-29 13:35:38""",ClearFake
+"""c0ac7be40b90efa93340d26787074f5ba40f02762039bdc84d8778419fb8bf46"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:08," ""2026-06-29 13:35:39""",ClearFake
+"""a580e434ed06f2bd779c0e6674a0ff31b69a6aaa5f908d95564b17e23bcb714d"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:07," ""2026-06-29 13:35:11""",ClearFake
+"""058e9c0b3c714b83e131d4990ac5199ee5622ef92dc5d7503f6eaffadb3347a4"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:07," ""2026-06-29 13:35:13""",ClearFake
+"""19d2c2c8f842d70bdd8a9b91ed168e45fbb9a0e3587027e863b3df051f4d3a82"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:07," ""2026-06-29 13:35:15""",ClearFake
+"""6433b5122e362359e61c61ff2a35b885a229fc41d4d9a942be169f711f81173e"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:07," ""2026-06-29 13:35:17""",ClearFake
+"""25009746f1960f36bf2efdea616a087c1cbe8cc00e88d6e5a562e76bfc2e2ec5"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:07," ""2026-06-29 13:35:20""",ClearFake
+"""fd79ca089f7fef7acb21457cde1056c09d36c1fabea56b6333c61171363d320a"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:07," ""2026-06-29 13:35:21""",ClearFake
+"""f943eb5158841d992932c2502e0075eff351cbd368922e9ab256827c4b707c9f"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:07," ""2026-06-29 13:35:23""",ClearFake
+"""22439bc9a2b6716ae7eb5c1aaa9f3ff3ff91cefcbfe27b52763546861121adbc"""," ""js.clearfake"""," ""None"""," ""90""",2026-06-29 07:40:06," ""2026-06-29 13:35:08""",ClearFake
 """139d50b674112ca42a6f9e2aea789d0a1f3bd64e7ed5584d54bbfa6c7a418f72"""," ""py.venus_stealer"""," ""None"""," ""95""",2026-06-29 01:23:47," """""," ""0"""
 """e19f312bb3c65120c5faefbded0ce63abb79ae5871fdff02cc1c399c58ff5236"""," ""win.vidar"""," ""None"""," ""95""",2026-06-29 01:23:46," """""," ""0"""
 """046ead5e49940d24ad2249ff10375d6d1a9057c08d00d1874a2669d7a7b57058"""," ""win.vidar"""," ""None"""," ""95""",2026-06-29 01:23:45," """""," ""0"""
@@ -14,8 +513,8 @@ sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
 """4a087a74df20ffa9f4acc2427cea2158f76f32ae85389fe396282c8c44fa794a"""," ""win.netwire"""," ""NetWeird"," ""NetWire RC""",2026-06-29 01:23:35,"Recam"""," ""None"""
 """823aa0257a4c971b780e5569f4f93a017db7337f9ae6eb16692c37f68920b6bf"""," ""win.netwire"""," ""NetWeird"," ""NetWire RC""",2026-06-29 01:23:34,"Recam"""," ""None"""
 """7317d297686d154b4d78217e100df5f57949f05efe095f1a017b5988cddef98b"""," ""win.ghost_rat"""," ""Farfli"," ""Ghost RAT""",2026-06-29 01:23:33,"PCRat"""," ""None"""
-"""f89d864f7d2382e8e2e34c35ef0b435eb6fd3f1e43cc4c2a9e3d2e96faf452f7"""," ""win.vidar"""," ""None"""," ""95""",2026-06-29 01:23:32," """""," ""0"""
 """fe566ca92d40914438c7ce3157a6a0936ac7be94e71e6c37b95ac84177511874"""," ""jar.strrat"""," ""None"""," ""95""",2026-06-29 01:23:32," """""," ""0"""
+"""f89d864f7d2382e8e2e34c35ef0b435eb6fd3f1e43cc4c2a9e3d2e96faf452f7"""," ""win.vidar"""," ""None"""," ""95""",2026-06-29 01:23:32," """""," ""0"""
 """b8b16633d9cc1eda12aa9415d2fa2e91f39ffe8b7a94e38812e5c49ac88fe9ca"""," ""win.valley_rat"""," ""Winos"""," ""95""",2026-06-29 01:23:27," """""," ""0"""
 """d6d38c1850e229809385420e9473ebd68fc9ade8d3d2b25052c476741db52bda"""," ""win.dostealer"""," ""None"""," ""95""",2026-06-29 01:23:25," """""," ""0"""
 """afed5328d5778877ed29130d62987f9492177080a067d249ee303502ef9530d1"""," ""win.acr_stealer"""," ""None"""," ""95""",2026-06-29 01:23:24," """""," ""0"""
@@ -23,13 +522,13 @@ sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
 """b30a55c62ea914a9dd179a56583cffffdccdf03b38210b87af7f4064a2a941b5"""," ""win.acr_stealer"""," ""None"""," ""95""",2026-06-29 01:23:22," """""," ""0"""
 """acb2f08fd49a1958c809389b01141248f19bde31dc70b44b9f466ebd8c6dcbd0"""," ""win.vidar"""," ""None"""," ""95""",2026-06-29 01:23:21," """""," ""0"""
 """4ed6520516e5f756f1d020510d5e508c03811b3cb5062eed4bede73df641b779"""," ""win.vidar"""," ""None"""," ""95""",2026-06-29 01:23:20," """""," ""0"""
-"""e21f70aebb96b545be30ba9b92fb7a77321d78da5641ce9f4d7b3ab8f6d09e70"""," ""win.acr_stealer"""," ""None"""," ""95""",2026-06-29 01:23:19," """""," ""0"""
 """4a465658121a15449fadbeed82d37c461e601ae45c08a3d6c992285d31ebf804"""," ""win.acr_stealer"""," ""None"""," ""95""",2026-06-29 01:23:19," """""," ""0"""
+"""e21f70aebb96b545be30ba9b92fb7a77321d78da5641ce9f4d7b3ab8f6d09e70"""," ""win.acr_stealer"""," ""None"""," ""95""",2026-06-29 01:23:19," """""," ""0"""
 """a3fed15f05903e3bb645f059a65f5e56ffeab45ab02f535d6df263d4363a6628"""," ""win.vidar"""," ""None"""," ""95""",2026-06-29 01:23:17," """""," ""0"""
 """39cbd2d2299ebbc1eba6bb1ffab7d87f0016715fb237d0a1a253262b4b9cea13"""," ""win.njrat"""," ""Bladabindi"," """"",2026-06-29 01:23:15," ""NjRAT"""," ""None"""
 """8928d35f3e18435f6c17940a5a9a2515186b5a7a4faa6f681b7d244249daaf0b"""," ""py.blankgrabber"""," ""None"""," ""95""",2026-06-29 01:23:14," """""," ""0"""
-"""542ab12e9aa46a0a19d380e7390a84c4628c7316cb7a4bd01a85a8b3a45ca421"""," ""py.blankgrabber"""," ""None"""," ""95""",2026-06-29 01:23:13," """""," ""0"""
 """94dc6a521549029a2bcd479bf04327518ea0cf0a3a4675d98cb421f256340122"""," ""py.blankgrabber"""," ""None"""," ""95""",2026-06-29 01:23:13," """""," ""0"""
+"""542ab12e9aa46a0a19d380e7390a84c4628c7316cb7a4bd01a85a8b3a45ca421"""," ""py.blankgrabber"""," ""None"""," ""95""",2026-06-29 01:23:13," """""," ""0"""
 """e207ce6f845f84bd247294390e12fd94df499436b8170ec143266405735d36fe"""," ""py.blankgrabber"""," ""None"""," ""95""",2026-06-29 01:23:11," """""," ""0"""
 """b2687e641c114589ef0f3e96abb7bdf5758009b72a0ef74f2e7f30fafe7bebe7"""," ""win.stealc"""," ""None"""," ""95""",2026-06-29 01:23:10," """""," ""0"""
 """c942ecd62cc2de17119903a9adb79dc9a382136288a2a5e9385e856a668a3d7a"""," ""win.amadey"""," ""None"""," ""95""",2026-06-29 01:23:09," """""," ""0"""
@@ -46,8 +545,8 @@ sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
 """09f9d5761ddd83f5830852c9958b35c2f379dbdb1f2ad8a35a8a442911726c28"""," ""win.netwire"""," ""NetWeird"," ""NetWire RC""",2026-06-29 01:22:58,"Recam"""," ""None"""
 """9c9fd1ab06198b6d0aa3222006a7f97e2cb29c5ea3ab1d5f408784c008a32515"""," ""elf.zhtrap"""," ""None"""," ""95""",2026-06-29 01:22:57," """""," ""0"""
 """20160e27904a71a77b26aeb6edb37aedc6ed18aaffb5f7eb3fbbab035ab3c458"""," ""win.netwire"""," ""NetWeird"," ""NetWire RC""",2026-06-29 01:22:56,"Recam"""," ""None"""
-"""11f50bd71ee026c644b2322d84b4a3e03b48455e34ebf478bd6afc32e0fdfbef"""," ""win.gcleaner"""," ""None"""," ""95""",2026-06-29 01:22:55," """""," ""0"""
 """b435de3e50714d774f42cfdefd710519915e7f987f69da8d5fc1963961519844"""," ""win.luca_stealer"""," ""None"""," ""95""",2026-06-29 01:22:55," """""," ""0"""
+"""11f50bd71ee026c644b2322d84b4a3e03b48455e34ebf478bd6afc32e0fdfbef"""," ""win.gcleaner"""," ""None"""," ""95""",2026-06-29 01:22:55," """""," ""0"""
 """e9c6dda67b1da1be30f8b0d4c7ff329c6b9831ae2c413742bbe59cc66690a630"""," ""win.gcleaner"""," ""None"""," ""95""",2026-06-29 01:22:53," """""," ""0"""
 """cd1ab1369c5b2090a046e27574158e038fabdabc695623b3e85810246990e351"""," ""win.njrat"""," ""Bladabindi"," """"",2026-06-29 01:22:52," ""NjRAT"""," ""None"""
 """ffb966fce55f67726e7f8084a1dc21b80650e5c05373529b35d93eafcfcc7e26"""," ""win.wannacryptor"""," ""Wana Decrypt0r","Wcry""",2026-06-29 01:22:51,WannaCrypt," ""False"""
@@ -58,19 +557,4 @@ sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
 """f2cd38b6c081535971bc76d9aa3560ce3bf33e02986a430464a75e3261c4a8f1"""," ""win.wannacryptor"""," ""Wana Decrypt0r","Wcry""",2026-06-27 21:28:09,WannaCrypt," ""False"""
 """abb0ddc5d6972b69a938f88cbc354dffbd14adcd13b8049e6654f51dd3f5836d"""," ""win.vidar"""," ""None"""," ""95""",2026-06-27 21:28:07," ""2026-06-29 01:23:18"""," ""0"""
 """716612c11982500cca51970f822ddffb5a4b3aa84fda3cb30ffab6daa94f5248"""," ""win.socks5_systemz"""," ""ProxyBox"""," ""95""",2026-06-27 21:28:06," ""2026-06-29 01:23:16"""," ""0"""
-"""66800eefed4e4c7dae18fe4dfe388e5f0ef20159cf0c7188df6c1a1d88f63a03"""," ""win.asyncrat"""," ""None"""," ""100""",2026-06-27 14:08:59," """""," ""0"""
-"""2eebecf7c504a215a51fb2876ec4f646b252fea92b43a6c5a811b8338f0ed133"""," ""win.asyncrat"""," ""None"""," ""100""",2026-06-27 14:08:59," """""," ""0"""
-"""6bdc600936975f49a706081d941b5de37f23586828a13aded77e015cf01cccc5"""," ""win.asyncrat"""," ""None"""," ""100""",2026-06-27 14:08:57," """""," ""0"""
-"""f636f4b5522e2a1c341fd1064190fe714a2965b4432b0bfe57c05233a60f611f"""," ""win.asyncrat"""," ""None"""," ""100""",2026-06-27 14:08:56," """""," ""0"""
-"""37733e5966cf4129c79c419725fbc2f7bcdac446683d966107bb3065d959422f"""," ""elf.mirai"""," ""Katana"""," ""80""",2026-06-27 14:08:24," """"","iot"""
-"""3af414ef65da7494da9604e1a1dcf1a2a92234a4c8fd2fa11bb292970ea4282e"""," ""elf.mirai"""," ""Katana"""," ""80""",2026-06-27 14:08:23," """"","iot"""
-"""275e5b085534f64313b50cbdcb08ecd59c57d21c96bb937f140ee92a3d27f792"""," ""unknown"""," ""None"""," ""75""",2026-06-27 06:24:11," """"",netsupport
-"""39fa0fa694213d27c09ff2da27ae8a08866a36edece31e0c14312a4d42eb5fb4"""," ""unknown"""," ""None"""," ""75""",2026-06-27 06:24:10," """"",netsupport
-"""1b9e167757acd83c27a58de454cdc67af447c16422e8568ac08491de01ca7caa"""," ""unknown"""," ""None"""," ""75""",2026-06-27 06:24:10," """"",netsupport
-"""49281a9d741515d1ece2051fc1c5f7fac2c54c73f5e96c32a70d6729cdb94e4e"""," ""unknown"""," ""None"""," ""75""",2026-06-27 06:24:09," """"",netsupport
-"""50d9c3519a2fb107671c7d0151aa2ea2e15143d732821ec381732876e487034d"""," ""unknown"""," ""None"""," ""75""",2026-06-27 06:24:09," """"",netsupport
-"""d42e4181eb28a34149d95e716d63e9dcbe07c9f93f630bc7f6f19afda19bf3fc"""," ""win.crypto_ransomeware"""," ""None"""," ""75""",2026-06-27 06:24:03," """""," ""1"""
-"""cb1dd59ac326416b84a5c28ced438a25518d4b5fadfbb9c979ed319db844cda7"""," ""win.crypto_ransomeware"""," ""None"""," ""75""",2026-06-27 06:24:02," """""," ""1"""
-"""a7aa93ad69ee4641c9346eea3456415dbb00be679940d5070db0587894ede987"""," ""win.crypto_ransomeware"""," ""None"""," ""75""",2026-06-27 06:24:02," """""," ""1"""
-"""0013d3a2143469022ce41148f0df1898a5c7f122bc5d2842139d47054178f83c"""," ""win.uacme"""," ""Akagi"""," ""75""",2026-06-27 06:24:01," """""," ""1"""
-"""3142e7ca3dbe7756b792ba425bf4e3c3b856c430647a8c51126a38993f916451"""," ""win.crypto_ransomeware"""," ""None"""," ""75""",2026-06-27 06:24:00," """""," ""1"""
+"""b0e1ae6d73d656b203514f498b59cbcf29f067edf6fbd3803a3de7d21960848d"""," ""elf.xmrig"""," ""None"""," ""80""",2026-06-05 05:19:11," ""2026-06-29 15:50:31""",docker-api
