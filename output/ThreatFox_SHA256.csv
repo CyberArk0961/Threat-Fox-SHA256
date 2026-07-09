@@ -1,4 +1,20 @@
 sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
+"""e0d1e9dbfb7ee326cc6152ac810d7835cb1f2cd2031e3d8ba83e3777e18bd755"""," ""unknown"""," ""None"""," ""75""",2026-07-08 18:35:34," """"",ClearFake
+"""fdf03609a12b2535488e008293cd89d596f967af96d7763b880ee1ffd8702630"""," ""elf.kuiper"""," ""None"""," ""95""",2026-07-08 18:14:48," """""," ""0"""
+"""07e019e4309cd2d20874488411df839728fbda0b580c6f09a72c99f4d873f931"""," ""elf.kuiper"""," ""None"""," ""95""",2026-07-08 18:14:47," """""," ""0"""
+"""60c730addd2a15e4213a1d37f55186686976de73a106317b5a258fe0121cfd5c"""," ""win.netwire"""," ""NetWeird"," ""NetWire RC""",2026-07-08 18:14:46,"Recam"""," ""None"""
+"""dc8b056dd6eb75df21e9721ac2e340f91bb5e94d5a6ff412d7d0c7539e0f06e2"""," ""win.netwire"""," ""NetWeird"," ""NetWire RC""",2026-07-08 18:14:45,"Recam"""," ""None"""
+"""433b61c29aefaa5b55fe78063e6ad8597d3835f36e1242d5402ab23e6dc61194"""," ""win.netwire"""," ""NetWeird"," ""NetWire RC""",2026-07-08 18:14:44,"Recam"""," ""None"""
+"""3f434324ac709227290512410977bca99eb164fc86cae6f22cd4844eb9eb9130"""," ""win.njrat"""," ""Bladabindi"," """"",2026-07-08 18:14:43," ""NjRAT"""," ""None"""
+"""ec8642b8f9d76743c3d9b65f2496f41ba136ff4f1ccfbe4069d494e6a3e579f3"""," ""win.agent_tesla"""," ""AgenTesla"," ""Agent Tesla""",2026-07-08 18:14:42,"Negasteal"""," ""None"""
+"""f5d8c56c2b66818eba0bacd35be33b2d2069ff3e28befe67dd4ca17b675b7b27"""," ""win.njrat"""," ""Bladabindi"," """"",2026-07-08 18:14:41," ""NjRAT"""," ""None"""
+"""c4ce7dd05a3865b7d16a33adc9fa57d15a221abb83cb57fad43e947bc0a17eb1"""," ""win.stealc"""," ""None"""," ""95""",2026-07-08 18:14:41," """""," ""0"""
+"""da483f0d56aabc55d45b170c4f605c97c722b3c2400cc6a5643a45f116121258"""," ""py.venus_stealer"""," ""None"""," ""95""",2026-07-08 18:14:40," """""," ""0"""
+"""06f915bc056a74c1c9b6faa3098a700ef4e5f54b8b1e84f73c70dcc6f5096949"""," ""win.arkei_stealer"""," ""ArkeiStealer"""," ""95""",2026-07-08 18:14:39," """""," ""0"""
+"""86f77feba22ad9641d9464ac07c0fc4c2657f62cf02b85bdb50a192980265ebf"""," ""win.vidar"""," ""None"""," ""95""",2026-07-08 18:14:38," """""," ""0"""
+"""830a22ea4eb2ebb8c60c7731fa5175d3a315d023a812aea40147326cc4c8a4dd"""," ""unknown"""," ""None"""," ""100""",2026-07-08 12:08:12," """"",DeviceManagerAgent
+"""1ca17239f5bec17ef244fc55357c6d0560337d7cadd1bb61574ab010f14a8d14"""," ""unknown"""," ""None"""," ""100""",2026-07-08 12:08:12," """"",DeviceManagerAgent
+"""65a052908f79efc7878d6799fd3b7be1e30eba49fa05156d7e5239b2b9ddaf71"""," ""unknown"""," ""None"""," ""75""",2026-07-08 06:48:32," """"",CEB
 """f0fb6aa794861412977827099a4127f45d368885adf92b75904efb493a1eb5cb"""," ""py.venus_stealer"""," ""None"""," ""95""",2026-07-08 00:01:47," """""," ""0"""
 """0625595cc9f373c417d09a8fadf6d62f4f678de169c80039c151e1db599e7747"""," ""win.asyncrat"""," ""None"""," ""95""",2026-07-08 00:01:45," """""," ""0"""
 """ffa874d010db98be13b184074f4f857b151a6f22b95503899714804a24799620"""," ""win.njrat"""," ""Bladabindi"," """"",2026-07-08 00:01:44," ""NjRAT"""," ""None"""
@@ -19,30 +35,4 @@ sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
 """aa4d642727be33ecd94acb8a24e546aeed325f08367333bb8974f5e54d99e715"""," ""jar.crossrat"""," ""Trupto"""," ""95""",2026-07-08 00:01:29," """""," ""0"""
 """ed1427c973e2c1fecdf2536e270fec2af98e31e229fbdae6664b0e23af321f9a"""," ""jar.crossrat"""," ""Trupto"""," ""95""",2026-07-08 00:01:28," """""," ""0"""
 """d1487fa8c36489e6e46c950484855b52d4bd3e5a6e86b9caffc7e9a3168a60f4"""," ""elf.xmrig"""," ""None"""," ""75""",2026-07-07 08:21:28," """"",cryptojacking
-"""a670b03c1da00ee2c8622fd716085358d7e36ee98c4adafc9bda53eaadd59527"""," ""win.vidar"""," ""None"""," ""95""",2026-07-06 14:30:36," """""," ""0"""
-"""25d34c70c29605a0a7ebeeb836e8fcf45ec0ddff29dd0745b844b8ea39d0d9cb"""," ""win.vidar"""," ""None"""," ""95""",2026-07-06 14:30:35," """""," ""0"""
-"""7c501632cd3830735040964b69d73a5dc315d0422fe3f1012c4b50db58dc0663"""," ""win.vidar"""," ""None"""," ""95""",2026-07-06 14:30:34," """""," ""0"""
-"""452a92a4ff9639259c0aae08fcb4fe30e93c8843a4cf301b9746e8e6b899bb74"""," ""win.agent_tesla"""," ""AgenTesla"," ""Agent Tesla""",2026-07-06 14:30:33,"Negasteal"""," ""None"""
-"""3a69743c2e6248b3cfd9ed4b1f24d411aba3a5dc7cd2b787e23e0a77094bfc19"""," ""win.asyncrat"""," ""None"""," ""95""",2026-07-06 14:30:32," """""," ""0"""
-"""9b51c77931a32be41eb1b4919951e063da93bd60dfefe103ba004e8c84c7e6ee"""," ""win.agent_tesla"""," ""AgenTesla"," ""Agent Tesla""",2026-07-06 14:30:31,"Negasteal"""," ""None"""
-"""7efb9e34f0829837d0b8b8ec33124b2e68c2ee15f1c222afc7c2d4ed985f96d5"""," ""win.formbook"""," ""win.xloader"""," ""95""",2026-07-06 14:30:30," """""," ""0"""
-"""fa23920dce139f976c8fe2cc7ce5001296429c259cc70f7f79777f69eff021be"""," ""win.agent_tesla"""," ""AgenTesla"," ""Agent Tesla""",2026-07-06 14:30:29,"Negasteal"""," ""None"""
-"""825aa515a905b7294efc080850e77d8962a1411c6f47468a2ce67a19770bc830"""," ""win.wannacryptor"""," ""Wana Decrypt0r","Wcry""",2026-07-06 14:30:28,WannaCrypt," ""False"""
-"""7675d23d748b0f2b60d9c074d6db1e843a69efd541bd96077065d04b5daa5637"""," ""win.adaptix_c2"""," ""None"""," ""95""",2026-07-06 14:30:27," """""," ""0"""
-"""b3ad1389f9962206c973c4acefbb32f3c26cbdb884c6f01445deeeb6f9f9f8e9"""," ""win.backnet"""," ""None"""," ""95""",2026-07-06 14:30:27," """""," ""0"""
-"""11265b15cf310d8b0582883d1d0417891f8456f7ab620690fa0ddfd512ff494a"""," ""win.adaptix_c2"""," ""None"""," ""95""",2026-07-06 14:30:25," """""," ""0"""
-"""37f7127bcae8388c61432dc2d46b0df36cb33690ebbc5b725b28b33dfb145d4b"""," ""win.asyncrat"""," ""None"""," ""95""",2026-07-06 14:30:24," """""," ""0"""
-"""e438003e81399afda1a4801bdd3d347a757c2068c4dbbaa99d4f554972c546f0"""," ""win.vidar"""," ""None"""," ""95""",2026-07-06 14:30:23," """""," ""0"""
-"""7b3aa1d7625cf510dd111f1d390415de1538dfc011ec79242b44badd6d32b120"""," ""win.stealc"""," ""None"""," ""95""",2026-07-06 14:30:22," """""," ""0"""
-"""128f48d4dda439d084c90f283d3bd9293a8d22bd86b9b5e2c57afaf5e487243b"""," ""win.coinminer"""," ""None"""," ""95""",2026-07-06 14:30:21," """""," ""0"""
-"""739daec38ce1a857f5bbe3d199e6c129be79014006afd5da0f53ac84f9483afa"""," ""win.netwire"""," ""NetWeird"," ""NetWire RC""",2026-07-06 14:30:21,"Recam"""," ""None"""
-"""651a82b426efa1053fd38f2d28617b4324a74787934780d88c64b1cf0638d9cf"""," ""win.netwire"""," ""NetWeird"," ""NetWire RC""",2026-07-06 14:30:20,"Recam"""," ""None"""
-"""56c1f7f57b3ede16315b84735bef589df8c00804d194f726489bb053af9dbf9a"""," ""win.asyncrat"""," ""None"""," ""95""",2026-07-06 14:30:19," """""," ""0"""
-"""afe399f61054f5855796a884b38b4d0977c03a216920980e44d776173ddfea80"""," ""win.wannacryptor"""," ""Wana Decrypt0r","Wcry""",2026-07-06 14:30:18,WannaCrypt," ""False"""
-"""80df68273b763bbd74207d708a49c4aae244a6cc85161e2efae0d73f373830a9"""," ""win.agent_tesla"""," ""AgenTesla"," ""Agent Tesla""",2026-07-06 14:30:17,"Negasteal"""," ""None"""
-"""b58bb405081d7085ce5c988d8a2dcd43565a53d13f67409c4142027230e75cc4"""," ""unknown_loader"""," ""None"""," ""100""",2026-07-06 13:26:10," """"","unknown"""
-"""1c4afcdf66e9b184ad862e21675ac5280308efb0699b60ac4335e58d4c30ef3e"""," ""unknown_loader"""," ""None"""," ""100""",2026-07-06 13:26:09," """"","unknown"""
-"""5c7e96390d91746354e55da5ef1517b001e116ff289ac984e9479b7efb04ae5e"""," ""unknown_loader"""," ""None"""," ""100""",2026-07-06 13:26:08," """"","unknown"""
-"""5f22ec5c14dfd47c92850a5fb3bd8e3754d538b8021b6238238e4020336cfb5c"""," ""win.zedhou"""," ""None"""," ""100""",2026-07-06 07:19:48," """"",G0129
-"""f2bed071676feb831ed460489643fd57f6c6c1e0d024a1ea447820276fb13828"""," ""win.zedhou"""," ""None"""," ""100""",2026-07-06 07:19:48," """"",G0129
-"""a43084f5af861f44c75c5273c779cb26d506cab6b51c33746626da504148a4ec"""," ""win.zedhou"""," ""None"""," ""100""",2026-07-06 07:19:46," """"",G0129
+"""dbb7ebb960dc0d5a480f97ddde3a227a2d83fcaca7d37ae672e6a0a6785631e9"""," ""elf.redtail"""," ""None"""," ""85""",2026-06-01 20:49:19," ""2026-07-09 00:22:03""",arm8
