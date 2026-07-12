@@ -1,4 +1,13 @@
 sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
+"""0becac3708194f61f084acf35602644f8cef1bcb33a7bbdebbd96b0d1888bda3"""," ""unknown"""," ""None"""," ""75""",2026-07-11 05:29:46," """"",loader
+"""a9f1e873451adc5be1e9924d876ebaf79a467ab94b3f6a4e27068206f7b52719"""," ""win.netsupportmanager_rat"""," ""NetSupport"""," ""100""",2026-07-11 05:29:38," """"",DLL-sideload
+"""82c64ef8e028f5b58f3a61719792e82bc43fe01f8a6185700ff60b71943d97f9"""," ""win.netsupportmanager_rat"""," ""NetSupport"""," ""100""",2026-07-11 05:29:37," """"",DLL-sideload
+"""9d7f9ba8bde293ce8fc8b703ea016eda37bdb5726fa2f86f83e70d09fcef919d"""," ""win.netsupportmanager_rat"""," ""NetSupport"""," ""100""",2026-07-11 05:29:37," """"",DLL-sideload
+"""a5f7f39121b4fdf1d9dd9c2e8cacdbae1c00cd29383eceeea2cfb3b3a03187c7"""," ""win.netsupportmanager_rat"""," ""NetSupport"""," ""100""",2026-07-11 05:29:36," """"",DLL-sideload
+"""4ef9bef04dc4ae1d85773c78249f02f739efcea500ee644e9e200c44340049c2"""," ""win.netsupportmanager_rat"""," ""NetSupport"""," ""100""",2026-07-11 05:29:35," """"",DLL-sideload
+"""928ccfc1aed294c58960d22ec011f3a6730c1d35cf8d1d5cc54a408326636d32"""," ""win.netsupportmanager_rat"""," ""NetSupport"""," ""100""",2026-07-11 05:29:35," """"",DLL-sideload
+"""6fa62584242262b5da8dab22c790e32cf84adae04d231c09d26aae689547a800"""," ""win.netsupportmanager_rat"""," ""NetSupport"""," ""100""",2026-07-11 05:29:34," """"",DLL-sideload
+"""bd894e0e215af7fa9a6c99cb939efd7183b5cbf845c9e0b5e6038a95bd58c11a"""," ""elf.cpuminer"""," ""None"""," ""100""",2026-07-11 05:29:28," """"",credential-theft
 """9a42d843c5c0dd751898a0bec5a68d0fc097364788f99cdba6533b2f125b4a5f"""," ""elf.kuiper"""," ""None"""," ""95""",2026-07-10 14:55:06," """""," ""0"""
 """dacc3d21d8d1e49fd7728f3500943b9eddd80589264d939fbe1fd880fe03938d"""," ""win.nanocore"""," ""Nancrat"," """"",2026-07-10 14:55:04," ""Nanocore RAT"""," ""None"""
 """56ca405fa5c12838051af41d5b515a3dc6064531eaabe635242d13e0e72de848"""," ""elf.kuiper"""," ""None"""," ""95""",2026-07-10 14:55:03," """""," ""0"""
@@ -38,32 +47,5 @@ sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
 """1ab810f65b846b0d1aef311bda3d0e96dcc806dd7bdfc7eb414a68d53786a6ad"""," ""win.wannacryptor"""," ""Wana Decrypt0r","Wcry""",2026-07-10 14:54:16,WannaCrypt," ""False"""
 """7c8fc17802ae0c7ffed37f708b50f9184cd2f3c35c52130104eaf32a3e2dc1ac"""," ""unknown"""," ""None"""," ""75""",2026-07-10 06:12:28," """"",ClearFake
 """3ff6b2e928215ef498bd4c0e6157692ca352202a68f4aa01f48bace5b059a5d3"""," ""unknown"""," ""None"""," ""75""",2026-07-10 06:12:28," """"",ClearFake
-"""9c6be60162b611918d074da4f14322909bc031c74e66201219c23370423fcf91"""," ""win.agent_tesla"""," ""AgenTesla"," ""Agent Tesla""",2026-07-09 18:23:47,"Negasteal"""," ""None"""
-"""02c6d4de3aa8feee3ac76efc66d092ad115b95eb93d1b025c547df241f218adb"""," ""win.netwire"""," ""NetWeird"," ""NetWire RC""",2026-07-09 18:23:47,"Recam"""," ""None"""
-"""7f64d735d36b1edd27b092687be4851c5d2a7ec69f377ed7286acc3a429994b3"""," ""win.netwire"""," ""NetWeird"," ""NetWire RC""",2026-07-09 18:23:46,"Recam"""," ""None"""
-"""e297d36196e4cbfaa728c40a3e9025da0661095287df0dc849505d5b49397204"""," ""elf.kuiper"""," ""None"""," ""95""",2026-07-09 18:23:45," """""," ""0"""
-"""d3d8e0363520cf5dd010122ffdf1ffe4d73f461029caa992d381dae096f16db2"""," ""py.venus_stealer"""," ""None"""," ""95""",2026-07-09 18:23:44," """""," ""0"""
-"""e005f4371595d366f009d37294af1a6f894fbcad4487f92a50124237523f4ec1"""," ""elf.kuiper"""," ""None"""," ""95""",2026-07-09 18:23:44," """""," ""0"""
-"""9c5edc9006283a724d619d2f230767343c8c22de736ab05af57fcc8226b69db5"""," ""win.stealc"""," ""None"""," ""95""",2026-07-09 18:23:43," """""," ""0"""
-"""a74e6207d1525ea4d505fc7fb9546828e51a2d15cabc412ec8f949fec93fee23"""," ""elf.kuiper"""," ""None"""," ""95""",2026-07-09 18:23:42," """""," ""0"""
-"""f1c14a7fb9a6ddc65bf2df2e5230a4e22bb1d7e9636c4bca50b545c03a368dc9"""," ""win.pure_rat"""," ""PureHVNC"," """"",2026-07-09 18:23:41," ""PureRAT"""," ""None"""
-"""d575962d0a17de040a7fd985b94daffb7cc8edfd82bcc374c39cf023a5feadb2"""," ""win.pure_rat"""," ""PureHVNC"," """"",2026-07-09 18:23:40," ""PureRAT"""," ""None"""
-"""37f5c4fbdcd45051a8b098b18a8dfc53f8e01922851f7e673542e27fa5154cb5"""," ""win.pure_rat"""," ""PureHVNC"," """"",2026-07-09 18:23:39," ""PureRAT"""," ""None"""
-"""de9123300942f93ba72d2d0f32f99eb032ce4a4f3fb262831517f75561dc2983"""," ""win.pure_rat"""," ""PureHVNC"," """"",2026-07-09 18:23:38," ""PureRAT"""," ""None"""
-"""b2c06a9ab9fac39d31229d4aa70aded718ef629858158baf0d3d9f48431ceacc"""," ""win.pure_rat"""," ""PureHVNC"," """"",2026-07-09 18:23:37," ""PureRAT"""," ""None"""
-"""3d62b2f3e5c8aabe7ff07838576a378f7ee5dc37d7eade33d64c5fdd43342729"""," ""win.pure_rat"""," ""PureHVNC"," """"",2026-07-09 18:23:36," ""PureRAT"""," ""None"""
-"""5a32a7e96ff150b0a10bff34ae6b04e215562ae815212390385d99b103178548"""," ""win.pure_rat"""," ""PureHVNC"," """"",2026-07-09 18:23:35," ""PureRAT"""," ""None"""
-"""5e54d3e82a7afd6b1bcecec1f0061ccad66a92e7c0b0cd55eb2e436430d3a2fe"""," ""win.pure_rat"""," ""PureHVNC"," """"",2026-07-09 18:23:35," ""PureRAT"""," ""None"""
-"""f1a654b02d6b9f2b20396a832ab96d8a98b19c7a657c9253e513d53e78234a38"""," ""win.pure_rat"""," ""PureHVNC"," """"",2026-07-09 18:23:34," ""PureRAT"""," ""None"""
-"""4d1b345bfd91ece59dd400a5aaba9f405e474e7f3bda23fd8086c9dbf2ec8880"""," ""py.creal_stealer"""," ""None"""," ""95""",2026-07-09 18:23:33," """""," ""0"""
-"""89f1f236a5fbc95e3540626caf9cdfe525bcd85789c4ac95c8b99e1781015a8c"""," ""win.valley_rat"""," ""Winos"""," ""95""",2026-07-09 18:23:32," """""," ""0"""
-"""1f31686990b1715d79718451c1865512566cb6a0bcc65f9d421fc1567e5cf6e7"""," ""win.formbook"""," ""win.xloader"""," ""95""",2026-07-09 18:23:31," """""," ""0"""
-"""eaf3838a6cf4e0e4310c2cc680197461cf072bff9dac2db2f76e1522a9f368f9"""," ""unknown"""," ""None"""," ""100""",2026-07-09 15:01:25," """"",clickfix
-"""ccf042b5438e2e6168d70dca826aa65a4847fea1cfd062db5b238d7de167f8c3"""," ""unknown"""," ""None"""," ""100""",2026-07-09 15:01:24," """"",clickfix
-"""4ff468f704f266022358d80e61845af92dea230f66e1e2674776431c161e8c01"""," ""apk.kimwolf"""," ""None"""," ""75""",2026-07-09 05:28:03," """""," ""0"""
-"""15f446470be5c470e41b42b8d18f36c10cb6efbac3c69f1f7fd21a1496e4a7a6"""," ""elf.aisuru"""," ""None"""," ""75""",2026-07-09 05:28:02," """""," ""0"""
-"""8f708114c42c3ee145d51b0e698f787d249ca86345e5916ac554e750d6eac0c2"""," ""win.sliver"""," ""None"""," ""100""",2026-07-09 05:27:45," """"",pan-os
-"""d9228d6c7d4d2557202a251e3b7018788cdb7ac6f64440774d96b7fdc3d2bac3"""," ""win.sliver"""," ""None"""," ""100""",2026-07-09 05:27:43," """"",pan-os
-"""70bf89c7580c7195407735cc8fa8b48ab17741036ffcd85704d6d4b600d824c8"""," ""win.sliver"""," ""None"""," ""100""",2026-07-09 05:27:41," """"",pan-os
 """e0d1e9dbfb7ee326cc6152ac810d7835cb1f2cd2031e3d8ba83e3777e18bd755"""," ""unknown"""," ""None"""," ""75""",2026-07-08 18:35:34," ""2026-07-10 03:53:07""",ClearFake
 """b6d4ad0231941e0637485ac5833e0fdc75db35289b54e70f3858b70d36d04c80"""," ""win.netsupportmanager_rat"""," ""NetSupport"""," ""90""",2026-03-14 17:20:39," ""2026-07-10 22:27:26""","netsupport"""
