@@ -1,4 +1,26 @@
 sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
+"""b8006c2a5a511648876a967f55bae95ccb5515ff0436e7855ce5d2ecc7dd407f"""," ""py.venus_stealer"""," ""None"""," ""95""",2026-07-18 19:41:52," """""," ""0"""
+"""cdc0d27aee64dbcc4b67a3a6cdde4c7f32065144d8fbb6ada691143456e7d756"""," ""py.venus_stealer"""," ""None"""," ""95""",2026-07-18 19:41:51," """""," ""0"""
+"""ccce59754ac625d60cda648debe4a3021b70a30bc8b85d9a7d5612b1b64ef52a"""," ""py.venus_stealer"""," ""None"""," ""95""",2026-07-18 19:41:39," """""," ""0"""
+"""235f91d8d4634d2af5a9a504420d624496f11af6ffc8a98adea083121b88ab1e"""," ""py.venus_stealer"""," ""None"""," ""95""",2026-07-18 19:41:38," """""," ""0"""
+"""f3feecf1f6fb2fec70747006dbb8a09b73dfeb8f54946a4d701c13fd71d4600c"""," ""py.venus_stealer"""," ""None"""," ""95""",2026-07-18 19:41:37," """""," ""0"""
+"""5d16539260e3c23da6f5fee3ba39104fde4f68d4226a9957b1c7e35b4a9c1cd4"""," ""py.venus_stealer"""," ""None"""," ""95""",2026-07-18 19:41:36," """""," ""0"""
+"""a82cd50cbc1beec0bb4d774c248d3daa58f858fa4bddc99b314874cb9914eaca"""," ""py.venus_stealer"""," ""None"""," ""95""",2026-07-18 19:41:35," """""," ""0"""
+"""64a3a21cb92d06b12229c7788f6578dc71a3a61cd8658c53fa9cafe051b11b2e"""," ""py.venus_stealer"""," ""None"""," ""95""",2026-07-18 19:41:34," """""," ""0"""
+"""72c5cec904df799ee47952dba0d830fccd58e49c4810db5261e85747d4495713"""," ""py.venus_stealer"""," ""None"""," ""95""",2026-07-18 19:41:33," """""," ""0"""
+"""1352fc1e651300138b7f5cd431dac11935e54639f8c8b3f87fa9ea6937e6a07a"""," ""py.venus_stealer"""," ""None"""," ""95""",2026-07-18 19:41:32," """""," ""0"""
+"""b2ab8825b84e6f0209cf713dcf7156c93ae82f37a6d9f0ca9072e228825c8d63"""," ""win.acr_stealer"""," ""None"""," ""95""",2026-07-18 19:41:31," """""," ""0"""
+"""31cf473bb93abef0760d4992d45bafcd936edb7c26193c175f8491f8ffaef0e0"""," ""win.acr_stealer"""," ""None"""," ""95""",2026-07-18 19:41:30," """""," ""0"""
+"""7d936e44f50cafb14afdc8ea652905f611db0f04f10da8feb5d5ba74bcbf5a22"""," ""elf.kuiper"""," ""None"""," ""95""",2026-07-18 19:41:29," """""," ""0"""
+"""555fd5790046add4e994dfe655efe0ced7b31b73849793bd81bcff983f022013"""," ""win.vidar"""," ""None"""," ""95""",2026-07-18 19:41:28," """""," ""0"""
+"""b473b09292b0e9ed4d4089344f77a12465242cf69db10768c93ba6cd40cfe770"""," ""win.vidar"""," ""None"""," ""95""",2026-07-18 19:41:27," """""," ""0"""
+"""5cdb6a3810a5148518252110e51655297a6a9832f254f65f804b5a6fad1e3259"""," ""elf.kuiper"""," ""None"""," ""95""",2026-07-18 19:41:26," """""," ""0"""
+"""f2b9739fe3aced2d2074db022b5d1e23003b44fbc24413f3bd3298f1623c6665"""," ""win.salatstealer"""," ""None"""," ""95""",2026-07-18 19:41:25," """""," ""0"""
+"""16a4a7b5a478ce3dd732b318f7dfadbd337ab51d804a0a261623ea941417fd5f"""," ""win.salatstealer"""," ""None"""," ""95""",2026-07-18 19:41:24," """""," ""0"""
+"""72344facd02bea9007c59c2a67bd96d521838b566298caf0f80c6ceecf93520f"""," ""win.hijackloader"""," ""DOILoader","SHADOWLADDER""",2026-07-18 19:41:24,IDAT Loader," ""False"""
+"""9264d342f207b8a9233c393b864c26617385071283b030ec6b6976069d91a587"""," ""py.venus_stealer"""," ""None"""," ""95""",2026-07-18 19:41:23," """""," ""0"""
+"""6aa982f7c6167752e8f58083dc5f1c11ff0aa63b3c3d2e192009cce2cef84ee0"""," ""win.ghost_rat"""," ""Farfli"," ""Ghost RAT""",2026-07-18 19:41:22,"PCRat"""," ""None"""
+"""c1d7ce9290ee9a148ea430871f900a44511b8db374dedcb4d417072b54e48d07"""," ""win.nanocore"""," ""Nancrat"," """"",2026-07-18 19:41:21," ""Nanocore RAT"""," ""None"""
 """7073018596b174f584299d5152cf90f89a1f4e3bf072b778fc3342fda5c82f4f"""," ""win.vidar"""," ""None"""," ""95""",2026-07-17 22:51:04," """""," ""0"""
 """8ca5069041a3de3536f0be3b8f1b9044a0dfffd0295d7495cbd57d6a312af0b5"""," ""win.vidar"""," ""None"""," ""95""",2026-07-17 22:51:02," """""," ""0"""
 """2fdcac512cef51c5b0d8a4fb23c278b973d20978aab5d463abbe131dd04879a0"""," ""win.vidar"""," ""None"""," ""95""",2026-07-17 22:51:01," """""," ""0"""
@@ -11,15 +33,3 @@ sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
 """4caa645feeb04cad5af75a3c5024076e99560678584c84ae07950c9c106d2af0"""," ""win.wannacryptor"""," ""Wana Decrypt0r","Wcry""",2026-07-17 22:50:42,WannaCrypt," ""False"""
 """938a9136aa1f128c6462899bac6ab7a6a7cfd3a1bcc79fb38bfb207032d8515b"""," ""win.asyncrat"""," ""None"""," ""95""",2026-07-17 22:50:41," """""," ""0"""
 """1574e58fb3f049dd10d6923ca6b36bc440160cfdf57407328191ada99d3e1a89"""," ""win.wannacryptor"""," ""Wana Decrypt0r","Wcry""",2026-07-17 22:50:40,WannaCrypt," ""False"""
-"""0e8553970999b60c3a0a2637e0c282ca52b33d3e3ae88c99b6fa426bddc0075d"""," ""win.ghost_rat"""," ""Farfli"," ""Ghost RAT""",2026-07-16 19:26:25,"PCRat"""," ""None"""
-"""e6d51d45edea7591b826b2d703c20a426fffa27a022c0156916ae9c35245bd07"""," ""win.asyncrat"""," ""None"""," ""95""",2026-07-16 19:26:24," """""," ""0"""
-"""04bc0dbf904d347bfa0b064bb436650fad0583b550dbd9450c8d00f4cb5a3b1b"""," ""win.valley_rat"""," ""Winos"""," ""95""",2026-07-16 19:26:22," """""," ""0"""
-"""551854f430801e8352f6562a48077cb04f399cdc505b42f0daaa3ad61d0e9f62"""," ""win.valley_rat"""," ""Winos"""," ""95""",2026-07-16 19:26:21," """""," ""0"""
-"""eee7db42470f6c58dc1e696ee937e87bd72f0cabe8df566021a79880d288e370"""," ""win.valley_rat"""," ""Winos"""," ""95""",2026-07-16 19:26:20," """""," ""0"""
-"""9a0cea11f75f63bbff8d0cea420787da972e78d8eb3baa14cd575f55bde369d8"""," ""win.salatstealer"""," ""None"""," ""95""",2026-07-16 19:26:19," """""," ""0"""
-"""68c9207a1e4e703b897300fc6c21cf0472549b352d80a64259e21ed4fdfe63a4"""," ""win.darktortilla"""," ""None"""," ""95""",2026-07-16 19:26:18," """""," ""0"""
-"""a129de4fd4f1374a292bd8964df30c9e82c99bac680c4d36d6890fbf30ffac1c"""," ""py.invisibleferret"""," ""None"""," ""90""",2026-07-16 04:25:23," """"",DPRK
-"""683a1607808f49446191d775d181ec9cccd1d629fba76e4d416fa54d1cf42630"""," ""py.invisibleferret"""," ""None"""," ""90""",2026-07-16 04:25:23," """"",DPRK
-"""cd3b606d31c9d3c2ee972916f8de9a403caf00f00698fd6b9acece6ff30647c6"""," ""py.invisibleferret"""," ""None"""," ""90""",2026-07-16 04:25:22," """"",DPRK
-"""b34aa84e8b4ad57d773fab6cbd7c40cda65f5f17c566cbd726ce3edcd04255b1"""," ""py.invisibleferret"""," ""None"""," ""90""",2026-07-16 04:25:21," """"",DPRK
-"""02e6fbf7319629a352755bded9ec28dfdaffc0affb7c1a7de9a1b3b69bd91de5"""," ""py.invisibleferret"""," ""None"""," ""90""",2026-07-16 04:25:20," """"",DPRK
