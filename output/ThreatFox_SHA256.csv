@@ -1,4 +1,10 @@
 sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
+"""ff554ac66a13a1862b632d879e2c199a571a5b0fdc00e77fcad78c0d04d2c344"""," ""js.clearfake"""," ""None"""," ""90""",2026-08-05 11:58:42," """"",ClickFix
+"""9048c4f05b904a6431f762dc0e49e6fd1a1a8ffa948f6ceed24e4387974d3d9c"""," ""win.vidar"""," ""None"""," ""75""",2026-08-05 11:20:24," """""," ""1"""
+"""351abe0ae9039c65edba285e72e899376bbbb4e15df92206d1228ca987508032"""," ""win.vidar"""," ""None"""," ""75""",2026-08-05 11:20:23," """""," ""1"""
+"""e89be61054b13216099ac57e5539b357dee125a3f89b6084b49230e1cfb923ec"""," ""js.clearfake"""," ""None"""," ""90""",2026-08-05 09:48:42," """"",ClickFix
+"""4c48cbbd55ff2b63a1fca862b8bb8ff00eec90050b2a2608140bbb3b2ad03f54"""," ""unknown"""," ""None"""," ""100""",2026-08-05 06:37:48," """"",macos
+"""04b8d6f7158689a311b22200c4c0fb5186a6751a422b5510b5a5fbf1c2a9cd5f"""," ""unknown"""," ""None"""," ""100""",2026-08-05 06:37:48," """"",macos
 """b7b1cf77eccf7fab42d83f57facdb1105d51050295a044ecdf75cc8280679788"""," ""win.coinminer"""," ""None"""," ""95""",2026-08-04 16:48:06," """""," ""0"""
 """875630fd7cae532e3700bec48bdd1c51ba7f133a595d4a62b94733f54073c62e"""," ""win.valley_rat"""," ""Winos"""," ""95""",2026-08-04 16:48:05," """""," ""0"""
 """1ab82089b52096ef768066cc619f1774801834221e22480411afa09e253461b4"""," ""win.valley_rat"""," ""Winos"""," ""95""",2026-08-04 16:48:04," """""," ""0"""
