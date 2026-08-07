@@ -1,32 +1,10 @@
 sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
+"""447ead614a3eadc8c5c769ca18947a03865dedfc8e9eb633548ffa3d7e877c7a"""," ""win.revstealer"""," ""None"""," ""75""",2026-08-06 05:10:30," """"",msi
+"""3193e4322946e299107786cb6810a3c179879d4b7362250e488c69fd834d4eda"""," ""unknown"""," ""None"""," ""75""",2026-08-06 05:10:25," """"",dns-c2
+"""0f13b40dc73d7a0f46448999cb90db3dae68826c9616bf14c92268d210845b02"""," ""unknown"""," ""None"""," ""75""",2026-08-06 05:10:24," """"",dns-c2
 """ff554ac66a13a1862b632d879e2c199a571a5b0fdc00e77fcad78c0d04d2c344"""," ""js.clearfake"""," ""None"""," ""90""",2026-08-05 11:58:42," """"",ClickFix
 """9048c4f05b904a6431f762dc0e49e6fd1a1a8ffa948f6ceed24e4387974d3d9c"""," ""win.vidar"""," ""None"""," ""75""",2026-08-05 11:20:24," """""," ""1"""
 """351abe0ae9039c65edba285e72e899376bbbb4e15df92206d1228ca987508032"""," ""win.vidar"""," ""None"""," ""75""",2026-08-05 11:20:23," """""," ""1"""
 """e89be61054b13216099ac57e5539b357dee125a3f89b6084b49230e1cfb923ec"""," ""js.clearfake"""," ""None"""," ""90""",2026-08-05 09:48:42," """"",ClickFix
-"""4c48cbbd55ff2b63a1fca862b8bb8ff00eec90050b2a2608140bbb3b2ad03f54"""," ""unknown"""," ""None"""," ""100""",2026-08-05 06:37:48," """"",macos
 """04b8d6f7158689a311b22200c4c0fb5186a6751a422b5510b5a5fbf1c2a9cd5f"""," ""unknown"""," ""None"""," ""100""",2026-08-05 06:37:48," """"",macos
-"""b7b1cf77eccf7fab42d83f57facdb1105d51050295a044ecdf75cc8280679788"""," ""win.coinminer"""," ""None"""," ""95""",2026-08-04 16:48:06," """""," ""0"""
-"""875630fd7cae532e3700bec48bdd1c51ba7f133a595d4a62b94733f54073c62e"""," ""win.valley_rat"""," ""Winos"""," ""95""",2026-08-04 16:48:05," """""," ""0"""
-"""1ab82089b52096ef768066cc619f1774801834221e22480411afa09e253461b4"""," ""win.valley_rat"""," ""Winos"""," ""95""",2026-08-04 16:48:04," """""," ""0"""
-"""675cf32ce5553a1f2a9fa1b65014abc30df6a93f6ace616878dc534fc238c77a"""," ""win.wannacryptor"""," ""Wana Decrypt0r","Wcry""",2026-08-04 16:48:03,WannaCrypt," ""False"""
-"""7b1da0a6dc4eb9fc73d0e810677c2740cad5a1320fc5c9af00babf553ca2cebc"""," ""win.valley_rat"""," ""Winos"""," ""95""",2026-08-04 16:48:01," """""," ""0"""
-"""26ee4c6ab5c6e6950273cbfc795b207c156ef4ce07acc3f364f9b98364588082"""," ""win.tofsee"""," ""Gheg"""," ""95""",2026-08-04 16:48:00," """""," ""0"""
-"""fdd20fd8b01a168bc84fca30eb3c29176a770f173318368abd6ca09d37901480"""," ""win.pslogger"""," ""ECCENTRICBANDWAGON"""," ""95""",2026-08-04 16:47:58," """""," ""0"""
-"""0d29741bb7161b12319909ecbbfb6029b08fe80c98fc8a93658ea14fededdfd9"""," ""win.terra_stealer"""," ""StealerOne"," ""TerraStealer""",2026-08-04 16:47:57,"Taurus Loader Stealer Module"""," ""None"""
-"""bc7d5b9ae130f1b9c5a41517d56d9213950ef7f9b1ed78d9f33a4b2797d009e1"""," ""win.terra_stealer"""," ""StealerOne"," ""TerraStealer""",2026-08-04 16:47:56,"Taurus Loader Stealer Module"""," ""None"""
-"""694483cdead4d874dd33b0a7c11d6c5cbdd1989352c3f7376a71855ad0147dee"""," ""win.blustealer"""," ""a310logger"""," ""95""",2026-08-04 16:47:55," """""," ""0"""
-"""f1f304a6be3928d7c8ee7e65e23b4306da4d83c5ff0bb3791ef44afe2506e2f2"""," ""elf.kuiper"""," ""None"""," ""95""",2026-08-04 16:47:54," """""," ""0"""
-"""ea86029605e9288a9320c3ca83f30e1e63d06936939a3039880f45770ea83831"""," ""win.xworm"""," ""None"""," ""95""",2026-08-04 16:47:52," """""," ""0"""
-"""b2b6c906f355c11945f84134f27559acce2247ae2214d544734bddf97e9ee22c"""," ""elf.kuiper"""," ""None"""," ""95""",2026-08-04 16:47:51," """""," ""0"""
-"""10b6a8f017ecb14dfde4e8738415ce5feb3e617715f345c30549cf4f4c3d3fa1"""," ""py.venus_stealer"""," ""None"""," ""95""",2026-08-04 16:47:50," """""," ""0"""
-"""98c3283cac92544cf7d2237d4a457181ae5a2e3983bb17728df8b81d067c8e4a"""," ""elf.kuiper"""," ""None"""," ""95""",2026-08-04 16:47:49," """""," ""0"""
-"""b7fd8d6dddf0e4321dd5303ecd50d4a9d833ab4a80e0a01face12116363a8103"""," ""win.vidar"""," ""None"""," ""95""",2026-08-04 16:47:48," """""," ""0"""
-"""4b3d9ff0f3eef2684879bea47fb066a259bb2cc18bb0ab0c2f0c069e732dd5e1"""," ""win.coinminer"""," ""None"""," ""95""",2026-08-04 16:47:47," """""," ""0"""
-"""53356890a6e72a151d869823f410ecf681731868d241c07ff02d51d6436c3dfd"""," ""jar.crossrat"""," ""Trupto"""," ""95""",2026-08-04 16:47:46," """""," ""0"""
-"""033eb7a351b65d9aa4e6a19a0be58ea87f579671fe54c3725129589f834c2d06"""," ""jar.crossrat"""," ""Trupto"""," ""95""",2026-08-04 16:47:45," """""," ""0"""
-"""c0654ca707fd45d9563f46dbd51fc03b75f5a05ec0ffc26816bcedcd13520b31"""," ""win.phantom_stealer"""," ""None"""," ""95""",2026-08-04 16:47:44," """""," ""0"""
-"""438a199c60026b897fdda4da23d69e103cad34864a070d1b7659cf462628505f"""," ""win.formbook"""," ""win.xloader"""," ""95""",2026-08-04 16:47:43," """""," ""0"""
-"""57e5da8f7c404c1754a866c1f8d51e31f9f21525c17e586ef48eb2a62fa4ef20"""," ""win.netwire"""," ""NetWeird"," ""NetWire RC""",2026-08-04 16:47:42,"Recam"""," ""None"""
-"""a5508bc966bb8d4e0a4275dd96347d84ceecbdb1679fb27ddb4f568fb083faa2"""," ""win.netwire"""," ""NetWeird"," ""NetWire RC""",2026-08-04 16:47:41,"Recam"""," ""None"""
-"""0b74552f66e1fb88f401e0c27c9dd224219bc3698a556b8827c392cce5a1bbd3"""," ""win.netwire"""," ""NetWeird"," ""NetWire RC""",2026-08-04 16:47:39,"Recam"""," ""None"""
-"""833b709b93b80919dc06d8b0619de8919df283060dd9fdb9da6bd4d9b778ca7a"""," ""win.xworm"""," ""None"""," ""95""",2026-08-04 16:47:38," """""," ""0"""
+"""4c48cbbd55ff2b63a1fca862b8bb8ff00eec90050b2a2608140bbb3b2ad03f54"""," ""unknown"""," ""None"""," ""100""",2026-08-05 06:37:48," """"",macos
