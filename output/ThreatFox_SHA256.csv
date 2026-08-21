@@ -1,4 +1,6 @@
 sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
+"""c1c6011ad508835c5f06c76f8957c7ac5dd6525ff5f85b95e50e56cf0b594448"""," ""elf.mirai"""," ""Katana"""," ""80""",2026-08-20 13:15:00," """"","iot"""
+"""33215eef229fa578661e017862dbca09c9d9d0a2d19ff56e0622604c804c7ebe"""," ""win.cobalt_strike"""," ""Agentemis","cobeacon""",2026-08-20 08:41:00,CobaltStrike," ""False"""
 """ccdb7e8fe4ec5630bee8b7efe1ca7de0ad846aeb440b52acbb8222f2d647702f"""," ""win.vipkeylogger"""," ""None"""," ""95""",2026-08-19 11:19:18," """""," ""0"""
 """34bae751324dcb623efb9c061f097d715b1d2d93587e9b0ea59017a9e5778f6e"""," ""win.asyncrat"""," ""None"""," ""95""",2026-08-19 11:19:17," """""," ""0"""
 """3b0e67c8384659a3a63ac9706bad135985189e6909712e45d89dae934d9c02c9"""," ""win.wannacryptor"""," ""Wana Decrypt0r","Wcry""",2026-08-19 11:19:15,WannaCrypt," ""False"""
@@ -27,8 +29,8 @@ sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
 """9e000b451c872404804000e33ca7ca8ad3b5f345f876a0500646c67a98453954"""," ""jar.crossrat"""," ""Trupto"""," ""95""",2026-08-19 11:18:46," """""," ""0"""
 """6e642927debe1863e1821a1cd1f69646fad9ab981c798817bc72f3025bd72a82"""," ""py.venus_stealer"""," ""None"""," ""95""",2026-08-19 11:18:45," """""," ""0"""
 """e0b92c6a29b0f98e0bd3b348e4722b9e95eb66c3ca949207ebbca7ac889eb987"""," ""py.venus_stealer"""," ""None"""," ""95""",2026-08-19 11:18:43," """""," ""0"""
-"""890ff801a3b6b69ff4de8585ae93814b9d5b6ec479cc694a8221292954801d66"""," ""py.venus_stealer"""," ""None"""," ""95""",2026-08-19 11:18:41," """""," ""0"""
 """c3797af4b5fddb4175fe232c8c737abd54771dc72b130e8f98ea63900fd5c961"""," ""py.venus_stealer"""," ""None"""," ""95""",2026-08-19 11:18:41," """""," ""0"""
+"""890ff801a3b6b69ff4de8585ae93814b9d5b6ec479cc694a8221292954801d66"""," ""py.venus_stealer"""," ""None"""," ""95""",2026-08-19 11:18:41," """""," ""0"""
 """357931447e7411de3c2d5822e5c8255b25ec52c96dab3a058abd3dd420d1e864"""," ""py.venus_stealer"""," ""None"""," ""95""",2026-08-19 11:18:39," """""," ""0"""
 """b4912f51ecd5dc4cb9c0380ca4486a1778189bd4e1a3a4e19a10c3593502dc0b"""," ""py.venus_stealer"""," ""None"""," ""95""",2026-08-19 11:18:38," """""," ""0"""
 """b3e1379e763c84c598fbf49006b46b6df57499efbaf6d018fdc5b236c756cdd8"""," ""py.venus_stealer"""," ""None"""," ""95""",2026-08-19 11:18:37," """""," ""0"""
