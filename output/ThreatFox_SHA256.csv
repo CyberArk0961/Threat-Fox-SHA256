@@ -1,4 +1,185 @@
 sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
+"""a4b1e1a980e7d870df771f0f9e15a456dce9632ea95fd01a3a9d3ce53adc0b9b"""," ""win.smartloader"""," ""None"""," ""85""",2026-10-11 02:12:39," """"",loader
+"""d14856969df860a679ad1060c7d2a81dd60180d0f5fd22988a4c09de0a6de11b"""," ""win.smartloader"""," ""None"""," ""85""",2026-10-10 22:12:51," """"",loader
+"""bafa2a82ec1bf371ef0c28e94730091c43302f50492a72fcc429403ba0889f49"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 22:12:50," """"",Mirai
+"""ee08d74477ee187ac5694e07f6deace4f1cec4b8955468df9cc9059ee20bc63f"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 22:12:49," """"","Mirai"""
+"""e81982006eb1a6643b10b103c8e94b5ee63d6ef293cc21d53a2b3ba9a93ba0fa"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 22:12:48," """"","Mirai"""
+"""972a8e1eb9cfa81b96888ba74120917eed6a2d9c9b77c4de8105026e4fc04787"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 22:12:47," """"","Mirai"""
+"""f4e87418b810b69cf43ef33d876c7b119718f15a3cbc8562e344c32a74e2c26c"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 22:12:46," """"","Mirai"""
+"""cb4c28fdc8a1bc5671a48cd81c5aac5438d64001ca1ad2a2ef6b133d3c79493a"""," ""elf.mirai"""," ""Katana"""," ""95""",2026-10-10 22:12:44," """"","Mirai"""
+"""cbdb650d0d991d2102d4bbe24130c63130908c0e50ee381c4c9ca495d4cdf08c"""," ""elf.mirai"""," ""Katana"""," ""95""",2026-10-10 22:12:43," """"","Mirai"""
+"""d61419108785340e5b48fb4ef5fec85f46bbeaa86636bdfa9706b7df16a2e0f4"""," ""win.deltastealer"""," ""None"""," ""95""",2026-10-10 21:09:19," """""," ""0"""
+"""a79c713bfb2f0ca6c6eed68466723a5d24d2fcead39b7d2aeff262083909efd0"""," ""win.ghost_rat"""," ""Farfli"," ""Ghost RAT""",2026-10-10 21:09:14,"PCRat"""," ""None"""
+"""dfc1236ffc512053310826982da37c5fe9cf2fd73847e2c9f0fdc52497de5066"""," ""win.netwire"""," ""NetWeird"," ""NetWire RC""",2026-10-10 21:09:13,"Recam"""," ""None"""
+"""cf03c5920933f4c0f79c71e52edb28d238bb8396e71558ecc9b33a595fc0a9ae"""," ""win.coinminer"""," ""None"""," ""95""",2026-10-10 21:09:12," """""," ""0"""
+"""2f70cfcee962a80007a5f3b6441e5bb0a25ac7398cfcca5ab87caf65c05e9e71"""," ""win.vidar"""," ""None"""," ""95""",2026-10-10 21:09:10," """""," ""0"""
+"""489109095909eb9b3d60db1a01178080073b068e535735a026d351d446bef1d2"""," ""py.stealler"""," ""None"""," ""95""",2026-10-10 21:09:09," """""," ""0"""
+"""950eb350edf0887058c64221846564f054d8ace58b504abd6b97ba3ce45c66e2"""," ""win.quantloader"""," ""None"""," ""95""",2026-10-10 21:09:08," """""," ""0"""
+"""9fe84328554e02c9aae80f9fda0fb6c06e8b16bde91f6070a991a619bfc61238"""," ""py.venus_stealer"""," ""None"""," ""95""",2026-10-10 21:09:08," """""," ""0"""
+"""d2b5f4ff9ccf98b4ebff54c8bf85e242bcf2b6387c10c451fe8c21d73c5d24fc"""," ""win.moriagent"""," ""None"""," ""95""",2026-10-10 21:09:07," """""," ""0"""
+"""45b8c5064a92c60ea747e3bdd7dbe201fe8577942c048f1e942e9237e3b9a6ec"""," ""win.gcleaner"""," ""None"""," ""95""",2026-10-10 21:09:06," """""," ""0"""
+"""01805651d30a44df6d53dd07e5813e6be2a9b496f9568da8ab4d443e9db7bde6"""," ""win.tinymet"""," ""TiniMet"""," ""95""",2026-10-10 21:09:04," """""," ""0"""
+"""11862191bdcfc8bb03d5e7e1f72a1db133eaaca9344916a6c79c3517f7aba06d"""," ""jar.crossrat"""," ""Trupto"""," ""95""",2026-10-10 21:08:41," """""," ""0"""
+"""5528b5e88656593ef5c680980621855ef84389efd06fb441a01ff3b48d8bdeb9"""," ""win.purecrypter"""," ""None"""," ""95""",2026-10-10 21:08:35," """""," ""0"""
+"""4dbc2a3dcbd0a5a711f45789a4367cd959fc0dcc37ddc1d6e335cb98925aa688"""," ""win.vidar"""," ""None"""," ""95""",2026-10-10 21:08:33," """""," ""0"""
+"""b6ea43e7f0371f5278f7d56dbdea7da203fe51976f5ea3751aff0598d44d8921"""," ""win.vidar"""," ""None"""," ""95""",2026-10-10 21:08:32," """""," ""0"""
+"""ac97ff69a8b5da0b04c14ed85945931c6218823d829192f2d7bcfa022b6b65b9"""," ""win.vidar"""," ""None"""," ""95""",2026-10-10 21:08:31," """""," ""0"""
+"""ad10f4c694e060e8cf9066c8156e03c3eef0a413c125c51e64baceca732c4f31"""," ""win.vidar"""," ""None"""," ""95""",2026-10-10 21:08:30," """""," ""0"""
+"""79ada3e5bddf5a6ffb1977e4e0f50a13512a02e2ba786b96b86190498d175873"""," ""win.vshell"""," ""None"""," ""95""",2026-10-10 21:08:29," """""," ""0"""
+"""77415566cdc9a0f0d16347961f5eacca934a73cb4e00c834b782962e9de8d417"""," ""jar.crossrat"""," ""Trupto"""," ""95""",2026-10-10 21:08:28," """""," ""0"""
+"""26acdf091d7a9bcf72b056561bc69221de623d43097499a777f59cab859b88a1"""," ""win.quasar_rat"""," ""CinaRAT"," ""Quasar RAT""",2026-10-10 21:08:27,"Yggdrasil"""," ""None"""
+"""d5102a93f27c365d5a1d57e82d0d4571d558ff846c50efd7896905fc736148ea"""," ""win.quasar_rat"""," ""CinaRAT"," ""Quasar RAT""",2026-10-10 21:08:26,"Yggdrasil"""," ""None"""
+"""cfbd859dc82f8bd3af2c90598a9d46145f6dc4b3663de9e5195812519ab09948"""," ""win.netwire"""," ""NetWeird"," ""NetWire RC""",2026-10-10 21:08:25,"Recam"""," ""None"""
+"""9b4bfdddc2a1a59cf45915fd20f183afb6a255575bb646441d821622600cd223"""," ""win.nanocore"""," ""Nancrat"," """"",2026-10-10 21:08:25," ""Nanocore RAT"""," ""None"""
+"""10e851bd7fc8e17b390cb8ccedb4becbe1008ff37e6b327c761b2572f42ea5ab"""," ""win.netwire"""," ""NetWeird"," ""NetWire RC""",2026-10-10 21:08:24,"Recam"""," ""None"""
+"""447e7d5ed5e5bae4d4d34057f2ad9a580583bf363c18befd6c28abec57c0490b"""," ""osx.orat"""," ""None"""," ""95""",2026-10-10 21:08:23," """""," ""0"""
+"""dec381ad98ee824cd95313883bc4a17244e8c3a4f37de3b0354fb9f636b2134b"""," ""win.wannacryptor"""," ""Wana Decrypt0r","Wcry""",2026-10-10 21:08:22,WannaCrypt," ""False"""
+"""e58536bb0fb12bfe4253f44f46f4aedbdaa37d195c31d1976e8cb78e925f1d76"""," ""win.wannacryptor"""," ""Wana Decrypt0r","Wcry""",2026-10-10 21:08:21,WannaCrypt," ""False"""
+"""e9f75925a4da2748957701e7a8b25b0b9e724fd86a7d603d099d918f3b34e19a"""," ""win.wannacryptor"""," ""Wana Decrypt0r","Wcry""",2026-10-10 21:08:20,WannaCrypt," ""False"""
+"""e7103164b532a7e095f652e9f6a93a9e929eae88a4022e34c5eed980c65c3d34"""," ""win.recordbreaker"""," ""None"""," ""95""",2026-10-10 21:08:19," """""," ""0"""
+"""bc4585a4cce1a946b4f83a887c627af6b4e6b45e1daa493cf3f117e180250813"""," ""win.valley_rat"""," ""Winos"""," ""95""",2026-10-10 21:08:18," """""," ""0"""
+"""44cd0e97316c4ed137b1612e5b4d56f7caaa0250d3badbb344927671a6979714"""," ""win.ghost_rat"""," ""Farfli"," ""Ghost RAT""",2026-10-10 21:08:17,"PCRat"""," ""None"""
+"""87d8778250a4515ed73221ba47fb861ac9fb0303c49045dd9f5cc6954021477a"""," ""win.coinminer"""," ""None"""," ""95""",2026-10-10 21:08:16," """""," ""0"""
+"""242594ab43c445a116b0fd835a811696c179a5cbffbf0df8ca4a0e99c0b5682f"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 20:12:50," """"","Mirai"""
+"""b7e704d90e6281d4ef4b0fcdbb06bf3733435e7a3d473668713149bae76f2abe"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 20:12:49," """"","Mirai"""
+"""17e6710b264fd0c0b9b90457359c48bee27befd92132637e0ce4551218cc54c4"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 20:12:48," """"","Mirai"""
+"""3568368d5a6a3edb7abd622340f9c87a73a2ac143d30e236ce7bd5b27a91e3bb"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 20:12:47," """"","Mirai"""
+"""82c3911a4b2a559118471c87cfbbf38211020c42f3d77c77a6bfb9a2c9012b46"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 20:12:46," """"","Mirai"""
+"""d3e89dc4da146c03e18f4cc93ffd9d1738ff73be1876900ee44c0e7be416382e"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 20:12:45," """"",Gafgyt
+"""bd9ac14ea870f3659a3e99718e00aa118b69e736fa783fd196737aa80ae205eb"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 20:12:44," """"",Gafgyt
+"""2631e628a204008b27b5956b90d40d66799d663731331ab09b3f0bb77c645100"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 20:12:43," """"",Gafgyt
+"""ede4c9a228a124b0735b72fffe9121596c184b676bdc298dfe4ad5b77421cd12"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 20:12:42," """"",Gafgyt
+"""f602c9b0ff36b90c47d65c788200c7d62e898717f1c041848c68e5a07c79ccce"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 20:12:41," """"","Mirai"""
+"""7bdb2edff669a7dc719ba30b25d350513b463a19ea0409721f6f83bdf41af795"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 20:12:40," """"",Gafgyt
+"""1f7bd959e17b09986e17291aae498a251dab8927f14d38045729f600f29ab3b4"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 20:12:38," """"",Gafgyt
+"""fc07fe31dfb51b568db664cf84653e37d223ad7587f6a65934435a3762d308d5"""," ""elf.mirai"""," ""Katana"""," ""95""",2026-10-10 20:12:37," """"","Mirai"""
+"""e23723b0b476a2b6d8f8ac544e4872e0cb2c6beec35d735bc8d2296dc37c6387"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 18:12:54," """"","Mirai"""
+"""ffd88db69e131045a5dafd51d65b0ef88a59c032d4e0d79a85bf9c45566510e8"""," ""osx.amos"""," ""Atomic macOS Stealer"""," ""100""",2026-10-10 16:39:16," """"",ClickFix
+"""386ecada87d6348a92eee0a6126c5a2596d14e9362f35ae01857813ffa6ae35f"""," ""osx.amos"""," ""Atomic macOS Stealer"""," ""100""",2026-10-10 16:39:15," """"",ClickFix
+"""4fa6d321714717df4ad7b139ac074b1cac5f4853cc4bfe3f3ca328370cb577d4"""," ""osx.amos"""," ""Atomic macOS Stealer"""," ""100""",2026-10-10 16:39:13," """"",ClickFix
+"""9aace0b5aeeb83147b28efd5aebd8c51841afdd17b8f8a73a34dfc1e9d9a4fad"""," ""osx.amos"""," ""Atomic macOS Stealer"""," ""100""",2026-10-10 16:39:12," """"",ClickFix
+"""d815901f0e6174e83fcedfd45ac47f7459bcc8ea63364185b4bfd9daa3e7d00c"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 15:12:44," """"",Mirai
+"""53d27245ee5e9928482f9ac7bb9b54181586eaea2b4124590a14d8e41fcf088c"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 15:12:42," """"","Mirai"""
+"""005486bf8975b090856d31bc66ee45c33880816880a9c92a31558983f2dc4561"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 15:12:41," """"",Mirai
+"""75dae106cf59fbab6119d195ca38a4fffdd3128b1f26a23b088d47f4765b5435"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 15:12:40," """"",Mirai
+"""d683f70abc03b4f48cce61260d8302b04b0a5551a9c6e1e8b7c4602cd9ac5811"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 15:12:39," """"",Mirai
+"""fc0c410479d64f68841ffe2c4cc32e396962ad114853de913be74f576714e1bb"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 15:12:38," """"",Mirai
+"""2dd6e9a64ffdf45168ada584d15e6304f0bc10e9e8718f88fe4bfdd97464a4bd"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 15:12:36," """"",Mirai
+"""63e726bee554a09ad7de1f8303928850b94174a8e8828c224b9d9c54dc1b2656"""," ""unknown_stealer"""," ""None"""," ""90""",2026-10-10 14:12:57," """"",RustyStealer
+"""165c77e0cb3fc6551babc2de99e0c5182fb86e20ac3354da7ae980b580721049"""," ""unknown_rat"""," ""None"""," ""90""",2026-10-10 14:12:56," """"",exe
+"""6c2446f06869a50df82165dbbc78527186cc70e8ebb50c48634de0ab9057c00a"""," ""unknown_loader"""," ""None"""," ""85""",2026-10-10 14:12:54," """"","loader"""
+"""0a5c86ee3956ef4bf3349adaef85208809b41de2f98aefd7956645e7e9ea5342"""," ""unknown_loader"""," ""None"""," ""85""",2026-10-10 14:12:53," """"","loader"""
+"""6c977cac10245be0d1222fa444aafeed327e840a8864c7a37feb401ed51e7257"""," ""unknown_loader"""," ""None"""," ""85""",2026-10-10 14:12:52," """"","exe"""
+"""d68a9b3dcbe30b391315c02a65821c185280e00892d7e826ef12ffacafb2ee0c"""," ""unknown_loader"""," ""None"""," ""85""",2026-10-10 14:12:51," """"","exe"""
+"""3d397e1e5b35f998f85b35d884b2396c2cbd523388a5e9495b4c9f9c62d57fb7"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 14:12:50," """"","Mirai"""
+"""2d3c0d6305c349e8a520a40baa6fa330478488479a8af4743e3aee5e3426c426"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 14:12:49," """"","Mirai"""
+"""27e9b25c43479ff918ac19da04bdc0331c09de251f01c8d4cd23a84c9f4277c1"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 14:12:48," """"","Mirai"""
+"""9319b118f1abd335ebb460e1cde91bba4af3a814dfc21d27a23d1247be20fecd"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 14:12:47," """"","Mirai"""
+"""b2cc0c25c6f6e66a3d83689ec18847a9a021b92ca7d4be2cf1ebb9b5a6a49339"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 14:12:46," """"","Mirai"""
+"""07aa27b5b6dc45d0ef4eaa38283e88fe00aa1eef6fb8ed9a4e3ee2f75ef40f19"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 14:12:44," """"","Mirai"""
+"""e3ae43c1f29e8932d836d1c7ba9bacfc6c1977632647e4019b6a79f9eaf8ba52"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 14:12:43," """"","Mirai"""
+"""cb939ad413e0740dfd38dcc7cdb71ef23a65ca962bd56f838c31433edcca0ac0"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 14:12:42," """"","Mirai"""
+"""d4064e80e231492a03f77e78af609213cb269bb9b8147d111336f51c2e424bc6"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 14:12:41," """"","Mirai"""
+"""5d4583cb3669b39dd95f822f45bb1fad05f01d54c2127f8fb1c2c30793795dbe"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 14:12:40," """"","Mirai"""
+"""0f00c20fc657d1bd10f8974554dff3181fe06632adf5bbb4e80b6dda2c9ed8ce"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 14:12:39," """"","Mirai"""
+"""1ac5cdba55b0ad5e28e2f29494b47bd4a7e0f285aba40747cdb219b742ff7a8d"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 14:12:38," """"","Mirai"""
+"""f8e41136e3b1ef6daaff98f665139a528978bb375431014efd996de9ae79ec93"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 14:12:36," """"","Mirai"""
+"""76c3ad51a52899878a89cb49cbfc034aa810f837d893a8bff63dfa6af788f4ef"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 13:12:50," """"","Mirai"""
+"""43157db11bdb316ec68ec0127a26f3d48aea27b2d216261f2e71240307dd927c"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 13:12:49," """"","Mirai"""
+"""e3254bbae3cee001b0998d17002b61eadafc80cbb237cdb356f7bde956782fc2"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 13:12:48," """"","Mirai"""
+"""8536ba331695b95d2d590ef3c6bf878210ad9b8d69ec4b21e44e7bd21c06ad05"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 13:12:47," """"","Mirai"""
+"""0b4f59dcc4ba74918a9a093d9d56bb388cb48f586ebc51641383ecbf63a13211"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 13:12:46," """"","Mirai"""
+"""15ed3dbc8d91259c9afd897e7d21009123e7d715025198c26488c8e22db76c5c"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 13:12:45," """"","Mirai"""
+"""70fb96203061d20fde5c81e512a5177efacdf9922ab01d4ea8b23cc66a610a5e"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 13:12:44," """"","Mirai"""
+"""a14cbabe19c12b812b126f32573db3ae439cf0bb4a06e2b97119509bba264a36"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 13:12:43," """"","Mirai"""
+"""d61b49afa8bed6abcc3adea608d925777b640c6cc1c5659bf83503edcc76cb77"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 13:12:42," """"","Mirai"""
+"""6ea903e0ed2f2077e954335f247883cd0ff5343bcdccf1bb5bfb48b40b9c224a"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 13:12:41," """"","Mirai"""
+"""9a961874a9f871e6c494280a85d710cd5d374f33efbeba58c738a82eb61f4d3d"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 13:12:39," """"","Mirai"""
+"""f87a3f6bd5b29ccef54d8d32847993288c60289effe935519593aff5038eef0f"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 13:12:38," """"","Mirai"""
+"""1445f010323973c629ba695ba6778cc92bbd3ceaaf58fd9679c321ba5303181d"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 13:12:37," """"","Mirai"""
+"""8288bdeec418d3a1cfdcb726beb42751361b8ff55a458e03a1b27d7a6c9da522"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 13:12:36," """"","Mirai"""
+"""849d618e1c224d58cd269a06ded13047ab971ff611b254da4de414644069977b"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 13:12:35," """"","Mirai"""
+"""909c91bbe018d96d60c6b9a3b7cb29bd0a5bb733f9f72846b8edcb8a332d4b7f"""," ""win.smartloader"""," ""None"""," ""85""",2026-10-10 13:12:34," """"",loader
+"""76bd92cf89676f5ce2a48c5956c158382c9ee4a545261ce113f79ecde05ab5f7"""," ""osx.amos"""," ""Atomic macOS Stealer"""," ""100""",2026-10-10 13:01:31," """"",ClickFix
+"""6c0372b4924412776f036fed3946528ab7619c7001358d3d83700f3b88a3dc2d"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 12:12:55," """"","Mirai"""
+"""dd5af3cc7fd1a458953940f8df0155f125c4814eadcf8770491634680a28a91e"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 12:12:53," """"","Mirai"""
+"""e820bd6b1c285945dbd17b68ee9e2cbe063bed78578b8993e822b94ddb4a8597"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 12:12:52," """"","Mirai"""
+"""d28ce07924e6ba941cd2e753f665dd4ef89099032061bfd8bdb68cf2d8438ea0"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 12:12:51," """"","Mirai"""
+"""9d7bb99fcdfae5e7f2a1bb223a344e6c653f72bda831150df55759cf640e6a09"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 12:12:50," """"","Mirai"""
+"""e17694e74233d4653626eff495d326456afa97d895c08d5b77dd8f7f2e2d4602"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 12:12:49," """"","Mirai"""
+"""ec41a5461657d1815f375c87a3086cfd4e4f8f2714ef473deaeda63ef9120a88"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 12:12:49," """"","Mirai"""
+"""22d48454ebefd543596ab5121573ae67d810037202a5bfae70da7798f65139e3"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 12:12:48," """"","Mirai"""
+"""2ed4ad1d2d298895faa81e4cdc6420b0dd826c4ce5a5c71b7964af671a6fa55f"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 12:12:47," """"","Mirai"""
+"""6a074601e65d61b73d42d116bc9278643ac226565659022dc19a676c814c35d9"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 12:12:45," """"","Mirai"""
+"""f9415e5965082037a1730a778c4096f1af6e5f8d3c388cd867e6b999059ab392"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 12:12:44," """"","Mirai"""
+"""682d351b7f4a7135c850f520d59acc40bef82fa3dee9f602215fcf6483175e09"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 12:12:43," """"","Mirai"""
+"""a4108bc5a04f98e70f087bd983c60b85ea0afc53f6bad9902354830f078ee7ef"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 12:12:42," """"","Mirai"""
+"""72a262cab5f0d6302ca19a38043488138f354329adfef13fd525bb75110c4f9a"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 12:12:41," """"","Mirai"""
+"""17adcf38a8c12ef3e980b53c44f0fb17445aea140423df3b01e3fa3c2497bd1d"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 12:12:40," """"","Mirai"""
+"""20ff1370d995557990dcd72ed53d6b8e7b74f6e401031fa86c363d820cb440ea"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 12:12:39," """"","Mirai"""
+"""e89455525bb56b1f18857515bbf237a0a160033bdd95b8c41f1f4ee22e8936e7"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 12:12:38," """"","Mirai"""
+"""0c9b07412f1f6a3c1cead3f957b975ded1016aa0930d3be4e74e5e25ddd5226e"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 12:12:37," """"","Mirai"""
+"""fe62ef1d63982b97a87a01fb999773c6c490efbd37113d1bd494dac1e6fb095b"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 12:12:35," """"","Mirai"""
+"""be9569ababf86b08921c3cf070c8bcbd31f872daca43cb9c772163e04402b0eb"""," ""win.overlord"""," ""None"""," ""90""",2026-10-10 10:12:30," """"","OverlordRAT"""
+"""e3c4eab8fdd4782669a2101e8ead8fabf8f24f65da4099e31be43b4fc5c32658"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 09:12:35," """"","Mirai"""
+"""c680d68751452168707fb5235bacbcfe766bb34ad2b7d14f04c4746a14c1735a"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 09:12:34," """"","Mirai"""
+"""6d9bb3f2375a8f2e54ef154e7b6fd5e3d7763eb4cbd07fd742a6eafb2ccc0fea"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 08:12:39," """"","Mirai"""
+"""3363028cb9cebe5beaf8813beb1cb5f0f8879eebece9c370a6321c162f44d7f7"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 08:12:38," """"","Mirai"""
+"""7a58f0560aebb4c31ad6ead45c15d336a5e00598923f43e25a1a555e37f1b3a2"""," ""osx.amos"""," ""Atomic macOS Stealer"""," ""100""",2026-10-10 07:35:15," """"",ClickFix
+"""bdc441c351f890995e449883473762caabb7d3dd772ed863d1a59ec1a2403387"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 07:12:48," """"","Mirai"""
+"""88e2be8a45582e5b4922a131960eddc9aa7a767f194fa51bb3c0e4d11f8b8ccc"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 07:12:47," """"","Mirai"""
+"""9f84ae5cf59379509f11668525b107808adcc8b6f819fc3d00c8a4980a09b307"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 07:12:46," """"","Mirai"""
+"""4587c320988021e05d994f96901c6e91d47f9ab3c965a64b22dd14437b4bc23c"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 07:12:45," """"","Mirai"""
+"""037a8526c5b62cdae7552113e3e580dd47a90ca1f5c0fcca0aac8b7b07c1f835"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 07:12:44," """"","Mirai"""
+"""2e892431668abc0edfa63f56ec3558f8ab8db5ad57c2b27ccc2fe0a3273744f0"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 07:12:43," """"","Mirai"""
+"""1c8f9a57fe84029071cf4626ee34e3bd6e20e8c10dad4d0b45ae546ac5641485"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 07:12:42," """"","Mirai"""
+"""fbe985dafb80cd950c56f5e12a9e73494dab2952c096855873c1f4684fd8efce"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 07:12:41," """"","Mirai"""
+"""451ecec559498f05623d59743f1a56cb121b6b5cbb2ab79dc6290fdf4c0669cf"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 07:12:40," """"","Mirai"""
+"""f5810732a2cd17daf05855b29db87ee03b73f41d954a4c7f4244d8c4e766a119"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 07:12:39," """"","Mirai"""
+"""e2534f2b25928b9b258c0102184d7754fd8fc2341a0431f781b15a390bba147e"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 07:12:38," """"","Mirai"""
+"""962074ad9a128c3fad2a02fc9065dfe48b731b94c0e05f34e2e6a5ecffd2e7c9"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 07:12:37," """"","Mirai"""
+"""b80c4833fff96c8d87fc07b0e0e3f89ae007ae79e8bd09b482ff484fbc0f4b58"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 07:12:36," """"","Mirai"""
+"""825ab16aae47860282332000990d5566edcd04e8e63284723a53838d71b6a55d"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 07:12:35," """"","Mirai"""
+"""a7434d5503e489ae82e9735a1ba550154b281669b88dfdfe333db868c641cdf0"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 07:12:34," """"","Mirai"""
+"""774a4bd75698dfa1ad64c73afd37e1f92cca395aea12c5e931e21f61d6cc8c67"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 07:12:33," """"","Mirai"""
+"""603ea7cb6035de6c10c2d1cac0f1ab5355a96e60a7235eaecafc832ec9a5e29d"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 07:12:31," """"","Mirai"""
+"""99133b9c24de23c8843ceefdb58a8888a2713360a9f4d2f6d9ced0d6924174a7"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 07:12:30," """"","Mirai"""
+"""8eea5c63a95c5ba54e08af8162ed6b09dbb35493050f27396fd924fd3f8c3798"""," ""elf.mirai"""," ""Katana"""," ""100""",2026-10-10 07:12:29," """"","Mirai"""
+"""e6040ffde33fdbfd13583614e35b60038e5a461d31a1bf2d22dfc3506333391e"""," ""osx.amos"""," ""Atomic macOS Stealer"""," ""100""",2026-10-10 07:09:21," """"",ClickFix
+"""523db43eac031043521e0a8a7d0c30eb13d5bd66bb3096cec9be38a8895ea13e"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 06:12:33," """"","Mirai"""
+"""abb018512ef40ba5e9aca1ca6fccc4572de60eb23fc79ba798cdc549f63ac27b"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 06:12:31," """"","Mirai"""
+"""38474707724c5fdc9a4cba7a60797ce14e0cdaecd6f11b49acb12dddf8d3753c"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 06:12:30," """"","Mirai"""
+"""73ab4a2ffece356b303b7248f78c62fddf80300cdeb7e219cd178e0f09fbb920"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 06:12:29," """"",Mirai
+"""5a0da401ff83bb724aadb46aa91e877df6dc288dc82af68641a3acbaa1434c96"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 06:12:28," """"","Mirai"""
+"""1a09814dcd1a18ad86c3789658bcb515dc241e3bcee3444be7dd48cf8a846f74"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 06:12:27," """"","Mirai"""
+"""b3d283ad82c2328cb09a8f3dee94c3c4813cad98f7680554dec8122d1c32ea63"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 06:12:26," """"","Mirai"""
+"""6dfba6f8258418683002d77be91fba1abe8527baab12a1013e161bc394f959f8"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 06:12:25," """"","Mirai"""
+"""0dc6c8916d54de3bf5df5bba7c573cc1efd71d934716649cf93732babd09d24e"""," ""unknown_stealer"""," ""None"""," ""100""",2026-10-10 06:02:12," ""2026-10-09 20:40:14""",runelure
+"""a377cdd07136d9f6bd6e9cb23a5e7ab7d78dd7fccaa867d741286dc238135548"""," ""unknown_stealer"""," ""None"""," ""100""",2026-10-10 06:02:12," ""2026-10-09 20:40:14""",runelure
+"""b4b600bd109160520277af06caca40b121fa588ea0924f6c9f342b3e4ed0a2f5"""," ""unknown_stealer"""," ""None"""," ""100""",2026-10-10 06:02:11," """"",runelure
+"""49b5021a4be924b200b7049a77e78081d986362f571c0c30ec9eebd95bd14483"""," ""unknown_stealer"""," ""None"""," ""100""",2026-10-10 06:02:10," """"",runelure
+"""ad0c08a40934df311ba55d4cf17747cd748b6ac565d156e99c0f785b0388d19c"""," ""unknown_stealer"""," ""None"""," ""100""",2026-10-10 06:02:10," """"",runelure
+"""58d14743bfd7917e84c0dc423484c78eee18efe04c42f368933f5f87468b1acf"""," ""unknown_stealer"""," ""None"""," ""100""",2026-10-10 06:02:10," """"",runelure
+"""b65d1f2fb47de8bd278b685b7b787fee69b65232b678ac8721ca41896c7bf544"""," ""osx.amos"""," ""Atomic macOS Stealer"""," ""100""",2026-10-10 06:02:05," """"",ClickFix
+"""846cedfc657e8c62c59904fe0f4849a2de49ddd8b269b062863ba56322ba4b10"""," ""osx.amos"""," ""Atomic macOS Stealer"""," ""100""",2026-10-10 06:01:58," """"",ClickFix
+"""9e99b89d9c17fa8068cd214854e053f1f29e87f8e1a8f0dff4f3c52f60ea3b10"""," ""jar.microstealer"""," ""None"""," ""100""",2026-10-10 06:01:57," """"",java
+"""27015e5d3fb643438d1a0d3387b6e254085e9d3218023a3064612836d1226ed3"""," ""osx.amos"""," ""Atomic macOS Stealer"""," ""100""",2026-10-10 06:01:57," """"",ClickFix
+"""c54847abf0244aa9dbf6e84e6f38cafae01086a8f2f2c74a8c4ad12bdfd6c54f"""," ""osx.amos"""," ""Atomic macOS Stealer"""," ""100""",2026-10-10 06:01:55," """"",ClickFix
+"""3c276484058953ab0c4d6bffbe7be81f055c61da6291bd13fc5b0b25133c7ba2"""," ""osx.amos"""," ""Atomic macOS Stealer"""," ""100""",2026-10-10 06:01:48," """"",ClickFix
+"""5c57172cf372f16845fa1f232260c34386e8acb3dada5458b7b809873595b0ae"""," ""osx.amos"""," ""Atomic macOS Stealer"""," ""100""",2026-10-10 06:01:46," """"",ClickFix
+"""27871baf8b0b80105adaf134a90c39d968273bc7bb5f9ec8049d661e09332083"""," ""osx.amos"""," ""Atomic macOS Stealer"""," ""100""",2026-10-10 06:01:45," """"",ClickFix
+"""280e8ba4350911ec2908945abc8012332cd86d6bbb769bbe589f22de3aa639b8"""," ""osx.amos"""," ""Atomic macOS Stealer"""," ""100""",2026-10-10 06:01:43," """"",ClickFix
+"""4969607e53fb15d4681f663d521ea0e70f565ed83ffd1042e9c2f2d77a9f5112"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 05:12:31," """"","Mirai"""
+"""0203fcb09d396bed27adaf248ee33aca03c9e048bfd98555e966b30b122d426a"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 05:12:29," """"","Mirai"""
+"""90feb8a42116a8687589bcf05e1eb6ad645f55a777931b0436ea58c9e58a97cb"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 05:12:28," """"","Mirai"""
+"""487aa2dd15f26be8158d5440ea9496c3aad1953798813c26aac735651d9c6aa0"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 05:12:27," """"","Mirai"""
+"""0cb95865025d78cfd81b430b58b72871ea74e8e5831d7b32727da0969565d303"""," ""win.smartloader"""," ""None"""," ""85""",2026-10-10 04:12:35," """"",loader
+"""64baec6013414eacd268a91e105e652b8e125e231821100c619d0060a79c37da"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 04:12:34," """"","Mirai"""
+"""3fa7e27442f328fc3f5f905bc5bf1444626cbf6dc02afd289bbca783200f43d8"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 04:12:33," """"","Mirai"""
+"""aba60b306f7287a105aebfefe45c151b8e77ceaa0b528ab5d5553094baf4cc07"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 04:12:32," """"","Mirai"""
+"""b5a0f571387cc53c1f817b322e543ab8ef2078bd0e61e1a2fa4fcabe9f43a7fb"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 04:12:31," """"","Mirai"""
+"""347ff4da8029c5aede97394b6cb3a59b267e3b6916d4d4e6561e5a248ea56f44"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 04:12:29," """"","Mirai"""
+"""762a6ad0a16496eb59595002af5fef4e75e53466ff983808ce40ea296701541a"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 04:12:28," """"","Mirai"""
 """8d1aaf7b5343e6d13828f68e65e165c394076751b83d01b3642758820c0641b5"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 03:12:36," """"",Mirai
 """38d44f640904030bcf70790366c5e11e9153cb25a4af6b2ec2b68deb6a2f0630"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 03:12:35," """"",Mirai
 """f9e49785ed4afb303cc6540bbc20b8d09889f568eb8b54e9a6c03c8985227417"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 03:12:34," """"","Mirai"""
@@ -13,8 +194,8 @@ sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
 """0405d097883e17cac15578d2f7e3fb7e0ae96c978249103d78d87c048d50f263"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 01:13:03," """"","Mirai"""
 """609b5bf37bc6544d7b74a77339144e089aeff5bdc578ce13fd8aa015c59a8343"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 01:13:02," """"",Mirai
 """474477c0690528ae5c49d5ffc0f255eaf61d05e8e7b394720121afc3057632cb"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 01:13:02," """"",Mirai
-"""9845c245686ccf24c72044fd6d1f6d0be7a4ee528efc0194b39741c51f330bce"""," ""win.mirai"""," ""None"""," ""80""",2026-10-10 01:13:01," """"","Mirai"""
-"""385c518f5251712671b029d3e862a4d4ce25dea3c4d578c6512f1d4d911cf14d"""," ""win.coinminer"""," ""None"""," ""90""",2026-10-10 01:12:59," """"","exe"""
+"""9845c245686ccf24c72044fd6d1f6d0be7a4ee528efc0194b39741c51f330bce"""," ""win.mirai"""," ""None"""," ""80""",2026-10-10 01:13:01," ""2026-10-10 21:08:46""","Mirai"""
+"""385c518f5251712671b029d3e862a4d4ce25dea3c4d578c6512f1d4d911cf14d"""," ""win.coinminer"""," ""None"""," ""90""",2026-10-10 01:12:59," ""2026-10-10 21:08:54""","exe"""
 """9d294361a6c61ce1c1617f80b9bad73f82c949c2e455d3289138094652e3afd7"""," ""elf.mirai"""," ""Katana"""," ""95""",2026-10-10 01:12:58," """"","Mirai"""
 """086b643e503d08276a147e70df02cdb635cdf8fb8624edb168f9b7ee75f3022c"""," ""elf.mirai"""," ""Katana"""," ""95""",2026-10-10 01:12:58," """"","Mirai"""
 """8d4fb5f3f54d19f3c5b47bdfd928e58fabe37b40d8d105c458eabef910112ebb"""," ""elf.mirai"""," ""Katana"""," ""95""",2026-10-10 01:12:57," """"","Mirai"""
@@ -24,29 +205,29 @@ sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
 """bb48f3d7057d2675a7cc6a589e5fb2402e30ec991971ad9b26003fad4758fa95"""," ""elf.mirai"""," ""Katana"""," ""95""",2026-10-10 01:12:53," """"","Mirai"""
 """79f387555290301b619d838a9c260854e91fd7f919850c1a44b9d690c75b339d"""," ""elf.mirai"""," ""Katana"""," ""95""",2026-10-10 01:12:52," """"","Mirai"""
 """34e7bb86115ed921f1f022db56226614c6aa7aa23d55feb3e5af60eb616d3cff"""," ""elf.mirai"""," ""Katana"""," ""95""",2026-10-10 01:12:51," """"","Mirai"""
-"""8ca3402d2d33cff125b3d7a9932208f4b1e9f0cf33c9bbbb8eed24fb6c650559"""," ""win.vshell"""," ""None"""," ""95""",2026-10-10 01:12:50," """"","VShell"""
-"""528458c9d7ac88959d2d83aecd0544bf75727d34795deaf658ff3b82000a9e44"""," ""win.coinminer"""," ""None"""," ""95""",2026-10-10 01:12:49," """"","exe"""
-"""c47f53b3c8c6768ad2852aed0e8f3ecf4a113d663933738a7f6890e57cb431c2"""," ""win.vshell"""," ""None"""," ""95""",2026-10-10 01:12:48," """"","VShell"""
-"""ee8516779bc3b64f143d7513dd30e5f722d11e86788fd7dfc13e5dc43bd35d3d"""," ""win.vshell"""," ""None"""," ""95""",2026-10-10 01:12:47," """"","VShell"""
-"""9aedde256523c41a2fcd7e7c5ab6d4696bc02a998144b8cdea551fa57e6953f6"""," ""win.vshell"""," ""None"""," ""95""",2026-10-10 01:12:46," """"","VShell"""
-"""1740beac423979afea7496e51ea5f2e28b0f920ad92bb2ed12a81bd801ac5e0c"""," ""win.vshell"""," ""None"""," ""95""",2026-10-10 01:12:45," """"","VShell"""
-"""12a43fee749a3596766958bfe9111e4874de2d90c4d7a5df2ebe5606694e0984"""," ""win.vshell"""," ""None"""," ""95""",2026-10-10 01:12:44," """"","VShell"""
-"""35b15d6c1af38f79556e8b3e99486e5d8d34039e037675eca021c3503ec0a3b1"""," ""win.vshell"""," ""None"""," ""95""",2026-10-10 01:12:43," """"","VShell"""
-"""ca4882f7dd6dd9ee717d98912d9d7098d55bc1933591c38f4e33f94b2c69ca52"""," ""win.vshell"""," ""None"""," ""95""",2026-10-10 01:12:42," """"","VShell"""
-"""ee5e9d5f0c7c6916eabd0d6bb9db573fb0c2808924c2e41dd9f3224d789981d7"""," ""win.vshell"""," ""None"""," ""95""",2026-10-10 01:12:41," """"","VShell"""
-"""7cc5e09cdbd34044e1a4229a55abab7423460614e42c3b8701e65f89d4f8ee42"""," ""win.vshell"""," ""None"""," ""95""",2026-10-10 01:12:40," """"","VShell"""
-"""ffda934a9acd3bdf14128a14812049f0558d75b63677f346c16204427a483540"""," ""win.babadeda"""," ""None"""," ""95""",2026-10-10 01:12:39," """"","exe"""
-"""8bce3301fd794b9d2fbe22526dfc5aa1e2c12ce59aa1556961aafa00eb92733a"""," ""win.vshell"""," ""None"""," ""95""",2026-10-10 01:12:38," """"","VShell"""
-"""011fd979619d97af8e1891c263fed4993e7093ab6a6e290b48ecee3d166d74d0"""," ""win.vshell"""," ""None"""," ""95""",2026-10-10 01:12:37," """"","VShell"""
-"""422c7f97e2b5eed63bf06c7f51aa1f6b8b8a859f7c856b8a0404051894b035ac"""," ""win.vshell"""," ""None"""," ""95""",2026-10-10 01:12:36," """"","VShell"""
-"""322f75a96b8489ce66f833cc61785e25e595a2cac3bede7f7542c96cd6c45441"""," ""win.vshell"""," ""None"""," ""95""",2026-10-10 01:12:35," """"","VShell"""
-"""f7102105b79d9fa37298a981ff043a466c397da473c76ae28cf890f99c5715a7"""," ""win.vshell"""," ""None"""," ""95""",2026-10-10 01:12:34," """"","VShell"""
-"""2f7bed0fbc7213a208bbad89420a87038502573931cf95def6200bdebc2438fd"""," ""win.vshell"""," ""None"""," ""95""",2026-10-10 01:12:33," """"","VShell"""
-"""fe09cdce35bf1e733433fcc3b1e89938d2792478927f796d0bdc5bc44d5668b5"""," ""win.vshell"""," ""None"""," ""95""",2026-10-10 01:12:32," """"","VShell"""
-"""a887dc49c2aa5ab19f20a2c1e9f9ad73d303633c312e610aaf50cc81a823d8cf"""," ""win.vshell"""," ""None"""," ""95""",2026-10-10 01:12:31," """"","VShell"""
-"""0a23fe83d1e222a8682138527fa9132e6f1719789b434e4ef74b27642e506238"""," ""win.vshell"""," ""None"""," ""95""",2026-10-10 01:12:29," """"","VShell"""
-"""a682198c4651b295214b1daec65399df98a936465f8e954735782532441e525f"""," ""win.vshell"""," ""None"""," ""95""",2026-10-10 01:12:28," """"","VShell"""
-"""1ead4bb085c60303c60b87866feae102400f562743e0a2ef43eb13506ec11aa1"""," ""win.vshell"""," ""None"""," ""95""",2026-10-10 01:12:27," """"","VShell"""
+"""8ca3402d2d33cff125b3d7a9932208f4b1e9f0cf33c9bbbb8eed24fb6c650559"""," ""win.vshell"""," ""None"""," ""95""",2026-10-10 01:12:50," ""2026-10-10 21:08:40""","VShell"""
+"""528458c9d7ac88959d2d83aecd0544bf75727d34795deaf658ff3b82000a9e44"""," ""win.coinminer"""," ""None"""," ""95""",2026-10-10 01:12:49," ""2026-10-10 21:09:05""","exe"""
+"""c47f53b3c8c6768ad2852aed0e8f3ecf4a113d663933738a7f6890e57cb431c2"""," ""win.vshell"""," ""None"""," ""95""",2026-10-10 01:12:48," ""2026-10-10 21:09:00""","VShell"""
+"""ee8516779bc3b64f143d7513dd30e5f722d11e86788fd7dfc13e5dc43bd35d3d"""," ""win.vshell"""," ""None"""," ""95""",2026-10-10 01:12:47," ""2026-10-10 21:08:57""","VShell"""
+"""9aedde256523c41a2fcd7e7c5ab6d4696bc02a998144b8cdea551fa57e6953f6"""," ""win.vshell"""," ""None"""," ""95""",2026-10-10 01:12:46," ""2026-10-10 21:08:56""","VShell"""
+"""1740beac423979afea7496e51ea5f2e28b0f920ad92bb2ed12a81bd801ac5e0c"""," ""win.vshell"""," ""None"""," ""95""",2026-10-10 01:12:45," ""2026-10-10 21:08:49""","VShell"""
+"""12a43fee749a3596766958bfe9111e4874de2d90c4d7a5df2ebe5606694e0984"""," ""win.vshell"""," ""None"""," ""95""",2026-10-10 01:12:44," ""2026-10-10 21:08:39""","VShell"""
+"""35b15d6c1af38f79556e8b3e99486e5d8d34039e037675eca021c3503ec0a3b1"""," ""win.vshell"""," ""None"""," ""95""",2026-10-10 01:12:43," ""2026-10-10 21:08:37""","VShell"""
+"""ca4882f7dd6dd9ee717d98912d9d7098d55bc1933591c38f4e33f94b2c69ca52"""," ""win.vshell"""," ""None"""," ""95""",2026-10-10 01:12:42," ""2026-10-10 21:09:02""","VShell"""
+"""ee5e9d5f0c7c6916eabd0d6bb9db573fb0c2808924c2e41dd9f3224d789981d7"""," ""win.vshell"""," ""None"""," ""95""",2026-10-10 01:12:41," ""2026-10-10 21:08:48""","VShell"""
+"""7cc5e09cdbd34044e1a4229a55abab7423460614e42c3b8701e65f89d4f8ee42"""," ""win.vshell"""," ""None"""," ""95""",2026-10-10 01:12:40," ""2026-10-10 21:08:43""","VShell"""
+"""ffda934a9acd3bdf14128a14812049f0558d75b63677f346c16204427a483540"""," ""win.babadeda"""," ""None"""," ""95""",2026-10-10 01:12:39," ""2026-10-10 21:08:36""","exe"""
+"""8bce3301fd794b9d2fbe22526dfc5aa1e2c12ce59aa1556961aafa00eb92733a"""," ""win.vshell"""," ""None"""," ""95""",2026-10-10 01:12:38," ""2026-10-10 21:08:59""","VShell"""
+"""011fd979619d97af8e1891c263fed4993e7093ab6a6e290b48ecee3d166d74d0"""," ""win.vshell"""," ""None"""," ""95""",2026-10-10 01:12:37," ""2026-10-10 21:08:50""","VShell"""
+"""422c7f97e2b5eed63bf06c7f51aa1f6b8b8a859f7c856b8a0404051894b035ac"""," ""win.vshell"""," ""None"""," ""95""",2026-10-10 01:12:36," ""2026-10-10 21:08:59""","VShell"""
+"""322f75a96b8489ce66f833cc61785e25e595a2cac3bede7f7542c96cd6c45441"""," ""win.vshell"""," ""None"""," ""95""",2026-10-10 01:12:35," ""2026-10-10 21:08:55""","VShell"""
+"""f7102105b79d9fa37298a981ff043a466c397da473c76ae28cf890f99c5715a7"""," ""win.vshell"""," ""None"""," ""95""",2026-10-10 01:12:34," ""2026-10-10 21:08:52""","VShell"""
+"""2f7bed0fbc7213a208bbad89420a87038502573931cf95def6200bdebc2438fd"""," ""win.vshell"""," ""None"""," ""95""",2026-10-10 01:12:33," ""2026-10-10 21:09:03""","VShell"""
+"""fe09cdce35bf1e733433fcc3b1e89938d2792478927f796d0bdc5bc44d5668b5"""," ""win.vshell"""," ""None"""," ""95""",2026-10-10 01:12:32," ""2026-10-10 21:08:58""","VShell"""
+"""a887dc49c2aa5ab19f20a2c1e9f9ad73d303633c312e610aaf50cc81a823d8cf"""," ""win.vshell"""," ""None"""," ""95""",2026-10-10 01:12:31," ""2026-10-10 21:08:45""","VShell"""
+"""0a23fe83d1e222a8682138527fa9132e6f1719789b434e4ef74b27642e506238"""," ""win.vshell"""," ""None"""," ""95""",2026-10-10 01:12:29," ""2026-10-10 21:09:03""","VShell"""
+"""a682198c4651b295214b1daec65399df98a936465f8e954735782532441e525f"""," ""win.vshell"""," ""None"""," ""95""",2026-10-10 01:12:28," ""2026-10-10 21:08:53""","VShell"""
+"""1ead4bb085c60303c60b87866feae102400f562743e0a2ef43eb13506ec11aa1"""," ""win.vshell"""," ""None"""," ""95""",2026-10-10 01:12:27," ""2026-10-10 21:09:01""","VShell"""
 """b992e0488abed5c19f215626dee38cc4b7b92b918ab194e276924a462aa97c3f"""," ""elf.bashlite"""," ""gayfgt",torlus,2026-10-10 00:12:34,qbot," ""90"""
 """98792483aed3a9e0105cdaca1d5208916c07c45e0c46229e221a753fe3db0d30"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-10 00:12:33," """"",Gafgyt
 """d59a4194ec66b508697d67d71b69f74f590e8a8bb346507075b3ded56854a374"""," ""elf.bashlite"""," ""gayfgt",torlus,2026-10-10 00:12:32,qbot," ""90"""
@@ -183,7 +364,7 @@ sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
 """ceb3064b2db7948711964dbfaba861aee73ef415a4454929528b3f26a8dda263"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-09 20:10:11," """"","Mirai"""
 """7a0efc7fd55dd9e665342b788b092f5660597ba1e3526f1bec3be14399a06e53"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-09 20:10:10," """"","Mirai"""
 """311d843746a0c17469003556ee0fcce655f97ff20a304a3d6cf2c800dae44e50"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-09 20:10:09," """"","Mirai"""
-"""c7dbec8d4b58e10355ccb773d5d859b0297ce55bd47a100eb9a117d531c3a2e3"""," ""win.vidar"""," ""None"""," ""90""",2026-10-09 20:10:08," """"",upx
+"""c7dbec8d4b58e10355ccb773d5d859b0297ce55bd47a100eb9a117d531c3a2e3"""," ""win.vidar"""," ""None"""," ""90""",2026-10-09 20:10:08," ""2026-10-10 21:09:11""",upx
 """b4dff4250beca65d3a60492ca16eb82775c2014e8dd47c45d3c4a12a179ce911"""," ""unknown_stealer"""," ""None"""," ""100""",2026-10-09 19:32:44," """"",stealer
 """55e1fc4352dffdf9954e90a162b23fa9744dfef6d9e058e6bd04b356decac73d"""," ""osx.amos"""," ""Atomic macOS Stealer"""," ""100""",2026-10-09 19:32:42," """"",ClickFix
 """7050da3bd5b59468f4ab8457cf5f11b1cd5f556e54e2e0b1d5b1556088b949d8"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-09 19:06:04," """"","Mirai"""
@@ -203,62 +384,62 @@ sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
 """4f4129e8f79bde102875417f64a3258226ae93658776a416aaf4383698a6ea7d"""," ""win.mispadu"""," ""URSA"""," ""95""",2026-10-09 15:45:55," """""," ""0"""
 """a1e52621549b26c9ea46fdb4da21e159d2332fb0887c56ee317648597e99df63"""," ""win.deerstealer"""," ""None"""," ""95""",2026-10-09 15:45:55," """""," ""0"""
 """b13b22c66cd105a2e5a10bbc9339bfa0e4f4cb1faa4cd2d0a7ae854948d2b1c5"""," ""win.tinymet"""," ""TiniMet"""," ""95""",2026-10-09 15:45:53," """""," ""0"""
-"""deb70d1f124c4dad405e0dc2c57d642bb993df9b09d225a6f7ff128adb055625"""," ""win.vshell"""," ""None"""," ""95""",2026-10-09 15:45:52," """""," ""0"""
-"""6932f169761f4ba8fbb584c5dfaff2bbaa7a1108c4e0175afdf2acac6feeeacd"""," ""win.njrat"""," ""Bladabindi"," """"",2026-10-09 15:45:51," ""NjRAT"""," ""None"""
-"""c21557a9b8df651692f8a6241e488dcfba8faf2dce446c14f5854ba1fa04d7f4"""," ""win.luca_stealer"""," ""None"""," ""95""",2026-10-09 15:45:50," """""," ""0"""
-"""1b95c2783b667ad5ffbd5b66afc367a92c314f507ba43789ec0bcda5a623a877"""," ""win.adaptix_c2"""," ""None"""," ""95""",2026-10-09 15:45:49," """""," ""0"""
-"""b0915fda8b68cc59f8c722080d133e823e9ae49bb3ad82d1f4faca1f14325284"""," ""jar.crossrat"""," ""Trupto"""," ""95""",2026-10-09 15:45:48," """""," ""0"""
-"""492ac6489b05326e2fc2939af9ca842cb4f20dd708a4891e22e52ec6d268fdf7"""," ""jar.crossrat"""," ""Trupto"""," ""95""",2026-10-09 15:45:47," """""," ""0"""
-"""1ed0a0d1ec52bd6ef0635b0aaa0eb44550bb8d03e67f1cd08eb041e3ba128c01"""," ""win.asyncrat"""," ""None"""," ""95""",2026-10-09 15:45:46," """""," ""0"""
+"""deb70d1f124c4dad405e0dc2c57d642bb993df9b09d225a6f7ff128adb055625"""," ""win.vshell"""," ""None"""," ""95""",2026-10-09 15:45:52," ""2026-10-10 21:10:03"""," ""0"""
+"""6932f169761f4ba8fbb584c5dfaff2bbaa7a1108c4e0175afdf2acac6feeeacd"""," ""win.njrat"""," ""Bladabindi"," ""2026-10-10 21:10:02""",2026-10-09 15:45:51," ""NjRAT"""," ""None"""
+"""c21557a9b8df651692f8a6241e488dcfba8faf2dce446c14f5854ba1fa04d7f4"""," ""win.luca_stealer"""," ""None"""," ""95""",2026-10-09 15:45:50," ""2026-10-10 21:10:01"""," ""0"""
+"""1b95c2783b667ad5ffbd5b66afc367a92c314f507ba43789ec0bcda5a623a877"""," ""win.adaptix_c2"""," ""None"""," ""95""",2026-10-09 15:45:49," ""2026-10-10 21:10:00"""," ""0"""
+"""b0915fda8b68cc59f8c722080d133e823e9ae49bb3ad82d1f4faca1f14325284"""," ""jar.crossrat"""," ""Trupto"""," ""95""",2026-10-09 15:45:48," ""2026-10-10 21:10:00"""," ""0"""
+"""492ac6489b05326e2fc2939af9ca842cb4f20dd708a4891e22e52ec6d268fdf7"""," ""jar.crossrat"""," ""Trupto"""," ""95""",2026-10-09 15:45:47," ""2026-10-10 21:09:59"""," ""0"""
+"""1ed0a0d1ec52bd6ef0635b0aaa0eb44550bb8d03e67f1cd08eb041e3ba128c01"""," ""win.asyncrat"""," ""None"""," ""95""",2026-10-09 15:45:46," ""2026-10-10 21:09:57"""," ""0"""
 """1f8604584b410ae9b6037d2975d01093832d6b63d454c4b9f40c8f3d1c8b89d5"""," ""win.agent_tesla"""," ""AgenTesla"," ""Agent Tesla""",2026-10-09 15:45:46,"Negasteal"""," ""None"""
-"""ef41e4af8abb91a0c77f60005bd985ff554fe368593bb0b60d09a5fc9a54bd98"""," ""jar.crossrat"""," ""Trupto"""," ""95""",2026-10-09 15:45:45," """""," ""0"""
-"""b1226cf111753eb82f329cb657104059ac96c8692853d83aa4a70d9b8c2bb312"""," ""jar.crossrat"""," ""Trupto"""," ""95""",2026-10-09 15:45:44," """""," ""0"""
-"""9cea830b56c14b2d9c77d46a155e365176d35996d53708bb79ee6e41d04e51f3"""," ""py.stealler"""," ""None"""," ""95""",2026-10-09 15:45:43," """""," ""0"""
-"""29765d721119f190c11bb2d972dcc86fdf73405ea20bd642a8932efd3fa8d980"""," ""win.gcleaner"""," ""None"""," ""95""",2026-10-09 15:45:42," """""," ""0"""
-"""af253ba15f9bf0fe7871ff377825abf02bd5fbea7c081c706d604a4a3cde843c"""," ""elf.kuiper"""," ""None"""," ""95""",2026-10-09 15:45:41," """""," ""0"""
-"""448b653511a12b85616230b744e0c270a28593b2eff222ab432f0a077ad3e328"""," ""win.coinminer"""," ""None"""," ""95""",2026-10-09 15:45:40," """""," ""0"""
-"""0c4899656aa98daa195ecd372fe4bdeaaa4bec7a59212de2dba415a8b4ea310d"""," ""py.stealler"""," ""None"""," ""95""",2026-10-09 15:45:39," """""," ""0"""
-"""77b3ca522f338bd41a022b34dc12e79b1ff6f650ae1d2801d2aaee99d965ab92"""," ""py.venus_stealer"""," ""None"""," ""95""",2026-10-09 15:45:38," """""," ""0"""
-"""40ea1e9b3f8237e7d7cfe16f94137355cd9884c22716375278d4478d26253dd1"""," ""py.stealler"""," ""None"""," ""95""",2026-10-09 15:45:37," """""," ""0"""
-"""2db4f1c4c73386907dfe6a4aa19186648149b0235dd38feea0b3db27cc83375a"""," ""py.stealler"""," ""None"""," ""95""",2026-10-09 15:45:36," """""," ""0"""
-"""fc26ae01b9226e767f1bf3e78ffc0e5f3ada519ef8eb74b43fef7094cac6510b"""," ""win.vshell"""," ""None"""," ""95""",2026-10-09 15:45:35," """""," ""0"""
-"""9a738a1e7ffc5bfbad53e1c345cb56b63c9e7750c243eeacf2d356ab0e6a86bf"""," ""py.stealler"""," ""None"""," ""95""",2026-10-09 15:45:34," """""," ""0"""
-"""e52e65ed97e99d807394493f195bc62e5abe28db252fd060e3033bf6c2063e85"""," ""win.yibackdoor"""," ""None"""," ""95""",2026-10-09 15:45:34," """""," ""0"""
+"""ef41e4af8abb91a0c77f60005bd985ff554fe368593bb0b60d09a5fc9a54bd98"""," ""jar.crossrat"""," ""Trupto"""," ""95""",2026-10-09 15:45:45," ""2026-10-10 21:09:57"""," ""0"""
+"""b1226cf111753eb82f329cb657104059ac96c8692853d83aa4a70d9b8c2bb312"""," ""jar.crossrat"""," ""Trupto"""," ""95""",2026-10-09 15:45:44," ""2026-10-10 21:09:56"""," ""0"""
+"""9cea830b56c14b2d9c77d46a155e365176d35996d53708bb79ee6e41d04e51f3"""," ""py.stealler"""," ""None"""," ""95""",2026-10-09 15:45:43," ""2026-10-10 21:09:55"""," ""0"""
+"""29765d721119f190c11bb2d972dcc86fdf73405ea20bd642a8932efd3fa8d980"""," ""win.gcleaner"""," ""None"""," ""95""",2026-10-09 15:45:42," ""2026-10-10 21:09:54"""," ""0"""
+"""af253ba15f9bf0fe7871ff377825abf02bd5fbea7c081c706d604a4a3cde843c"""," ""elf.kuiper"""," ""None"""," ""95""",2026-10-09 15:45:41," ""2026-10-10 21:09:54"""," ""0"""
+"""448b653511a12b85616230b744e0c270a28593b2eff222ab432f0a077ad3e328"""," ""win.coinminer"""," ""None"""," ""95""",2026-10-09 15:45:40," ""2026-10-10 21:09:53"""," ""0"""
+"""0c4899656aa98daa195ecd372fe4bdeaaa4bec7a59212de2dba415a8b4ea310d"""," ""py.stealler"""," ""None"""," ""95""",2026-10-09 15:45:39," ""2026-10-10 21:09:52"""," ""0"""
+"""77b3ca522f338bd41a022b34dc12e79b1ff6f650ae1d2801d2aaee99d965ab92"""," ""py.venus_stealer"""," ""None"""," ""95""",2026-10-09 15:45:38," ""2026-10-10 21:09:51"""," ""0"""
+"""40ea1e9b3f8237e7d7cfe16f94137355cd9884c22716375278d4478d26253dd1"""," ""py.stealler"""," ""None"""," ""95""",2026-10-09 15:45:37," ""2026-10-10 21:09:50"""," ""0"""
+"""2db4f1c4c73386907dfe6a4aa19186648149b0235dd38feea0b3db27cc83375a"""," ""py.stealler"""," ""None"""," ""95""",2026-10-09 15:45:36," ""2026-10-10 21:09:49"""," ""0"""
+"""fc26ae01b9226e767f1bf3e78ffc0e5f3ada519ef8eb74b43fef7094cac6510b"""," ""win.vshell"""," ""None"""," ""95""",2026-10-09 15:45:35," ""2026-10-10 21:09:49"""," ""0"""
+"""9a738a1e7ffc5bfbad53e1c345cb56b63c9e7750c243eeacf2d356ab0e6a86bf"""," ""py.stealler"""," ""None"""," ""95""",2026-10-09 15:45:34," ""2026-10-10 21:09:47"""," ""0"""
+"""e52e65ed97e99d807394493f195bc62e5abe28db252fd060e3033bf6c2063e85"""," ""win.yibackdoor"""," ""None"""," ""95""",2026-10-09 15:45:34," ""2026-10-10 21:09:48"""," ""0"""
 """4cb7b82b2cbde85bfa1fb6d6affc673eb18ab20547dcb0ce3a0bec3ef6144876"""," ""win.netwire"""," ""NetWeird"," ""NetWire RC""",2026-10-09 15:45:33,"Recam"""," ""None"""
-"""3ecaa29f595dfa5b433ba14f8c81cc14a614a8f78ff955e4c5a26ed1d71a7376"""," ""py.stealler"""," ""None"""," ""95""",2026-10-09 15:45:32," """""," ""0"""
-"""9797681d659fb3b6597629112f90265a7bf50a516453e1fae0a0e2a36cd709d8"""," ""py.stealler"""," ""None"""," ""95""",2026-10-09 15:45:31," """""," ""0"""
-"""29fbd5445427c933eb1938ebea9fd05f784758ebfa68c22ac08441ef3286c9b1"""," ""py.stealler"""," ""None"""," ""95""",2026-10-09 15:45:30," """""," ""0"""
-"""820c91b50591c4b825ef2914d25481278945d3a06d0692f1783be4cf8d97d24b"""," ""py.stealler"""," ""None"""," ""95""",2026-10-09 15:45:29," """""," ""0"""
-"""f7e58d2955db86e33b95939f645abc6f362cf86f396c548bdf22dbf707e5914a"""," ""win.vidar"""," ""None"""," ""95""",2026-10-09 15:45:28," """""," ""0"""
-"""7f1db334fd3302cf98dd4afddf6f90e98e2a496fe7e86bf1832b89d02f3d73c3"""," ""win.cloudeye"""," ""GuLoader"," """"",2026-10-09 15:45:28," ""CloudEyE"""," ""None"""
-"""8d0f20e8ad3f80860c9f36105caa3528776e9f98573f2dac8ebc0c55325b62ac"""," ""win.vshell"""," ""None"""," ""95""",2026-10-09 15:45:27," """""," ""0"""
-"""121eb4be27d17c1c4320b912d75db79b337ad3a087a00a44dd94c2600ebc1304"""," ""win.valley_rat"""," ""Winos"""," ""95""",2026-10-09 15:45:26," """""," ""0"""
-"""de007a3bc1cfcdf8985690b5127eb099292a3edfd6f4f7b462c65229011a669b"""," ""py.venus_stealer"""," ""None"""," ""95""",2026-10-09 15:45:25," """""," ""0"""
-"""4e2d3b193a9bfb9f3a369a251a1b722450fa13d8fc193d3c872ebf1062783fde"""," ""win.formbook"""," ""win.xloader"""," ""95""",2026-10-09 15:45:24," """""," ""0"""
-"""38dbcfe9e766a0b1a15c90e021febb42d75fd103328a6e1361fbb75ea1664f7e"""," ""win.vidar"""," ""None"""," ""95""",2026-10-09 15:45:24," """""," ""0"""
-"""aecef9efaad031a5d0a5ec25d49138708f93a69bc50a7cee73fc2352ba19a995"""," ""win.vidar"""," ""None"""," ""95""",2026-10-09 15:45:23," """""," ""0"""
-"""3800a41b441e60803ac9ee6f700555619888b0b7a882ef557325f2b6b7843b2d"""," ""win.vidar"""," ""None"""," ""95""",2026-10-09 15:45:22," """""," ""0"""
-"""01ec79ca328f90e03dd0c9ab0c115bacc279fa5eccea4cc03e4676dc9da78399"""," ""py.venus_stealer"""," ""None"""," ""95""",2026-10-09 15:45:21," """""," ""0"""
-"""b426e063f6e71de0d8c7bd6b1ed9c342e3aed4e16ff9d0b50154c67b899f8541"""," ""win.valley_rat"""," ""Winos"""," ""95""",2026-10-09 15:45:20," """""," ""0"""
-"""84fd7e7de84bf9080ec938f944b81807faa769ab2e27a4d0a5f8596ff6dc0072"""," ""win.valley_rat"""," ""Winos"""," ""95""",2026-10-09 15:45:19," """""," ""0"""
-"""cf90ad8eef1b73e674f5dbbc12f8bbc4ee0ebc2b9485ddf5ef3cf5ce863f5333"""," ""win.valley_rat"""," ""Winos"""," ""95""",2026-10-09 15:45:18," """""," ""0"""
-"""e292d65b134653448ef4bcad23eaae8b08abefcbfcd360c3f0cd74adfee33495"""," ""win.valley_rat"""," ""Winos"""," ""95""",2026-10-09 15:45:18," """""," ""0"""
-"""3ea03e28c0a5a8c8a4910f26b2a1ee073053f76cbd9d21729dcec81543ac1617"""," ""win.formbook"""," ""win.xloader"""," ""95""",2026-10-09 15:45:17," """""," ""0"""
-"""22949b40865c3d6c9a2c7d7eae97c964b5fde63c1727ce74773d7aeb20be347a"""," ""py.stealler"""," ""None"""," ""95""",2026-10-09 15:45:16," """""," ""0"""
-"""d0f40958cc03a11ec4fcd89223c6e6a9a134284e97993eeb2940f983d164dd11"""," ""elf.watchbog"""," ""None"""," ""95""",2026-10-09 15:45:15," """""," ""0"""
-"""e15e5d4f77fa217cf9ccf18fc0fff19e9b9e47d8c65413f2751904a14fcb8658"""," ""win.formbook"""," ""win.xloader"""," ""95""",2026-10-09 15:45:14," """""," ""0"""
+"""3ecaa29f595dfa5b433ba14f8c81cc14a614a8f78ff955e4c5a26ed1d71a7376"""," ""py.stealler"""," ""None"""," ""95""",2026-10-09 15:45:32," ""2026-10-10 21:09:46"""," ""0"""
+"""9797681d659fb3b6597629112f90265a7bf50a516453e1fae0a0e2a36cd709d8"""," ""py.stealler"""," ""None"""," ""95""",2026-10-09 15:45:31," ""2026-10-10 21:09:45"""," ""0"""
+"""29fbd5445427c933eb1938ebea9fd05f784758ebfa68c22ac08441ef3286c9b1"""," ""py.stealler"""," ""None"""," ""95""",2026-10-09 15:45:30," ""2026-10-10 21:09:44"""," ""0"""
+"""820c91b50591c4b825ef2914d25481278945d3a06d0692f1783be4cf8d97d24b"""," ""py.stealler"""," ""None"""," ""95""",2026-10-09 15:45:29," ""2026-10-10 21:09:43"""," ""0"""
+"""f7e58d2955db86e33b95939f645abc6f362cf86f396c548bdf22dbf707e5914a"""," ""win.vidar"""," ""None"""," ""95""",2026-10-09 15:45:28," ""2026-10-10 21:09:42"""," ""0"""
+"""7f1db334fd3302cf98dd4afddf6f90e98e2a496fe7e86bf1832b89d02f3d73c3"""," ""win.cloudeye"""," ""GuLoader"," ""2026-10-10 21:09:42""",2026-10-09 15:45:28," ""CloudEyE"""," ""None"""
+"""8d0f20e8ad3f80860c9f36105caa3528776e9f98573f2dac8ebc0c55325b62ac"""," ""win.vshell"""," ""None"""," ""95""",2026-10-09 15:45:27," ""2026-10-10 21:09:41"""," ""0"""
+"""121eb4be27d17c1c4320b912d75db79b337ad3a087a00a44dd94c2600ebc1304"""," ""win.valley_rat"""," ""Winos"""," ""95""",2026-10-09 15:45:26," ""2026-10-10 21:09:40"""," ""0"""
+"""de007a3bc1cfcdf8985690b5127eb099292a3edfd6f4f7b462c65229011a669b"""," ""py.venus_stealer"""," ""None"""," ""95""",2026-10-09 15:45:25," ""2026-10-10 21:09:39"""," ""0"""
+"""4e2d3b193a9bfb9f3a369a251a1b722450fa13d8fc193d3c872ebf1062783fde"""," ""win.formbook"""," ""win.xloader"""," ""95""",2026-10-09 15:45:24," ""2026-10-10 21:09:38"""," ""0"""
+"""38dbcfe9e766a0b1a15c90e021febb42d75fd103328a6e1361fbb75ea1664f7e"""," ""win.vidar"""," ""None"""," ""95""",2026-10-09 15:45:24," ""2026-10-10 21:09:39"""," ""0"""
+"""aecef9efaad031a5d0a5ec25d49138708f93a69bc50a7cee73fc2352ba19a995"""," ""win.vidar"""," ""None"""," ""95""",2026-10-09 15:45:23," ""2026-10-10 21:09:37"""," ""0"""
+"""3800a41b441e60803ac9ee6f700555619888b0b7a882ef557325f2b6b7843b2d"""," ""win.vidar"""," ""None"""," ""95""",2026-10-09 15:45:22," ""2026-10-10 21:09:36"""," ""0"""
+"""01ec79ca328f90e03dd0c9ab0c115bacc279fa5eccea4cc03e4676dc9da78399"""," ""py.venus_stealer"""," ""None"""," ""95""",2026-10-09 15:45:21," ""2026-10-10 21:09:35"""," ""0"""
+"""b426e063f6e71de0d8c7bd6b1ed9c342e3aed4e16ff9d0b50154c67b899f8541"""," ""win.valley_rat"""," ""Winos"""," ""95""",2026-10-09 15:45:20," ""2026-10-10 21:09:34"""," ""0"""
+"""84fd7e7de84bf9080ec938f944b81807faa769ab2e27a4d0a5f8596ff6dc0072"""," ""win.valley_rat"""," ""Winos"""," ""95""",2026-10-09 15:45:19," ""2026-10-10 21:09:33"""," ""0"""
+"""cf90ad8eef1b73e674f5dbbc12f8bbc4ee0ebc2b9485ddf5ef3cf5ce863f5333"""," ""win.valley_rat"""," ""Winos"""," ""95""",2026-10-09 15:45:18," ""2026-10-10 21:09:31"""," ""0"""
+"""e292d65b134653448ef4bcad23eaae8b08abefcbfcd360c3f0cd74adfee33495"""," ""win.valley_rat"""," ""Winos"""," ""95""",2026-10-09 15:45:18," ""2026-10-10 21:09:32"""," ""0"""
+"""3ea03e28c0a5a8c8a4910f26b2a1ee073053f76cbd9d21729dcec81543ac1617"""," ""win.formbook"""," ""win.xloader"""," ""95""",2026-10-09 15:45:17," ""2026-10-10 21:09:30"""," ""0"""
+"""22949b40865c3d6c9a2c7d7eae97c964b5fde63c1727ce74773d7aeb20be347a"""," ""py.stealler"""," ""None"""," ""95""",2026-10-09 15:45:16," ""2026-10-10 21:09:29"""," ""0"""
+"""d0f40958cc03a11ec4fcd89223c6e6a9a134284e97993eeb2940f983d164dd11"""," ""elf.watchbog"""," ""None"""," ""95""",2026-10-09 15:45:15," ""2026-10-10 21:09:28"""," ""0"""
+"""e15e5d4f77fa217cf9ccf18fc0fff19e9b9e47d8c65413f2751904a14fcb8658"""," ""win.formbook"""," ""win.xloader"""," ""95""",2026-10-09 15:45:14," ""2026-10-10 21:09:27"""," ""0"""
 """83935392c7f2e7e66fa4300e00fe063d250890e4b116d55e03e255661d3aa612"""," ""win.wannacryptor"""," ""Wana Decrypt0r","Wcry""",2026-10-09 15:45:13,WannaCrypt," ""False"""
-"""729ef8e6a3cf1859811f3010b514416231e92ca66c4817cf8d6fce9df427a6a8"""," ""win.guidloader"""," ""None"""," ""95""",2026-10-09 15:45:12," """""," ""0"""
+"""729ef8e6a3cf1859811f3010b514416231e92ca66c4817cf8d6fce9df427a6a8"""," ""win.guidloader"""," ""None"""," ""95""",2026-10-09 15:45:12," ""2026-10-10 21:09:25"""," ""0"""
 """b2c03ca07a9d844205f9c097e870fc3c54bfea34caef6ed6b907e7c887ba6665"""," ""win.wannacryptor"""," ""Wana Decrypt0r","Wcry""",2026-10-09 15:45:12,WannaCrypt," ""False"""
-"""05e61a33cd451d1496c7cf05a3f7bf739708ad2198d1ef2f05dc1f5eb2236138"""," ""win.krakenkeylogger"""," ""None"""," ""95""",2026-10-09 15:45:11," """""," ""0"""
-"""08954f9446234a2fafe12537884cfd684df960b6d28527f6777248518ab7e526"""," ""win.darktortilla"""," ""None"""," ""95""",2026-10-09 15:45:10," """""," ""0"""
+"""05e61a33cd451d1496c7cf05a3f7bf739708ad2198d1ef2f05dc1f5eb2236138"""," ""win.krakenkeylogger"""," ""None"""," ""95""",2026-10-09 15:45:11," ""2026-10-10 21:09:24"""," ""0"""
+"""08954f9446234a2fafe12537884cfd684df960b6d28527f6777248518ab7e526"""," ""win.darktortilla"""," ""None"""," ""95""",2026-10-09 15:45:10," ""2026-10-10 21:09:23"""," ""0"""
 """c23a5d89f60bc65b7bf92b6bcca9311d704611b7482f63befee64096f047ac32"""," ""win.wannacryptor"""," ""Wana Decrypt0r","Wcry""",2026-10-09 15:45:09,WannaCrypt," ""False"""
-"""b4cc5ac328afd0e7eaf16216879046367e083279bfdb831da3a53c8a31df3d1b"""," ""win.adaptix_c2"""," ""None"""," ""95""",2026-10-09 15:45:08," """""," ""0"""
-"""d25a3a858e28faa68ca6c624d7d19350c11ac798c346be3067307463e40aaff1"""," ""win.dyepack"""," ""BanSwift"," """"",2026-10-09 15:45:07," ""DYEPACK"""," ""None"""
-"""46601bf92dace2d244fe62f409f9919ef919afef45109bffc9629397fcc76170"""," ""win.vshell"""," ""None"""," ""95""",2026-10-09 15:45:06," """""," ""0"""
-"""edd8babd11621c8ec12ea7a01c141615089a77d755fab43b30507da28653558d"""," ""win.xenorat"""," ""None"""," ""95""",2026-10-09 15:45:06," """""," ""0"""
-"""024d5533d9cd346418c7780706410fca28f88e33291e8ca6b382299dfea043da"""," ""win.vipkeylogger"""," ""None"""," ""95""",2026-10-09 15:45:05," """""," ""0"""
-"""db4732a4b2646f6ddef351784943f58c27311215807a9ba670e9f687366e2a43"""," ""win.krakenkeylogger"""," ""None"""," ""95""",2026-10-09 15:45:03," """""," ""0"""
+"""b4cc5ac328afd0e7eaf16216879046367e083279bfdb831da3a53c8a31df3d1b"""," ""win.adaptix_c2"""," ""None"""," ""95""",2026-10-09 15:45:08," ""2026-10-10 21:09:21"""," ""0"""
+"""d25a3a858e28faa68ca6c624d7d19350c11ac798c346be3067307463e40aaff1"""," ""win.dyepack"""," ""BanSwift"," ""2026-10-10 21:09:18""",2026-10-09 15:45:07," ""DYEPACK"""," ""None"""
+"""46601bf92dace2d244fe62f409f9919ef919afef45109bffc9629397fcc76170"""," ""win.vshell"""," ""None"""," ""95""",2026-10-09 15:45:06," ""2026-10-10 21:09:16"""," ""0"""
+"""edd8babd11621c8ec12ea7a01c141615089a77d755fab43b30507da28653558d"""," ""win.xenorat"""," ""None"""," ""95""",2026-10-09 15:45:06," ""2026-10-10 21:09:17"""," ""0"""
+"""024d5533d9cd346418c7780706410fca28f88e33291e8ca6b382299dfea043da"""," ""win.vipkeylogger"""," ""None"""," ""95""",2026-10-09 15:45:05," ""2026-10-10 21:09:15"""," ""0"""
+"""db4732a4b2646f6ddef351784943f58c27311215807a9ba670e9f687366e2a43"""," ""win.krakenkeylogger"""," ""None"""," ""95""",2026-10-09 15:45:03," ""2026-10-10 21:09:15"""," ""0"""
 """dd16083e8b555de6f1852da430ca2f2192366bae191a2674ae2464a43a4f94d5"""," ""osx.amos"""," ""Atomic macOS Stealer"""," ""100""",2026-10-09 14:51:17," """"",ClickFix
 """b55e16170cbba64cb8fe432d2004c0b011db6318ed41dd359637a2afe9d6545b"""," ""osx.amos"""," ""Atomic macOS Stealer"""," ""100""",2026-10-09 13:05:06," """"",ClickFix
 """3e0b7f50928f8b8f08f1527129a5c8aad50df66e88f2c34a3fd3056081e26d77"""," ""osx.amos"""," ""Atomic macOS Stealer"""," ""100""",2026-10-09 13:05:06," """"",ClickFix
@@ -299,189 +480,7 @@ sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
 """2524ca7fb873708b0e994ca5f6f18db95fcd5bc59c7e54eb5426b91658759142"""," ""unknown_stealer"""," ""None"""," ""100""",2026-10-09 06:04:45," """"",java
 """2ad6e698cfc1ba63c902c22a6d468f1afa5dfeb61286d5488d4ebdb33db4a64d"""," ""osx.amos"""," ""Atomic macOS Stealer"""," ""100""",2026-10-09 06:04:44," """"",ClickFix
 """9d22c5b3de09a5fed2290ee678c434500ab7d3cd9c93ce4f805c0b3c9bfe5f10"""," ""osx.amos"""," ""Atomic macOS Stealer"""," ""100""",2026-10-09 06:04:42," """"",ClickFix
-"""5529d9ff7d84cb7a8db1f2d0ef9d50ff03488a7469d4ff156276521e30dd2d9d"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-09 02:06:22," """"","Mirai"""
-"""77840f54cad6ff1badd14a0301f4b508bd657059a55bd83adb9e5c9116fb060e"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-09 02:06:21," """"","Mirai"""
-"""91fbcdb39cc834cebb0898e90b0ef8eebaffef9ee24c8c04ab1b4c3fb94d5bbc"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-09 02:06:20," """"","Mirai"""
-"""4df9902f81140d914a156af18f77534bcc4d1ad577ca91af97dfafb961aa72b4"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-09 02:06:19," """"","Mirai"""
-"""cc0ab18f186304dbb698dc167a9fd4e2582efa487e83eeed40b6a972cd141b2a"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-09 02:06:18," """"","Mirai"""
-"""a2340ba1546cea741ea17fb6d84a51e39cfde541838836f801833d6a99999bc6"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-09 02:06:17," """"","Mirai"""
-"""793cfc2d1054179c987a21dfe328a6419d37e362584b8083c2b91500f31f1fe7"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-09 02:06:16," """"","Mirai"""
-"""bff1a0106509646f73c8aa2be4372668291b2204ad9a5ca1a622d5f30941dc5b"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-09 02:06:15," """"","Mirai"""
-"""bbc090045e9171257096fbeef4bb6696ea9787a4d38b44a1cb16adaf1202401f"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-09 02:06:14," """"","Mirai"""
-"""703d34a8d6a70eedbb3bd431fb90990bb4a9f0da873d0e9ed9941ce3ea4a5556"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-09 02:06:13," """"","Mirai"""
-"""f7dcabc1ecd5d8ce5f956488ce37563bcdd8a1d29c5d9b080377984e99edb9df"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-09 02:06:12," """"","Mirai"""
-"""0419e82dd1b5ed807540b2be4ba98789965b2e3a6011ab180a950dc5c58c7245"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-09 02:06:11," """"","Mirai"""
-"""cc41fea5a9b0a072b9f0a36a7610a682acbae747ce65265d0f43ccb4b184d8d9"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-09 02:06:10," """"","Mirai"""
-"""b10daff5af0638ea0b47cc205fac28f3a8246cbd0dad1f22a11055c90e375fc3"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-09 02:06:08," """"","Mirai"""
-"""ebba744252a7fb09d1fdc1d36a3855fe47e0986e32105bcc068b5c469b08d5d5"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-09 01:06:10," """"","Mirai"""
-"""cbe1e45bf6b3a8315495ad80bf54de74ad2d3c9f4c28eef4d6a9629d4bd7efdc"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 20:06:09," """"","Mirai"""
-"""80de518cae3595b230f8dd865d754326f30e4ea8ff9e107fda987ea7d1ca0e9d"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 20:06:08," """"",Mirai
-"""6fce5471f4a86a77136bb9eab33f969cebec1c1b74228da1c404b7be73739199"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 20:06:07," """"",Mirai
-"""62b7b66c5424d90f7cef9de55b80dc91bc93c3dac4a9c5b15c32854bb22b1ceb"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 20:06:06," """"",Mirai
-"""c8bd3836fbcd2fb59c6c8606e04110e370bddf25ecb2f9e4c049d4827f76b09d"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 20:06:05," """"","Mirai"""
-"""b47d3ddcbb97281a4a8604b16fd5d1eef850a0488f53c1e8a912d0edb81b6429"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 20:06:04," """"",Mirai
-"""0a6483fcb33b2b1c41d3900d6664f2962e5ff722dec9420fb6630c0c0a6934d3"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 20:06:02," """"",Mirai
-"""8cc85c9940db9e4f50ef91df4f9569c380b7b33bd272eca35f4f4e537cf5a02b"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 20:06:02," """"",Mirai
-"""412e214fa52fb1d9beee979c95b64b99776670f4f2fb7c6812246be4c1bafa3f"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 20:06:01," """"","Mirai"""
-"""13b211b289756f6b0bca46aadc18d8abe0110db3400968a9b1d261ab1b7906cd"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 20:05:59," """"",Mirai
-"""0bf7c786b8e4e0fa284459db0c9bc18dee0cea772e519c16601ed7caaa52138d"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 20:05:58," """"",Mirai
-"""0a3cf154d156699a87a6592e859249ca2f689452d8608cdef18d0d84177f1649"""," ""osx.amos"""," ""Atomic macOS Stealer"""," ""100""",2026-10-08 19:42:18," """"",ClickFix
-"""0e8c800969f3c96165f87c7b53a8e35137a33327ed245e01af750059917ffaa0"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 19:06:17," """"","Mirai"""
-"""108dcbfc64f3d14568f5bcd532a297f49267b537fe335c169cf133b173a9adb0"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 19:06:16," """"","Mirai"""
-"""2bcf9f309f825586120effa1e9f7a47773509bdcf77b3dbcb807a35ef8703f33"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 19:06:15," """"","Mirai"""
-"""f25bf40d63141679a19d81df02d096e60b1c767ea553a77fc201dd4430b71fd2"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 19:06:15," """"","Mirai"""
-"""f8611cb7d9bdb193cfabc3fafd821265e45cd2ce922ad2c27061677845635358"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 19:06:14," """"","Mirai"""
-"""9a0595d08e9399fe0f332b2f3f0c0c65e4d8290bb9ec116ce759073991be8b71"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 19:06:12," """"","Mirai"""
-"""6582b5a796c9121b4326f0b1afa89dc6020e77bcb8b58f2c701bb2822a98ff6b"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 19:06:12," """"","Mirai"""
-"""1df3abd1f3542516e6d1a109a33b7404a105896d7d45c8f55606b2b01d353c49"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 19:06:10," """"","Mirai"""
-"""e4aa4ebaf431cea5933fefb1357d865eafa64107190e2520b6cae1eb58fb7afa"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 19:06:09," """"","Mirai"""
-"""1c0207b4e21d1125120d557b7a6f7ef2f8c3e1befeacabfa7d0c638a8f5e6180"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 19:06:09," """"","Mirai"""
-"""5d4df29b692c0a24d23fe37c34110004fcea4e47a162f16924a96b10fb51241f"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 19:06:08," """"","Mirai"""
-"""dcaf6ca6d03a4defcec7dd72e34b6932ec181bd4c73f22622c21ea1a05e740bf"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 19:06:07," """"","Mirai"""
-"""222b1d71da49325b98d883d15c6d64ca3d27282d2f1d022988f7b268196f78cf"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 19:06:06," """"","Mirai"""
-"""42220565173073c1f9bab9837d8ded19f7fdae815f785d3269b052d452110ee7"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 19:06:05," """"","Mirai"""
-"""b05eab99e3eaf66be37cfae1663b90e2ba90b437161213b0947717996439d055"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 19:06:04," """"","Mirai"""
-"""ff0c402fce022ea26dce1ad6856bd168753c7a980f2f381d32116d6ed283c160"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 19:06:03," """"","Mirai"""
-"""786d55d24cc000ca6d119eaa0943e1946905f558806ad2c29c49765d98422b90"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 19:06:01," """"","Mirai"""
-"""531bcc57d86367930ae500a2d3ae5659477a04804385ec98f7c6db6aecc63bcd"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 19:06:00," """"","Mirai"""
-"""a55c1667a405be3728aab8905160d5db1ebb1b0ea8bfd1b80e43bbebbcb2e180"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 19:05:59," """"","Mirai"""
-"""1a92b78d783f27b84c7c10a57d284321c61157107db5733c3ffa8660fc4ce796"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 19:05:57," """"","Mirai"""
-"""b5ea833edb28697521f0b68d746f1cd09daa26d89e8baba30c930748e2c7720a"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 19:05:57," """"","Mirai"""
-"""0bfabbd22e5fd6175f5701ebcb2c54aad28e5bb1106a0d98ee2a7dc1cc39bda1"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 19:05:56," """"","Mirai"""
-"""149b0894f5d5a376c58fc72011370a350a4bd17a5521f2ab211ac96ac728ffbb"""," ""osx.amos"""," ""Atomic macOS Stealer"""," ""100""",2026-10-08 18:27:46," ""2026-10-08 18:26:25""",ClickFix
-"""a6de4f3ca0c5c59e1a9e23ed6044daa5c55749d84ebb74b243a8dfddbb93cccb"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 16:49:53," """"","Mirai"""
-"""7a5101fec2a6130403a6d35be75708a72c648e3675262e0b6c3cb1118721b325"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 16:49:52," """"","Mirai"""
-"""b5f0ded3658219de6a26b4e671fb9ae6e7e797b72634a33fe080d1771bdc856f"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 16:49:51," """"","Mirai"""
-"""d12968c99af8b54320593d5574e160856112c442ec7a39fb55672f3849bddb87"""," ""unknown_stealer"""," ""None"""," ""90""",2026-10-08 16:40:43," """"",exe
-"""72e540c3f9aaf67b471b3024ea4df294bcff28bea7fc8fc17395ad04ca39b285"""," ""unknown_stealer"""," ""None"""," ""90""",2026-10-08 16:40:42," """"",dropped-by-Amadey
-"""06f434695f93d7fd11eeff71358ff69fed79d310a66d993bbcc4ff979c117c90"""," ""unknown_stealer"""," ""None"""," ""90""",2026-10-08 16:40:41," """"",Lunex
-"""9dbeb21f4052803456605326333dd5512f604fdb88a6eb85d0a1e675d094df58"""," ""unknown_stealer"""," ""None"""," ""90""",2026-10-08 16:40:40," """"",etherhiding
-"""37f2c4607a1fad32eda76af2514588cd704b5d5ee83ceb93c14bf10b33c1c8f3"""," ""unknown_stealer"""," ""None"""," ""90""",2026-10-08 16:40:39," """"",RustyStealer
-"""580900e5f4412f9f870fd05bb4a04a670958ba7773125a050be3619a64fb4a9f"""," ""unknown_stealer"""," ""None"""," ""75""",2026-10-08 16:40:38," """"",stealer
-"""51a371c23d6bb298259d5cd10f8bd86b16e992a9d80c107a69eaa60e2bc793a3"""," ""unknown_stealer"""," ""None"""," ""75""",2026-10-08 16:40:37," """"",stealer
-"""029b9627303993756e3a7006c0ef7420a18fac1f43b11cf1e5b293a3197e94ae"""," ""unknown_stealer"""," ""None"""," ""80""",2026-10-08 16:40:36," """"",RustyStealer
-"""3af5d15c8bc300ef4cce30f60613b5a47cea92c4b23dd0fe0f2ead2b781e9cc6"""," ""unknown_loader"""," ""None"""," ""80""",2026-10-08 16:40:34," """"","loader"""
-"""f08967cdbdb0e00f35378885142dc5a33f305791496ab4977384050fcf8e3571"""," ""unknown_stealer"""," ""None"""," ""90""",2026-10-08 16:40:33," """"",stealer
-"""2614bd6433ed10049482f52bb6da315008f66db4586a896a82f372ba4eefdb09"""," ""unknown_loader"""," ""None"""," ""80""",2026-10-08 16:40:33," """"","loader"""
-"""f7a1fa3463a548743ef3748dad33f678356bd659405e4f412d85cdabb9929e45"""," ""unknown_loader"""," ""None"""," ""80""",2026-10-08 16:40:32," """"","elf"""
-"""db15a159ffa5f570bd280069208761d0aa1261bb409a5a9abc84fdc88d6ce80e"""," ""unknown_loader"""," ""None"""," ""80""",2026-10-08 16:40:31," """"","exe"""
-"""5d78d455cd52330110a14948b83351c531dbca5bddb27c947319e4ff23ea8a24"""," ""unknown_loader"""," ""None"""," ""75""",2026-10-08 16:40:30," """"",powershell
-"""e1e7c1050ecf9d4a945652b2c6d0707dd33283d750560cbee354bb4c68f98bbe"""," ""unknown_loader"""," ""None"""," ""80""",2026-10-08 16:40:29," """"","loader"""
-"""413f1b952a7422b8f69418117d1dca5c2898320dd33a89a2ed286afc3c181ffc"""," ""unknown_loader"""," ""None"""," ""80""",2026-10-08 16:40:28," """"","loader"""
-"""048669cdb23f7e81d3a636b801a5dbc18b4080de1ee58e2f75bfb5a091e92f93"""," ""unknown_loader"""," ""None"""," ""90""",2026-10-08 16:40:27," """"",sh
-"""dafc3c4f45cbdf5f5f020e93825e66d95eba84b1622c357224dabd23d99b448f"""," ""unknown_loader"""," ""None"""," ""90""",2026-10-08 16:40:26," """"","sh"""
-"""2c85fd1ad4c6db031e37f1af23287facda3c501d63b7edf7c17793fbc1c07208"""," ""unknown_loader"""," ""None"""," ""80""",2026-10-08 16:40:24," """"",script
-"""8fd8d5ba7d46fc31185131d5a0dafd5d374352b0b0f2d6b816157102289dde50"""," ""unknown_loader"""," ""None"""," ""80""",2026-10-08 16:40:23," """"","loader"""
-"""26df4a4e69188d568ee5843fd6518ed2f2cd56b4d96ae5f9d241b73cd6dfd2c8"""," ""unknown_loader"""," ""None"""," ""80""",2026-10-08 16:40:22," """"",ps1
-"""ee5a675efa018c0679a321c2de42fd26d7440f5cd904f772c84e0f744f459978"""," ""unknown_loader"""," ""None"""," ""90""",2026-10-08 16:40:21," """"","sh"""
-"""955cc24df2229776e872312122702008981d83471b5e389315aa10304b808cf3"""," ""unknown_loader"""," ""None"""," ""80""",2026-10-08 16:40:20," """"","loader"""
-"""9f31fd8d4594aee286c5970ecd89358bba96f987324d0ba500a4f630d74cf789"""," ""unknown_loader"""," ""None"""," ""90""",2026-10-08 16:40:19," """"","sh"""
-"""b085658b938d2a29af85370acbf788d29d4a85760f54fb3db59449a6ff333589"""," ""unknown_loader"""," ""None"""," ""80""",2026-10-08 16:40:18," """"","exe"""
-"""d156f46bf49391cc8706e98eb715ce3dbef3c01048a4e8febdda09cceebc0b9e"""," ""unknown_loader"""," ""None"""," ""85""",2026-10-08 16:40:17," """"",loader
-"""c36e894a024c7d0c8aa9e7cc61d9d5126ea89b3a39ac12d0f540eee5d12f0248"""," ""unknown_loader"""," ""None"""," ""75""",2026-10-08 16:40:16," """"",powershell
-"""d80e32a0a99e47b8393a359df841d63be8e42ca0323376660c865a0bdf9b6d0f"""," ""unknown_loader"""," ""None"""," ""80""",2026-10-08 16:40:15," """"","loader"""
-"""ffc8b9f2eb275a4fbcf10da550cc945da6f438b2d006e9aff06d4f53e8407e03"""," ""unknown_loader"""," ""None"""," ""90""",2026-10-08 16:40:14," """"","sh"""
-"""42fcb4c9a50adebbdfb329c597b0aedcd912d22c8f6844b3829891626ced50a2"""," ""unknown_loader"""," ""None"""," ""90""",2026-10-08 16:40:13," """"","sh"""
-"""a7499b57f05f2a6a2b0d0d06be99041d796ebb1544b66e00ece89564f7a270ac"""," ""unknown_loader"""," ""None"""," ""90""",2026-10-08 16:40:12," """"","sh"""
-"""620ba6ad0d361d38e0af1f8f472f37b1a8a58a2fc13f278be085b5ed319444a9"""," ""unknown_loader"""," ""None"""," ""80""",2026-10-08 16:40:11," """"",ps1
-"""fa447fc80d0bb07351583b6de545f5499642f8152eeb7711b42cbe98a5ca163a"""," ""unknown_loader"""," ""None"""," ""75""",2026-10-08 16:40:10," """"","exe"""
-"""78c910c7a45022d5537698d103c440f34672bc95a05b47db16cf12afceab4a92"""," ""unknown_loader"""," ""None"""," ""80""",2026-10-08 16:40:09," """"","loader"""
-"""0b44e0e5640696e069413aebe9ba4c1f116f51b79277e27a9827addb5a3b5b74"""," ""unknown_loader"""," ""None"""," ""80""",2026-10-08 16:40:08," """"","elf"""
-"""6f87fe31ec8fad25aaada655ed70ef724bc8e3672b6c2202356157267533a91f"""," ""unknown_loader"""," ""None"""," ""90""",2026-10-08 16:40:07," """"",sh
-"""d624722887c94f66e81a1f12bbb881baa2a95d31c346f3fae2f6dbb6b0fccaa9"""," ""unknown_loader"""," ""None"""," ""80""",2026-10-08 16:40:05," """"","elf"""
-"""28d37a739511aae7420a4353c44693b65ee24fd707e21326b1e0288e090b64cc"""," ""unknown_loader"""," ""None"""," ""85""",2026-10-08 16:40:04," """""," ""0"""
-"""21706398640bd196f67ca5272cac4ba12f4234cf80a9636312d2288b2d7d256c"""," ""unknown_loader"""," ""None"""," ""85""",2026-10-08 16:40:01," """"",xlsx
-"""f3414f6a3bd78e26a859f4301c98ef9094bc43508968331ba1265b711cdbe030"""," ""win.njrat"""," ""Bladabindi"," """"",2026-10-08 16:39:57," ""NjRAT"""," ""exe"
 """3f790d1fc0bae05463f75c5c2fda33b7616230a361630da56e87f7cf26e5fd89"""," ""win.coinminer"""," ""None"""," ""90""",2026-10-08 16:39:55," ""2026-10-09 15:45:54""",Coinminer
-"""452f40131b10db314303d499da82c8174b4296fa902d9dad5f0744bac0fbc1c4"""," ""elf.mirai"""," ""Katana"""," ""80""",2026-10-08 15:40:38," """"",exe
-"""f3b19f4e2436cdbe96ca1c1c888a077d6a7f558e44e7611e672f052b1082a2f5"""," ""elf.mirai"""," ""Katana"""," ""80""",2026-10-08 15:40:37," """"",exe
-"""c3eebcc3151c36d88866d401e7e05fd1bd19e18d203bcc485f3decafabb39bd1"""," ""elf.mirai"""," ""Katana"""," ""80""",2026-10-08 15:40:36," """"",exe
-"""fac28f3d0ed1da9effabd03e90ade9cad8fabf25455e29f085fd5cc6633a3bc7"""," ""elf.mirai"""," ""Katana"""," ""80""",2026-10-08 15:40:35," """"",exe
-"""becbaeb0599ae2599db7a0537befa082ed55c92ed2432031263cb07839504677"""," ""elf.mirai"""," ""Katana"""," ""80""",2026-10-08 15:40:34," """"",exe
-"""025ede6dc13255b7b6ba7e597bfe9c41e0218a4450fb45c2dde92240728b307a"""," ""elf.mirai"""," ""Katana"""," ""80""",2026-10-08 15:40:33," """"",exe
-"""35485ba20999dea4e577ff71a03b2895facdd0c04422f12d3fab3cc0cb1a2b5b"""," ""elf.mirai"""," ""Katana"""," ""80""",2026-10-08 15:40:32," """"",exe
-"""bb6662d5d7bfb2b9d0dde6d3f9446a1e022e1948f40fbe58ac3ef981fbba8c80"""," ""elf.mirai"""," ""Katana"""," ""80""",2026-10-08 15:40:31," """"",exe
-"""a91f8ea006fb7ffa3c8b7646e356ebc4fb297609e3b693b161cdd12598fe51e6"""," ""elf.mirai"""," ""Katana"""," ""80""",2026-10-08 15:40:30," """"",exe
-"""6b2fc6d8e9211d8d8f2477955d83082b447b016209dfe86a0665a9f02a0b2e73"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 15:40:29," """"","Mirai"""
-"""02d1745fc1932ca560190c8f9850320f6374255df0e7f91bdcd8cea323567ca4"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 15:40:28," """"",Mirai
-"""05a3f778a2bbcfac9aa28162a12fae795c62a5dd7d1d3ac92334a9c57972123d"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 15:40:27," """"","Mirai"""
-"""ad4e18765c30d633729411f72d3343a6e4cb1243eca3658025119eb2885820f0"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 15:40:26," """"","Mirai"""
-"""132d3b2136891326548fa6fbc23de90e60f37beeb682ea3f1ff8469fa1b9a3e6"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 15:40:25," """"","Mirai"""
-"""ecb0955833040a1d787f17c72c7b2391a64f99e832a8dcd65621a8b8e5764107"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 15:40:24," """"","Mirai"""
-"""e17c2f9aadae9df7a444dbcc59fae992a1a05ddb57207c9fd23c8467fc8b23b5"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 15:40:23," """"","Mirai"""
-"""817e757bce7aaec9731b9bf9b339e8f97f085b07af84f18f4982bc52237613fb"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 15:40:22," """"","Mirai"""
-"""3585e01d3f3f3e3a14c6becb24e5955a49fc0c1c58d92e0122b3b47b01b448b4"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 15:40:21," """"","Mirai"""
-"""f5c36f24eb79b1ef07f9430273576771b3407e74ac3bc3c3451c68eb5328b026"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 15:40:20," """"","Mirai"""
-"""d53da5861d9134470b8a9b49d901a94719eab3829cc7986fe4b14cfa8010d3c3"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 15:40:20," """"","Mirai"""
-"""ed7b88c675d36c584ea75b8a1493b8c4ba345866b008a013f6ad437776b0a82d"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 15:40:19," """"","Mirai"""
-"""0dd365f1847c979f94f19f4f8d56beaebd8e95e13e88e712672c4dd29c0785b2"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 15:40:17," """"","Mirai"""
-"""5915c0ee6853d5a8785b31cb27ee11ffcfac5361c74e03236a47b1f4ed0c90f2"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 15:40:16," """"",Mirai
-"""4e116b164dbf33287b6d2e2a79ecbca47d7103f131d2356c8caad498c792d225"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 15:40:15," """"",Mirai
-"""5ea9bbf8c3495b23177491a9f090147df72830d933c88b219db96784624af084"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 15:40:15," """"",Mirai
-"""d416e786af64b877744b04d16f6134503993c9f1bb43427c4790fae615833e0c"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 15:40:14," """"",Mirai
-"""cd730e1c84e210bf7a83612c83196728548b50acd4ae9c3f0b95f9d9278e8e5e"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 15:40:12," """"","Mirai"""
-"""8dd5060e2eac7624d50d1305d9e7a1b802eb7aaf4d457b49b5665f343ae52c8f"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 15:40:11," """"",Mirai
-"""5d6968bfd3d38c08e9132a2a80b1e63dba2337d6823c24316e8a555720cbdf64"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 15:40:10," """"",Mirai
-"""7ec4e71a172d211208be0bc17434f0812a49d74674f406a1666c46a984757a93"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 15:40:09," """"",Gafgyt
-"""bc2c00af55c952dd304f074322ff8766bc00b851fb75c076d7da503f33edfb62"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 15:40:08," """"","Mirai"""
-"""d542b8cd29eb734177669aa9251690b47c0537c7ebbd8167311615e2836b584e"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 15:40:07," """"","Mirai"""
-"""f2df79291d08c29e4dd851ac2d73d4440da32802585fed60418973cd1a7b0044"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 15:40:06," """"","Mirai"""
-"""871313d5587ad78426255e619f598f90044cf15909b6b4fcdb1cdc6962f57e6b"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 15:40:05," """"","Mirai"""
-"""f55e5c839aa59fa24da5417d6771690af1fc6402259b44de0b678c4c468cda07"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 15:40:03," """"","Mirai"""
-"""fed1d182cd722f3d67695d1c1787910f1699dce6db409da5bb9f3aa1453d43d2"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 15:40:01," """"","Mirai"""
-"""16477487dcabd96bfe805d0e98378516cba21e75158908cb9d61c8d7a2037a9f"""," ""win.santa_stealer"""," ""None"""," ""90""",2026-10-08 15:40:00," """"",SantaStealer
-"""efc37e171e6a133d0fb0e9197da76227f1794fda5a93ebab0d718f8111768176"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 15:39:59," """"","Mirai"""
-"""13f9da33d606061a15da9186c870e61a9f756bef74eff11b6b70a7cf33decd9a"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 15:39:58," """"",elf
-"""f80220d22e396186175a3e8f61e8175a3cb25b4a18d7e31937cf4925ca7e3b82"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 15:39:57," """"","Mirai"""
-"""775d25d0bc3125ae6df9a2e84cd448e2108ae7edf6d66916e39f97e9b5cb86e2"""," ""win.lumma"""," ""LummaC2 Stealer"""," ""90""",2026-10-08 15:39:55," """"",LummaStealer
-"""479b3c923be6125530e99f24e611547aa5d8861d1e88b75a03ce5527a2052213"""," ""win.lumma"""," ""LummaC2 Stealer"""," ""90""",2026-10-08 15:39:54," """"",LummaStealer
-"""ea28b85e97fdfe77335e8625586212f0df64ceee15c8290d17b75e6096694d81"""," ""win.santa_stealer"""," ""None"""," ""90""",2026-10-08 14:40:44," """"",SantaStealer
-"""5a19e108f5cd1d94165ea133c1cfdef4676847117c42ae20593a25b22ffa2886"""," ""win.rhadamanthys"""," ""None"""," ""90""",2026-10-08 14:40:43," """"","Rhadamanthys"""
-"""9df11356c5ac61d2aa7b5425e6322fc016b0ed5790dacb201396500b3eee03f7"""," ""win.santa_stealer"""," ""None"""," ""90""",2026-10-08 14:40:35," """"",SantaStealer
-"""c2a818ea8a264fd9d077ddf02a3a81c8c2f044313df985528744e376898fc634"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 14:40:34," """"","Mirai"""
-"""cdc890877ccbe9d0388524061a79a7789e4629f48d5863480e8ee544db6cd055"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 14:40:33," """"","Mirai"""
-"""eaf5c116efff46d774786e528fa62edb32274396116b8361ff47c4c9d6c43849"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 14:40:32," """"","Mirai"""
-"""646d2c2b982fa7f0a03758e2ed510e62fe83f7615439a0a87c21871f97be21d3"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 14:40:31," """"","Mirai"""
-"""57f18c9421269aa939e0c5d486ef6ee893e63b8328bdaf2bf858c8afbd795a1e"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 14:40:29," """"","Mirai"""
-"""21492d4240365a15d22cc2a3ac6514e0b79e99f98187424f280d191b3de3d150"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 14:40:28," """"",Mirai
-"""73ec11b932a4ee1a575b6fd4268151532bb89c1d1f0b9a5893fd0c96e4db06c8"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 14:40:28," """"","Mirai"""
-"""66ea28fece6226bd17f4cc9ce6bfa4c345298512aaf98ae9a95ea050bebe147b"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 14:40:26," """"","Mirai"""
-"""97e2bb45c0088244e666ca43e8e1a1f91dd57872454a27a9c88f1268c34bc081"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 14:40:25," """"","Mirai"""
-"""516050f53a1520728d7a352768b1b237c45f1c22a4d8db75576b33f261a0c17f"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 14:40:24," """"","Mirai"""
-"""766f2ef70a4ff73aaffa9c694b41584c6a8e150395025df04fba904e867716ae"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 14:40:23," """"","Mirai"""
-"""86069e1e087841a4715c57f829c4a1d73433e52d1b1513ed59b8823eeb7b4b70"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 14:40:22," """"","Mirai"""
-"""db7c621508dc94d87dd16652572d353bb66065be6da254a428dbbf28d77e21df"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 14:40:21," """"","Mirai"""
-"""95aff8f144f665a442574864787b4f7f81988631946e9a8405abc7cc1116cac5"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 14:40:20," """"","Mirai"""
-"""47ae5b0371a638ce7dddcbec7869fc6fa2e67e546bb1e814f19e87a518233461"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 14:40:19," """"","Mirai"""
-"""4d980590fdc794458e66ecde82b683e0b2b057811de970befa53c8ccb5c44b05"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 14:40:18," """"","Mirai"""
-"""6b2171ad66224954ed1845a46ea6aa8f047304957f3e8e514bdeee6abf5139e8"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 14:40:17," """"","Mirai"""
-"""45ac99a83d99879ba0cba10fce2f81f772f67e44ef3df726b4c074c2d7a5f230"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 14:40:16," """"","Mirai"""
-"""8f4c0563e9fd8901e1c6282740685c4521b877bb0e2bdfd792510672e2b007c9"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 14:40:15," """"","Mirai"""
-"""07474aa7445ca8caa4540636ba6a51544432f4735e391a48d22eae7be70abcc1"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 14:40:14," """"","Mirai"""
-"""e09fe1bcfefb15f916979a7bb04a1a570ed999e2e751f7d80266502727e2b6b2"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 14:40:13," """"","Mirai"""
-"""75f9e3dcd0c7944466e5447d8540b90e256e7e92f3302b43b90db56db8d99cdf"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 14:40:12," """"","Mirai"""
-"""ad7f7ce2a0949295e786ea45b327f38e4adae7ad67df3d350c491f5c04dd3edf"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 14:40:10," """"","Mirai"""
-"""a3ac0cd17220d71f76e6ae21bc6a82a6664ced814949724c7cfbfa8df2bc244f"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 14:40:09," """"",Mirai
-"""c273b95980cca11991eaa8c914cdefc78f7ab73da6e18be7437d3eec4095a0ac"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 14:40:08," """"",Mirai
-"""1bb4fbf5df215757d7a6b1f9601515ec4e12a41c4d695e17898793db2e5b38a8"""," ""elf.mirai"""," ""Katana"""," ""100""",2026-10-08 14:40:07," """"","Mirai"""
-"""6ace19d81500192e18a25f9b42068e116c20f541ae51f49a1ac2638605081963"""," ""elf.mirai"""," ""Katana"""," ""100""",2026-10-08 14:40:06," """"","Mirai"""
-"""b22e4c920695bb35526ff1173f8a8344190576228af1791d941c54ca60fc01e3"""," ""elf.mirai"""," ""Katana"""," ""100""",2026-10-08 14:40:04," """"","Mirai"""
-"""7bd6aa495ec7595c0576d069e8274e2372f218b6e79ee71c9100cf5c541b24ed"""," ""elf.mirai"""," ""Katana"""," ""100""",2026-10-08 14:40:03," """"","Mirai"""
-"""a45e7396cd5e64cf9ea7567f0e8d56d4a41c4b1b168981f8f0fb33e7e2a3dce5"""," ""elf.mirai"""," ""Katana"""," ""100""",2026-10-08 14:40:02," """"","Mirai"""
-"""9da21861c2bb7ca53348bb73c884a73456288acf3b5922963acf42efc7eec0ac"""," ""py.stealler"""," ""None"""," ""95""",2026-10-08 14:33:51," """""," ""0"""
-"""867d4e1cd93f0019025c6a89682531c60e1c97f50d375a26c3634ce1ef4d6c68"""," ""win.netwire"""," ""NetWeird"," ""NetWire RC""",2026-10-08 14:33:45,"Recam"""," ""None"""
-"""a4dddc20c1ea300873ee7c27cde9aa53471f18045a806dc0c440faaa54fecc8f"""," ""win.netwire"""," ""NetWeird"," ""NetWire RC""",2026-10-08 14:33:44,"Recam"""," ""None"""
-"""1d0f2d9db8cc9498ffed71d038690bfe52b39b3a1771bbfae0088db2d603cca0"""," ""win.krakenkeylogger"""," ""None"""," ""95""",2026-10-08 14:33:43," """""," ""0"""
-"""b8cdf3c122230bbcdaae014345d386ba7a4a0419a6e3099639c72e433695dac0"""," ""win.prometei"""," ""None"""," ""95""",2026-10-08 14:33:43," """""," ""0"""
-"""9cf10ab52abc22637b539ecd412f5f1011826b4d714128d232d95769521e2278"""," ""win.vidar"""," ""None"""," ""95""",2026-10-08 14:33:42," """""," ""0"""
-"""3c8d24fb1fbc1dba8316939f1477e5b1c5bdb933b7abb47809def218c72ea0b8"""," ""win.vidar"""," ""None"""," ""95""",2026-10-08 14:33:41," """""," ""0"""
-"""ec6ca0644090c3dcb211897e5747f57dc7d947209f52a63fc09f8d44f0c558be"""," ""py.stealler"""," ""None"""," ""95""",2026-10-08 14:33:40," """""," ""0"""
-"""b209260c366e07c2f33e03a37afba393b06f29e236b7735bf74cc36fe87dc086"""," ""osx.xloader"""," ""Formbook"""," ""95""",2026-10-08 14:33:39," """""," ""0"""
-"""96c47aec9e0b6b27609818ca4380f44d7b05ac1955952e1f18a9db4f88f8a40b"""," ""win.valley_rat"""," ""Winos"""," ""95""",2026-10-08 14:33:39," """""," ""0"""
-"""c85aa1fdc991830badc9cade5a7737d056a5e6198c7ee5b566650893d21cc3b3"""," ""win.vidar"""," ""None"""," ""95""",2026-10-08 14:33:38," """""," ""0"""
-"""2c9cee1590813b8223d232761c8689ef0623a7d5ae442b3f0c89c76abc10755a"""," ""win.vshell"""," ""None"""," ""95""",2026-10-08 14:33:36," """""," ""0"""
-"""58a017f40583556918cf57b15adbc15d51382e00de4e04e5d14ed7a7811c5f05"""," ""win.vidar"""," ""None"""," ""95""",2026-10-08 14:33:35," """""," ""0"""
-"""7f20d4142b4b4d7b1664fe1c30def83ee5bac0eadbb24abf2b83136dabcee321"""," ""win.vidar"""," ""None"""," ""95""",2026-10-08 14:33:35," """""," ""0"""
 """64506ae267aed8afa5cfbb41ca8f5677600747f02fe27b8d8d926d12e3ad99f2"""," ""win.formbook"""," ""win.xloader"""," ""95""",2026-10-08 14:33:33," ""2026-10-09 15:46:19"""," ""0"""
 """0f37ed17ba77ce94b880e16f1e38464ebaf5cd907666cf75075df16d9a166092"""," ""win.vidar"""," ""None"""," ""95""",2026-10-08 14:33:31," ""2026-10-09 15:46:17"""," ""0"""
 """69dafc3b40a5b0e5eddc7cba6ec32ca7316b7e5405d8c6d5adfbccc4c06620c0"""," ""py.rn_stealer"""," ""None"""," ""95""",2026-10-08 14:33:30," ""2026-10-09 15:46:17"""," ""0"""
@@ -505,114 +504,5 @@ sha256,malware,malware_family,confidence,first_seen,last_seen,reporter
 """bc79eb0bdea5e7e087aaa68a20f43cec3456654be2cd60be14ffc17f8d060094"""," ""win.phorpiex"""," ""Tldr","phorphiex""",2026-10-08 14:33:11,TwizT," ""False"""
 """abd9d912407f5336088a5b5394178df2994377f6738651bf37bc0d6976d0c861"""," ""win.njrat"""," ""Bladabindi"," ""2026-10-09 15:45:58""",2026-10-08 14:33:10," ""NjRAT"""," ""None"""
 """9bf6e7fd924aa4aff92bb5db0705d5300e7a6e199c73be2fc9bdecb9819194fe"""," ""py.venus_stealer"""," ""None"""," ""95""",2026-10-08 14:33:09," ""2026-10-09 15:45:57"""," ""0"""
-"""f74018a20a70c5d77438caf9b3d108966de989a97b3d5c639be8b31856ef8022"""," ""osx.amos"""," ""Atomic macOS Stealer"""," ""100""",2026-10-08 14:31:22," """"",ClickFix
-"""0322622e705bc4fdb73f9b40bdc62168fe6cf7b5cc0b16de34b35aafe4e5b08b"""," ""osx.amos"""," ""Atomic macOS Stealer"""," ""100""",2026-10-08 14:06:17," """"",ClickFix
-"""25a0735d0db7dc40e5d45ce42d9c106067e6a66e184d967cfecfab17c3bcb5ef"""," ""js.shai_hulud"""," ""None"""," ""50""",2026-10-08 14:06:17," """""," ""0"""
-"""b50a00900399ba99fb6ce1fc151519cb99d44320ef2a631f2237e1aea0ad6fec"""," ""js.shai_hulud"""," ""None"""," ""50""",2026-10-08 14:06:16," """""," ""0"""
-"""e3865985003a862136de0ea6d16b2075e160a506e53873ff5802103cf8966a42"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 13:40:45," """"","Mirai"""
-"""4aad89ab256e2086da934ad5166820a34dc365dfcfddbe4051789917461f2d06"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 13:40:44," """"","Mirai"""
-"""4e1ee490ff65485049bdd7c59839a7056675cde9e4dd0611a568bb52b75ffe15"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 13:40:43," """"","Mirai"""
-"""fd181863f6aa699a9d9a74c70973ff7c00ce2867f97cea773f4aa0b2993a039a"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 13:40:42," """"","Mirai"""
-"""6a8e8db5ff12058cb13c5fd6d16ca1063aa42db668583c3243b2ad45823e13e8"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 13:40:41," """"",Gafgyt
-"""ac2f5faf62a144cee973138b94d2100fdc3766e3daf4f343c98f2fb7d9070f4c"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 13:40:40," """"","Mirai"""
-"""a9c918182f2dc03eb211f86e2309d6c31452e9628fb758583705be8c9305eb4e"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 13:40:39," """"","Mirai"""
-"""9c96b625c15c841588e1e8222b1b53e49108c80bf2af858d120fa0213324b6db"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 13:40:38," """"",Gafgyt
-"""9601d4985122c2d0f966a6df232a0474368aa3daf587c64b8249a660f900f23d"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 13:40:37," """"","Mirai"""
-"""5ede1d8505787057d2f6f156718c6cd052a161b6ddad2da43a480e35a8d66d41"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 13:40:36," """"",Gafgyt
-"""2f5bb3f58d8da555b92f9bcef5546a530e5fabb1861e7199d64be747fe7dc227"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 13:40:35," """"",Gafgyt
-"""1bb03eff70e424ecd1ea9975e54682d32c891b2f2f9dda9c291d8dffc3480bf7"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 13:40:34," """"","Mirai"""
-"""7fedc8f52115affcc1857b23cd549a5c43010cd3fb222090b02bd6ca36b76760"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 13:40:33," """"",Gafgyt
-"""829966e77d23abd834e23fa34f336ee41b35a298ae317b3031ff2cb64279d3b0"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 13:40:32," """"","Mirai"""
-"""ac23b0381c0287bf16f0806c2bc3b0c804f02ea013bd7cf3d4922d3b87f5a988"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 13:40:31," """"","Mirai"""
-"""0d955d7236cff85f358465dfc81ea0ef5a76037bd639022a776d286a9e548140"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 13:40:30," """"",Mirai
-"""44182a22c99b651a77310586412792393a6e439bf6d6b50b2885c8f3c038d53f"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 13:40:29," """"",Mirai
-"""3e3cedaa0edd27da41eab7bad22d40b1f046275da25bab8ed6ddef1408c900a8"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 13:40:28," """"",Gafgyt
-"""8048ef63785893266055a16310b923c8731b4d6e9c51d2baba471a8c3f53de55"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 13:40:27," """"",Gafgyt
 """63d5297ab9ccc40d45877940e18d5403e26914f1d71b59fb973f667d9095df54"""," ""win.vidar"""," ""None"""," ""90""",2026-10-08 13:40:26," ""2026-10-09 15:46:18""",dropped-by-Amadey
-"""cfe8205eaccab5cb53c393b0b2fec04952344c78739e869d11bd433b7bb53c57"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 13:40:25," """"","Mirai"""
-"""189316f75c03ac1f4abf2b5c2a512304ff0235629bdc9425a3ce600a5080dcc2"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 13:40:24," """"","Mirai"""
-"""77bb5bfd97916cabf27aa1cf94b2b98d6186d5fa74a504043affd4ba68008ea6"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 13:40:23," """"","Mirai"""
-"""a1f66f3cbdecc247ba5c7fefae2642e872535ad9e7f36de71cef8210c8eef56b"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 13:40:22," """"","Mirai"""
-"""4070339941818eaec7a12be25f6b144c7eaba05c194e107f111154adad7fd8bb"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 13:40:21," """"","Mirai"""
-"""e21f243d2293493c4c13f2a26eb3de66df4842c31c2b975cb2d9e746c2ea3aac"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 13:40:20," """"","Mirai"""
-"""6d8129506fb27b37b52d25c82afac2cc76005a8cc383f433c032cd87b07a634a"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 13:40:18," """"","Mirai"""
-"""d4aefdc58b964cd3af9b81a542c4be8f392932e3e727eed10fbb0e7964a94001"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 13:40:17," """"","Mirai"""
-"""bb3a3969f6bf0461f018a94698afbe34a78d1363b830ad639a514eb4811ca18f"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 13:40:16," """"","Mirai"""
-"""db8d4b582a1f7056d9ebf3405ee713873228b087ed8f106ec80f63c17fc08195"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 13:40:15," """"","Mirai"""
-"""d8fbaeafc557642e5e4263ca30dbe661750e41ca3b45adf59e770830a4d41c04"""," ""elf.mirai"""," ""Katana"""," ""90""",2026-10-08 13:40:15," """"","Mirai"""
-"""099b7a77393c03cc3c43e52ca4d0986c8130004942039d17dd8383ed3d44453f"""," ""elf.mirai"""," ""Katana"""," ""100""",2026-10-08 13:40:13," """"",Mirai
-"""9a64950f2bb05730b62ce2be6324e9be31efee78b581bdcb609249a9077b75cd"""," ""elf.mirai"""," ""Katana"""," ""100""",2026-10-08 13:40:12," """"",elf
-"""a034ecf08ffbe1edf05c172d81b0b3d995530736e79a38a12f9eb543cc7cc296"""," ""elf.mirai"""," ""Katana"""," ""100""",2026-10-08 13:40:11," """"","Mirai"""
-"""ced646eeb7559d7e703025a689222719f43756c8b55d4c1f007a2b2f097fefb4"""," ""elf.mirai"""," ""Katana"""," ""100""",2026-10-08 13:40:10," """"","Mirai"""
-"""b54bc89673ab79915e3170e804009bb5a725e34510ce62f836614a339ee04f12"""," ""elf.mirai"""," ""Katana"""," ""100""",2026-10-08 13:40:09," """"","Mirai"""
-"""80c21e15e56b4a956a48ab5826a9e389a8aeadc8e42fc7713739a4603e14bdf4"""," ""elf.mirai"""," ""Katana"""," ""100""",2026-10-08 13:40:08," """"",elf
-"""e97d800f769284cea76fef951df360a5be60f820a8a5af4a77447b441ee8620e"""," ""elf.mirai"""," ""Katana"""," ""100""",2026-10-08 13:40:06," """"","Mirai"""
-"""8b350483d5b80efb837549355015c9279fda8278525b248dab7af1229e202454"""," ""elf.mirai"""," ""Katana"""," ""100""",2026-10-08 13:40:05," """"","Mirai"""
-"""7e47c19f82d8a932da2ec9bd42d7b815a05bf4be9ae0e512544fdbfce5f930b8"""," ""elf.mirai"""," ""Katana"""," ""100""",2026-10-08 13:40:04," """"","Mirai"""
-"""cf4c6ac09be225112faaef95316a137eff30e91c0f5f8e7aaf0a4bcc6c76f477"""," ""elf.kinsing"""," ""h2miner"""," ""100""",2026-10-08 13:40:02," """"","Kinsing"""
-"""4760e85cd7d66a6261cad0abb32d1cf5b8c574f02459e873d75018ccc9fdf24a"""," ""elf.mirai"""," ""Katana"""," ""100""",2026-10-08 13:40:01," """"","Mirai"""
-"""f73b74f41b4c98d6a7acfdaecfdf82253c8437270fb74c8588e8c49983b667b7"""," ""osx.amos"""," ""Atomic macOS Stealer"""," ""100""",2026-10-08 11:41:04," """"",ClickFix
-"""b5d0ed395d85559af488341a32f7337996abd0e9f6cf557ba2531f5f717172e1"""," ""unknown"""," ""None"""," ""100""",2026-10-08 11:28:19," """"",ddos
-"""a7de1484a6be2e1c918268eb2f794f383b357ef3d663aa46b0bf47ccf8cf3371"""," ""unknown"""," ""None"""," ""100""",2026-10-08 11:28:19," """"",ddos
-"""8e707060ba2def8a9b6865ed9429789dbd84ba4b6058f0dd5aefe462989fe4b8"""," ""unknown"""," ""None"""," ""100""",2026-10-08 11:28:19," """"",ddos
-"""f19b0fd9c9f768b0859754a8ff5edfbb6f73793f0006309d4be6feb55bd6a2fd"""," ""unknown"""," ""None"""," ""100""",2026-10-08 11:28:19," """"",ddos
-"""250f842af70d1d8ff251f94e3dc44c5ddb4397f673f6bd1df2430921926a0e59"""," ""osx.amos"""," ""Atomic macOS Stealer"""," ""100""",2026-10-08 08:28:12," """"",ClickFix
-"""0fad00ddec16b67f3131aa4efffbe32d78fca178407895920b7549667d7bbfbf"""," ""unknown"""," ""None"""," ""75""",2026-10-08 08:21:18," """"",script
-"""fb0bf040d7a643ebb9a032f71d12db43b5c82141dc4f4fdd084445398f54b3d7"""," ""osx.amos"""," ""Atomic macOS Stealer"""," ""100""",2026-10-08 07:04:35," """"",ClickFix
-"""272c5ecaa163fd157cdaec53804da3021a5d27a01df499be0ba976e54d27d32b"""," ""osx.amos"""," ""Atomic macOS Stealer"""," ""100""",2026-10-08 06:26:05," """"",ClickFix
-"""c0a8657812d38d49f796266003043b604826dbfb358b9167e520fb0949762be1"""," ""osx.amos"""," ""Atomic macOS Stealer"""," ""100""",2026-10-08 05:34:35," """"",ClickFix
-"""f05eea5f3134477c4b892677aea0600255b3351e9b69211f023f3d366b0b12f6"""," ""osx.amos"""," ""Atomic macOS Stealer"""," ""100""",2026-10-08 05:34:13," """"",ClickFix
-"""1b564478966dea1b542c33b6076f7b1c14eed16c558e8b25e3d9f3b84286a4ec"""," ""osx.amos"""," ""Atomic macOS Stealer"""," ""100""",2026-10-08 05:34:08," """"",ClickFix
-"""b789adce70c028a6d17be45ec34667aa95586350ee0c4057e75b138b1ad35061"""," ""unknown"""," ""None"""," ""100""",2026-10-08 05:34:02," """"",RAT
-"""c3cc91ff61e4da3977a5de3336ddfe4ba737f951a354c5a987c9ef2491915bb0"""," ""osx.amos"""," ""Atomic macOS Stealer"""," ""100""",2026-10-08 05:34:01," """"",ClickFix
-"""199694033b66e4b868e19e1b17c10e7e402ffb58bf3c989e91ff45e6d65c7956"""," ""osx.amos"""," ""Atomic macOS Stealer"""," ""100""",2026-10-08 05:33:55," """"",ClickFix
-"""c984e75c6510b5b3b89824a4817b7094c1a51990e5b6fc7e2d20d4ca3cdcc39d"""," ""osx.amos"""," ""Atomic macOS Stealer"""," ""100""",2026-10-08 05:33:54," """"",ClickFix
-"""eb692b8b90ec35472cadafa1444f311b1d2e24fce84d40a1c5b43c7ea1b75812"""," ""osx.amos"""," ""Atomic macOS Stealer"""," ""100""",2026-10-08 05:33:53," """"",ClickFix
-"""3b29e7696318a7d1b1a9cbea7a65575ef9c3e833849c95eab7ad4f071a840bf3"""," ""osx.amos"""," ""Atomic macOS Stealer"""," ""100""",2026-10-08 05:33:49," """"",ClickFix
-"""b18d170c8044d8db1c1453f62c093eb0a25fb611803bea6dcaab445f1f361257"""," ""ps1.phonyc2"""," ""None"""," ""95""",2026-10-07 16:33:52," ""2026-10-08 14:34:20"""," ""0"""
-"""0178f142fb4d44b716b5fdcbd83e324de8d2554014ef6d7c72378ee239bf363e"""," ""win.krakenkeylogger"""," ""None"""," ""95""",2026-10-07 16:33:51," ""2026-10-08 14:34:20"""," ""0"""
-"""01469b8a4aa195637983cc952ab5dac5e9b7b46091ac709f8819ef82fa4c8b26"""," ""win.wannacryptor"""," ""Wana Decrypt0r","Wcry""",2026-10-07 16:33:50,WannaCrypt," ""False"""
-"""ef767d259cbb694fb895ba874810f37d4bcc5fdf375ae7e70dc72bff4ccecba4"""," ""win.stealc"""," ""None"""," ""95""",2026-10-07 16:33:50," ""2026-10-08 14:34:19"""," ""0"""
-"""e163174c8acd0ddd4be15d1d208cecca3df7e805d5ded812023a427f8c72ce67"""," ""ps1.phonyc2"""," ""None"""," ""95""",2026-10-07 16:33:49," ""2026-10-08 14:34:17"""," ""0"""
-"""bc179912f78307a8798ebc1ce7fb38b1d2b4baf6bfddf15da8ecef4c0923694e"""," ""win.formbook"""," ""win.xloader"""," ""95""",2026-10-07 16:33:48," ""2026-10-08 14:34:16"""," ""0"""
-"""703dfb12edc6da592e3dfb951ca2d84bf349e6a16ad3a2ab32b275349956e7c4"""," ""win.regphantom"""," ""None"""," ""95""",2026-10-07 16:33:47," ""2026-10-08 14:34:16"""," ""0"""
-"""5599ec1f3e1eb52a7e0f3b9dbd0c9849cf494c32ed1e50e76c43d2200daa283a"""," ""win.regphantom"""," ""None"""," ""95""",2026-10-07 16:33:46," ""2026-10-08 14:34:14"""," ""0"""
-"""006e08f1b8cad821f7849c282dc11d317e76ce66a5bcd84053dd5e7752e0606f"""," ""win.regphantom"""," ""None"""," ""95""",2026-10-07 16:33:46," ""2026-10-08 14:34:15"""," ""0"""
-"""5650f8e0904433247a0cdc68c7b73c68291b52523dad1edb93a9bd7439273698"""," ""win.regphantom"""," ""None"""," ""95""",2026-10-07 16:33:45," ""2026-10-08 14:34:13"""," ""0"""
-"""6606a963beb709da2d87d685d998e126f2a52efaad64eab8bbb5ba70c7ca5194"""," ""win.regphantom"""," ""None"""," ""95""",2026-10-07 16:33:44," ""2026-10-08 14:34:12"""," ""0"""
-"""97876c085318d8606e8478976d98dab77a7e905a87a4b0a27e20d794af25cd4c"""," ""win.regphantom"""," ""None"""," ""95""",2026-10-07 16:33:43," ""2026-10-08 14:34:11"""," ""0"""
-"""b2bbdeb48f60e591d78ddc98fffc9504128e9b948fd58a54c2cfa927ff9db105"""," ""win.regphantom"""," ""None"""," ""95""",2026-10-07 16:33:42," ""2026-10-08 14:34:09"""," ""0"""
-"""cb2ed2ece12a675e19f2b537840a2b5d8bcdd1d508ec5c386178e60161d2cfe8"""," ""win.regphantom"""," ""None"""," ""95""",2026-10-07 16:33:42," ""2026-10-08 14:34:10"""," ""0"""
-"""218ab4cb7bf3622b4b8d5fa9196d817b91046e1eca84c26091f3f703ab214707"""," ""win.regphantom"""," ""None"""," ""95""",2026-10-07 16:33:41," ""2026-10-08 14:34:08"""," ""0"""
-"""91860b4d03b32a4ca6e8e92856272d953999934e6316f65677a615cbfb8d31d0"""," ""win.regphantom"""," ""None"""," ""95""",2026-10-07 16:33:40," ""2026-10-08 14:34:07"""," ""0"""
-"""c55f5339abaf48b9392df67d5b6f6e011d878d7ee848724ad5dbe8c4d898ef23"""," ""win.regphantom"""," ""None"""," ""95""",2026-10-07 16:33:39," ""2026-10-08 14:34:06"""," ""0"""
-"""01c3d2a947c56e16718f1f54c0820996dce1d44da25d38b2a9992eb16e6b11e6"""," ""win.regphantom"""," ""None"""," ""95""",2026-10-07 16:33:38," ""2026-10-08 14:34:05"""," ""0"""
-"""7c9312ebe2afc299a0835a32700cdd2c5099c228799414c48058c0fb6095df9b"""," ""win.regphantom"""," ""None"""," ""95""",2026-10-07 16:33:38," ""2026-10-08 14:34:05"""," ""0"""
-"""f6683adcb8a152d31ef1132ee3f4cb818dcf0b5e361f991286f9fb5d2d747afd"""," ""win.regphantom"""," ""None"""," ""95""",2026-10-07 16:33:37," ""2026-10-08 14:34:04"""," ""0"""
-"""7606a3b69488795fe2d71558caab7877ea313425e55a63aebb932d0d92b38aee"""," ""win.regphantom"""," ""None"""," ""95""",2026-10-07 16:33:36," ""2026-10-08 14:34:03"""," ""0"""
-"""0956ec57c3ddcd24c4d61bd6a4dd16b5f1468f701a286e46b761f5be4fc478ac"""," ""win.regphantom"""," ""None"""," ""95""",2026-10-07 16:33:35," ""2026-10-08 14:34:01"""," ""0"""
-"""32addf18477324f478bf93ac22be65550bc71450c9bc4fe49aa3be22219aae65"""," ""win.regphantom"""," ""None"""," ""95""",2026-10-07 16:33:35," ""2026-10-08 14:34:02"""," ""0"""
-"""b10d8bb537ab05e51f08d0b942ee9f92f3226d118fcac794d1a7396bbc0b531f"""," ""win.regphantom"""," ""None"""," ""95""",2026-10-07 16:33:34," ""2026-10-08 14:34:00"""," ""0"""
-"""a0c291e8942c8c7fecccff3fbdb65f65c76312d384a73d3748042a319209c91c"""," ""win.regphantom"""," ""None"""," ""95""",2026-10-07 16:33:33," ""2026-10-08 14:33:59"""," ""0"""
-"""c073f5c684eafc2b0b0c6dedbf6aaa0148f5d1e6f5cd4b1090a88991a22c89bf"""," ""win.luca_stealer"""," ""None"""," ""95""",2026-10-07 16:33:32," ""2026-10-08 14:33:58"""," ""0"""
-"""ff6379a044085e27758b1718515b16869a1bba31bb5e31b989aeaf07178fe87a"""," ""py.venus_stealer"""," ""None"""," ""95""",2026-10-07 16:33:31," ""2026-10-08 14:33:56"""," ""0"""
-"""44c2f46e91c4b65b6f0c8385910af36a4255bba0fdd7bfccf2199e7a9faf19f7"""," ""win.agent_tesla"""," ""AgenTesla"," ""Agent Tesla""",2026-10-07 16:33:31,"Negasteal"""," ""None"""
-"""b9f9c58e080f1b5028e8e331fdc0aa5d5c43646d747031615d4645800fe87a02"""," ""py.venus_stealer"""," ""None"""," ""95""",2026-10-07 16:33:30," ""2026-10-08 14:33:55"""," ""0"""
-"""bed116abf922b28f79323cce3901e206e82cb4a37020c623217ff1541baa00f1"""," ""win.epsilon_stealer"""," ""None"""," ""95""",2026-10-07 16:33:29," ""2026-10-08 14:33:54"""," ""0"""
-"""bbebc335e92928bd411f5178f467890dcb20b5c68cc0fb5eb5497290e70bfafb"""," ""win.expiro"""," ""Xpiro"""," ""95""",2026-10-07 16:33:28," ""2026-10-08 14:33:54"""," ""0"""
-"""82b558b35028e479c2063a0e3f50478714692f48df9093853bf93aa9b4909471"""," ""win.gcleaner"""," ""None"""," ""95""",2026-10-07 16:33:27," ""2026-10-08 14:33:52"""," ""0"""
-"""d538f52e0703db623fcc880f8adf16f96459eaef867e5b91e91740343726e913"""," ""win.formbook"""," ""win.xloader"""," ""95""",2026-10-07 16:33:26," ""2026-10-08 14:33:50"""," ""0"""
-"""1581428fe60e65944ab96f61965c9317552ab64292858d3a64f885226b88528f"""," ""win.asyncrat"""," ""None"""," ""95""",2026-10-07 16:33:25," ""2026-10-08 14:33:49"""," ""0"""
-"""4902684357fbd82d08c155eac5ea598fcda0446f408294fd8a18085d7ad1ac73"""," ""py.venus_stealer"""," ""None"""," ""95""",2026-10-07 16:33:24," ""2026-10-08 14:33:48"""," ""0"""
-"""aeeeb401fce819cc628d6ba3adcf5d414368708b8ec8dbd72a320fd3f312a9ac"""," ""py.akira_stealer"""," ""None"""," ""95""",2026-10-07 16:33:23," ""2026-10-08 14:33:47"""," ""0"""
-"""acb4fdd8eab403dd309015ff8d73334ce7fb1656a627ae837804e59a1b20005a"""," ""win.moriagent"""," ""None"""," ""95""",2026-10-07 16:33:22," ""2026-10-08 14:33:47"""," ""0"""
-"""c4545d48db19349484d97681beaa8832f25663250db0e5ff16ef36e9e8ea8766"""," ""win.moriagent"""," ""None"""," ""95""",2026-10-07 16:33:21," ""2026-10-08 14:33:46"""," ""0"""
-"""2f416aac027f19f563cc45e3b4b72e992aaafb63da27f968b9a76a391134dc7d"""," ""win.vidar"""," ""None"""," ""95""",2025-12-11 15:17:08," ""2026-10-08 14:40:41"""," ""0"""
-"""d029797b4179de8ba30f1d5cb552cbbe8965a50b1e9a96eade82edc61079b356"""," ""unknown"""," ""None"""," ""100""",2025-09-16 23:18:16," ""2026-10-08 14:40:38"""," ""0"""
-"""fb45131709af13a9b64f8adf315277787a5352d4636e28cd940f502436a9f1f2"""," ""win.luca_stealer"""," ""None"""," ""95""",2025-05-20 02:59:33," ""2026-10-08 14:40:37"""," ""0"""
-"""e17bf83e09457d8cecd1f3e903fa4c9770e17e823731650a453bc479591ac511"""," ""win.lumma"""," ""LummaC2 Stealer"""," ""50""",2025-04-03 07:25:13," ""2026-10-08 14:40:36""",lumma
-"""7f8da99a109bbb8863f0defafbea8160fb21457c2cb977881e577323907d1a36"""," ""win.lumma"""," ""LummaC2 Stealer"""," ""50""",2025-04-02 16:34:07," ""2026-10-08 14:40:42""",lumma
-"""65f8e0e219637833386b6cfe27bd2f8446a214f02149628c63dd0329501e17e6"""," ""win.lumma"""," ""LummaC2 Stealer"""," ""50""",2025-04-02 14:49:26," ""2026-10-08 14:40:40""",lumma
 """138671f56898c4504a02588c6f9c4de6a3961ce015bb147d579bd54bc454ded1"""," ""win.lumma"""," ""LummaC2 Stealer"""," ""50""",2025-04-02 14:22:46," ""2026-10-09 15:46:00""",lumma
-"""0f6481dabf7871823f259eb95f3b85c37d1de8a7d1884ac77a97d887cf96f75d"""," ""win.lumma"""," ""LummaC2 Stealer"""," ""50""",2025-04-02 14:22:18," ""2026-10-08 14:40:39""",lumma
-"""f5f14b9073f86da926a8ed319b3289b893442414d1511e45177f6915fb4e5478"""," ""win.luca_stealer"""," ""None"""," ""95""",2024-05-12 18:30:42," ""2026-10-08 14:40:43"""," ""0"""
